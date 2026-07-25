@@ -1,0 +1,17 @@
+{
+  "name": "Texas News Roundup \u2014 DFW Desk",
+  "short_name": "DFW News Desk",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#eef2f7",
+  "theme_color": "#0d2340",
+  "description": "DFW news collection and Facebook posting assistant",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
