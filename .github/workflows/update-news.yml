@@ -1,0 +1,36 @@
+name: Update DFW News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "7,37 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect DFW stories
+        run: python collect_news.py
+
+      - name: Save updated news
+        run: |
+          git config user.name "Texas News Roundup Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add stories.json
+          git diff --cached --quiet || git commit -m "Update DFW news feed"
+          git push
