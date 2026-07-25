@@ -31,6 +31,6 @@ jobs:
         run: |
           git config user.name "Texas News Roundup Bot"
           git config user.email "actions@users.noreply.github.com"
-          git add stories.json
+          git add data/stories.json
           git diff --cached --quiet || git commit -m "Update DFW news feed"
           git push
