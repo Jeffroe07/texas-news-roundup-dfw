@@ -1,7 +1,535 @@
 {
-  "updated_at": "2026-07-28T20:44:54.703692+00:00",
-  "count": 216,
+  "updated_at": "2026-07-29T00:13:53.508664+00:00",
+  "count": 220,
   "stories": [
+    {
+      "id": "3cd5f3b52ccd496202cf",
+      "title": "Boyfriend charged after North Texas mother found dead along I‑35E, police say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNemFYVVZZaWt2Y0FKUXNIMl9ITUpVQ1pydDZUUWtDcjhOWGJaNENWUDdyYlN2ZnlFbWRwU1RBdGhseTdtV3RYSDZvU21WZGs1LWxXRGxOcVlhTXkxLUdBUzBSZk5MZEZXVmhJVHF6T1gwdDNXcFlOS2M2S3RkUnVBbU85RFhBLTBRb19aaEJCSW96ZnRXN3lxOW9jMkZkSVgxMllHeDhNNTJxNk1XNzR3d0JlZUItYTVs?oc=5",
+      "source": "CBS News",
+      "summary": "Boyfriend charged after North Texas mother found dead along I‑35E, police say CBS News",
+      "published_at": "2026-07-29T00:10:47+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nBoyfriend charged after North Texas mother found dead along I‑35E, police say\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNemFYVVZZaWt2Y0FKUXNIMl9ITUpVQ1pydDZUUWtDcjhOWGJaNENWUDdyYlN2ZnlFbWRwU1RBdGhseTdtV3RYSDZvU21WZGs1LWxXRGxOcVlhTXkxLUdBUzBSZk5MZEZXVmhJVHF6T1gwdDNXcFlOS2M2S3RkUnVBbU85RFhBLTBRb19aaEJCSW96ZnRXN3lxOW9jMkZkSVgxMllHeDhNNTJxNk1XNzR3d0JlZUItYTVs?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "23f13bf20df208144490",
+      "title": "North Texas brothers capture the hearts of millions with college World Series moment",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWRkZWhlT0JDRUZIWnN2MlFkczQ4MkdQcERRVVlpZ1BMN0M0RTJ6UUNQdFhpR0hDZmpWaG0zckFXeDVXaG04eFhLaXVHOHR3eGJKRjVTTFNjS0gyQlQ2R0hTRUpfWGh6ZWlxSE1PV0FTVWVpdEdINExJemhxcTFrMkV2aEM2ajZHYkJaNElVZ0pBUEdtZ2d3Ukh5THc0MEZMY1J5M1NyQWlLSUNVUWJrS2p3TnQyaHA3UG5CRTNn?oc=5",
+      "source": "CBS News",
+      "summary": "North Texas brothers capture the hearts of millions with college World Series moment CBS News",
+      "published_at": "2026-07-28T23:44:00+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nNorth Texas brothers capture the hearts of millions with college World Series moment\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMivgFBVV95cUxOeWRkZWhlT0JDRUZIWnN2MlFkczQ4MkdQcERRVVlpZ1BMN0M0RTJ6UUNQdFhpR0hDZmpWaG0zckFXeDVXaG04eFhLaXVHOHR3eGJKRjVTTFNjS0gyQlQ2R0hTRUpfWGh6ZWlxSE1PV0FTVWVpdEdINExJemhxcTFrMkV2aEM2ajZHYkJaNElVZ0pBUEdtZ2d3Ukh5THc0MEZMY1J5M1NyQWlLSUNVUWJrS2p3TnQyaHA3UG5CRTNn?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ecef6f015e1ab3cce412",
+      "title": "American Airlines resumes flights after IT outage grounds planes nationwide",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzBQNVUxVDdwNkNwVXRuQUVLVk9KaGo2N1gySHpfY1NrcHFkWTlfdmlja3BZSmRPUXA0Umo0Zl9LUlR2ZjhfVGN4U2p2TnlfdF9vQ0xwZTlJa0dsWW5UaWtjZ0d3b2pNVldHNEdhZEdfdHlFbG9jQlI5RHVmYS1FMUdKTi1pYm56MG5OcDRLNTF1dDJNWWtKOE5ORWZXNDFTTFNCRVNYOHBVTmxpSTFV?oc=5",
+      "source": "Dallas News",
+      "summary": "American Airlines resumes flights after IT outage grounds planes nationwide Dallas News",
+      "published_at": "2026-07-28T23:39:26+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nAmerican Airlines resumes flights after IT outage grounds planes nationwide\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMirwFBVV95cUxNYzBQNVUxVDdwNkNwVXRuQUVLVk9KaGo2N1gySHpfY1NrcHFkWTlfdmlja3BZSmRPUXA0Umo0Zl9LUlR2ZjhfVGN4U2p2TnlfdF9vQ0xwZTlJa0dsWW5UaWtjZ0d3b2pNVldHNEdhZEdfdHlFbG9jQlI5RHVmYS1FMUdKTi1pYm56MG5OcDRLNTF1dDJNWWtKOE5ORWZXNDFTTFNCRVNYOHBVTmxpSTFV?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "24461fbb0dd3372af105",
+      "title": "2026 Dallas Cowboys training camp: Latest intel, updates",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWdOOHhoOFlFUDRmVWJ6R2g3ZzM2UE1qclRPVjRNNjZmSWs3RnJUTGpfTHBtV1lnNU1kWFRzbnBoZUxsanBfeHFvR0tnMC1VOEoxMjB2YTFDU3daYVZIRVNOT2w3ejYxN3ZsSkN6RHY4VkVCMUdiRDlyWWNja1BnZlpXZEhfUGt3R1FuZzkwTFNEMjg4LUxB?oc=5",
+      "source": "ESPN",
+      "summary": "2026 Dallas Cowboys training camp: Latest intel, updates ESPN",
+      "published_at": "2026-07-28T23:37:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n2026 Dallas Cowboys training camp: Latest intel, updates\n\nSource: ESPN\nRead more: https://news.google.com/rss/articles/CBMilwFBVV95cUxQZWdOOHhoOFlFUDRmVWJ6R2g3ZzM2UE1qclRPVjRNNjZmSWs3RnJUTGpfTHBtV1lnNU1kWFRzbnBoZUxsanBfeHFvR0tnMC1VOEoxMjB2YTFDU3daYVZIRVNOT2w3ejYxN3ZsSkN6RHY4VkVCMUdiRDlyWWNja1BnZlpXZEhfUGt3R1FuZzkwTFNEMjg4LUxB?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "39654c423bcb19d80201",
+      "title": "The thermometer in Fort Worth hit 106 last week, the highest temperature since 2024",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFhEMVVsMkJ1bExuN3daek40Y1VMNUZEUXJDU2xZa3NvQldXdzNYdXJVVWh1dGppM1g1NnBva1dGSWdJYTNJajBtVjlobmFzbE5LbXRjWVpLSzlkQkJKSXpLcGJkV0FJUGhGRE1EbXo3QW5HQVFUTlNtZEkxRjQxU0NCR3pkQjg0VUlDcm1JamRMU0FQTFBkU01yLXJrQVAxdGo1QVdyWmNmbTBHRUloTFVuWDhlWl9VNlRGX2lqYw?oc=5",
+      "source": "Fort Worth Report",
+      "summary": "The thermometer in Fort Worth hit 106 last week, the highest temperature since 2024 Fort Worth Report",
+      "published_at": "2026-07-28T23:23:39+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nThe thermometer in Fort Worth hit 106 last week, the highest temperature since 2024\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFhEMVVsMkJ1bExuN3daek40Y1VMNUZEUXJDU2xZa3NvQldXdzNYdXJVVWh1dGppM1g1NnBva1dGSWdJYTNJajBtVjlobmFzbE5LbXRjWVpLSzlkQkJKSXpLcGJkV0FJUGhGRE1EbXo3QW5HQVFUTlNtZEkxRjQxU0NCR3pkQjg0VUlDcm1JamRMU0FQTFBkU01yLXJrQVAxdGo1QVdyWmNmbTBHRUloTFVuWDhlWl9VNlRGX2lqYw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "115d29d40516f6192f00",
+      "title": "Colorado firm adds to hundreds of acres of data centers planned in Kaufman County",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUG4zeGt4R1pMa1BKVldoa0dCUjZGMThWRmxSb2RzcjJOWjFLZ2UxNkZLQmlGSEhURVpuQTd0SjVnR3h5ZE5hdGlfdXVZUU5qTXpFZG5pTUpxWUhNVjVGdnVlLTlYbmlHWExnX0x6dWtjek5lMThRUEw4S3lhYUlEWHlSVUIwX0lCcVBIRmdCQk5SNnZJeXVHV3Z3U0c?oc=5",
+      "source": "Dallas News",
+      "summary": "Colorado firm adds to hundreds of acres of data centers planned in Kaufman County Dallas News",
+      "published_at": "2026-07-28T23:23:18+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nColorado firm adds to hundreds of acres of data centers planned in Kaufman County\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMinAFBVV95cUxQUG4zeGt4R1pMa1BKVldoa0dCUjZGMThWRmxSb2RzcjJOWjFLZ2UxNkZLQmlGSEhURVpuQTd0SjVnR3h5ZE5hdGlfdXVZUU5qTXpFZG5pTUpxWUhNVjVGdnVlLTlYbmlHWExnX0x6dWtjek5lMThRUEw4S3lhYUlEWHlSVUIwX0lCcVBIRmdCQk5SNnZJeXVHV3Z3U0c?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "eff11b61f24389004105",
+      "title": "Jerry Jones admits to feeling pressure entering Dallas Cowboys 2026 season",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHgxcWxFbGN5VzNEYi1CbzNRLXUtYW9TMFZNWFFhUi1na2Z1TGpGQ2FoanVqOXUzekVxZktaeW9OeE9NTGJZV0ExQ2djUHF6MmkxV1U0MThqY0R5Y0E5cHNkMnlBQTFQZjdRclVOLXdkZUZjWEZfOGxkeDdxSi1LQ0xhdmw3LUQxVlpEVmYwcFhRaF9IekZFQzdsSDBvUkpaQWcxUElNTQ?oc=5",
+      "source": "On3",
+      "summary": "Jerry Jones admits to feeling pressure entering Dallas Cowboys 2026 season On3",
+      "published_at": "2026-07-28T23:06:11+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nJerry Jones admits to feeling pressure entering Dallas Cowboys 2026 season\n\nSource: On3\nRead more: https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHgxcWxFbGN5VzNEYi1CbzNRLXUtYW9TMFZNWFFhUi1na2Z1TGpGQ2FoanVqOXUzekVxZktaeW9OeE9NTGJZV0ExQ2djUHF6MmkxV1U0MThqY0R5Y0E5cHNkMnlBQTFQZjdRclVOLXdkZUZjWEZfOGxkeDdxSi1LQ0xhdmw3LUQxVlpEVmYwcFhRaF9IekZFQzdsSDBvUkpaQWcxUElNTQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "2f9ee2035bc027f371aa",
+      "title": "Fort Worth-based American Airlines issues global ground stop for all planes not in air",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHVOV285VXkxWUlYMm1WMWxZTlZxdmpYMWtOWW5qZEplOUlvNnY4eDBWU2V3eVRZU2Fvb1gyMUFkb3hpWkVhQV9qd2drZzM4Vjg3Tnd6T291ZjRvcVlOZEl5OUt6cGFNc19Fb2JnbktORUI3YlBuR0pMN3N4V015YVAyQ2hqd2s3Q0ZNLTF1OGdTOFJQUkFKTjVPWXdwWURSRmxFTEFTeGpIekRkNnRhaGdISmQtQWVWenFBVC1yOTg?oc=5",
+      "source": "WFAA",
+      "summary": "Fort Worth-based American Airlines issues global ground stop for all planes not in air WFAA",
+      "published_at": "2026-07-28T23:06:00+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nFort Worth-based American Airlines issues global ground stop for all planes not in air\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZHVOV285VXkxWUlYMm1WMWxZTlZxdmpYMWtOWW5qZEplOUlvNnY4eDBWU2V3eVRZU2Fvb1gyMUFkb3hpWkVhQV9qd2drZzM4Vjg3Tnd6T291ZjRvcVlOZEl5OUt6cGFNc19Fb2JnbktORUI3YlBuR0pMN3N4V015YVAyQ2hqd2s3Q0ZNLTF1OGdTOFJQUkFKTjVPWXdwWURSRmxFTEFTeGpIekRkNnRhaGdISmQtQWVWenFBVC1yOTg?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "f021724e325f38698a9f",
+      "title": "Texas overhauled community college funding. It worked a little too well",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3RqaDdKT3JCVWlyUkM0RGZTR1BFQkJiNWRST0xxb0x2LUZLcS0wM0ZBakhQSnhBZGJGZVM1R2hhdU5hNkpWc3F1Y1otcklTUUxpNnBEOVUyeFBvcTlIS1c4MzgyNUt1dUl0RlJLN3ZTVFR5eGRiYnhSY2wxZ0dGb0stbXdnVnZ0UFFXWHJCclBic3hteXN6Sjk1cmlHRGtZdU0zSjdhRFh0Zw?oc=5",
+      "source": "Dallas News",
+      "summary": "Texas overhauled community college funding. It worked a little too well Dallas News",
+      "published_at": "2026-07-28T22:58:23+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nTexas overhauled community college funding. It worked a little too well\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3RqaDdKT3JCVWlyUkM0RGZTR1BFQkJiNWRST0xxb0x2LUZLcS0wM0ZBakhQSnhBZGJGZVM1R2hhdU5hNkpWc3F1Y1otcklTUUxpNnBEOVUyeFBvcTlIS1c4MzgyNUt1dUl0RlJLN3ZTVFR5eGRiYnhSY2wxZ0dGb0stbXdnVnZ0UFFXWHJCclBic3hteXN6Sjk1cmlHRGtZdU0zSjdhRFh0Zw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "d82aea622fc12d0f1b01",
+      "title": "Dallas Cowboys training camp: What to know from state of team press conference",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc002Z3VJTVV4bTlMOXlSckszNjJKdXV0NkFVX1Z5MS1ZMkF5RElrcGhuc3NVdmpScE1UeGRnMUtsMVFGQ205SnpLMHRNQkd5Rlcyd3M2cjdkYnIwd1JyYnZBb0JFMnRaZExfV2IwbWhuVnJtcU8wMEE1NXgtaFJlRlRKZkwxRmo0X3E5WnpVN2JrODVDbFk5N2EwcjJhMkdDbUVVMUpyVk5qTmk3ajFCaFNCdVdvaV9BNEFaaDNoMkpESFVSdW1CT21LaEpmWWpyZ0hwVG5KRE1xTHhSbTVxVmR5eDlqQmNFQ3VKcTVHVHZDZjNoZmgyYzBXRUQ?oc=5",
+      "source": "WFAA",
+      "summary": "Dallas Cowboys training camp: What to know from state of team press conference WFAA",
+      "published_at": "2026-07-28T22:56:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys training camp: What to know from state of team press conference\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc002Z3VJTVV4bTlMOXlSckszNjJKdXV0NkFVX1Z5MS1ZMkF5RElrcGhuc3NVdmpScE1UeGRnMUtsMVFGQ205SnpLMHRNQkd5Rlcyd3M2cjdkYnIwd1JyYnZBb0JFMnRaZExfV2IwbWhuVnJtcU8wMEE1NXgtaFJlRlRKZkwxRmo0X3E5WnpVN2JrODVDbFk5N2EwcjJhMkdDbUVVMUpyVk5qTmk3ajFCaFNCdVdvaV9BNEFaaDNoMkpESFVSdW1CT21LaEpmWWpyZ0hwVG5KRE1xTHhSbTVxVmR5eDlqQmNFQ3VKcTVHVHZDZjNoZmgyYzBXRUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "7e2ee9eccbf72a15d8a5",
+      "title": "Wise Co. father detained by ICE after traffic stop",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNXJ4eDBteTExc3l6Z2FSUGdKTDIycDVTMFB4UWZQa2ktSkZGeUNId3R3LURQVEVSeWFSak9WZExpTjY4SUwxSnhNQzdPTWZSblZhdDhTazBvS3RmbnNJQ9IBZkFVX3lxTE9KbFZYM2RLU09qU1JKVkY5R19ucHNXcGMtZFhnclpfYjB0M3VXNFJNYU1vUkhkZkZTRnZXSVdaRXpscy1jMXJuQzFka1ZxR2ViQ3RIODBDaERXeEptWXUtb0Nuc0drUQ?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Wise Co. father detained by ICE after traffic stop FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-07-28T22:43:25+00:00",
+      "category": "Traffic",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚧 TRAFFIC — DFW\n\nWise Co. father detained by ICE after traffic stop\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oNXJ4eDBteTExc3l6Z2FSUGdKTDIycDVTMFB4UWZQa2ktSkZGeUNId3R3LURQVEVSeWFSak9WZExpTjY4SUwxSnhNQzdPTWZSblZhdDhTazBvS3RmbnNJQ9IBZkFVX3lxTE9KbFZYM2RLU09qU1JKVkY5R19ucHNXcGMtZFhnclpfYjB0M3VXNFJNYU1vUkhkZkZTRnZXSVdaRXpscy1jMXJuQzFka1ZxR2ViQ3RIODBDaERXeEptWXUtb0Nuc0drUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "aeec2f7fded5f131ff66",
+      "title": "Could the Dallas Cowboys extend one of their own players during training camp?",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODlVbkM2U194SzhORU1keEROckpDRUZnbk9zMDY3RlhkWDNjMTVuNmVlZFEydWNQVkQ4ZWprR1B2NWZVQXk2SXFkYkNGUmFxcFZWeGUxSHBYM0RyWXpZMDhKYXZzZURBbnZmZjF3QUVqbXZ0TEZrc0ZUVFRaUXo4SmJ0SdIBgwFBVV95cUxPSXliREhNMFUzNTZ1UTA2Nmhhb2NzbHhfcGRoVkRrOWJGZU5tN3duaHhtcXVZUTFBMEJoNWJkTms1cmpLTkpvQm1odU11MkFtRFltR2FYaXBSSGhDc3RrWEhIWkoyZGhFYlIxMS03OWVvT0xHVGd0YVNfcFZLQjNhLWEzTQ?oc=5",
+      "source": "Fort Worth Star-Telegram",
+      "summary": "Could the Dallas Cowboys extend one of their own players during training camp? Fort Worth Star-Telegram",
+      "published_at": "2026-07-28T22:38:24+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nCould the Dallas Cowboys extend one of their own players during training camp?\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMigwFBVV95cUxQODlVbkM2U194SzhORU1keEROckpDRUZnbk9zMDY3RlhkWDNjMTVuNmVlZFEydWNQVkQ4ZWprR1B2NWZVQXk2SXFkYkNGUmFxcFZWeGUxSHBYM0RyWXpZMDhKYXZzZURBbnZmZjF3QUVqbXZ0TEZrc0ZUVFRaUXo4SmJ0SdIBgwFBVV95cUxPSXliREhNMFUzNTZ1UTA2Nmhhb2NzbHhfcGRoVkRrOWJGZU5tN3duaHhtcXVZUTFBMEJoNWJkTms1cmpLTkpvQm1odU11MkFtRFltR2FYaXBSSGhDc3RrWEhIWkoyZGhFYlIxMS03OWVvT0xHVGd0YVNfcFZLQjNhLWEzTQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "4ce9212e5091e8f8124f",
+      "title": "Dallas weather: July 28 evening forecast",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYTEFyeUJRanBwT21WRUxGVm0zTDU3ZU5VSElZX0hodWZEbmRiV1VMZDZqR3V6aGFndEdYb29SWkg5TDVvMVZNS3RyajdaOFMxd1dtY0xieDRUVzRHX2xmQtIBZkFVX3lxTE1zM3A1dk5nTGtXcEtMc2IzZ0hMeDZFczB2bUZKZTRROE5DbHBMd0FHaFVWQ0lPb2lUZVdzUlIwU3lYOTk4UjQybmV3OFdEY3hWdURwWEdWbV9ieGR5SzY3MjU3ZlZUZw?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Dallas weather: July 28 evening forecast FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-07-28T22:34:30+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\nDallas weather: July 28 evening forecast\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYTEFyeUJRanBwT21WRUxGVm0zTDU3ZU5VSElZX0hodWZEbmRiV1VMZDZqR3V6aGFndEdYb29SWkg5TDVvMVZNS3RyajdaOFMxd1dtY0xieDRUVzRHX2xmQtIBZkFVX3lxTE1zM3A1dk5nTGtXcEtMc2IzZ0hMeDZFczB2bUZKZTRROE5DbHBMd0FHaFVWQ0lPb2lUZVdzUlIwU3lYOTk4UjQybmV3OFdEY3hWdURwWEdWbV9ieGR5SzY3MjU3ZlZUZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ecab527d5f6e58178371",
+      "title": "Despite perceived quiet offseason, Jerry Jones indicates Cowboys are willing to make big moves to contend",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVl2QloyTXUzempqV1lnVERMQTlGNlR0Zi1hU3hkeXl1bFRQbmRtcnV6UEdoMzBaNWNMbUNSZXlrdUNHYmFmdlB6Y21RYzhHZEpFN0EzT0Y0X1RMN2ZQUmpXcnFmT2FvdkJPMUN6Z2dqVWhnLTNGU3Fza0FMdWgweE1SZ1p4SjJKZmZvc3ZLV1I2XzVPN3ZNdGRkaGhGVUlWNGRpY3NiSktXRm9FdDZqWFp3?oc=5",
+      "source": "Dallas News",
+      "summary": "Despite perceived quiet offseason, Jerry Jones indicates Cowboys are willing to make big moves to contend Dallas News",
+      "published_at": "2026-07-28T22:34:11+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDespite perceived quiet offseason, Jerry Jones indicates Cowboys are willing to make big moves to contend\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxOTVl2QloyTXUzempqV1lnVERMQTlGNlR0Zi1hU3hkeXl1bFRQbmRtcnV6UEdoMzBaNWNMbUNSZXlrdUNHYmFmdlB6Y21RYzhHZEpFN0EzT0Y0X1RMN2ZQUmpXcnFmT2FvdkJPMUN6Z2dqVWhnLTNGU3Fza0FMdWgweE1SZ1p4SjJKZmZvc3ZLV1I2XzVPN3ZNdGRkaGhGVUlWNGRpY3NiSktXRm9FdDZqWFp3?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "287974e9335041992f5c",
+      "title": "How successful was North Texas planning for the World Cup? Officials outline key takeaways",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNel9mZlFwZ1BMUE9Xa3lETkNmeUNwSkdDY2dwWTJPMHZlM1RKazZ5aWJVdTN5REw5aTVVcUs1WG9nQkljcWRTaWt3X1QzWFVfOWJtXzUydng4cHg5MXc3ZENzbVh4TWc1VEdSOGtTeUQ0bjU0SDFOTUREZmpCaGNfWkJsTGc4SlpBV1RxTlpVenRJaV9lMWlvNzA5YWxTbml5Y3V6MlRlRG9KaGNDNjFRU1RFMXFzRmZoMHVrWnRCXzNUMHJMOWV5Sg?oc=5",
+      "source": "Fort Worth Report",
+      "summary": "How successful was North Texas planning for the World Cup? Officials outline key takeaways Fort Worth Report",
+      "published_at": "2026-07-28T22:30:06+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nHow successful was North Texas planning for the World Cup? Officials outline key takeaways\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNel9mZlFwZ1BMUE9Xa3lETkNmeUNwSkdDY2dwWTJPMHZlM1RKazZ5aWJVdTN5REw5aTVVcUs1WG9nQkljcWRTaWt3X1QzWFVfOWJtXzUydng4cHg5MXc3ZENzbVh4TWc1VEdSOGtTeUQ0bjU0SDFOTUREZmpCaGNfWkJsTGc4SlpBV1RxTlpVenRJaV9lMWlvNzA5YWxTbml5Y3V6MlRlRG9KaGNDNjFRU1RFMXFzRmZoMHVrWnRCXzNUMHJMOWV5Sg?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "2b9eeed341386ba02fb9",
+      "title": "Fort Worth nonprofit supporting college students now guides a new group — their parents",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHBWdGZCNUY5azV1ZGxwR1BtTkp4UElod1NRanF2ZUctWGpFUHJDbWZNNG16aFBYb0FRSFA4djc3NG5UMjhHV3FWeHF5clZEYXRLYXVTYzVIVUtJM0pzbXVWRXJKbVJKNmowUEx6SFk1OTZKMlRTejJURWJGNDFHZDRQLWljeG9JeWJRS1JBVEV6VWZoLUN1VC1DZHV0U2dYYkQ1aHJfYVAtcXlVSnZhVVB3dzdRVlNxN1E5UzU0VWJ0UFk?oc=5",
+      "source": "Fort Worth Report",
+      "summary": "Fort Worth nonprofit supporting college students now guides a new group — their parents Fort Worth Report",
+      "published_at": "2026-07-28T22:29:38+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nFort Worth nonprofit supporting college students now guides a new group — their parents\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHBWdGZCNUY5azV1ZGxwR1BtTkp4UElod1NRanF2ZUctWGpFUHJDbWZNNG16aFBYb0FRSFA4djc3NG5UMjhHV3FWeHF5clZEYXRLYXVTYzVIVUtJM0pzbXVWRXJKbVJKNmowUEx6SFk1OTZKMlRTejJURWJGNDFHZDRQLWljeG9JeWJRS1JBVEV6VWZoLUN1VC1DZHV0U2dYYkQ1aHJfYVAtcXlVSnZhVVB3dzdRVlNxN1E5UzU0VWJ0UFk?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "25048cc133ad2086f85b",
+      "title": "FIFA World Cup delivers record tourism numbers across North Texas",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVpmS1paSmpMd0dhVkdhLXctQk14YXQ4NTlZdG1DRTR3MjBOcUI5eHZna1dKazRMNUZTOG9YMmp1aDlGMEw1bGZSUlFQNzU5ZjhPRjNBUjVMWWlyVWNjeUVubHdOYl9yOXhoYWduTDFXNDExU2FJN19pQ3A1TzBnUXBKbmVGTUtuaTVpNGd2STNrTERUZUtwSHhrUFFGeU40dHFhcWNidnVDRTAz0gG0AUFVX3lxTE9rdnFpLVk1dERvaWR4VW9zMW50Y2cxMWFYcEJ6M1RVZDRlUGF5UnpwZTk3MFpaZmlCc3djUkVQRkdaUVVmSUpESW5mQ0l6RmVKaXhNbHFtaXREYTU0RFVXVXNBc2p2NkpsVWZqUnRXaFphNTd1RVE1cUdhMFQyT1oyZ09LYlJTMlVXQjhKaDgxdnVkOUx4YkJmOFNQRzFFaEtFclUtTnBTX18zUkVJbTRfcDJVOA?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "FIFA World Cup delivers record tourism numbers across North Texas NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-07-28T22:18:00+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nFIFA World Cup delivers record tourism numbers across North Texas\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMirAFBVV95cUxQeVpmS1paSmpMd0dhVkdhLXctQk14YXQ4NTlZdG1DRTR3MjBOcUI5eHZna1dKazRMNUZTOG9YMmp1aDlGMEw1bGZSUlFQNzU5ZjhPRjNBUjVMWWlyVWNjeUVubHdOYl9yOXhoYWduTDFXNDExU2FJN19pQ3A1TzBnUXBKbmVGTUtuaTVpNGd2STNrTERUZUtwSHhrUFFGeU40dHFhcWNidnVDRTAz0gG0AUFVX3lxTE9rdnFpLVk1dERvaWR4VW9zMW50Y2cxMWFYcEJ6M1RVZDRlUGF5UnpwZTk3MFpaZmlCc3djUkVQRkdaUVVmSUpESW5mQ0l6RmVKaXhNbHFtaXREYTU0RFVXVXNBc2p2NkpsVWZqUnRXaFphNTd1RVE1cUdhMFQyT1oyZ09LYlJTMlVXQjhKaDgxdnVkOUx4YkJmOFNQRzFFaEtFclUtTnBTX18zUkVJbTRfcDJVOA?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "12fc34a550e812f0cfed",
+      "title": "Dallas ISD launches longer school year at select campuses",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXpjbE5RblZZMTgxcjdod1ExSGdQOTk3bjBTeGlXWVhwbUpoTzA5TklSUzVaMTJRVlJZN285VWlzZXNoY0hMY3hIbEJkRmVYZE1xbUxqWGw5QnJzSldEOEZfaGg2cUgzeHpOUFVXMW9Sb0lNWEVwc3g2ZVBPZlNKbkR5UHFtY095bjJWTS1TZHkyMjlfc2xyUzRLLVBaOENlamJOcUlxQjdKUdIBsgFBVV95cUxOUW12RjJfYkU2X0xOMHJjSTV1aHJBdXE3ZWE0ckVtT3o1enpTNDBmOTJZb2JxU2lwV1FfM01VUUJFM1JvYVd6dW5tVy0yOXhhWHhRNFo5VG4wUVdvWmdIM3dmRjN2aHZBN1p3UGZEN1RVTUFudzdBWVd5cU9JRU5sM25PSTBFTndCOEo1RE04UHhpdXVCZnNpeHpPOG5BRnI5VEtmbm1YZzZhYVItbWtwUVF3?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "Dallas ISD launches longer school year at select campuses NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-07-28T22:12:25+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nDallas ISD launches longer school year at select campuses\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXpjbE5RblZZMTgxcjdod1ExSGdQOTk3bjBTeGlXWVhwbUpoTzA5TklSUzVaMTJRVlJZN285VWlzZXNoY0hMY3hIbEJkRmVYZE1xbUxqWGw5QnJzSldEOEZfaGg2cUgzeHpOUFVXMW9Sb0lNWEVwc3g2ZVBPZlNKbkR5UHFtY095bjJWTS1TZHkyMjlfc2xyUzRLLVBaOENlamJOcUlxQjdKUdIBsgFBVV95cUxOUW12RjJfYkU2X0xOMHJjSTV1aHJBdXE3ZWE0ckVtT3o1enpTNDBmOTJZb2JxU2lwV1FfM01VUUJFM1JvYVd6dW5tVy0yOXhhWHhRNFo5VG4wUVdvWmdIM3dmRjN2aHZBN1p3UGZEN1RVTUFudzdBWVd5cU9JRU5sM25PSTBFTndCOEo1RE04UHhpdXVCZnNpeHpPOG5BRnI5VEtmbm1YZzZhYVItbWtwUVF3?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "9c46301ae92d1b6de0c2",
+      "title": "Jerry Jones and Dallas Cowboys arrive at training camp without off-field distractions",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcXdaZks5MU1GZ0ExVE1yRnc3Qk16cC1mdXJTT3FwSktoX1ZhWVp0N2doQy1RSE9KUTR1WVFEaFRDeHZPamJhblJtLU9Eb3FRRmVoMTlXNzY0T09LeHF3MnF4bHpTcjlGUzhyYnhSM0Q4VWZsUlk4Y29rYW00VmRTZ09GUTVCcU53OUJPWnJYbzhhd2w0aW1UT0VhZDJUMjN4TWw3dnczU0VCZjM1YW1PRjl4bWpOa2FwN0U1ZW9TdUxVRzZwVFJlU0ZGeVFuX21wMERja0pWeUJrSWJzaEs0QzMwYXBtWUo5LTJFQTFWRmtDZE90T0tCMm1n?oc=5",
+      "source": "The Killeen Daily Herald",
+      "summary": "Jerry Jones and Dallas Cowboys arrive at training camp without off-field distractions The Killeen Daily Herald",
+      "published_at": "2026-07-28T22:11:58+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nJerry Jones and Dallas Cowboys arrive at training camp without off-field distractions\n\nSource: The Killeen Daily Herald\nRead more: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOcXdaZks5MU1GZ0ExVE1yRnc3Qk16cC1mdXJTT3FwSktoX1ZhWVp0N2doQy1RSE9KUTR1WVFEaFRDeHZPamJhblJtLU9Eb3FRRmVoMTlXNzY0T09LeHF3MnF4bHpTcjlGUzhyYnhSM0Q4VWZsUlk4Y29rYW00VmRTZ09GUTVCcU53OUJPWnJYbzhhd2w0aW1UT0VhZDJUMjN4TWw3dnczU0VCZjM1YW1PRjl4bWpOa2FwN0U1ZW9TdUxVRzZwVFJlU0ZGeVFuX21wMERja0pWeUJrSWJzaEs0QzMwYXBtWUo5LTJFQTFWRmtDZE90T0tCMm1n?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "eb96c158d74cceb1d80f",
+      "title": "Jerry Jones and Dallas Cowboys arrive at training camp without off-field distractions",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZmswX0JwUFRBd1o1UElSaFFJVVI5ekg1MWppWXRxTG1zMlZ0YWExUmFxYzhlYzNhcVY4bUIyVDdBLXFoZVdHdkhtYkRxc3dNbFAxTFJJY3lSUWhzX3JJZ3Rlb1hicXhRTVU5cGw2aldhYjFieWJhVkRrNzU4WEQtYUNUQ2xnZ3d6YXZoVGhXN2dXS0xLYXloWlhJc1l5SFNtRk1GT1lYUlhYZHdtRkFfczVaUHBhZUFpOFgyY3E3VlV6NFVleVRrM1pVb3BQUmtRNGlrUGhXb3JqZkduSl9sUnVTZUpDX0Y5Nk9vbWdXb2Fac25xaXJrdWZ6MmJJOXJ4Snh3UDl4eEEtaWpzNHZCSDNR?oc=5",
+      "source": "Oskaloosa Herald",
+      "summary": "Jerry Jones and Dallas Cowboys arrive at training camp without off-field distractions Oskaloosa Herald",
+      "published_at": "2026-07-28T22:11:58+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nJerry Jones and Dallas Cowboys arrive at training camp without off-field distractions\n\nSource: Oskaloosa Herald\nRead more: https://news.google.com/rss/articles/CBMikgJBVV95cUxNZmswX0JwUFRBd1o1UElSaFFJVVI5ekg1MWppWXRxTG1zMlZ0YWExUmFxYzhlYzNhcVY4bUIyVDdBLXFoZVdHdkhtYkRxc3dNbFAxTFJJY3lSUWhzX3JJZ3Rlb1hicXhRTVU5cGw2aldhYjFieWJhVkRrNzU4WEQtYUNUQ2xnZ3d6YXZoVGhXN2dXS0xLYXloWlhJc1l5SFNtRk1GT1lYUlhYZHdtRkFfczVaUHBhZUFpOFgyY3E3VlV6NFVleVRrM1pVb3BQUmtRNGlrUGhXb3JqZkduSl9sUnVTZUpDX0Y5Nk9vbWdXb2Fac25xaXJrdWZ6MmJJOXJ4Snh3UDl4eEEtaWpzNHZCSDNR?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "6f4bd73a4a2960aad401",
+      "title": "Fort Worth residents get another chance to weigh in on the future of Hemphill",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LcFplY2dHVkQ5TjBKVXN6OWc4NDIwc2Y3VjZxWF9kbDRyWGNZZXhCdjJucmM5MmhXdTlQaHBiTm52a3BGMUdnOUo5OC1kSy1fc09JV2htZnMtU3JVc3ZrSEtER1o0cnJWRlN6WmhXMFJnbkQ5LUhyb05FWUhFUdIBfkFVX3lxTE5laXptMEctZWlEbU13d1FKNjZ2QUJMNVBkS0oyczlVWTg5eUZocm81eW90VG1BNmJjLV9UUmZ5a2plaXFKVWlhOXh4NF9ZQXdNcjVyRGgzRTBtalg0V0o2U24yNUtQclE5Z1VTM205MlZJT3RWYTVyZkk3M2RlQQ?oc=5",
+      "source": "Fort Worth Star-Telegram",
+      "summary": "Fort Worth residents get another chance to weigh in on the future of Hemphill Fort Worth Star-Telegram",
+      "published_at": "2026-07-28T22:11:50+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nFort Worth residents get another chance to weigh in on the future of Hemphill\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMifkFVX3lxTE5LcFplY2dHVkQ5TjBKVXN6OWc4NDIwc2Y3VjZxWF9kbDRyWGNZZXhCdjJucmM5MmhXdTlQaHBiTm52a3BGMUdnOUo5OC1kSy1fc09JV2htZnMtU3JVc3ZrSEtER1o0cnJWRlN6WmhXMFJnbkQ5LUhyb05FWUhFUdIBfkFVX3lxTE5laXptMEctZWlEbU13d1FKNjZ2QUJMNVBkS0oyczlVWTg5eUZocm81eW90VG1BNmJjLV9UUmZ5a2plaXFKVWlhOXh4NF9ZQXdNcjVyRGgzRTBtalg0V0o2U24yNUtQclE5Z1VTM205MlZJT3RWYTVyZkk3M2RlQQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "fb22f6eb0737405685fc",
+      "title": "North Texas food banks sound alarm as hunger crisis rises across Texas",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDlzUTdOZGlGQi12aTlWbnRsWjk2S0hpZUZaZXd2SHJ1R0syclk0MkZoblFqam80UHY0aHhDaUl3M3c1UTFjZTJWVjhOeU9GMzkyQ0pmcmN5d1EtakdyYWFvSVYwSkxtTlQ3T19Kem4tcjR4Q184SW1TR1NLVzN4NVZWb2JWbkhleUMyTy0xT3pTUTdReGM4eFlVdk95cVBfYmg1SEM4Q0cxTVNyM1NEUXBRa9IBuwFBVV95cUxOaHl3cW5FXzdJREg3Q2NuUkZfXzg4d3g3WmdURkhMWlhiY2RvNVNvVEl5X3FJWmlDZmRJcmVwbndRQ3NrcTlVM01ZZFNBSF9HLWdlN01pOHlWaUN5UzcyOHJ2TGw4Unl2Um5GY2V3REQxRW5tZXRtRkhUVldoMHVfYVo2OEVqbnNQd3dxSVhKbjNEZWJVV0YtQ09JcG1MTmdFalVSLXJUenNaV0ljZmUzNFVZVlR5TjE3Q1BJ?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "North Texas food banks sound alarm as hunger crisis rises across Texas NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-07-28T22:08:45+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nNorth Texas food banks sound alarm as hunger crisis rises across Texas\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxNcDlzUTdOZGlGQi12aTlWbnRsWjk2S0hpZUZaZXd2SHJ1R0syclk0MkZoblFqam80UHY0aHhDaUl3M3c1UTFjZTJWVjhOeU9GMzkyQ0pmcmN5d1EtakdyYWFvSVYwSkxtTlQ3T19Kem4tcjR4Q184SW1TR1NLVzN4NVZWb2JWbkhleUMyTy0xT3pTUTdReGM4eFlVdk95cVBfYmg1SEM4Q0cxTVNyM1NEUXBRa9IBuwFBVV95cUxOaHl3cW5FXzdJREg3Q2NuUkZfXzg4d3g3WmdURkhMWlhiY2RvNVNvVEl5X3FJWmlDZmRJcmVwbndRQ3NrcTlVM01ZZFNBSF9HLWdlN01pOHlWaUN5UzcyOHJ2TGw4Unl2Um5GY2V3REQxRW5tZXRtRkhUVldoMHVfYVo2OEVqbnNQd3dxSVhKbjNEZWJVV0YtQ09JcG1MTmdFalVSLXJUenNaV0ljZmUzNFVZVlR5TjE3Q1BJ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "5ecdbf6e08d29b23e0aa",
+      "title": "Credit Jerry Jones and George Pickens for the rare quiet Dallas Cowboys offseason",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1doSktLVlZER0l0WjNzUy1aN2pVWkhwV05iX1RIRklyUm9DZVpHYzdGSHNJUFpwZlppaC1KUGtzTWtydW14VnAyaTViOTFsNHpmdWp3RTIxTjhzZHhTRE5xb095c0J2NVVNeWxsNm1iNUIydUg0VGRpemVmWDN2RHlBeDJkVm9SV0N0b2VsS2xMZXZ5aXltdHJGeVMzTzctWkRHNm5hVGN6RmdtVkh4cU4wbw?oc=5",
+      "source": "Dallas News",
+      "summary": "Credit Jerry Jones and George Pickens for the rare quiet Dallas Cowboys offseason Dallas News",
+      "published_at": "2026-07-28T22:07:11+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nCredit Jerry Jones and George Pickens for the rare quiet Dallas Cowboys offseason\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1doSktLVlZER0l0WjNzUy1aN2pVWkhwV05iX1RIRklyUm9DZVpHYzdGSHNJUFpwZlppaC1KUGtzTWtydW14VnAyaTViOTFsNHpmdWp3RTIxTjhzZHhTRE5xb095c0J2NVVNeWxsNm1iNUIydUg0VGRpemVmWDN2RHlBeDJkVm9SV0N0b2VsS2xMZXZ5aXltdHJGeVMzTzctWkRHNm5hVGN6RmdtVkh4cU4wbw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "7c469e4997e5dbc0e43f",
+      "title": "8 indicted after raids at Dallas adult bookstore, Plano home in deadly sex trafficking case, feds say",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3ZpbDFLdFZRdHhqbmVNc0JfUWh3TmJDRDJ0MEtjNS0wdGR5T005OVR6VlFFenlRUTgtTXRnY1RhRVZDOFVWdkg1YUZ0Uy1xbnc5ZEJxMjVRZl9aanhEdDZ4TDdPY1hLb3A3cVlidEUzWk90WjlDRVMydTJyZHJjRWxYLUpyLUNvN2c?oc=5",
+      "source": "CBS News",
+      "summary": "8 indicted after raids at Dallas adult bookstore, Plano home in deadly sex trafficking case, feds say CBS News",
+      "published_at": "2026-07-28T22:03:28+00:00",
+      "category": "Traffic",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚧 TRAFFIC — DFW\n\n8 indicted after raids at Dallas adult bookstore, Plano home in deadly sex trafficking case, feds say\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3ZpbDFLdFZRdHhqbmVNc0JfUWh3TmJDRDJ0MEtjNS0wdGR5T005OVR6VlFFenlRUTgtTXRnY1RhRVZDOFVWdkg1YUZ0Uy1xbnc5ZEJxMjVRZl9aanhEdDZ4TDdPY1hLb3A3cVlidEUzWk90WjlDRVMydTJyZHJjRWxYLUpyLUNvN2c?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "5cab8759a7610d9eb9e8",
+      "title": "Mavericks Fans Get The Kyrie Irving Injury Update They've Been Waiting On",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUFEQ041czN1cTNldVZHYjRfVkhWakluTmlJMVAyOUVSSnJRWlV3QlF5NDA3Y1I3N2lSM2toSThaaUtya21IbnM2TXBFYUR1cF9mTUR5bUJDZ1hBR1FZUFo2cDQ1Mjk2Y1FoQlpNaWw4aUo3Y2FHZUpMenlsSGZuRjNYc0RLbUFQazc2Wk1MRGRwV0FHTWJTYUNwV0VUS0M1NklFek1udm5lUHFXdWxNYThZbXM?oc=5",
+      "source": "Sports Illustrated",
+      "summary": "Mavericks Fans Get The Kyrie Irving Injury Update They've Been Waiting On Sports Illustrated",
+      "published_at": "2026-07-28T21:50:37+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nMavericks Fans Get The Kyrie Irving Injury Update They've Been Waiting On\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUFEQ041czN1cTNldVZHYjRfVkhWakluTmlJMVAyOUVSSnJRWlV3QlF5NDA3Y1I3N2lSM2toSThaaUtya21IbnM2TXBFYUR1cF9mTUR5bUJDZ1hBR1FZUFo2cDQ1Mjk2Y1FoQlpNaWw4aUo3Y2FHZUpMenlsSGZuRjNYc0RLbUFQazc2Wk1MRGRwV0FHTWJTYUNwV0VUS0M1NklFek1udm5lUHFXdWxNYThZbXM?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "844f8b69c02f3cc0d096",
+      "title": "Woman charged in 2012 Arlington murder in which victim was stabbed 100 times to be released on bond, attorney says",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUxmMFVkcU1qaHNsbnZJenJzYXVNcmdHcGE3ZV83b0hvOUowUHU5akpJTDFZNjh0ckRiYVdXNV9QQXdUa2hBZFdpdXZtbGpZWTA1R3NkWGZ0ZnQwSzdXbHlOM3hDUWE0bGdyS2hsd01QTV9TY0ltZ0RsWFJRc0FGOWtCV1o0dzVBVHBlSllXNFMzYU9Ydjl0d3VJRGd6Y0YtUVE?oc=5",
+      "source": "CBS News",
+      "summary": "Woman charged in 2012 Arlington murder in which victim was stabbed 100 times to be released on bond, attorney says CBS News",
+      "published_at": "2026-07-28T21:45:32+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nWoman charged in 2012 Arlington murder in which victim was stabbed 100 times to be released on bond, attorney says\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUxmMFVkcU1qaHNsbnZJenJzYXVNcmdHcGE3ZV83b0hvOUowUHU5akpJTDFZNjh0ckRiYVdXNV9QQXdUa2hBZFdpdXZtbGpZWTA1R3NkWGZ0ZnQwSzdXbHlOM3hDUWE0bGdyS2hsd01QTV9TY0ltZ0RsWFJRc0FGOWtCV1o0dzVBVHBlSllXNFMzYU9Ydjl0d3VJRGd6Y0YtUVE?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "07f2c68278e40f57ad4a",
+      "title": "Fort Worth Botanic Garden receives prestigious nationwide accreditation",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFlXTkFaRDFtYVRuaDladXp4YW9KX0otTWkyeWUyNVdqNDl1MFlhUUhQekhKbzBqQkt6cHRSLWtMMXYtY2lkLXoxTW9abjdOVjZLNVdtOVN4X2NCbVZtNHpSdThDdHBFSEd3WkhpbXNDbGtoal9FYUYzSzVXQdIBfkFVX3lxTE5yQWs0dmVwcTBHQmRWMDBwV3Z4MGpudEd3WGdmWm1aMDRqSlNNcHRSVEhzbEZyX21EVVhqU3gyQlN1R3Naa3JUVU5PZjNZWTBFUmpISHpfQ2tXc0ZIVjdETWJNWFpZdFJoR04zRl9aa2l1Mzhna3dJSTE4T0VFdw?oc=5",
+      "source": "Fort Worth Star-Telegram",
+      "summary": "Fort Worth Botanic Garden receives prestigious nationwide accreditation Fort Worth Star-Telegram",
+      "published_at": "2026-07-28T21:43:28+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nFort Worth Botanic Garden receives prestigious nationwide accreditation\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMifkFVX3lxTE44RFlXTkFaRDFtYVRuaDladXp4YW9KX0otTWkyeWUyNVdqNDl1MFlhUUhQekhKbzBqQkt6cHRSLWtMMXYtY2lkLXoxTW9abjdOVjZLNVdtOVN4X2NCbVZtNHpSdThDdHBFSEd3WkhpbXNDbGtoal9FYUYzSzVXQdIBfkFVX3lxTE5yQWs0dmVwcTBHQmRWMDBwV3Z4MGpudEd3WGdmWm1aMDRqSlNNcHRSVEhzbEZyX21EVVhqU3gyQlN1R3Naa3JUVU5PZjNZWTBFUmpISHpfQ2tXc0ZIVjdETWJNWFpZdFJoR04zRl9aa2l1Mzhna3dJSTE4T0VFdw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "bdb0f8b1fa6995f847c7",
+      "title": "Plano police officers shoot burglary suspects at Carrollton gas station",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1lvSVRJREVIck9kSmo1LVdSN0hYcTEyNEhjS1pMR3dVT1lMZzMybUJLRUdVS3VJLVl1VWJ3S1RkNndIYmZ0OXB3NTlZLUJmSW1iSFMyRTJVRVFjZXlMUWhiMFcwTTV1ZG42a2Q2cUFKR0pKRjhmR3dBRFZBOGpaYWMtQ3VjZnM?oc=5",
+      "source": "AOL.com",
+      "summary": "Plano police officers shoot burglary suspects at Carrollton gas station AOL.com",
+      "published_at": "2026-07-28T21:41:29+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nPlano police officers shoot burglary suspects at Carrollton gas station\n\nSource: AOL.com\nRead more: https://news.google.com/rss/articles/CBMihwFBVV95cUxQV1lvSVRJREVIck9kSmo1LVdSN0hYcTEyNEhjS1pMR3dVT1lMZzMybUJLRUdVS3VJLVl1VWJ3S1RkNndIYmZ0OXB3NTlZLUJmSW1iSFMyRTJVRVFjZXlMUWhiMFcwTTV1ZG42a2Q2cUFKR0pKRjhmR3dBRFZBOGpaYWMtQ3VjZnM?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b35e58bd46caa6aef900",
+      "title": "U.S. attorneys reveal shocking allegations of abuse, minor sex trafficking at Dallas adult bookstore",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQaVhyZnZmbEJmMU9zaXVKeVhsMWx4VHZBdWV5dUN2amdxaW90X1hfR1NaMVNyVFZzOVpXV2RtcVlzYnJ1d2dUOTNfYkw5MzlrbTNkNUVLcldUdEY1SzVNclhjVGpTejVBSkJLSno0M3lFTXJudlo4MWVmTE9RMkttWTc4Ulh0am9ETHRkOEplaXkyMHNoTVhKMzRIbnAwUlAtNmZ6ZXJuYnpsenZWQXNlYXBGdjY4OWhHaUxpMEJsZ3IwbFJjQlU5czdjTlJ4OEs0cDBxSTdSX1pVUl9SR2xuMjFUS2pfRXd4dHRPbUk1a21EQW1TdV8zX0JMeGlRZWtMVUVjeU4zc2lSSC1xdnBLZmJYZEp3ZFJTbTI1Zk5NZENPZw?oc=5",
+      "source": "WFAA",
+      "summary": "U.S. attorneys reveal shocking allegations of abuse, minor sex trafficking at Dallas adult bookstore WFAA",
+      "published_at": "2026-07-28T21:36:00+00:00",
+      "category": "Traffic",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚧 TRAFFIC — DFW\n\nU.S. attorneys reveal shocking allegations of abuse, minor sex trafficking at Dallas adult bookstore\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiogJBVV95cUxQaVhyZnZmbEJmMU9zaXVKeVhsMWx4VHZBdWV5dUN2amdxaW90X1hfR1NaMVNyVFZzOVpXV2RtcVlzYnJ1d2dUOTNfYkw5MzlrbTNkNUVLcldUdEY1SzVNclhjVGpTejVBSkJLSno0M3lFTXJudlo4MWVmTE9RMkttWTc4Ulh0am9ETHRkOEplaXkyMHNoTVhKMzRIbnAwUlAtNmZ6ZXJuYnpsenZWQXNlYXBGdjY4OWhHaUxpMEJsZ3IwbFJjQlU5czdjTlJ4OEs0cDBxSTdSX1pVUl9SR2xuMjFUS2pfRXd4dHRPbUk1a21EQW1TdV8zX0JMeGlRZWtMVUVjeU4zc2lSSC1xdnBLZmJYZEp3ZFJTbTI1Zk5NZENPZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "c0ba270a18ad11a40d23",
+      "title": "Dallas Fire-Rescue quickly knocks out fire that gutted Dallas townhome",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOc24zV3FhMldfM24yMWVQc3pkOFgydmtiQmFtYnJxU01JeDFoRTQ2VEd6bndPdmRNYzhkYlFmdkw3NlZGRHY1VWJnY0RkdlE4bktZbExkaDRvNHZ4WmlGaGpwQW56VjhuWTZKb2tmOTBWM3lseXFmcklBMkF2Tm9hSE81d096ZVc5VFIxZkEwQ0dvYWZWU3pLVWVfWHNXRGg5eEUxNERtUDdtSzBuUXZaWXpVNU1WYVVfQ3RERUJJOGt4ak55SlhObE02TGNrY3UtNHJwNkw0UWppT3oxeTlDeHBKUnBMUkRwZ1VTbThhSUs2SEFlanFUV0RCOXhaZnN5?oc=5",
+      "source": "WFAA",
+      "summary": "Dallas Fire-Rescue quickly knocks out fire that gutted Dallas townhome WFAA",
+      "published_at": "2026-07-28T21:31:00+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nDallas Fire-Rescue quickly knocks out fire that gutted Dallas townhome\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMigAJBVV95cUxOc24zV3FhMldfM24yMWVQc3pkOFgydmtiQmFtYnJxU01JeDFoRTQ2VEd6bndPdmRNYzhkYlFmdkw3NlZGRHY1VWJnY0RkdlE4bktZbExkaDRvNHZ4WmlGaGpwQW56VjhuWTZKb2tmOTBWM3lseXFmcklBMkF2Tm9hSE81d096ZVc5VFIxZkEwQ0dvYWZWU3pLVWVfWHNXRGg5eEUxNERtUDdtSzBuUXZaWXpVNU1WYVVfQ3RERUJJOGt4ak55SlhObE02TGNrY3UtNHJwNkw0UWppT3oxeTlDeHBKUnBMUkRwZ1VTbThhSUs2SEFlanFUV0RCOXhaZnN5?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "6bc18db3da16a16a5fbf",
+      "title": "Former Plano elementary teacher faces new child sex abuse charges after more students come forward",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEEwb0o4dmNMb09JY1V0dElQRUJ2UDY5MkNjUHhOWDZHMUliQUlWU2NROWtvQVpoU3VGX2N4VWdYMFE3THNFd20yQVJpRnRTdWp6aS1vX2NKMkt4QjE3THNfZGJDZkJQQm5FLVFfZEExYTRvT2t5WjlLa2FUc1IxTm9rdVlacy0zWTFWNGZSYmlDYkFoMGtEbEZ4MndHSTFJaHVqX0N5Um8xRUR2Q044ZFZmeHBFZXBIRkotVlc2UzRieE51b1U4cWJ6REVtRVk?oc=5",
+      "source": "CBS News",
+      "summary": "Former Plano elementary teacher faces new child sex abuse charges after more students come forward CBS News",
+      "published_at": "2026-07-28T21:26:10+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nFormer Plano elementary teacher faces new child sex abuse charges after more students come forward\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMizwFBVV95cUxOWEEwb0o4dmNMb09JY1V0dElQRUJ2UDY5MkNjUHhOWDZHMUliQUlWU2NROWtvQVpoU3VGX2N4VWdYMFE3THNFd20yQVJpRnRTdWp6aS1vX2NKMkt4QjE3THNfZGJDZkJQQm5FLVFfZEExYTRvT2t5WjlLa2FUc1IxTm9rdVlacy0zWTFWNGZSYmlDYkFoMGtEbEZ4MndHSTFJaHVqX0N5Um8xRUR2Q044ZFZmeHBFZXBIRkotVlc2UzRieE51b1U4cWJ6REVtRVk?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "0f48bf13f485e2813456",
+      "title": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPcmdGXzRBc0ptZFI3YUpMeTlnbF8xbHhVSTRzTzNIczRZVHE1VTlSeHNZVjcyLVdPZFRoaDRlSjJpNy1kR2R2WlVJMldRcWczRWR2TndoajA2T2RwSUtUQWJ6WHNCVjdLRThFRUVpWkwwY1R3MUZXNG1fU0lHbk85T0l2aEo5VlRsVFFXMkFTdTFrV1BUTWxfLUxGcHRDVkdRRmFjc0VaWlh5Y3hwWEpLdGlpb3FGdzFLamNIYkNmeExOa2dWbnZWeWJxV1hoVE5YZGdJeGY5UnhpbThBc0Y5dGJUejJvRTMyeUhFUjFjT2w3RkxXY0JYa293WUxBVWF4bE9fRkRCaXRoYmhLWmNHdW9UaEpXVU9YMWhseXpRRDJ3TFRDbzQ3eDZn?oc=5",
+      "source": "newscentermaine.com",
+      "summary": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos? newscentermaine.com",
+      "published_at": "2026-07-28T21:23:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nUNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?\n\nSource: newscentermaine.com\nRead more: https://news.google.com/rss/articles/CBMiqgJBVV95cUxPcmdGXzRBc0ptZFI3YUpMeTlnbF8xbHhVSTRzTzNIczRZVHE1VTlSeHNZVjcyLVdPZFRoaDRlSjJpNy1kR2R2WlVJMldRcWczRWR2TndoajA2T2RwSUtUQWJ6WHNCVjdLRThFRUVpWkwwY1R3MUZXNG1fU0lHbk85T0l2aEo5VlRsVFFXMkFTdTFrV1BUTWxfLUxGcHRDVkdRRmFjc0VaWlh5Y3hwWEpLdGlpb3FGdzFLamNIYkNmeExOa2dWbnZWeWJxV1hoVE5YZGdJeGY5UnhpbThBc0Y5dGJUejJvRTMyeUhFUjFjT2w3RkxXY0JYa293WUxBVWF4bE9fRkRCaXRoYmhLWmNHdW9UaEpXVU9YMWhseXpRRDJ3TFRDbzQ3eDZn?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "d7465332357fc66e461e",
+      "title": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPbTI3N2VaRXpoQjB0TllpaUJHQkZZWERYXzZqVFhDYW83UER3WXU1c3RSeTd5WXczZmpCU29BTGlsR0lNdlVoczA1Q0VUdnhMRktyWHpuYlMxSVRLU0FFdXJWdU4tVEttb0ZnOTdpSVhsaU1xVkk4T21IbllfQTQ5VHR1RVNBak1mUWxudi0zNV9iR29lSDdaQ1NWc2d4MWxtN1U5Z1RtUklXVmxsRlVOX3pfQ2NGbDJITjNPdGNWN0dIRzlQNk5EOW1fY0FFLUhhU0JoaElFSnlCZ0NaVGZoSHZRQVVQeVlrVUxtelRCOGxuWHBycWotV1k0alZiSFR2dGpGMnh2QjQ2Ym1YRWNfQ00wZUpJZHN2THpQUQ?oc=5",
+      "source": "WUSA9",
+      "summary": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos? WUSA9",
+      "published_at": "2026-07-28T21:23:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nUNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?\n\nSource: WUSA9\nRead more: https://news.google.com/rss/articles/CBMinAJBVV95cUxPbTI3N2VaRXpoQjB0TllpaUJHQkZZWERYXzZqVFhDYW83UER3WXU1c3RSeTd5WXczZmpCU29BTGlsR0lNdlVoczA1Q0VUdnhMRktyWHpuYlMxSVRLU0FFdXJWdU4tVEttb0ZnOTdpSVhsaU1xVkk4T21IbllfQTQ5VHR1RVNBak1mUWxudi0zNV9iR29lSDdaQ1NWc2d4MWxtN1U5Z1RtUklXVmxsRlVOX3pfQ2NGbDJITjNPdGNWN0dIRzlQNk5EOW1fY0FFLUhhU0JoaElFSnlCZ0NaVGZoSHZRQVVQeVlrVUxtelRCOGxuWHBycWotV1k0alZiSFR2dGpGMnh2QjQ2Ym1YRWNfQ00wZUpJZHN2THpQUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "574a0b7020f8b2e71eb5",
+      "title": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNVWtxQkVUZkNDbXplS3Y3QkV1Y3lILXFhQ1JFNmdqUjAyLVhOVmtvaVU4QTl3UmhuM2U0bmZNTS05YzJCR2NXd1VrVjFjSjladG1OQ082ZXlIQktvMmRMdjY0R1VQeEVVeExZMEJubkU2dGpRNTJZT2wyN2RGRlF2LU5rUW52Y3NnclNKVEEtR0kxTkdmWURxVG5hSkMwTXBHdUctY2pTWVdMQlZHNEZRUXZkakNfbUFzQ0EyQnp6Y05MSW9QSWlxYTE0dVluR2g0dWZJTHhHZmdaMUdjM3dOY3Z6RFdackJCNmF1NU91WGhmc2ZMTnA4eFVzZHcwYkh5Z09xaXJUVVNNeDFTTWwxUzc4Q1V6djhzMFF3?oc=5",
+      "source": "WFAA",
+      "summary": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos? WFAA",
+      "published_at": "2026-07-28T21:23:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nUNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMimwJBVV95cUxNVWtxQkVUZkNDbXplS3Y3QkV1Y3lILXFhQ1JFNmdqUjAyLVhOVmtvaVU4QTl3UmhuM2U0bmZNTS05YzJCR2NXd1VrVjFjSjladG1OQ082ZXlIQktvMmRMdjY0R1VQeEVVeExZMEJubkU2dGpRNTJZT2wyN2RGRlF2LU5rUW52Y3NnclNKVEEtR0kxTkdmWURxVG5hSkMwTXBHdUctY2pTWVdMQlZHNEZRUXZkakNfbUFzQ0EyQnp6Y05MSW9QSWlxYTE0dVluR2g0dWZJTHhHZmdaMUdjM3dOY3Z6RFdackJCNmF1NU91WGhmc2ZMTnA4eFVzZHcwYkh5Z09xaXJUVVNNeDFTTWwxUzc4Q1V6djhzMFF3?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "fddb5ee9263a4bb9f68c",
+      "title": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOb0pJUGw5SmZrTEVLMzVEZnY4NDNJVWtNaldQWjdLX0JMV1hRMUZXOE9VTElBeTd2Qm5vb3BWaWM2T2NYYUVPN0JvVnhLRGxGVFpVNGpVdjcyU2ozVkFrelNKV25OZmprdWRTUW9mM3hMU3pvcEJDbUw5ZGtNWDlSb216MUpCd09aODdrNzNkR1VRNVJUUjVWOUNpeVNGWmNQQm9MZHhydVJYQzZrZEY4b0psRFh2cE9PQzFvQWhCUXhVSnF3Ykp5T295bmgydU1MWlhmaWdKV0xyRkNZZkNNOTE1d1VKX1ZOb2NtcWFZejVrdHZWVmJSZ0h4OWU2TVJoWF93LTk4bTU3c18tR2IwMmdXbG1kUEpra0hv?oc=5",
+      "source": "WNEP",
+      "summary": "UNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos? WNEP",
+      "published_at": "2026-07-28T21:23:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nUNDERRATED: Where Do Dallas Stars Wyatt Johnston & Roope Hintz RANK Among NHL Elite Duos?\n\nSource: WNEP\nRead more: https://news.google.com/rss/articles/CBMimwJBVV95cUxOb0pJUGw5SmZrTEVLMzVEZnY4NDNJVWtNaldQWjdLX0JMV1hRMUZXOE9VTElBeTd2Qm5vb3BWaWM2T2NYYUVPN0JvVnhLRGxGVFpVNGpVdjcyU2ozVkFrelNKV25OZmprdWRTUW9mM3hMU3pvcEJDbUw5ZGtNWDlSb216MUpCd09aODdrNzNkR1VRNVJUUjVWOUNpeVNGWmNQQm9MZHhydVJYQzZrZEY4b0psRFh2cE9PQzFvQWhCUXhVSnF3Ykp5T295bmgydU1MWlhmaWdKV0xyRkNZZkNNOTE1d1VKX1ZOb2NtcWFZejVrdHZWVmJSZ0h4OWU2TVJoWF93LTk4bTU3c18tR2IwMmdXbG1kUEpra0hv?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "922168dbc44197ede61b",
+      "title": "Jerry Jones confident Cowboys can compete for a Super Bowl in 2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWJDS2NhOG5nYno5Z3RQQ0RqV3JlTDluMjdYcTlFODZCNnFTVDRjdGhkQ2N1aE9hTnVmNDNoVmE0eV9pTUNhVHA0WXVDS1ZGRFJfeEJGQnR1MktrMTRib3Utc2ZMVFpkVDJ3MXVVRlUwcmpGZEZYLXh2Z202aDA4a2lyM1l0V04wazdaSGMzSG03UEJUSWNXV1AwRUpKLVFrOWw0?oc=5",
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "summary": "Jerry Jones confident Cowboys can compete for a Super Bowl in 2026 Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "published_at": "2026-07-28T21:19:20+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nJerry Jones confident Cowboys can compete for a Super Bowl in 2026\n\nSource: Dallas Cowboys | Official Site of the Dallas Cowboys\nRead more: https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWJDS2NhOG5nYno5Z3RQQ0RqV3JlTDluMjdYcTlFODZCNnFTVDRjdGhkQ2N1aE9hTnVmNDNoVmE0eV9pTUNhVHA0WXVDS1ZGRFJfeEJGQnR1MktrMTRib3Utc2ZMVFpkVDJ3MXVVRlUwcmpGZEZYLXh2Z202aDA4a2lyM1l0V04wazdaSGMzSG03UEJUSWNXV1AwRUpKLVFrOWw0?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "430bbeaf69001bbf38d0",
+      "title": "Ex-police officer and DC man accused of stealing cars in Arlington",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNMVJfZndJZ29MWW1sQy0xYUhNZzU4azhzZG5rQ2JCUWVTN3ltMTlLQy1zTUc2VnQwWjU3ekJNdFR1Tm5Od1czOGFRcWJlR0s1dkI3UmMzMDRzYnJ5cUhXVjVSR1VsdERFSUdQQVowR2l3TU1ObkgtMnBTNHozVFF0V2hCMWJnemhnNl9vRzExdWl1UUZEUGtjUHRaeElfZU1Mc2xDckh0Si1jZXNTUVBqdFBIZW1rQUltOXBZa0laX2xQR0Z2TlpQQnJmclRhay1abW0wVGxNeHJFQTE4ZmlKTGFpbE1XMXMwSE9ROXJXQmVGOExwYTZmT3ZMUUdSdXZ3YVZ4MG4taVYwTkZUOF90bURNMlNYZXBWcWJyWA?oc=5",
+      "source": "WUSA9",
+      "summary": "Ex-police officer and DC man accused of stealing cars in Arlington WUSA9",
+      "published_at": "2026-07-28T21:18:00+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nEx-police officer and DC man accused of stealing cars in Arlington\n\nSource: WUSA9\nRead more: https://news.google.com/rss/articles/CBMinAJBVV95cUxNMVJfZndJZ29MWW1sQy0xYUhNZzU4azhzZG5rQ2JCUWVTN3ltMTlLQy1zTUc2VnQwWjU3ekJNdFR1Tm5Od1czOGFRcWJlR0s1dkI3UmMzMDRzYnJ5cUhXVjVSR1VsdERFSUdQQVowR2l3TU1ObkgtMnBTNHozVFF0V2hCMWJnemhnNl9vRzExdWl1UUZEUGtjUHRaeElfZU1Mc2xDckh0Si1jZXNTUVBqdFBIZW1rQUltOXBZa0laX2xQR0Z2TlpQQnJmclRhay1abW0wVGxNeHJFQTE4ZmlKTGFpbE1XMXMwSE9ROXJXQmVGOExwYTZmT3ZMUUdSdXZ3YVZ4MG4taVYwTkZUOF90bURNMlNYZXBWcWJyWA?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "6b009322963c21caeafc",
+      "title": "North Texas couple killed in crash: Police charge one suspect with racing, another with manslaughter",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOUlkQ0x4dVV0V3Rhd2dCekFzcURCUnphTnZDd2tLSWtWaE5ON1k0OE9tdlVNRnNQbVdPWnVTT3I1Y1VZMVpMMkhGUlZoWklBZWFaMTk1TmVWZDZpMmJKY0F5VlUtRklXcG5JaFJkWm1jUk9NZllBRVJHdDR6WURTaWxhanZVRUJLNzRWWVRLVm1sMDdWMGtCM2hqQ1dZelMta3gzS3pfeEJib09mdndOUTg3YlR5TTJ3X3NuU3Bsc2MwWmhOajhqOUNvN0JnUmNWMWFZbWIyZ3JBbGJUVzMxTVZuTHFiOHYyLVFYLUpyblJWUQ?oc=5",
+      "source": "WFAA",
+      "summary": "North Texas couple killed in crash: Police charge one suspect with racing, another with manslaughter WFAA",
+      "published_at": "2026-07-28T21:17:00+00:00",
+      "category": "Traffic",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚧 TRAFFIC — DFW\n\nNorth Texas couple killed in crash: Police charge one suspect with racing, another with manslaughter\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOUlkQ0x4dVV0V3Rhd2dCekFzcURCUnphTnZDd2tLSWtWaE5ON1k0OE9tdlVNRnNQbVdPWnVTT3I1Y1VZMVpMMkhGUlZoWklBZWFaMTk1TmVWZDZpMmJKY0F5VlUtRklXcG5JaFJkWm1jUk9NZllBRVJHdDR6WURTaWxhanZVRUJLNzRWWVRLVm1sMDdWMGtCM2hqQ1dZelMta3gzS3pfeEJib09mdndOUTg3YlR5TTJ3X3NuU3Bsc2MwWmhOajhqOUNvN0JnUmNWMWFZbWIyZ3JBbGJUVzMxTVZuTHFiOHYyLVFYLUpyblJWUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "d857680c3a2bbf788df9",
+      "title": "Dallas Cowboys open training camp in Oxnard with Super Bowl expectations",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdkFTaFJhV1FKT1F3RUk1QnRXV1BWTWNLOC1qY1MxX0xjY0lpVVFsYnNWaTRxQ3UzLW9fa3dGQ19mWnFfX2xiT1VYRm9SclhYMWtHTXN0elRPUlR1VFFFdmNYUmVoQm5UZ0IwdFJiSzVmeEFYZUY5SFB2eHZrU2d0S0JnMWh6V3h5b2I1Z3ZDamVOY0V4bG9jaGZBZDRSUzloaWZmeHdQcmFESzJaRUE?oc=5",
+      "source": "CBS News",
+      "summary": "Dallas Cowboys open training camp in Oxnard with Super Bowl expectations CBS News",
+      "published_at": "2026-07-28T21:17:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys open training camp in Oxnard with Super Bowl expectations\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMirgFBVV95cUxQdkFTaFJhV1FKT1F3RUk1QnRXV1BWTWNLOC1qY1MxX0xjY0lpVVFsYnNWaTRxQ3UzLW9fa3dGQ19mWnFfX2xiT1VYRm9SclhYMWtHTXN0elRPUlR1VFFFdmNYUmVoQm5UZ0IwdFJiSzVmeEFYZUY5SFB2eHZrU2d0S0JnMWh6V3h5b2I1Z3ZDamVOY0V4bG9jaGZBZDRSUzloaWZmeHdQcmFESzJaRUE?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "2674471b3183377f2512",
+      "title": "Looking for a path, Landes finds counseling an inspiration",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZzNMd25aelJpTlJCY2RMYUloMGQ2WkdLOW5ra0s4MTVQdFlJdlFfRndlaHpWVTVpeE5mRzRwOExFZU82bUFIbVFqN2ltX1dEaXZOcDdlWEV5Q2JMODlNUmM4MnBmak43RFk0Rkk4NU5GWTF4bHV1V1JiakU5N055ZURPeW9OLWlFNk8tZG0yTmdsb0hWNzdXQnNrMWt1Zw?oc=5",
+      "source": "Fort Worth Report",
+      "summary": "Looking for a path, Landes finds counseling an inspiration Fort Worth Report",
+      "published_at": "2026-07-28T21:06:37+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nLooking for a path, Landes finds counseling an inspiration\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxPZzNMd25aelJpTlJCY2RMYUloMGQ2WkdLOW5ra0s4MTVQdFlJdlFfRndlaHpWVTVpeE5mRzRwOExFZU82bUFIbVFqN2ltX1dEaXZOcDdlWEV5Q2JMODlNUmM4MnBmak43RFk0Rkk4NU5GWTF4bHV1V1JiakU5N055ZURPeW9OLWlFNk8tZG0yTmdsb0hWNzdXQnNrMWt1Zw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "950b2375b426e521d525",
+      "title": "How To Listen To WBAP Live On The Dallas Express Website And App",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjNJRlNGdnpSRzA4LTFzRWpBSWcyV29BTTJZWXo3R1RJUmdCeEpHakE5RVhzNDNZOUlnYlpqTzg2Vmd6VmhFZkgwMmxyYjFSMGlYeWRnYTdvX2FaN2hPQVlYVHZXNlBvSWYyUjhhcU9Pc2hDWWZReFBJSlBLVFFzMGZxZWdlYm9vNnJTcTRCdmFRQXpjTlZPNEg2bjdGblVrdGhDd2kwRkNFbkdw?oc=5",
+      "source": "Dallas Express",
+      "summary": "How To Listen To WBAP Live On The Dallas Express Website And App Dallas Express",
+      "published_at": "2026-07-28T21:03:58+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nHow To Listen To WBAP Live On The Dallas Express Website And App\n\nSource: Dallas Express\nRead more: https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjNJRlNGdnpSRzA4LTFzRWpBSWcyV29BTTJZWXo3R1RJUmdCeEpHakE5RVhzNDNZOUlnYlpqTzg2Vmd6VmhFZkgwMmxyYjFSMGlYeWRnYTdvX2FaN2hPQVlYVHZXNlBvSWYyUjhhcU9Pc2hDWWZReFBJSlBLVFFzMGZxZWdlYm9vNnJTcTRCdmFRQXpjTlZPNEg2bjdGblVrdGhDd2kwRkNFbkdw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "82f2b823e338b1c77c38",
+      "title": "Jerry Jones: Cowboys willing to trade 'top pick' for added 'firepower' in 2026",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFVvVVNCaDFtS1Y4RVV2WUN5UU9YMENEamd4S1RlOTQyZERPNlYxdXpfSGRVSU1saFF3eVJhWE5heGNYR0xSRV9kYWx1blZpejg4b3RLMXB6VXFCdjdUS3gwcFZpWFprVmNSYzVVTlhBVGVGazcyTU9PNl9jNEk2aHVlSmpzVjRQNXB6Zy1pai1yX1JySXpYaEFOa29SZnBaNFlzbHRaZWk5RUVo?oc=5",
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "summary": "Jerry Jones: Cowboys willing to trade 'top pick' for added 'firepower' in 2026 Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "published_at": "2026-07-28T20:53:00+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nJerry Jones: Cowboys willing to trade 'top pick' for added 'firepower' in 2026\n\nSource: Dallas Cowboys | Official Site of the Dallas Cowboys\nRead more: https://news.google.com/rss/articles/CBMirAFBVV95cUxQOFVvVVNCaDFtS1Y4RVV2WUN5UU9YMENEamd4S1RlOTQyZERPNlYxdXpfSGRVSU1saFF3eVJhWE5heGNYR0xSRV9kYWx1blZpejg4b3RLMXB6VXFCdjdUS3gwcFZpWFprVmNSYzVVTlhBVGVGazcyTU9PNl9jNEk2aHVlSmpzVjRQNXB6Zy1pai1yX1JySXpYaEFOa29SZnBaNFlzbHRaZWk5RUVo?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "3890ed803ee1a1340bf9",
+      "title": "What new spending did FWISD managers approve in July? Fire alarms, roof repairs and more",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTk5TVBRUXdEUTRkNGs0V0R1dUJ1TXVuOTJ3Q3k3OFlWeTAxaDktWWJpSUd4bVY4TGE5S3JmRC02QnRRWmpkR2paampTbDZSaS1IX2Yxc01tcDB5M3R1Si03LVp1QkRRTEN6VFJHZHE0S1NYZnBIYVRXck9EVkxQUEZkWmh5RkFfQjR1eXdZZnBjT1VXZkd6OFgyOTNLLWVhTjljUUxpQVlNa3BtVm4wY1J6S2pJWDZrd1BaYi10RmdTVTZT?oc=5",
+      "source": "Fort Worth Report",
+      "summary": "What new spending did FWISD managers approve in July? Fire alarms, roof repairs and more Fort Worth Report",
+      "published_at": "2026-07-28T20:49:24+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nWhat new spending did FWISD managers approve in July? Fire alarms, roof repairs and more\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMixAFBVV95cUxPdTk5TVBRUXdEUTRkNGs0V0R1dUJ1TXVuOTJ3Q3k3OFlWeTAxaDktWWJpSUd4bVY4TGE5S3JmRC02QnRRWmpkR2paampTbDZSaS1IX2Yxc01tcDB5M3R1Si03LVp1QkRRTEN6VFJHZHE0S1NYZnBIYVRXck9EVkxQUEZkWmh5RkFfQjR1eXdZZnBjT1VXZkd6OFgyOTNLLWVhTjljUUxpQVlNa3BtVm4wY1J6S2pJWDZrd1BaYi10RmdTVTZT?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "46c34e1a956eec9b0dcd",
+      "title": "Former Prince George’s County cop and DC man arrested in Arlington auto fraud probe",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQWGlrT24xaFhRZGFzVy05ei1mbmtWY3NpZFdxQnhZUEZiVG9ld0pvdTlQekhKMTRPWHRLdnRNWF9wa2VJeW5MU2N5S0M3VU54aDhHWWw1ai1ZZVRMaUd1eDB6bEZVUl9mSXJKS1A5aUdlNF9ESmptT1U5TmpwakQzckthdEZOTzMycjF2TFEzMUtvNksyM1IzdTZzVUpQWDFGM0FFQzZmbGZLOEhyR2pTRElmSFd6bjZWa29OZHVDUWxMWE95cVh4NEZFUWUtWjVIdDBqRHUtN09pamdNTGNTalZiUmJYM3RPWThadnlnV0FKLWxuS1QwNWJpa3o5TVp1UkR6ZjY4b2V5QWtCQmEtSUlRNVR4UnNZanhxUVh3OThGLXVoQmhGVHBtRVQ?oc=5",
+      "source": "WJLA",
+      "summary": "Former Prince George’s County cop and DC man arrested in Arlington auto fraud probe WJLA",
+      "published_at": "2026-07-28T20:38:41+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nFormer Prince George’s County cop and DC man arrested in Arlington auto fraud probe\n\nSource: WJLA\nRead more: https://news.google.com/rss/articles/CBMirAJBVV95cUxQWGlrT24xaFhRZGFzVy05ei1mbmtWY3NpZFdxQnhZUEZiVG9ld0pvdTlQekhKMTRPWHRLdnRNWF9wa2VJeW5MU2N5S0M3VU54aDhHWWw1ai1ZZVRMaUd1eDB6bEZVUl9mSXJKS1A5aUdlNF9ESmptT1U5TmpwakQzckthdEZOTzMycjF2TFEzMUtvNksyM1IzdTZzVUpQWDFGM0FFQzZmbGZLOEhyR2pTRElmSFd6bjZWa29OZHVDUWxMWE95cVh4NEZFUWUtWjVIdDBqRHUtN09pamdNTGNTalZiUmJYM3RPWThadnlnV0FKLWxuS1QwNWJpa3o5TVp1UkR6ZjY4b2V5QWtCQmEtSUlRNVR4UnNZanhxUVh3OThGLXVoQmhGVHBtRVQ?oc=5\n\nTexas News Roundup"
+    },
     {
       "id": "e88a83ab3e754adc8830",
       "title": "Former Prince George’s County cop and DC man arrested in Arlington auto fraud probe",
@@ -25,6 +553,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "🔴 BREAKING — DFW\n\nNews | Dallas suburb approves incentives to lure headquarters of Daisy Brand\n\nSource: CoStar\nRead more: https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjRvT1ZDd0JmTEJGOVJpbFpNQU81elpyVm1raTIxaXduel9KemJQU0U2SnJ6NnlPMUVTOHJZRnFSZm9TVmd2cmxjdmI2WTN3SmM1cWJEeExFRWtJYjFTcGFDWWM3ajNDaVA2VGxxRndDOUJqMUYySlJ4UHJBUUtPVllGQUowODZicldERzV4MWFfN213aG1SajUxMWk0bGlBNVZKQlNTYmh6WlVxbVcybQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ff66b96abf51516d3ddb",
+      "title": "Truc Manh Nguyen – April 7, 1967 – July 22, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlZIVUtNMEpzQU52QUJzSkVER3IzQjBsVG5QVmczd0hiTVRKMFFDVi1KNC1FYXIwVGNtOUxGNW5BS2dwdnB0eENQVExmb2gyS3gza216c19mMmR4ZkQyNHZwbDhWSEdWSnZjc1RpMHYzckFMSHUxOURBRHAzMU1jQnk2UkdtU3BoZGc?oc=5",
+      "source": "Fort Worth Report",
+      "summary": "Truc Manh Nguyen – April 7, 1967 – July 22, 2026 Fort Worth Report",
+      "published_at": "2026-07-28T20:28:51+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nTruc Manh Nguyen – April 7, 1967 – July 22, 2026\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlZIVUtNMEpzQU52QUJzSkVER3IzQjBsVG5QVmczd0hiTVRKMFFDVi1KNC1FYXIwVGNtOUxGNW5BS2dwdnB0eENQVExmb2gyS3gza216c19mMmR4ZkQyNHZwbDhWSEdWSnZjc1RpMHYzckFMSHUxOURBRHAzMU1jQnk2UkdtU3BoZGc?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "1de2f97499f48ebc056d",
@@ -51,28 +591,64 @@
       "caption": "🏟️ SPORTS — DFW\n\nCowboys Overtime: Over or under? Predicting Dallas' season and key camp battles (Video)\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMigwFBVV95cUxNbDh4c0VSQzlzU1NiMDlkVWZKamZKMF9DZmNONzRybzRTVGE0NGlWdnlRQUxxSUtYWUpTaXlGY2ZfQXQ3UHhrdHIzeHZqUWF2VkdxSU5PS3Qzdm5taHVrVkZReWliSWMtNDMwS2FxVmFXYzBneTFPcUpvTUpibUU3MGg1TQ?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "ebe95d6d968341df51dd",
+      "title": "Texas FFA Members Serve Fort Worth Community During Annual State Convention",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXh0RW03ZmExQWdCRUM5dTNheFJQeDhjS2JsbEpXTnF3Y0I5c0VYenEyQ25FdU5tcV9DTWxKdk1LY0FfQVB5Rkx6b2VpbloyQzQ5UUNnbDloSDVCVG9YdDV5NzRqY3dVQTVPaktKNUZxUzFtNTY5RFJ3VEZzd2g0LS1aQTRLY3Q1NmhpelFkazNNZTFBQnd6RXJGMUdJcm5RblJhUXZKLU52Vnc?oc=5",
+      "source": "Morning Ag Clips",
+      "summary": "Texas FFA Members Serve Fort Worth Community During Annual State Convention Morning Ag Clips",
+      "published_at": "2026-07-28T20:25:39+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nTexas FFA Members Serve Fort Worth Community During Annual State Convention\n\nSource: Morning Ag Clips\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXh0RW03ZmExQWdCRUM5dTNheFJQeDhjS2JsbEpXTnF3Y0I5c0VYenEyQ25FdU5tcV9DTWxKdk1LY0FfQVB5Rkx6b2VpbloyQzQ5UUNnbDloSDVCVG9YdDV5NzRqY3dVQTVPaktKNUZxUzFtNTY5RFJ3VEZzd2g0LS1aQTRLY3Q1NmhpelFkazNNZTFBQnd6RXJGMUdJcm5RblJhUXZKLU52Vnc?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ff441300fa426cf5c170",
+      "title": "Suspect in Forney shooting cut ankle monitor off",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PTl80bEFJLXZWcEFLeldLVVJmMnlwdzJ5SFpLTWlmZW5xMVk0aHRwendhcUZOQlNKMmI1ZFUyWktOMFpiVTI0Nl9tV3ZoOVhoUmN2M1pFT2lIUldoOWRKbURic3hWWm1S0gFuQVVfeXFMT3VsSVlfOE9qdjVkTlVDLTh2dC1MbW55Z3l3VHEzcHBRTU01c2NzbnJpTjZ1alhNY3F0aWxNbC0yNkUyNkpuR25hc3FmZXdILTdaWGZxNUFXYm5CUGwwdGpoREItS2Y1Wkw4bkxaWlE?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Suspect in Forney shooting cut ankle monitor off FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-07-28T20:13:07+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nSuspect in Forney shooting cut ankle monitor off\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PTl80bEFJLXZWcEFLeldLVVJmMnlwdzJ5SFpLTWlmZW5xMVk0aHRwendhcUZOQlNKMmI1ZFUyWktOMFpiVTI0Nl9tV3ZoOVhoUmN2M1pFT2lIUldoOWRKbURic3hWWm1S0gFuQVVfeXFMT3VsSVlfOE9qdjVkTlVDLTh2dC1MbW55Z3l3VHEzcHBRTU01c2NzbnJpTjZ1alhNY3F0aWxNbC0yNkUyNkpuR25hc3FmZXdILTdaWGZxNUFXYm5CUGwwdGpoREItS2Y1Wkw4bkxaWlE?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "5389c27a16265b789b53",
       "title": "Dallas County is growing. Property tax documents point to where",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEFZeEYzTTBWR3RqZWtIVXZkY1d4bGxYSm5Ydl8zOTMtQnA4S0RrTXAwMk82TXdjMUtiSWs1MjFQTzZuVG9SWFRrc3ZBemdmYlF4aGw4b3Bna3lqbm1YS1liS3J0Wm9IVmxlRnhON1JPWjQwVE9jeXhLTmlMTVk5RV9sYVAtWThsTXBDUzVMMmx2ZEg1d1lrbGVXSWpKUnhnZUlLY3BhdXFKT2hZZHRMUkFKWFI4dmJTMFE?oc=5",
       "source": "Dallas News",
       "summary": "Dallas County is growing. Property tax documents point to where Dallas News",
       "published_at": "2026-07-28T20:09:56+00:00",
-      "category": "Breaking",
+      "category": "Community",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nDallas County is growing. Property tax documents point to where\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEFZeEYzTTBWR3RqZWtIVXZkY1d4bGxYSm5Ydl8zOTMtQnA4S0RrTXAwMk82TXdjMUtiSWs1MjFQTzZuVG9SWFRrc3ZBemdmYlF4aGw4b3Bna3lqbm1YS1liS3J0Wm9IVmxlRnhON1JPWjQwVE9jeXhLTmlMTVk5RV9sYVAtWThsTXBDUzVMMmx2ZEg1d1lrbGVXSWpKUnhnZUlLY3BhdXFKT2hZZHRMUkFKWFI4dmJTMFE?oc=5\n\nTexas News Roundup"
+      "caption": "📍 COMMUNITY — DFW\n\nDallas County is growing. Property tax documents point to where\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiugFBVV95cUxOOEFZeEYzTTBWR3RqZWtIVXZkY1d4bGxYSm5Ydl8zOTMtQnA4S0RrTXAwMk82TXdjMUtiSWs1MjFQTzZuVG9SWFRrc3ZBemdmYlF4aGw4b3Bna3lqbm1YS1liS3J0Wm9IVmxlRnhON1JPWjQwVE9jeXhLTmlMTVk5RV9sYVAtWThsTXBDUzVMMmx2ZEg1d1lrbGVXSWpKUnhnZUlLY3BhdXFKT2hZZHRMUkFKWFI4dmJTMFE?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "2459fca8d725c2b0f295",
-      "title": "Plano approves drone as first responder program, joining other D-FW cities",
+      "id": "39577c3646b2d98a1343",
+      "title": "4 Dallas Cowboys Trade Targets After Jerry Jones Admits To Recent Discussions",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0RRb3hyYVBCUElKaUFaQTBiQUpZV1FrVmloWnYxUFRBWWJyNzV2REFUem12UnZZemVlNUlNNVFBVDA5cnRodDJfemJfdGdsS1RwOGdoRDRSb0RXNnoteHh5WU5CLTRrb0JOdXppMWtKNFBXX0Y4a0NzLU5PNldnSXAta3BlUQ?oc=5",
+      "source": "Yahoo Sports",
+      "summary": "4 Dallas Cowboys Trade Targets After Jerry Jones Admits To Recent Discussions Yahoo Sports",
+      "published_at": "2026-07-28T20:07:41+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n4 Dallas Cowboys Trade Targets After Jerry Jones Admits To Recent Discussions\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMihgFBVV95cUxQM0RRb3hyYVBCUElKaUFaQTBiQUpZV1FrVmloWnYxUFRBWWJyNzV2REFUem12UnZZemVlNUlNNVFBVDA5cnRodDJfemJfdGdsS1RwOGdoRDRSb0RXNnoteHh5WU5CLTRrb0JOdXppMWtKNFBXX0Y4a0NzLU5PNldnSXAta3BlUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b31ed2cd2c0f4c4bcf64",
+      "title": "Plano approves drone-first emergency response program, joining other D-FW cities",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVllLTUlVSGVxTEZpczJOQ1pTZ1JzZmxJOW9QeVkwWWM2SThUTlRZeVBKUGM5cXdHaG1aY2I0clJpTHlzV3d0VjRvQ1I3YXRDZFZJZWlMT3Ryc18ydlRjUTluVFBHbGE1Y3MyZFZydzY5Q2JqTWhEcDEtcVhoaEpPcWt0T1MwQ0pGeVlXeDRWbHRQWDJ6SmRTaEgyMEdKWVF3VTRwMUFzampPSXEwT082MzFn?oc=5",
       "source": "Dallas News",
-      "summary": "Plano approves drone as first responder program, joining other D-FW cities Dallas News",
+      "summary": "Plano approves drone-first emergency response program, joining other D-FW cities Dallas News",
       "published_at": "2026-07-28T20:01:29+00:00",
       "category": "Police",
       "thumbnail": "",
       "official": false,
-      "caption": "🚨 POLICE — DFW\n\nPlano approves drone as first responder program, joining other D-FW cities\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxNVllLTUlVSGVxTEZpczJOQ1pTZ1JzZmxJOW9QeVkwWWM2SThUTlRZeVBKUGM5cXdHaG1aY2I0clJpTHlzV3d0VjRvQ1I3YXRDZFZJZWlMT3Ryc18ydlRjUTluVFBHbGE1Y3MyZFZydzY5Q2JqTWhEcDEtcVhoaEpPcWt0T1MwQ0pGeVlXeDRWbHRQWDJ6SmRTaEgyMEdKWVF3VTRwMUFzampPSXEwT082MzFn?oc=5\n\nTexas News Roundup"
+      "caption": "🚨 POLICE — DFW\n\nPlano approves drone-first emergency response program, joining other D-FW cities\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxNVllLTUlVSGVxTEZpczJOQ1pTZ1JzZmxJOW9QeVkwWWM2SThUTlRZeVBKUGM5cXdHaG1aY2I0clJpTHlzV3d0VjRvQ1I3YXRDZFZJZWlMT3Ryc18ydlRjUTluVFBHbGE1Y3MyZFZydzY5Q2JqTWhEcDEtcVhoaEpPcWt0T1MwQ0pGeVlXeDRWbHRQWDJ6SmRTaEgyMEdKWVF3VTRwMUFzampPSXEwT082MzFn?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "3d67b7e897c645881dec",
@@ -97,42 +673,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🔴 BREAKING — DFW\n\nCity of Dallas Officially Raises the Disability Pride Flag\n\nSource: Dallas City News\nRead more: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aekVrZzIzQU1XYXBOMjF3M0ZuRVFjT3B5VndnVnhsMzlnNlkzM0JGUTlLZHRCdjllRzNtZDNfNlN3bW9XV21nSndiYmIxU2RtWjh4NjJQVFFtUQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "567c6f7c8574d8d18f99",
-      "title": "Truist begins DFW branch expansion as bank chases ‘more than fair share’ of deposits",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVktVXNpbTJmU2VqOE9HUkFNdGwwZkFEeGtWT2hCNVREd285TXFkTGUwLU4tMWRtanlISEhndWhyVGdaZ3Q5bFFOWmxlZjlsVW96U3dET1pqdFBwNWtYelFha1BTODRacGYzN3I5akp5V3dwTEJpT25kTUIzTmRIYVpxeHdMVTkxMzI0?oc=5",
-      "source": "The Business Journals",
-      "summary": "Truist begins DFW branch expansion as bank chases ‘more than fair share’ of deposits The Business Journals",
-      "published_at": "2026-07-28T19:51:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nTruist begins DFW branch expansion as bank chases ‘more than fair share’ of deposits\n\nSource: The Business Journals\nRead more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVktVXNpbTJmU2VqOE9HUkFNdGwwZkFEeGtWT2hCNVREd285TXFkTGUwLU4tMWRtanlISEhndWhyVGdaZ3Q5bFFOWmxlZjlsVW96U3dET1pqdFBwNWtYelFha1BTODRacGYzN3I5akp5V3dwTEJpT25kTUIzTmRIYVpxeHdMVTkxMzI0?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "26e2adfb1249593bdf78",
-      "title": "Plano council approves drone program, erosion control funds",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWs0QnhoLWZlWEdVbjJROXRNSm9QZFE0ZFRkOERDX01JcGpNWmowa2twNnFZN1FyUnVFSnFYWXN3MVhyUzRzcWJWOVlIeDNBcjVHcEZfVS1zd3RMTk1JNFNHR2tnMkJYRXgwWEVVLVdTa1d5eC1Ca1pzX1hueFVrSTU3TmhVcHNDNUpBT2xzanJCZkpZZk1Gb24wd0dnNHJ3VmhucUR3bHViNjRoYmN2V0Z1RkYxYV9OWXVqMUFSbF9QY1lCeS1MN252dWROczhkX0RxZG1fSld4emxoM19kWXkzRnlkbWND?oc=5",
-      "source": "Star Local Media",
-      "summary": "Plano council approves drone program, erosion control funds Star Local Media",
-      "published_at": "2026-07-28T19:50:18+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nPlano council approves drone program, erosion control funds\n\nSource: Star Local Media\nRead more: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWs0QnhoLWZlWEdVbjJROXRNSm9QZFE0ZFRkOERDX01JcGpNWmowa2twNnFZN1FyUnVFSnFYWXN3MVhyUzRzcWJWOVlIeDNBcjVHcEZfVS1zd3RMTk1JNFNHR2tnMkJYRXgwWEVVLVdTa1d5eC1Ca1pzX1hueFVrSTU3TmhVcHNDNUpBT2xzanJCZkpZZk1Gb24wd0dnNHJ3VmhucUR3bHViNjRoYmN2V0Z1RkYxYV9OWXVqMUFSbF9QY1lCeS1MN252dWROczhkX0RxZG1fSld4emxoM19kWXkzRnlkbWND?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a28448d45789a5f2fccb",
-      "title": "North Texas memorial service announced for fallen soldier Isabella Gonzales",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN010ZHRWWFNfa1RPTnBOdDZFaldIRHBqMDkwbFlaajhOS1J5NGRxOGhScDNya3FidTJSMVdHMGkxUDZLT3J0RkllaUdxSVpYTGNwZC1ocEpqVUhma0xhUlJPS1F1MkZUc3pzOGZ4bi04SVBkcm41d0x5R3B1ZW03RkY0Z3lsc04xcTlvQktTZEVGaDctZXpYSWg0aGRrcHAzSzNrMGZjc2Vtd3htQUtZZE4yd2E3R1hUUlpveWRYQXBXSjhVbDBGWXo5YlV2bTN5MVlGSEhzN1lsM0tTZ3ZUQ3luYldxbjNKb3lCRVF2cFJqVXFYV3I1cFVkVWI?oc=5",
-      "source": "WFAA",
-      "summary": "North Texas memorial service announced for fallen soldier Isabella Gonzales WFAA",
-      "published_at": "2026-07-28T19:46:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nNorth Texas memorial service announced for fallen soldier Isabella Gonzales\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPN010ZHRWWFNfa1RPTnBOdDZFaldIRHBqMDkwbFlaajhOS1J5NGRxOGhScDNya3FidTJSMVdHMGkxUDZLT3J0RkllaUdxSVpYTGNwZC1ocEpqVUhma0xhUlJPS1F1MkZUc3pzOGZ4bi04SVBkcm41d0x5R3B1ZW03RkY0Z3lsc04xcTlvQktTZEVGaDctZXpYSWg0aGRrcHAzSzNrMGZjc2Vtd3htQUtZZE4yd2E3R1hUUlpveWRYQXBXSjhVbDBGWXo5YlV2bTN5MVlGSEhzN1lsM0tTZ3ZUQ3luYldxbjNKb3lCRVF2cFJqVXFYV3I1cFVkVWI?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "0ae5587ef92cd208de26",
@@ -183,18 +723,6 @@
       "caption": "🚧 TRAFFIC — DFW\n\nBernardino Torres Jr. Obituary (2026) - Dallas, TX - Aria Cremation Service and Funeral Home - Northwest Highway\n\nSource: Legacy obituary\nRead more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDlLaXlTTFkyRWQzR1ZzWmhCeGVJTXhjSkhncFN4RlVmcGNPUEQzSzNFVXhvM1pITGVMN0F4SUJsM3JSU0U5dFZ5UDZBb1JYVFRaVm5OU19XNWg2ODhKNFlySl9MZVRZdHNLSlpkY0JvTGZ6U2NYNThINkZrT2pMbEFZd3hlZm40T0o0?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "9c9d3c4e7b1a4163da32",
-      "title": "Dallas energy producer grows oil and gas profile with 2 deals, over 30K acres",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZQamRZVTJrUlZNaE5HTnBvdU5oWTVWQzg2S3dZLUtMaUtqOUF0ejc1NnhCQkp2TXhlTEhzVVRieUZnVWhXQTdYb29JcERTQ2RwMzdfOWtjdXU0c2FVU0ZVSUl4QkJ1M2ZiRUJZM0VOaFBTa2Q3VUpNRXZ5OGpNX1I5Y1VfMjRHd2syUVVvaW9pUHhOeFVMNC1PU1h6WHVzTFVmV0d3amNWSHI0SkxZ?oc=5",
-      "source": "Dallas News",
-      "summary": "Dallas energy producer grows oil and gas profile with 2 deals, over 30K acres Dallas News",
-      "published_at": "2026-07-28T19:29:57+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nDallas energy producer grows oil and gas profile with 2 deals, over 30K acres\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMirwFBVV95cUxQOTZQamRZVTJrUlZNaE5HTnBvdU5oWTVWQzg2S3dZLUtMaUtqOUF0ejc1NnhCQkp2TXhlTEhzVVRieUZnVWhXQTdYb29JcERTQ2RwMzdfOWtjdXU0c2FVU0ZVSUl4QkJ1M2ZiRUJZM0VOaFBTa2Q3VUpNRXZ5OGpNX1I5Y1VfMjRHd2syUVVvaW9pUHhOeFVMNC1PU1h6WHVzTFVmV0d3amNWSHI0SkxZ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "97a12b93293a1ababfe9",
       "title": "Dallas Cowboys begin training camp with no injured players on the roster",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTG9OMGNraE9IRDVSSElVWWJESm1xZk9OanRsSUctTTFBWmUzNUdkQWdUQXRGdkstLXRPQzczM05yYm9EeDl5TDJXUkllR2twVlJqSklJdXdpNkJUY0psRDROa1VBaENpSzJLUFFLQkFiWmlpNzFMU3Y3TUdjWFVBdmYzQdIBgwFBVV95cUxONTBzZE9fNk0tN2JZdHlsSW0ySTREXzNNZUNnWE9fOWVSR2VsVTkzTERQRkRpQ0JWSEQ2RnFzSHJ4YU5ZZ3hUU3NWaHpJenJyQWRtT3ZTaVhaOThMQTdWb1JOclpYSGF3S1lTSU5Gelg0M29US3l6ZXZFMXRtQlByR1ZzQQ?oc=5",
@@ -219,18 +747,6 @@
       "caption": "🚧 TRAFFIC — DFW\n\n8 indicted on sex trafficking charges after Paris Adult Book Store raid in Dallas\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMid0FVX3lxTFB2NjBIQm1RVjhsY0pZNDVIRTBPRjQ5M3UyZHY0aHJMTzNpNjVNeG5ka3hadTlIaXFhb2hDVmVQNnk3cFNNMWZ1Z3FwbVVwbUs0MmZENEFzcmFJd0Y0bFRJOTIyNzkxWFRMUjcxbTZMaVo2c0lma0JB0gF3QVVfeXFMTU5yZDE0TlVHaW52Tm5BdGFPSENzZlJpb0JibGtBUG9ETlU2SXJtM1poVjQtQ1RlOHV5UUs5QlZfNFRZNHB5dExqb3RKMWplZ0JoX1dMdG54c3BuVVZvNzc4SHNyTE90M055ejZKaHUxTFFhVkpDeVk?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "883a0f3a126abbec1ce1",
-      "title": "FIFA World Cup is over. What North Texas learned about transportation",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVdiSXQxSVNaWGthMUZueWwxRlJpMDM3X3dnNERBSUM5TW9IdzdQNGZ1V090YU1SWmpLV0NHN1JtOXpDa0ZMWVc4c1JhSEdFaE81NndiSjRpUDhZZDQ2TXF3UHJzS0gybVZqSTB1Ums4QmRzU04wTnV6amVxN3pFelZYa3pRNV95OEs3aVdUMzBwa1NMaURMenhDa0VxMmZFdUNmMnRUMEg2bXRadXln?oc=5",
-      "source": "Dallas News",
-      "summary": "FIFA World Cup is over. What North Texas learned about transportation Dallas News",
-      "published_at": "2026-07-28T19:07:35+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nFIFA World Cup is over. What North Texas learned about transportation\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVdiSXQxSVNaWGthMUZueWwxRlJpMDM3X3dnNERBSUM5TW9IdzdQNGZ1V090YU1SWmpLV0NHN1JtOXpDa0ZMWVc4c1JhSEdFaE81NndiSjRpUDhZZDQ2TXF3UHJzS0gybVZqSTB1Ums4QmRzU04wTnV6amVxN3pFelZYa3pRNV95OEs3aVdUMzBwa1NMaURMenhDa0VxMmZFdUNmMnRUMEg2bXRadXln?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "3a761a95747e63d51f49",
       "title": "Here's why these Dallas students are headed back to school in July",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUo2aFZjdVNPcGt4NDV5YmxqbFB6b1ZtbmFGaDUtRndjc3IwcTNUVUhhQUpRd0liMnJSNlhKSFRyalYwejVZR3dnak1qejl2aGlmMHRYTGM3N0l2QVBHUzNSVmk0VG4zcGJydkE3bld6bmQ3QkVCX2hhbTJmTjlmbDYzM0ozUE9wa212MVllcG5fRUNZb2s0?oc=5",
@@ -243,6 +759,30 @@
       "caption": "🔴 BREAKING — DFW\n\nHere's why these Dallas students are headed back to school in July\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMilwFBVV95cUxNcUo2aFZjdVNPcGt4NDV5YmxqbFB6b1ZtbmFGaDUtRndjc3IwcTNUVUhhQUpRd0liMnJSNlhKSFRyalYwejVZR3dnak1qejl2aGlmMHRYTGM3N0l2QVBHUzNSVmk0VG4zcGJydkE3bld6bmQ3QkVCX2hhbTJmTjlmbDYzM0ozUE9wa212MVllcG5fRUNZb2s0?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "883a0f3a126abbec1ce1",
+      "title": "FIFA World Cup is over. What North Texas learned about transportation",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVdiSXQxSVNaWGthMUZueWwxRlJpMDM3X3dnNERBSUM5TW9IdzdQNGZ1V090YU1SWmpLV0NHN1JtOXpDa0ZMWVc4c1JhSEdFaE81NndiSjRpUDhZZDQ2TXF3UHJzS0gybVZqSTB1Ums4QmRzU04wTnV6amVxN3pFelZYa3pRNV95OEs3aVdUMzBwa1NMaURMenhDa0VxMmZFdUNmMnRUMEg2bXRadXln?oc=5",
+      "source": "Dallas News",
+      "summary": "FIFA World Cup is over. What North Texas learned about transportation Dallas News",
+      "published_at": "2026-07-28T19:07:35+00:00",
+      "category": "Traffic",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚧 TRAFFIC — DFW\n\nFIFA World Cup is over. What North Texas learned about transportation\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVdiSXQxSVNaWGthMUZueWwxRlJpMDM3X3dnNERBSUM5TW9IdzdQNGZ1V090YU1SWmpLV0NHN1JtOXpDa0ZMWVc4c1JhSEdFaE81NndiSjRpUDhZZDQ2TXF3UHJzS0gybVZqSTB1Ums4QmRzU04wTnV6amVxN3pFelZYa3pRNV95OEs3aVdUMzBwa1NMaURMenhDa0VxMmZFdUNmMnRUMEg2bXRadXln?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "fcf782d43c0afd98f76d",
+      "title": "Man Run Over After Fight And Gunfire At Dallas Gas Station",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3ZSQzFCeFk0QkRwZ1ozR1E2X3NpR3p3Slh4aHNPSFUwM053TGNnbjFQeG1pY3dyQXFrcm5feHd0b2hwb3hja0I4bEJmUlc4NldUY1lfUXluUzBHUEpwQjVVandtbE96Z3ZyLW44NERPcmZ6S1NMckN5eGg2S2JxOHhWXzQ?oc=5",
+      "source": "onscene.tv",
+      "summary": "Man Run Over After Fight And Gunfire At Dallas Gas Station onscene.tv",
+      "published_at": "2026-07-28T19:06:39+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nMan Run Over After Fight And Gunfire At Dallas Gas Station\n\nSource: onscene.tv\nRead more: https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3ZSQzFCeFk0QkRwZ1ozR1E2X3NpR3p3Slh4aHNPSFUwM053TGNnbjFQeG1pY3dyQXFrcm5feHd0b2hwb3hja0I4bEJmUlc4NldUY1lfUXluUzBHUEpwQjVVandtbE96Z3ZyLW44NERPcmZ6S1NMckN5eGg2S2JxOHhWXzQ?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "d721dd153758b435b154",
       "title": "8 people indicted in alleged sex trafficking enterprise at northwest Dallas adult novelty store",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmRPc3RNQjJMUWNlb0VHUUFZT1hiSy1EUWF0MTZUN3ducTBndHhNTzl4NjBNZHlTN2lzRVJBT19zdXVJWTZhdGliR0FzeUZ1d2MxNS1xWEhib1ZaVWoybmtfNV92TnlmdTFGVG9wY0t4QUc4dHBrSDlVTkhnYkV1MmFHVTI5My1raXM2NjNYenFhaVYzMlZyY2pXV2IzR3NLMzlVdU5ZTVU0NTNy?oc=5",
@@ -253,30 +793,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚧 TRAFFIC — DFW\n\n8 people indicted in alleged sex trafficking enterprise at northwest Dallas adult novelty store\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMirAFBVV95cUxQNmRPc3RNQjJMUWNlb0VHUUFZT1hiSy1EUWF0MTZUN3ducTBndHhNTzl4NjBNZHlTN2lzRVJBT19zdXVJWTZhdGliR0FzeUZ1d2MxNS1xWEhib1ZaVWoybmtfNV92TnlmdTFGVG9wY0t4QUc4dHBrSDlVTkhnYkV1MmFHVTI5My1raXM2NjNYenFhaVYzMlZyY2pXV2IzR3NLMzlVdU5ZTVU0NTNy?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "fcf782d43c0afd98f76d",
-      "title": "Man Run Over After Fight And Gunfire At Dallas Gas Station",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3ZSQzFCeFk0QkRwZ1ozR1E2X3NpR3p3Slh4aHNPSFUwM053TGNnbjFQeG1pY3dyQXFrcm5feHd0b2hwb3hja0I4bEJmUlc4NldUY1lfUXluUzBHUEpwQjVVandtbE96Z3ZyLW44NERPcmZ6S1NMckN5eGg2S2JxOHhWXzQ?oc=5",
-      "source": "onscene.tv",
-      "summary": "Man Run Over After Fight And Gunfire At Dallas Gas Station onscene.tv",
-      "published_at": "2026-07-28T19:00:57+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nMan Run Over After Fight And Gunfire At Dallas Gas Station\n\nSource: onscene.tv\nRead more: https://news.google.com/rss/articles/CBMihAFBVV95cUxQd3ZSQzFCeFk0QkRwZ1ozR1E2X3NpR3p3Slh4aHNPSFUwM053TGNnbjFQeG1pY3dyQXFrcm5feHd0b2hwb3hja0I4bEJmUlc4NldUY1lfUXluUzBHUEpwQjVVandtbE96Z3ZyLW44NERPcmZ6S1NMckN5eGg2S2JxOHhWXzQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "68aa6d28a9bd6da8dc59",
-      "title": "Texas Service Sector Continues Growth in July as Business Outlook Improves, Dallas Fed says",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUI0YXlMYUJLRDNuSjhXNERleE5PSjZVWDJDcDNXWWhrU2RZU1lEbERHMHI4UFk1UjZWOW43ZWJNaXkyN3YyZHBEeFpabFVIY2VJekFFX05YcE5OUlJXVnR5WjBPOTlDQ3dDRXVOWERsV3JvZDBVNmwxbXFaaUg4RGpBZXl3WTJFeFJqd1dNR3AxRkIza3c?oc=5",
-      "source": "Fort Worth Inc.",
-      "summary": "Texas Service Sector Continues Growth in July as Business Outlook Improves, Dallas Fed says Fort Worth Inc.",
-      "published_at": "2026-07-28T19:00:07+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nTexas Service Sector Continues Growth in July as Business Outlook Improves, Dallas Fed says\n\nSource: Fort Worth Inc.\nRead more: https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUI0YXlMYUJLRDNuSjhXNERleE5PSjZVWDJDcDNXWWhrU2RZU1lEbERHMHI4UFk1UjZWOW43ZWJNaXkyN3YyZHBEeFpabFVIY2VJekFFX05YcE5OUlJXVnR5WjBPOTlDQ3dDRXVOWERsV3JvZDBVNmwxbXFaaUg4RGpBZXl3WTJFeFJqd1dNR3AxRkIza3c?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "11d395e2d3058bb8e1e2",
@@ -309,10 +825,10 @@
       "source": "Dallas News",
       "summary": "Some of Dallas rapper Yella Beezy's lyrics will be allowed in murder trial, judge rules Dallas News",
       "published_at": "2026-07-28T18:47:04+00:00",
-      "category": "Breaking",
+      "category": "Police",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nSome of Dallas rapper Yella Beezy's lyrics will be allowed in murder trial, judge rules\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVdPZTN4d1hYZExXUFJtS0kzQWktUlFhVmFHSTZMWVZaRzJ1SnA4Tm1uM3dRZGhDTjBKR0xzUDJUM0U1UWFoMW4zbGRvbWMzQV9NUzlYUzlmVlMzc1ZyN0VCUjlXWW5UVHI3bEJPVVB1b0xLY0NOcVRQSVJZZ1RKVmc2YzJsOWo3OTB0bHh0cmpvN0M0MjFkUngyMS0?oc=5\n\nTexas News Roundup"
+      "caption": "🚨 POLICE — DFW\n\nSome of Dallas rapper Yella Beezy's lyrics will be allowed in murder trial, judge rules\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVdPZTN4d1hYZExXUFJtS0kzQWktUlFhVmFHSTZMWVZaRzJ1SnA4Tm1uM3dRZGhDTjBKR0xzUDJUM0U1UWFoMW4zbGRvbWMzQV9NUzlYUzlmVlMzc1ZyN0VCUjlXWW5UVHI3bEJPVVB1b0xLY0NOcVRQSVJZZ1RKVmc2YzJsOWo3OTB0bHh0cmpvN0M0MjFkUngyMS0?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "52e0031b6ebd9b3a912d",
@@ -327,18 +843,6 @@
       "caption": "🔴 BREAKING — DFW\n\nTribCast: Should we be worried about Dallas?\n\nSource: The Texas Tribune\nRead more: https://news.google.com/rss/articles/CBMifEFVX3lxTE93dXBPcGZVT3dITzByckhaSGVHRVh2SE1sWW1CckktWTRPdHZYazlXaFY5OGhRWC1LUXlVcl9EbndpNUNVSnU5UUZjZTY3Ykx3dURSZ1lPSlhOVjByN1ozbF9IaW9fM1NvQmlWWW1DbTlOUkxpcVZMMFRvNno?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "519cc4fd0dc0962fc392",
-      "title": "TribCast: Should we be worried about Dallas?",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZklkdDJiQ2xWUTE0NENwMEVXQVpHNW1GREluQWpvS3FILUZTbG82czZMcGVpeHhlcm9VS2tEd1BnY1Z2VVdxQmdDMmJxdkxITTdnNFRfYVRaOXdqRVpHLWtPdGVRZHNsN1htLV9qWVFGQ2owcE1PNkczX0RuZm5kcGI1d0dndVZqVHZENA?oc=5",
-      "source": "News From The States",
-      "summary": "TribCast: Should we be worried about Dallas? News From The States",
-      "published_at": "2026-07-28T18:46:48+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nTribCast: Should we be worried about Dallas?\n\nSource: News From The States\nRead more: https://news.google.com/rss/articles/CBMijAFBVV95cUxQZklkdDJiQ2xWUTE0NENwMEVXQVpHNW1GREluQWpvS3FILUZTbG82czZMcGVpeHhlcm9VS2tEd1BnY1Z2VVdxQmdDMmJxdkxITTdnNFRfYVRaOXdqRVpHLWtPdGVRZHNsN1htLV9qWVFGQ2owcE1PNkczX0RuZm5kcGI1d0dndVZqVHZENA?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "44e25f83e59a7745c956",
       "title": "Former police officer arrested after Arlington auto fraud investigation",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVZHR0NrZ3R6cWNCRnFfbk1hb1lxM2pkRlltY3lLYTc5Q0k4UmlFUGdJUTJEU25tOGtBRTNqakF4MGNFU3dtZlVJR3pFaFZmU0NiNFFnYXJ4a0prTjRqZ2ZfY3BHOExONUdZU252Z0dRbXVVZk5LS3hCdmVwb1ltU3Jjb2FjTVhJb250bzFKdW5NYnRjRGtqb0hfd0lWQXRwa1h3R3JxZm5mUQ?oc=5",
@@ -349,6 +853,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nFormer police officer arrested after Arlington auto fraud investigation\n\nSource: ARLnow\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVZHR0NrZ3R6cWNCRnFfbk1hb1lxM2pkRlltY3lLYTc5Q0k4UmlFUGdJUTJEU25tOGtBRTNqakF4MGNFU3dtZlVJR3pFaFZmU0NiNFFnYXJ4a0prTjRqZ2ZfY3BHOExONUdZU252Z0dRbXVVZk5LS3hCdmVwb1ltU3Jjb2FjTVhJb250bzFKdW5NYnRjRGtqb0hfd0lWQXRwa1h3R3JxZm5mUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "377ba3e016ff4219bf1f",
+      "title": "No. 55: Dallas Cowboys wide receiver CeeDee Lamb Top 100 Players of 2026",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HN2dNM1k5T2RiYndYdU9jdy1lc3RRdGZvcWp5YmNPVnBDbEo2OGdwendTMWk5ZjdJZG5sRnVQUFQ1N2pRdXlBdlN6ZnI2ZjVILXoycndPeGhYTGppNEhrZTM3Zmk4VmlPRHVqNGxVS3g2RGtyNmtR?oc=5",
+      "source": "NFL.com",
+      "summary": "No. 55: Dallas Cowboys wide receiver CeeDee Lamb Top 100 Players of 2026 NFL.com",
+      "published_at": "2026-07-28T18:38:47+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nNo. 55: Dallas Cowboys wide receiver CeeDee Lamb Top 100 Players of 2026\n\nSource: NFL.com\nRead more: https://news.google.com/rss/articles/CBMid0FVX3lxTE5HN2dNM1k5T2RiYndYdU9jdy1lc3RRdGZvcWp5YmNPVnBDbEo2OGdwendTMWk5ZjdJZG5sRnVQUFQ1N2pRdXlBdlN6ZnI2ZjVILXoycndPeGhYTGppNEhrZTM3Zmk4VmlPRHVqNGxVS3g2RGtyNmtR?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "95caf7d245243c36ed6f",
@@ -387,18 +903,6 @@
       "caption": "📍 COMMUNITY — DFW\n\nHere are the fastest-growing neighborhoods in Tarrant, Denton counties\n\nSource: The Business Journals\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS01QN3Nuc0JGZi00enMyV1VudGZCX3NiSlkzeC0wZnN3a21OTVpGRmFVR0RJRkNOcEJlbjBIaGZnS1ZGUVM3cF9rVmZDRUpiNUpTclhobzFjTFZ4c01fanh2cmJ1RXhtU1N6aUozNTNhb21YSnNoVnZLdVk1LWJhYmdVbTVtaVpDTmx0bi1XWVZsWDNKSUgxd2Fqc01vY2l3YjFiU3g3ZmpVQQ?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "8fde7c4f9695abe5e9d5",
-      "title": "Whole Foods confirms plans for Southlake grocery store, expanding North Texas footprint",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmM3Y3Rackl0akZtX1dvclpMU01KNG55Q1lfLVFuWnlkOVFZTmxZa1ctUlZQRFZjaFpET3NWNF9RUTdsMnRnYWk3eFJYZk5TaDVzZWs5dkFTWjFibUxQem02Z0Nqb1l5WHR4Z094dFRuN0N6QkJjNnZTQzFMTWFHVUp1V3NuRGNmQXJ5Smk2SHgwRDU5OFh6cXczMmVVclktTWN5Y0ZMR1l3ZWJYbm9UcS1jaWJhUks4Nl9OOUY1Zi12ZEFOWm5sVjFPaUc5c0xtc1Vn?oc=5",
-      "source": "WFAA",
-      "summary": "Whole Foods confirms plans for Southlake grocery store, expanding North Texas footprint WFAA",
-      "published_at": "2026-07-28T18:24:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nWhole Foods confirms plans for Southlake grocery store, expanding North Texas footprint\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWmM3Y3Rackl0akZtX1dvclpMU01KNG55Q1lfLVFuWnlkOVFZTmxZa1ctUlZQRFZjaFpET3NWNF9RUTdsMnRnYWk3eFJYZk5TaDVzZWs5dkFTWjFibUxQem02Z0Nqb1l5WHR4Z094dFRuN0N6QkJjNnZTQzFMTWFHVUp1V3NuRGNmQXJ5Smk2SHgwRDU5OFh6cXczMmVVclktTWN5Y0ZMR1l3ZWJYbm9UcS1jaWJhUks4Nl9OOUY1Zi12ZEFOWm5sVjFPaUc5c0xtc1Vn?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "a366292252208fdef32e",
       "title": "Flock Camera Flags Shooter's Vehicle Near Scene, Dallas Police Make Arrest the Same Evening",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSmdFenVfeTdWRFJ1eVZtZHVqM0QtVDREOW5fY1k2WktpT2FPZndIdFNyQ3BXQUloRGtsejRfaXdtVnJYNlhjcE5nX0NkQ29YdWxTS3NzZDdCQ2ZDUm52YmZKTlJILTFraFl2LUVWQy1NWHExNkVObWloaG01aWQ1WEMwLUlfamVRUGJpSg?oc=5",
@@ -433,6 +937,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "🌪️ WEATHER — DFW\n\nCatVideoFest coming to North Texas theaters in August\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMirAFBVV95cUxOUHhGNFdyZWd6QVZ4S2oyR0dQdmtyNmptZkJlYjNoNFU3Tk11MXlKdm56UUxTY2RxZkxFcVc3T05ud2JfaG0tMTVsZmxtclk3eU9pQlNlc01ZSURRU21FM3NiT3B6RFJxNVBFTm5WNEFvYjFQM2ZhMUYwaDRjcmZNbkhTa1Z0WWZ2QzJzeXBRU2tibmFsSUtCOUxzSFJORS1XOEFIRktWSEtZeWdO0gG0AUFVX3lxTFBSTWxrRVlUc1ZuRlBueGVWNTRTbUc1Q2ZiMUJtcU45MHN4UDg2dUFSU3lEU0owNTVrVkdDTjRlSWJnUlNkMHpMY3J5TGJ3VXpHOElVNnJ3QnpTbGtENmd3OXZZN1psN0NCQnpGYnh6Z3ZqSG5vQURUUGw3Q3NhY0pLVGdZQTVHdV9VcEdaalZvTzZOYy15bjQydHc3engxTHplUHk0Ny10eWVWdW9laDc3OUdPaQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "e74fc46351b66e92d617",
+      "title": "Mexican Soccer Legend ‘Chicharito’ Becomes Atlético Dallas’ First-Ever Player",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUtPdXZiTl9McWtMTDB5SV9tN1lhMGRpeGJPZFBEVmpXcWs4TW94Sk9lWHJHSTlnS1Q2Z0Z2bTl1NVRyV2hLdVpiWFpqblk4NDVXNTZaZ1dvRHltZWFCRWNWQ0Q1OVF2akhHX1E4bHFySms1bG9GbjlFbEVvaHNWNjdqYWxwUVhVdmZ2TTJsR05fMjlQUlpncF9UaGx0eEZVQ3ZKUzVhMm5tRjFZ?oc=5",
+      "source": "Dallas Express",
+      "summary": "Mexican Soccer Legend ‘Chicharito’ Becomes Atlético Dallas’ First-Ever Player Dallas Express",
+      "published_at": "2026-07-28T18:03:58+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nMexican Soccer Legend ‘Chicharito’ Becomes Atlético Dallas’ First-Ever Player\n\nSource: Dallas Express\nRead more: https://news.google.com/rss/articles/CBMirAFBVV95cUxOeUtPdXZiTl9McWtMTDB5SV9tN1lhMGRpeGJPZFBEVmpXcWs4TW94Sk9lWHJHSTlnS1Q2Z0Z2bTl1NVRyV2hLdVpiWFpqblk4NDVXNTZaZ1dvRHltZWFCRWNWQ0Q1OVF2akhHX1E4bHFySms1bG9GbjlFbEVvaHNWNjdqYWxwUVhVdmZ2TTJsR05fMjlQUlpncF9UaGx0eEZVQ3ZKUzVhMm5tRjFZ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "67fe3091184f9c7f80aa",
@@ -471,18 +987,6 @@
       "caption": "🚨 POLICE — DFW\n\n3 new charges filed against Plano teacher accused of sexually abusing student\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1dzdHVVTzVSSDNHX2Q4RGh6RjNLaHdOMWZXYVJ2RGpnajVGR1J0RklVb1VIN01mX3JFRWlhZDUyTXd3MEJjN21Yak4zTUhrMGVPQTBKdVY1Tnd2RllTZjZOSmhtTTU3dmxXQU9ybjd2b3QtT2VmV3c1SThVMU01LWNINmJxMFpFbjl2VllvWWZ4b01wLW4wbExRc1I0anUwMHlmbkdSUmQwOWlOSGhpdzdmWFR4Q3lFVnc?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "3783d7d9c08352580dd7",
-      "title": "Texas proposes new state park southeast of Dallas",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHlQWnNiM0ZKdnlvSGdueDZ6MnBKbUVQYmswZEVtNUhkX1Q3eVVOMTRaRTB0Zm9yWHBHazI0ak5OYzQ4d0hjNW54YTVFTW1aNDdpcTlHXzlyYlQzYXVRSDljMFRCanYzWWwyVlFOQ0F5aE5LbThpY2Q1NXRJLUZEMzBWR0dJbHZJb2ZuaHJ6OWRTNlNEUGViZ2tTYnBGVmlEN2ZpNVh1TUI?oc=5",
-      "source": "Dallas News",
-      "summary": "Texas proposes new state park southeast of Dallas Dallas News",
-      "published_at": "2026-07-28T17:52:32+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nTexas proposes new state park southeast of Dallas\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOHlQWnNiM0ZKdnlvSGdueDZ6MnBKbUVQYmswZEVtNUhkX1Q3eVVOMTRaRTB0Zm9yWHBHazI0ak5OYzQ4d0hjNW54YTVFTW1aNDdpcTlHXzlyYlQzYXVRSDljMFRCanYzWWwyVlFOQ0F5aE5LbThpY2Q1NXRJLUZEMzBWR0dJbHZJb2ZuaHJ6OWRTNlNEUGViZ2tTYnBGVmlEN2ZpNVh1TUI?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "83cb0d2032adab94b831",
       "title": "Daisy Brand to leave Dallas for new Plano headquarters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYWE4Yk9vMVZmUHdpYlFTUXJjdkRzS0ZpVGhtTjNjaDdJeVJodXZ1aEtEdFFvTlQ5MWdIOUhjTGtwamVUZnpWdTcwdHJyZE9wTXUyU0lMcDhQTWFhYmVKWW1SZEtkQWwtNHNfYjN2MmZJWjJsUWQwYnVJMktWMjl2RjBDTnl4enpfYWtxaTZocUhXNnpaWjJkSUpqR3JxMDNIVy1pZGxDZk0tNmZ2Y2RaTw?oc=5",
@@ -507,112 +1011,28 @@
       "caption": "🌪️ WEATHER — DFW\n\nAT&T Performing Arts Center, Dallas Theater Center to merge in money-saving move\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYWJTQlZmem5ZMWMxTGE2enluS2J0SWYwRzMzSDVkcXZTN194ekY3M1lRUUstWW9qeTk3WHZjYXRrc2FRMlFqNmVfV3F4TWRxRndpbFYtbEtXemh2N1FmU0pSZmp4bzZ5TWh6LXdlSnpEZnV6a3Y3Q3NhSmMxVFI5ci1rN3ZtWnpPb2oyTTNPOGI3akl1R1NfVkVSeXFmLWlfVWNselh4aGd0cDBTLWRnNmFxSWREZjBhVXRNOElkNUlneE9vYk5BeDh4TDRUdlVuTXIzTFg3RS3SAeABQVVfeXFMTmFBbUNIbnBLaXFCOWRza0Z3MVVER0RkOTVhNFBjMnJhOHV6VVVpX2JLMzloN0UyWjcxZG1PMWYzQlFQay1zb0kwMnA3cVlrLTlzYjBmY254MEdocWkyUVJ5eElZaFNpRzA1M05Zb203UXdWTUl1ZWRDYUktenh6dUM4UHNOQ0oxT2w1YmNVZVZYUFJHeXc0S3VZenRNcHdObUtDM240RWR6Q2dxLWZabi1Qenh0UUZrcFlFbV82WHo3WGQ4TTNhM1J0dFd5YkNlNzJnQmdZSEc1X0VXaUMwZEs?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "bc24014b7f8994bea873",
-      "title": "8 defendants indicted in connection to Dallas adult business raid",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVF1bkRXZEllWnljOU9DNzFJOXlYLUprM1FlSTlZN21NbFV0MHQtbFBCMXpZYllac0RJb003YVZHQzAwR1VCXzdmV0YwaUk4c0Q5VjJjSTNuVE83N2p1UVhkUkxtZ0xUQWJUanpSeVVkNE5rbklFUlpiYk0yNUdRTkJMdXAzdno1WnlUMmtuZXo1RnJ0c0trU1FqamR4TjlPOHhXeFp1UGJRSE53OFdmdXFMOUbSAbwBQVVfeXFMTlc2NUZSaVZMeVpoal9oWGNDUEphU3Q1b3JaRzhIYm40dnBmbDY0OWZGb2JhZTNBODhGRU1IRGhCNmJNS2U0Qjh3OWtlb3JiTzVUSDBkVG9hc2p1YUtNVnBEbGROdjdZb3ZJSl9rYjlYV0pTZWlSS2c4SWJpZE10dzRxcDRtMm81MEF2bHdfMENzWHZKek1rbnJmY3pFbWVEZ0pnNkdKMTBGTTJzV2k2c21fVU9sN29vMUdMTXA?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "8 defendants indicted in connection to Dallas adult business raid NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-07-28T17:46:18+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\n8 defendants indicted in connection to Dallas adult business raid\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMitAFBVV95cUxOdVF1bkRXZEllWnljOU9DNzFJOXlYLUprM1FlSTlZN21NbFV0MHQtbFBCMXpZYllac0RJb003YVZHQzAwR1VCXzdmV0YwaUk4c0Q5VjJjSTNuVE83N2p1UVhkUkxtZ0xUQWJUanpSeVVkNE5rbklFUlpiYk0yNUdRTkJMdXAzdno1WnlUMmtuZXo1RnJ0c0trU1FqamR4TjlPOHhXeFp1UGJRSE53OFdmdXFMOUbSAbwBQVVfeXFMTlc2NUZSaVZMeVpoal9oWGNDUEphU3Q1b3JaRzhIYm40dnBmbDY0OWZGb2JhZTNBODhGRU1IRGhCNmJNS2U0Qjh3OWtlb3JiTzVUSDBkVG9hc2p1YUtNVnBEbGROdjdZb3ZJSl9rYjlYV0pTZWlSS2c4SWJpZE10dzRxcDRtMm81MEF2bHdfMENzWHZKek1rbnJmY3pFbWVEZ0pnNkdKMTBGTTJzV2k2c21fVU9sN29vMUdMTXA?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "5aaf1ccebc91df2496a0",
-      "title": "DBJ to host first Denton County Growth Summit",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOW1mZXlaVXktSEVmQVB0N3dxV3FTaGVWRndIMll6X2F3TVJXM0liZWNMX1NSWFpoTVZlZFVjVTBzakNZU1p1WkxueUlZM0YxTk5pV0loSDR3YVdDbmZhOTlfZXI1OUtSd2l0V01LbUM5SF9hN0RSeEdpWFFUc3pTc3lQMnFKaU5aTG53alU5RTdObkpienFCcUd1aTJ5dHM?oc=5",
-      "source": "The Business Journals",
-      "summary": "DBJ to host first Denton County Growth Summit The Business Journals",
-      "published_at": "2026-07-28T17:29:00+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nDBJ to host first Denton County Growth Summit\n\nSource: The Business Journals\nRead more: https://news.google.com/rss/articles/CBMinwFBVV95cUxPOW1mZXlaVXktSEVmQVB0N3dxV3FTaGVWRndIMll6X2F3TVJXM0liZWNMX1NSWFpoTVZlZFVjVTBzakNZU1p1WkxueUlZM0YxTk5pV0loSDR3YVdDbmZhOTlfZXI1OUtSd2l0V01LbUM5SF9hN0RSeEdpWFFUc3pTc3lQMnFKaU5aTG53alU5RTdObkpienFCcUd1aTJ5dHM?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "51388797fae7d3733b6b",
+      "id": "b082d4762f05bb3df235",
       "title": "Medical examiner identifies two armed men fatally shot by Fort Worth police",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBHTW03WjlKNDBaWFAwZEZ2bzhWWHVlY0wyU0ltSWJFSmhjSkRobGNsM1o3Q0tpOGQwZWtubzFFNFlaRXdxS2pFUTlkeXZvUGhKZjdIX3dubDdvMGRpVlV1R25uM0FtQWR3UExoZHI0Q0d2dUMxR1hv0gF3QVVfeXFMT0hiS0hOUEFhTmRlSF8xZjFYeWNnSW9WZWUxdXFvbE5DbjlSYUtpRGJJZWlIYnJOTUZ6cHZTN3RyczIxQmNNdDR1TVEtVUlpTVJtRnhYRjBPcmxCRnltUXA5dTFkeGtjd0dhNkNnbk5GaHNEeEhjeUE?oc=5",
-      "source": "Fort Worth Star-Telegram",
-      "summary": "Medical examiner identifies two armed men fatally shot by Fort Worth police Fort Worth Star-Telegram",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3Z0alFWcEtERWxyY1d1Y1NjOUxuVXpySFFlSjA1Y0N2d1FtRmlUb2VESW5XVDlsY25DbTJmcFBTVHBIVE9ncnNGUXlzOWNwLWYzZl9zNlpsNUV3aGpXalVRZlhWUFByTkpYRzROcnA1ZGpPMUtLM2dNSWtvVHlWaG9NbGZkTFRTY0p0RDBMbTJSU1hKRHc?oc=5",
+      "source": "Yahoo",
+      "summary": "Medical examiner identifies two armed men fatally shot by Fort Worth police Yahoo",
       "published_at": "2026-07-28T17:26:16+00:00",
       "category": "Police",
       "thumbnail": "",
       "official": false,
-      "caption": "🚨 POLICE — DFW\n\nMedical examiner identifies two armed men fatally shot by Fort Worth police\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMid0FVX3lxTFBHTW03WjlKNDBaWFAwZEZ2bzhWWHVlY0wyU0ltSWJFSmhjSkRobGNsM1o3Q0tpOGQwZWtubzFFNFlaRXdxS2pFUTlkeXZvUGhKZjdIX3dubDdvMGRpVlV1R25uM0FtQWR3UExoZHI0Q0d2dUMxR1hv0gF3QVVfeXFMT0hiS0hOUEFhTmRlSF8xZjFYeWNnSW9WZWUxdXFvbE5DbjlSYUtpRGJJZWlIYnJOTUZ6cHZTN3RyczIxQmNNdDR1TVEtVUlpTVJtRnhYRjBPcmxCRnltUXA5dTFkeGtjd0dhNkNnbk5GaHNEeEhjeUE?oc=5\n\nTexas News Roundup"
+      "caption": "🚨 POLICE — DFW\n\nMedical examiner identifies two armed men fatally shot by Fort Worth police\n\nSource: Yahoo\nRead more: https://news.google.com/rss/articles/CBMilgFBVV95cUxOa3Z0alFWcEtERWxyY1d1Y1NjOUxuVXpySFFlSjA1Y0N2d1FtRmlUb2VESW5XVDlsY25DbTJmcFBTVHBIVE9ncnNGUXlzOWNwLWYzZl9zNlpsNUV3aGpXalVRZlhWUFByTkpYRzROcnA1ZGpPMUtLM2dNSWtvVHlWaG9NbGZkTFRTY0p0RDBMbTJSU1hKRHc?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "7933f35982292d7c6503",
-      "title": "Live Stream Dallas Cowboys Training Camp Opening Press Conference",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQREdQZjRCcEdXVUtnR2xldWZqVGtJOGFhdWdtS3RGNHF3clVnM0o1eWZ6T0kzWUs4VlNIaWtEYXh2d3dmWDBLMnltRnNMRWtlcUc1YmJuV3JabEdJdjRoUXMwdndpRzdBVDFQanNMN2ZNYlpXVkdjUEVUNFN4RG53UVRRY1ZwZnY3VlBEQlZ1SWk3SUZoNENvcEMybUpTZ1lWUDZ3?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Live Stream Dallas Cowboys Training Camp Opening Press Conference Sports Illustrated",
-      "published_at": "2026-07-28T17:00:32+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nLive Stream Dallas Cowboys Training Camp Opening Press Conference\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMiowFBVV95cUxQREdQZjRCcEdXVUtnR2xldWZqVGtJOGFhdWdtS3RGNHF3clVnM0o1eWZ6T0kzWUs4VlNIaWtEYXh2d3dmWDBLMnltRnNMRWtlcUc1YmJuV3JabEdJdjRoUXMwdndpRzdBVDFQanNMN2ZNYlpXVkdjUEVUNFN4RG53UVRRY1ZwZnY3VlBEQlZ1SWk3SUZoNENvcEMybUpTZ1lWUDZ3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "f3b1e99e902f9e4e0b4e",
-      "title": "Daisy Brand set to Ditch Dallas for Fresh Plano Digs",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFRrTloyWjZLb0V4ZkRJU081LTQxUXBzc0RsNXJTWUlTbXRjYXluWUYxQngwNGFiVEFZMGUtYU5GMWFWMkVSdVU3OTFiS01JQVFWcEZhd1ZFUEUxeVcyX1Zxdk42c1hjZkJ5QVRMVUJuR3B4SWR6ZWd3LXpfWGt5REVxSVdTdG00NWJnTC12WkFmbjlVeldvaWNB?oc=5",
-      "source": "The Real Deal",
-      "summary": "Daisy Brand set to Ditch Dallas for Fresh Plano Digs The Real Deal",
-      "published_at": "2026-07-28T17:00:00+00:00",
+      "id": "572f9e44f6eaad143dc8",
+      "title": "Bay FC Loan Midfielder Jamie Shepherd to USL Super League Club Dallas Trinity FC Through 2026",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFc0M3RYTUZ1anRPaGRTbmRyZDg5cGNpSTk0aGJSVDVMbUlYbHlacERmdzQxM0xLU2lrcW9iVVV0QUtqRFZIREgycmNnTWZUcTVXb1lCaFdJaC1oMTRaN3FQT3RVTzBJWjRqb3NWa19zMHdMdkZKSjc2VExFODFKa2twaE01bXJ5OV9PcDNiX0RZMU01?oc=5",
+      "source": "Bay FC",
+      "summary": "Bay FC Loan Midfielder Jamie Shepherd to USL Super League Club Dallas Trinity FC Through 2026 Bay FC",
+      "published_at": "2026-07-28T17:02:14+00:00",
       "category": "Breaking",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nDaisy Brand set to Ditch Dallas for Fresh Plano Digs\n\nSource: The Real Deal\nRead more: https://news.google.com/rss/articles/CBMimgFBVV95cUxNZFRrTloyWjZLb0V4ZkRJU081LTQxUXBzc0RsNXJTWUlTbXRjYXluWUYxQngwNGFiVEFZMGUtYU5GMWFWMkVSdVU3OTFiS01JQVFWcEZhd1ZFUEUxeVcyX1Zxdk42c1hjZkJ5QVRMVUJuR3B4SWR6ZWd3LXpfWGt5REVxSVdTdG00NWJnTC12WkFmbjlVeldvaWNB?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "0261771a42dd8c64b3a3",
-      "title": "Former MD Officer, DC Man Charged In Arlington Auto Theft, VIN Fraud Case",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3gwUk51Ynk4SkNQblZVRWd1YWNIRTlsQm9zNEh5c3E4QnVFVTBmLXBrdWt2RUJ4MXozS2lQT2toSjNmLXRzYnBzX0lJdkZVWGUzaTVEZWJSYTZDdFZWUTN4em1jWnJZMldSXzEtSFh1VV9yVlVNejVVamhvVEswS2FVcmVDb3RadjB4MWZHLVRReFVMWFpzMDhtSWZoRFJmX0R2ei1LbDlfNENM0gHCAUFVX3lxTE16eVdNT25rWVVVOTFya3RHUEJSd2ZQSWlPai11SDlsT1VONDJqT1hNMnRpcTdIQnN0QUZVRnI3QnpJdm9mcWg2Zmtvdm8xcjZfa201SWtCTzRjcjlsNE5mNHhxZS1rRDZZOUhjNGJzUklORVpDZHpUTXZOSEUwaVMtZFk4ZlZiRUZjOWlOTXFpYnVUZmxod09Jd1I0ZjZPMmd3S200UnBiMzNpQ05GWERSUDNicWNkNURCVm5URXFYRHFn?oc=5",
-      "source": "Patch",
-      "summary": "Former MD Officer, DC Man Charged In Arlington Auto Theft, VIN Fraud Case Patch",
-      "published_at": "2026-07-28T16:56:02+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nFormer MD Officer, DC Man Charged In Arlington Auto Theft, VIN Fraud Case\n\nSource: Patch\nRead more: https://news.google.com/rss/articles/CBMirAFBVV95cUxQb3gwUk51Ynk4SkNQblZVRWd1YWNIRTlsQm9zNEh5c3E4QnVFVTBmLXBrdWt2RUJ4MXozS2lQT2toSjNmLXRzYnBzX0lJdkZVWGUzaTVEZWJSYTZDdFZWUTN4em1jWnJZMldSXzEtSFh1VV9yVlVNejVVamhvVEswS2FVcmVDb3RadjB4MWZHLVRReFVMWFpzMDhtSWZoRFJmX0R2ei1LbDlfNENM0gHCAUFVX3lxTE16eVdNT25rWVVVOTFya3RHUEJSd2ZQSWlPai11SDlsT1VONDJqT1hNMnRpcTdIQnN0QUZVRnI3QnpJdm9mcWg2Zmtvdm8xcjZfa201SWtCTzRjcjlsNE5mNHhxZS1rRDZZOUhjNGJzUklORVpDZHpUTXZOSEUwaVMtZFk4ZlZiRUZjOWlOTXFpYnVUZmxod09Jd1I0ZjZPMmd3S200UnBiMzNpQ05GWERSUDNicWNkNURCVm5URXFYRHFn?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "6748463a5e38332079e2",
-      "title": "Helping those who need it most",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1lpQ0E0ek5kenRkRURIVFdmOG1pWFB3Tm1JVGhMaUdteklMZnFOSFhHTVZ5OVdvbUJhR2lPc2FjdVhyOENwR3E4NkN2bWtHRHZQd3FDTi1pdjgtWTBtbElzUGFaZlRhRWNpZlNOR2ZFVVhmVTIxOWFNWW5HSUloSTBKTVlBWEHSAY8BQVVfeXFMTlc4S0pGd2RuVkNWSnhjRHFHbVo1aEFhLWc3U0I1OG9wQmo2S2MzY0hxdXlyc1EtUVREUDQ1WllaeGcwVHZSZkhEZ0pvaExKWkdDeFg3UkgxOTk1NDE4aEZkTjY2LUFZMktTdTJYQnJNQlNaZTNjRDZCVDlEQi1UY0RlN2xKNWo1WVM1MmhxbjA?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "Helping those who need it most NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-07-28T16:54:03+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nHelping those who need it most\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMihwFBVV95cUxNb1lpQ0E0ek5kenRkRURIVFdmOG1pWFB3Tm1JVGhMaUdteklMZnFOSFhHTVZ5OVdvbUJhR2lPc2FjdVhyOENwR3E4NkN2bWtHRHZQd3FDTi1pdjgtWTBtbElzUGFaZlRhRWNpZlNOR2ZFVVhmVTIxOWFNWW5HSUloSTBKTVlBWEHSAY8BQVVfeXFMTlc4S0pGd2RuVkNWSnhjRHFHbVo1aEFhLWc3U0I1OG9wQmo2S2MzY0hxdXlyc1EtUVREUDQ1WllaeGcwVHZSZkhEZ0pvaExKWkdDeFg3UkgxOTk1NDE4aEZkTjY2LUFZMktTdTJYQnJNQlNaZTNjRDZCVDlEQi1UY0RlN2xKNWo1WVM1MmhxbjA?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "1387c90e5c0c043de7f0",
-      "title": "Classes resume Tuesday for 20 Dallas ISD schools",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTRmRHJJZGVnUWltMk5KbUpINUEzSFhSWng2WklFQ05HaVBiZlRUb2hwLXUyUUxneDZSLWhBRWhXdjJUUm9VN1JtTmlMNVhFY2VRcDRZNGl3V0tBT3RXMzlmWlpqUEU3MVBQTGdYRkxBNll3SDlUSFloZHhFdDZGTGJIM0hFYWhoaTZXR3hSY0liNDlpd0VqWlNzOU9jOGFGd3NoczI3R0JnUdIBsgFBVV95cUxOQjhTN1lhU1ZjTlZJREM4WnRXUUdMUGRSSVdoZmpaemhXanZ4LVh6eWxVVEcxdlM0Mm1pSXdpYlcyV3NFZlo0ZkZsQlk3M3hNNVZkVUUzUm11OFVGUTRDWUVuTF9TdEdaMllMc3RLM1dFM1FBZ2pkVmxfU2JpQS1XUjBFcEdNeVFKRGM0b2VxSlg5VnFfT01naWR4VEYwN1pOTXVkS1R1Q0VsbERDQTk5dUNB?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "Classes resume Tuesday for 20 Dallas ISD schools NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-07-28T16:45:49+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nClasses resume Tuesday for 20 Dallas ISD schools\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTRmRHJJZGVnUWltMk5KbUpINUEzSFhSWng2WklFQ05HaVBiZlRUb2hwLXUyUUxneDZSLWhBRWhXdjJUUm9VN1JtTmlMNVhFY2VRcDRZNGl3V0tBT3RXMzlmWlpqUEU3MVBQTGdYRkxBNll3SDlUSFloZHhFdDZGTGJIM0hFYWhoaTZXR3hSY0liNDlpd0VqWlNzOU9jOGFGd3NoczI3R0JnUdIBsgFBVV95cUxOQjhTN1lhU1ZjTlZJREM4WnRXUUdMUGRSSVdoZmpaemhXanZ4LVh6eWxVVEcxdlM0Mm1pSXdpYlcyV3NFZlo0ZkZsQlk3M3hNNVZkVUUzUm11OFVGUTRDWUVuTF9TdEdaMllMc3RLM1dFM1FBZ2pkVmxfU2JpQS1XUjBFcEdNeVFKRGM0b2VxSlg5VnFfT01naWR4VEYwN1pOTXVkS1R1Q0VsbERDQTk5dUNB?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "ffcda6aa14499c113bdc",
-      "title": "Shaping the future of Dallas theater: Two cultural giants plan to join forces",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFdQMEkxNjEyc0piUXprTldBa2VLajV0eG5tMU1iVDFUbVp6NklyWmxjdFZDbEIwcTVKdHVFdEZELUVaRzFJUXgwdHhrWm1nVDF0ZndYQ19IeXNQcnIteW5NMnpPUmZ1WUxwR3dyMDlETm1zM3R5QlhvRFJocWR6bU05c1ZpSlF4cHExMlNkeGx1UXNCczJnLVB1TVFBNzlYa0F3b3pfUkxhVnlIbkFJbmN5bldYYkp0bGJRb1dsa014Znc?oc=5",
-      "source": "WFAA",
-      "summary": "Shaping the future of Dallas theater: Two cultural giants plan to join forces WFAA",
-      "published_at": "2026-07-28T16:42:00+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nShaping the future of Dallas theater: Two cultural giants plan to join forces\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFdQMEkxNjEyc0piUXprTldBa2VLajV0eG5tMU1iVDFUbVp6NklyWmxjdFZDbEIwcTVKdHVFdEZELUVaRzFJUXgwdHhrWm1nVDF0ZndYQ19IeXNQcnIteW5NMnpPUmZ1WUxwR3dyMDlETm1zM3R5QlhvRFJocWR6bU05c1ZpSlF4cHExMlNkeGx1UXNCczJnLVB1TVFBNzlYa0F3b3pfUkxhVnlIbkFJbmN5bldYYkp0bGJRb1dsa014Znc?oc=5\n\nTexas News Roundup"
+      "caption": "🔴 BREAKING — DFW\n\nBay FC Loan Midfielder Jamie Shepherd to USL Super League Club Dallas Trinity FC Through 2026\n\nSource: Bay FC\nRead more: https://news.google.com/rss/articles/CBMilAFBVV95cUxNaFc0M3RYTUZ1anRPaGRTbmRyZDg5cGNpSTk0aGJSVDVMbUlYbHlacERmdzQxM0xLU2lrcW9iVVV0QUtqRFZIREgycmNnTWZUcTVXb1lCaFdJaC1oMTRaN3FQT3RVTzBJWjRqb3NWa19zMHdMdkZKSjc2VExFODFKa2twaE01bXJ5OV9PcDNiX0RZMU01?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "47659b91f776e571c72f",
@@ -637,30 +1057,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nInvestigators file new charges against ex-Plano teacher\n\nSource: Star Local Media\nRead more: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOVpHN0xiMzF3QkRsSVVTOHhSRWZhYXRnVUQ1U3FJeUtBRjNzcHFlalFBLThIWnZWTnZLc2h1MS00dUZEUlpacmFVZXIyaXR4azN0Wmx5dGdCbEx4S1UxVEppNVNlZnZwTVczeDJ6WE1uY2xhQzBmN3ZZVEU1RXBIVHVzSnZiOHZ5VW14OU5uZ3VIcTN0Z2dnblI2Qm54ckU1SXVjb2RjdTRPWVBoNS1kRXBIdEh2WC1RcTA0bVF6ZEJqNDVwVGlmQUVnOUFJSDNOaVlRS0dHY1Q0aE1LU1dPM21wU2M?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a9fcd827a46a43bc3306",
-      "title": "Ex-Cowboys QB Tony Romo issued citation following Wisconsin arrest",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFh5aDIzSURyUGJOdDNaMlE4S3h5Y1daWHlZbTEzYjhrdVRJdnJmQjctdVBKZjNmeXFLTk5oa1JWYXFrTm11UlM1ZTRnSnZJOHk1V2NleTNWRlMyLUFDRk11WmxHWUxfQ0pmeE1XQWJtTkJrb2IxVTBHcUN2d29nZVYydTdFRXJkbTBPRU1hcV9Fal8yLVJLZjhYRTB6WGQ0eHZCY3FJcVhNcDBGZHZjbmtB?oc=5",
-      "source": "Dallas News",
-      "summary": "Ex-Cowboys QB Tony Romo issued citation following Wisconsin arrest Dallas News",
-      "published_at": "2026-07-28T16:27:03+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nEx-Cowboys QB Tony Romo issued citation following Wisconsin arrest\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxPMFh5aDIzSURyUGJOdDNaMlE4S3h5Y1daWHlZbTEzYjhrdVRJdnJmQjctdVBKZjNmeXFLTk5oa1JWYXFrTm11UlM1ZTRnSnZJOHk1V2NleTNWRlMyLUFDRk11WmxHWUxfQ0pmeE1XQWJtTkJrb2IxVTBHcUN2d29nZVYydTdFRXJkbTBPRU1hcV9Fal8yLVJLZjhYRTB6WGQ0eHZCY3FJcVhNcDBGZHZjbmtB?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a6c818d8eef95dec5039",
-      "title": "Flexential acquires 110 acres outside Dallas, Texas, for 108MW data center campus",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenVmX2I4empWUzJhVk5nOXZaZTZ3bGowQlZ3LUJWX0NlbjNVbEJSTmJmTkhwTUVBYVIxbkJMQTE0NEVYaVp4REs5X2l6SUdBZ2hUeHFIMms0cDlCTzZvaGxXTmtRUGhtTFpISnRNaC1hR1BueVhHTlZwbk1VX1RCR0dPWjZuVW5jaUE5U1c0cjVmSlZtaDdFZFdBTzBfbW9vdVB4Mlo2N05IdkhpUGpvX2ZlMDIzX2hxcGJXVDNmcm8?oc=5",
-      "source": "Data Center Dynamics",
-      "summary": "Flexential acquires 110 acres outside Dallas, Texas, for 108MW data center campus Data Center Dynamics",
-      "published_at": "2026-07-28T16:26:48+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nFlexential acquires 110 acres outside Dallas, Texas, for 108MW data center campus\n\nSource: Data Center Dynamics\nRead more: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenVmX2I4empWUzJhVk5nOXZaZTZ3bGowQlZ3LUJWX0NlbjNVbEJSTmJmTkhwTUVBYVIxbkJMQTE0NEVYaVp4REs5X2l6SUdBZ2hUeHFIMms0cDlCTzZvaGxXTmtRUGhtTFpISnRNaC1hR1BueVhHTlZwbk1VX1RCR0dPWjZuVW5jaUE5U1c0cjVmSlZtaDdFZFdBTzBfbW9vdVB4Mlo2N05IdkhpUGpvX2ZlMDIzX2hxcGJXVDNmcm8?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "375e221e363eef56828e",
@@ -723,6 +1119,18 @@
       "caption": "📍 COMMUNITY — DFW\n\nAzzi Fudd Surprises Young Fans With Incredible Community Event In Dallas Bc Hydro (ohsmDQxADc)\n\nSource: Mshale\nRead more: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONGFTZmF5YzJOZ0VtNWQ5Mlp5cDhadC1KdHJ0LXI5cFA3U1Bnd01LWGNmTzNWX3ZQQk5KUlh5SGxNLW1hWjdiTkRpLVhMbWw1TlIzOHVTbS1XY2M?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "a07ede8f4410baf56e65",
+      "title": "Former Plano ISD Teacher Charged With 3 New Counts Of Indecency with A Child",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXczajluU0FUV2t5bU5oRmlvNlZPY2NVblRxem15U2xyRUQ0NzRQaTZDcXdsaVlxcVVGa3d5bThTODd0TDJuN3lWX1REZW9oVmhQNHJWMHVtQ2VWejVyY1BxeDBkWDlvcy15emRxSXRack10ZE5SaEd6Z2ZfRmRpYjJERlBoRENHdjFFZXVuQVBUU0JYVmxLWkFFcHpwVlVBVV9qamZLZFVuUFo3dGNZV1lsTQ?oc=5",
+      "source": "Dallas Express",
+      "summary": "Former Plano ISD Teacher Charged With 3 New Counts Of Indecency with A Child Dallas Express",
+      "published_at": "2026-07-28T16:03:58+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nFormer Plano ISD Teacher Charged With 3 New Counts Of Indecency with A Child\n\nSource: Dallas Express\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxOLXczajluU0FUV2t5bU5oRmlvNlZPY2NVblRxem15U2xyRUQ0NzRQaTZDcXdsaVlxcVVGa3d5bThTODd0TDJuN3lWX1REZW9oVmhQNHJWMHVtQ2VWejVyY1BxeDBkWDlvcy15emRxSXRack10ZE5SaEd6Z2ZfRmRpYjJERlBoRENHdjFFZXVuQVBUU0JYVmxLWkFFcHpwVlVBVV9qamZLZFVuUFo3dGNZV1lsTQ?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "3d941f22afa12b776658",
       "title": "Dallas Cowboys 2026 Opponent Preview: Green Bay Packers",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3BBWjRZcWw0OUF0SXJKRU83cDZSWEY1cjE3Q2JDTTYxUmMwTDU0WWpnNklVbDRUc0x0MlhDMHh5TGhkazNXWEl2VXhLOTlwRDJNMEs2Tl9BWFE4NGduLTJQVURVeWVGWHNaUHRxVXNHTWRiQmVCVlJLaUZuYmM4QXBxOHlHdWxYLWw0M2Y2RHNFblpNUThDNXBzandUd2JNTm1mcA?oc=5",
@@ -747,6 +1155,18 @@
       "caption": "🚧 TRAFFIC — DFW\n\nA new nationwide study names Plano the second safest major city in the country\n\nSource: Secret Dallas\nRead more: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wN0dpMm1qZTNZZW02dkJtMmxKc01CWUN5dDZOcDU3Vko0dlRjaFhWaG0xYTNrT2plel9HWEVHZzVwTDR3NXkwY1RKZFJOVElKUXJtV24xbi1mWGs?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "a2a8b720cdfb28286526",
+      "title": "Court in the Community providing warrant forgiveness on Aug. 8",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEQ0VURkbVJuR1RtRlpRelludDdFTjNXMXdDcmVnczNEeUdZQVluLWtReWE1NlhXOGQtVGZja0RTc3lLclpfMWhlc0ltdFhJbmRUdlJGVXJzd25IU0ktdjRRLW83amJuODRmT2N2NUd3OEVDQVFiNHRXNFNlQVRzYUFqRVhHRVFlWG85QTN0YTN0dGNpY0ZMN3RfWGdDUTdnbG5Z?oc=5",
+      "source": "Fort Worth Report",
+      "summary": "Court in the Community providing warrant forgiveness on Aug. 8 Fort Worth Report",
+      "published_at": "2026-07-28T15:52:31+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nCourt in the Community providing warrant forgiveness on Aug. 8\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEQ0VURkbVJuR1RtRlpRelludDdFTjNXMXdDcmVnczNEeUdZQVluLWtReWE1NlhXOGQtVGZja0RTc3lLclpfMWhlc0ltdFhJbmRUdlJGVXJzd25IU0ktdjRRLW83amJuODRmT2N2NUd3OEVDQVFiNHRXNFNlQVRzYUFqRVhHRVFlWG85QTN0YTN0dGNpY0ZMN3RfWGdDUTdnbG5Z?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "a7465ae0e94695089296",
       "title": "Dallas Cowboys kick off training camp in Oxnard",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUdPVmFXUTB1UnZ0R2NqNnpXaVhQc2ZoT0VtSDExNmFJUXAyME9jaVc5dC1jOXJpZXg5bkpaMDhvZFdUQjNuMzh1LWxiT2ZnUmNSeWthaGVmUi1xU0djeXJvQW5vdV9FM0xRTnJtckRia2h4T0JweWwzRlU3YkFmTl8ySGFhVEtoVEJFQm9RRVNyVkhOTVFQWW4xeFRDQjdmYmJRby1ianFmYktBZ3FUc0drSnRHcVlqb0plTlA1WGpoRTZv?oc=5",
@@ -764,7 +1184,7 @@
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRERvaVhxUmpjZE4zRWR0Z25JNGp6X2lGMkRZT2JFc1NIV29LMnIxSXpBNm9zNUx4RTkyX3Bqak1kbVlxelV4QkwtSEJuR2gzTVlibW5wbGEzLUs2Z3NadzJxbUVMZTRuNW1PQ2gyMEI3ejJybkJncDJaQ3JwVWdJTjlwcTR1d3BOalZBMXcwOXljN3RiZ0JuNGQ2M1VoN0VqcGJtZG1xakJ1U00?oc=5",
       "source": "Audacy",
       "summary": "Former Plano teacher faces additional child abuse charges, police say Audacy",
-      "published_at": "2026-07-28T15:31:52+00:00",
+      "published_at": "2026-07-28T15:36:25+00:00",
       "category": "Police",
       "thumbnail": "",
       "official": false,
@@ -807,16 +1227,16 @@
       "caption": "🏟️ SPORTS — DFW\n\nJefferson’s Maloney reaches final round of Dallas Cowboys Cheerleader tryouts\n\nSource: Ashe Post & Times\nRead more: https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV2RfbVhyaGhHVFQyd2UzN2cyTTNpZ1M4c0pUWXhhU1J4TWlZN0FWV29nTW1GaWhCdWxGdlNHOGdYSkJpd09tTWt0TkEtTHZycDRnYU1aOHIxNXQ2WS1Ka1FET1RfSkxEdGlIMzFnYVdfT2JJZlVzV3NiZGdiU1MtZHlCR0g3R1N2MC1rTXEzc1Z3dFQ4S2Z5YUVENGlET1V4ejBENGxJX1ozaUN4QU5fYUhUY3I1NVVOa1N1NVdDVHhQVW5ZbXpNcG5hRkl0TUtHZ2JIaDhFUUtETDhkNjRmYXg1QVdZaFdmUnREdjBkQUdpUWhBVFdvMUF4YzZaMVk?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "7afe890f9112957351da",
-      "title": "Four Mavericks to Represent Their Countries at 2026 IFAF World Flag Championship",
+      "id": "c3eb3c2e3eab1b3e4bf5",
+      "title": "Four Mavericks to Compete at 2026 IFAF World Flag Championship",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1lRdmtnVEZwSkQzUlhob20wcmRKYURlWHNuU1QxZDA2Rm9rTml0NU5TWWRiZUFIdmViVEpQeHMtVFVnS05PVncxdkxXeHExRUtxT3JqdnNhUDdXX3R3cm1CV0hwTUl3bzRHX3JzVzNkbjRKcGpvT0k4c1R3RDFzS3VmVkEzQjRMMGZRcDRBdF9QZzlFcnJUbl9BZGZseF9FRnRMZXpPYml5RVRuamNxbkJNOHNmV0kxbmdod1gtR1F0d0pPYUdYODdDcHp0ZlhrSU5Qc2RULXc0ZVJyXzNBU3Z1dVQtUQ?oc=5",
       "source": "University of Texas Arlington Athletics",
-      "summary": "Four Mavericks to Represent Their Countries at 2026 IFAF World Flag Championship University of Texas Arlington Athletics",
+      "summary": "Four Mavericks to Compete at 2026 IFAF World Flag Championship University of Texas Arlington Athletics",
       "published_at": "2026-07-28T15:05:40+00:00",
       "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nFour Mavericks to Represent Their Countries at 2026 IFAF World Flag Championship\n\nSource: University of Texas Arlington Athletics\nRead more: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1lRdmtnVEZwSkQzUlhob20wcmRKYURlWHNuU1QxZDA2Rm9rTml0NU5TWWRiZUFIdmViVEpQeHMtVFVnS05PVncxdkxXeHExRUtxT3JqdnNhUDdXX3R3cm1CV0hwTUl3bzRHX3JzVzNkbjRKcGpvT0k4c1R3RDFzS3VmVkEzQjRMMGZRcDRBdF9QZzlFcnJUbl9BZGZseF9FRnRMZXpPYml5RVRuamNxbkJNOHNmV0kxbmdod1gtR1F0d0pPYUdYODdDcHp0ZlhrSU5Qc2RULXc0ZVJyXzNBU3Z1dVQtUQ?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\nFour Mavericks to Compete at 2026 IFAF World Flag Championship\n\nSource: University of Texas Arlington Athletics\nRead more: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPb1lRdmtnVEZwSkQzUlhob20wcmRKYURlWHNuU1QxZDA2Rm9rTml0NU5TWWRiZUFIdmViVEpQeHMtVFVnS05PVncxdkxXeHExRUtxT3JqdnNhUDdXX3R3cm1CV0hwTUl3bzRHX3JzVzNkbjRKcGpvT0k4c1R3RDFzS3VmVkEzQjRMMGZRcDRBdF9QZzlFcnJUbl9BZGZseF9FRnRMZXpPYml5RVRuamNxbkJNOHNmV0kxbmdod1gtR1F0d0pPYUdYODdDcHp0ZlhrSU5Qc2RULXc0ZVJyXzNBU3Z1dVQtUQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "a02abced9812e1944a02",
@@ -829,18 +1249,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nWhere to find a taste of Eritrea in D-FW\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTc2bHNMcnp0MmpCWnhBaVZ0ZXE1X1pDbDZzbGM2bm01ZVBHNTczZmplNGdFaFlJS2ZVTzZ3cFoxZ3d5dWthNlJCVVFvTEJnV2ZvTkVMeU1UTWpHWlFYZzI2WDVZdGt3cTRVN29yOXJpV1lEdnlKRWNhQ28zQ0ZWNFVseHBXNWtTWTZ4SkxWZUc5UWxFcVE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "658a9be8693f40d88890",
-      "title": "Federal, Dallas officials to discuss recent crackdown on sex trafficking in North Texas",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3ZpbDFLdFZRdHhqbmVNc0JfUWh3TmJDRDJ0MEtjNS0wdGR5T005OVR6VlFFenlRUTgtTXRnY1RhRVZDOFVWdkg1YUZ0Uy1xbnc5ZEJxMjVRZl9aanhEdDZ4TDdPY1hLb3A3cVlidEUzWk90WjlDRVMydTJyZHJjRWxYLUpyLUNvN2c?oc=5",
-      "source": "CBS News",
-      "summary": "Federal, Dallas officials to discuss recent crackdown on sex trafficking in North Texas CBS News",
-      "published_at": "2026-07-28T15:00:13+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nFederal, Dallas officials to discuss recent crackdown on sex trafficking in North Texas\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3ZpbDFLdFZRdHhqbmVNc0JfUWh3TmJDRDJ0MEtjNS0wdGR5T005OVR6VlFFenlRUTgtTXRnY1RhRVZDOFVWdkg1YUZ0Uy1xbnc5ZEJxMjVRZl9aanhEdDZ4TDdPY1hLb3A3cVlidEUzWk90WjlDRVMydTJyZHJjRWxYLUpyLUNvN2c?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "4916076b5affb80a2d3a",
@@ -891,16 +1299,16 @@
       "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks win total set at 35.5 for 2026-27 season, per FanDuel Sportsbook\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMihgFBVV95cUxNODBsM2V1VWxPcC01RjBnenp4UGwzb2dqQWF6aHdyV2Q4OHhnbFBSY0FaWFhFXzhTMXBGNVQ0ckRLQlhHNXI0T3o5eWU2ZXNhX2RDMDRoRkY3T2V5U2JJVTBUbV9USlhXdWJab2MyR1E1MnNMUHJ5cHQ4N0ZodmZfX1lkcmYwQQ?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "56450de40d5d4da1ae25",
-      "title": "US Attorney's Office announces indictments against 8 defendants connected to Dallas adult business",
+      "id": "3817c1e3ea09c25722fa",
+      "title": "Eight federally indicted in alleged Harry Hines sex trafficking operation",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOel9GNVJBSmZhZVVNcERhRXhKOVpYU3JiT2RSdFl3STFuT3FMZ3pSc3NQUGxXTWg5NXFOV2RXcE9ZTVdKWUIxNEp0cFlEU2RmVFhXR3R5NC0wRDIxVGI4cjJ6NGlSakJFN2hmd2otSW9Bei0tVk1rT2dJelV1aXlVNHFMblltcHJiOHBMdW1nWTZ0d1psenR2QkpubHBZc1UwS3RnaXVJR2tNdmZCbDFOckFpTzNWdFHSAb8BQVVfeXFMTXBGWDNneENuNEM2YnhlcWxQdnd1TmhudkhydGtaYy1VdkZSMVNEb01IM1hPWWtnVDlXeVRSVENDTTJEa1hfZGNnOXBuV1M0N0t0V051T2g0STJZNEpqS1JiNWRpeW80dEc2endyMGthQjRFVk93LW9UZXlvNHJieFpUZWNLVHVxTHBsMWd5NnFkU3hWY0dlSWRUc1VVOE5hUFJ3elZoenVfMTdTbE5PZXFNNjdpdC1yb2d3VWQ2bzQ?oc=5",
       "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "US Attorney's Office announces indictments against 8 defendants connected to Dallas adult business NBC 5 Dallas-Fort Worth",
+      "summary": "Eight federally indicted in alleged Harry Hines sex trafficking operation NBC 5 Dallas-Fort Worth",
       "published_at": "2026-07-28T14:33:34+00:00",
-      "category": "Breaking",
+      "category": "Traffic",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nUS Attorney's Office announces indictments against 8 defendants connected to Dallas adult business\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMitwFBVV95cUxOel9GNVJBSmZhZVVNcERhRXhKOVpYU3JiT2RSdFl3STFuT3FMZ3pSc3NQUGxXTWg5NXFOV2RXcE9ZTVdKWUIxNEp0cFlEU2RmVFhXR3R5NC0wRDIxVGI4cjJ6NGlSakJFN2hmd2otSW9Bei0tVk1rT2dJelV1aXlVNHFMblltcHJiOHBMdW1nWTZ0d1psenR2QkpubHBZc1UwS3RnaXVJR2tNdmZCbDFOckFpTzNWdFHSAb8BQVVfeXFMTXBGWDNneENuNEM2YnhlcWxQdnd1TmhudkhydGtaYy1VdkZSMVNEb01IM1hPWWtnVDlXeVRSVENDTTJEa1hfZGNnOXBuV1M0N0t0V051T2g0STJZNEpqS1JiNWRpeW80dEc2endyMGthQjRFVk93LW9UZXlvNHJieFpUZWNLVHVxTHBsMWd5NnFkU3hWY0dlSWRUc1VVOE5hUFJ3elZoenVfMTdTbE5PZXFNNjdpdC1yb2d3VWQ2bzQ?oc=5\n\nTexas News Roundup"
+      "caption": "🚧 TRAFFIC — DFW\n\nEight federally indicted in alleged Harry Hines sex trafficking operation\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMitwFBVV95cUxOel9GNVJBSmZhZVVNcERhRXhKOVpYU3JiT2RSdFl3STFuT3FMZ3pSc3NQUGxXTWg5NXFOV2RXcE9ZTVdKWUIxNEp0cFlEU2RmVFhXR3R5NC0wRDIxVGI4cjJ6NGlSakJFN2hmd2otSW9Bei0tVk1rT2dJelV1aXlVNHFMblltcHJiOHBMdW1nWTZ0d1psenR2QkpubHBZc1UwS3RnaXVJR2tNdmZCbDFOckFpTzNWdFHSAb8BQVVfeXFMTXBGWDNneENuNEM2YnhlcWxQdnd1TmhudkhydGtaYy1VdkZSMVNEb01IM1hPWWtnVDlXeVRSVENDTTJEa1hfZGNnOXBuV1M0N0t0V051T2g0STJZNEpqS1JiNWRpeW80dEc2endyMGthQjRFVk93LW9UZXlvNHJieFpUZWNLVHVxTHBsMWd5NnFkU3hWY0dlSWRUc1VVOE5hUFJ3elZoenVfMTdTbE5PZXFNNjdpdC1yb2d3VWQ2bzQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "337a6deee12da0f52a99",
@@ -939,18 +1347,6 @@
       "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys trade rumors: Which Cowboy could be on the block?\n\nSource: El Paso Times\nRead more: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVHJuZEt6R2tyYmI1R2tFeU0taDR0WngtODZ1RG9aTHdyZksyUTB3STIxUDg1bVNONFR5a010d1lSaTY3emszeTNPX3lsMW45WmVkMExPY2NvTkswRlpZTlEyZlJZYnpuNlg1N256amhkRW9OaUVCRUoyeUdidmpPc3RJNGc1cW9Fdk5KbDliYTJpNGJXTWlIVTRKYXEzOEJLc1c0d2RkenVIQlUwXzZHVnJaQlYxMVlfZmc5YVNzU203R0drYWd1SGZndkZicHQ5SHBaNVZ4dUxkX3ZIX2FmeGpYLVlaWEx1aTRFdWN3?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "5f57d436389dfc46814e",
-      "title": "The Numbers Behind FC Dallas’ loss vs San Diego",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWN6UXlLS285UXVNTmZMNGNxaVNCWjZrRG9qVmE0SC1oS3JJUUxWVFBENXh1OXRad1kxU1k0R2c2OFpadV9JZkFiV2ZEWGtYcmpjeEU0bE1FN0VtVlFkRUo5WU1GdWxMZnd5Vk9tU0Z3U0ZZZkhPSHNZY0JCbk5WNUd0My1nZw?oc=5",
-      "source": "Big D Soccer",
-      "summary": "The Numbers Behind FC Dallas’ loss vs San Diego Big D Soccer",
-      "published_at": "2026-07-28T14:15:03+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nThe Numbers Behind FC Dallas’ loss vs San Diego\n\nSource: Big D Soccer\nRead more: https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWN6UXlLS285UXVNTmZMNGNxaVNCWjZrRG9qVmE0SC1oS3JJUUxWVFBENXh1OXRad1kxU1k0R2c2OFpadV9JZkFiV2ZEWGtYcmpjeEU0bE1FN0VtVlFkRUo5WU1GdWxMZnd5Vk9tU0Z3U0ZZZkhPSHNZY0JCbk5WNUd0My1nZw?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "36f110f30450a26edc06",
       "title": "From Super Bowl or bust to Super Bowl now for Dak Prescott, Dallas Cowboys as camp begins",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFRUaklyay1rNnRicmVXdlVsdkFEeXozczl4U0t6T1FvdDFJQlJRcXQ0amkwVVNyLTh4UHlzWFhRemNLbTJRLXNCblg0NktjRW9Uc3p1NUkzXzF0bVNzaEQzOTNSZHhHS1E5LW52NURjSkZtdUw4Ylc1U2p4NlN4QW5B?oc=5",
@@ -961,18 +1357,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\nFrom Super Bowl or bust to Super Bowl now for Dak Prescott, Dallas Cowboys as camp begins\n\nSource: DLLS Sports\nRead more: https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFRUaklyay1rNnRicmVXdlVsdkFEeXozczl4U0t6T1FvdDFJQlJRcXQ0amkwVVNyLTh4UHlzWFhRemNLbTJRLXNCblg0NktjRW9Uc3p1NUkzXzF0bVNzaEQzOTNSZHhHS1E5LW52NURjSkZtdUw4Ylc1U2p4NlN4QW5B?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "b72a2b6d7f9bce5667f6",
-      "title": "Dallas Stars owner Tom Gaglardi to open new sports bar, Shark Club",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTNOenA1YmUyMWJsazJLcnNXeVQwa2R2ejhyRERGV2hEWmE5TGRPRmo4Z08xeHFXNWtXTTRNaV9KTHFSeDlUT1I3dVhDZk9rYmRuc3ZwdVA3Z2RTUWY4R0Zhb3RubVYtLVFmWDFSUzdaLVpIUWNudEUzSk5jUG0wZEcyMGlULXVMdHhqQ3hFYTFPN2Zfejd5WmpqU0xoZUpaNG92YmdyWmxCTlQtemZnTVVJVlJOQVN3VGNr?oc=5",
-      "source": "Dallas News",
-      "summary": "Dallas Stars owner Tom Gaglardi to open new sports bar, Shark Club Dallas News",
-      "published_at": "2026-07-28T14:03:30+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Stars owner Tom Gaglardi to open new sports bar, Shark Club\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeTNOenA1YmUyMWJsazJLcnNXeVQwa2R2ejhyRERGV2hEWmE5TGRPRmo4Z08xeHFXNWtXTTRNaV9KTHFSeDlUT1I3dVhDZk9rYmRuc3ZwdVA3Z2RTUWY4R0Zhb3RubVYtLVFmWDFSUzdaLVpIUWNudEUzSk5jUG0wZEcyMGlULXVMdHhqQ3hFYTFPN2Zfejd5WmpqU0xoZUpaNG92YmdyWmxCTlQtemZnTVVJVlJOQVN3VGNr?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "1a8dd38e0711b185dbc3",
@@ -1005,10 +1389,10 @@
       "source": "KERA News",
       "summary": "The Oak Cliff Nature Preserve: A hidden oasis in Dallas KERA News",
       "published_at": "2026-07-28T13:51:00+00:00",
-      "category": "Breaking",
+      "category": "Fire",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nThe Oak Cliff Nature Preserve: A hidden oasis in Dallas\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWEI2cHFzMDNTVFBxNEJYa2JIaTNkdjdyRWotQy1jT1ljUWxBUGZ0ZnhKUzhDRHdqRWxJLTZ0UnFRbmU5ZzQxWUpmUS04Z29fSWFVb0ZkQXVSSXFycFNjeDFCQzVBR3JmTUZHN1o0bmFxU1Qy?oc=5\n\nTexas News Roundup"
+      "caption": "🚒 FIRE — DFW\n\nThe Oak Cliff Nature Preserve: A hidden oasis in Dallas\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMidEFVX3lxTE5FWEI2cHFzMDNTVFBxNEJYa2JIaTNkdjdyRWotQy1jT1ljUWxBUGZ0ZnhKUzhDRHdqRWxJLTZ0UnFRbmU5ZzQxWUpmUS04Z29fSWFVb0ZkQXVSSXFycFNjeDFCQzVBR3JmTUZHN1o0bmFxU1Qy?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "9d12764f5b19dfe411cd",
@@ -1023,18 +1407,6 @@
       "caption": "🚒 FIRE — DFW\n\nNorth Texas fire­fighters prepare for increased fire danger as hot, dry con­di­tions continue\n\nSource: Spectrum News\nRead more: https://news.google.com/rss/articles/CBMixgFBVV95cUxNX3AweTl5RG9qSEcySUYwZ0lSVXZ1Z1hXMnVBbzFQdm5JNU9FeUF5OXRQWUd3cHp4c0ViUVN0SnQ3MFJsOWlkWFZDNndoeGtvOGtOZGlMVld4eDQ2ZXF4bjdoMC05Wm4zcGpaV2NSWXNNUkx3eDd6RTI3ZW1ZcWxRaEY0TnhvQTBNMmdDV0lGalNvWTA0eEFaR2VyT0NnOExTZDhMdXRhejZyRmliVDZaOVJIOGE1SmRKZ2tyVzBISXFUMkdTVFE?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "b2f0c33533896a9a1d4e",
-      "title": "Chicharito signed by expansion Atlético Dallas in the USL Championship",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmtsZkpTTVh4em8xVy1tNHRxTjVrTXVsbjZ0Q3pNLVphczhjZE8zN2VqaFFCX2duN2J2UHVHMWxDMjlKWnNCeWwtYnpLekhEQk9wbGhLZmtFTHVodlp2M25HVEpsZEgwQjJ5bDNfRDZuRXRtcXdDaXNsMExrcnRfWGtEN0lEU2t1bTRtM25JR3ZJd1Y2QjhMNXd6RkExVFQtNUo1U09pdzBKLTNDUzVDdTNxZVZHUQ?oc=5",
-      "source": "Spectrum News",
-      "summary": "Chicharito signed by expansion Atlético Dallas in the USL Championship Spectrum News",
-      "published_at": "2026-07-28T13:48:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nChicharito signed by expansion Atlético Dallas in the USL Championship\n\nSource: Spectrum News\nRead more: https://news.google.com/rss/articles/CBMitgFBVV95cUxNTmtsZkpTTVh4em8xVy1tNHRxTjVrTXVsbjZ0Q3pNLVphczhjZE8zN2VqaFFCX2duN2J2UHVHMWxDMjlKWnNCeWwtYnpLekhEQk9wbGhLZmtFTHVodlp2M25HVEpsZEgwQjJ5bDNfRDZuRXRtcXdDaXNsMExrcnRfWGtEN0lEU2t1bTRtM25JR3ZJd1Y2QjhMNXd6RkExVFQtNUo1U09pdzBKLTNDUzVDdTNxZVZHUQ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "82cbdc15024bd5c00afc",
       "title": "Chicharito signed by expansion Atlético Dallas in the USL Championship",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGRNZURzalQ4UFFHRDVyOXBYYUV2VXhCY2R6Q1F1T1FYYTFieERkcWZhdG5TY0RYYmJFQlR4YUx3b2JUek9va2F6NkJuU3lkTHRRcXoybFFnYlpDVWxBN2pZd3VIQnJzNFQ5cERma28tX1pLd0ppTnE5QmFsWWx3ME10ZTctdVktdlZObE5mM2VTWjFfVERpSVkyc0E5aFlObjBCQ2lEdUFCZDJWTk9taVpDRQ?oc=5",
@@ -1047,40 +1419,16 @@
       "caption": "🚧 TRAFFIC — DFW\n\nChicharito signed by expansion Atlético Dallas in the USL Championship\n\nSource: Spectrum News\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGRNZURzalQ4UFFHRDVyOXBYYUV2VXhCY2R6Q1F1T1FYYTFieERkcWZhdG5TY0RYYmJFQlR4YUx3b2JUek9va2F6NkJuU3lkTHRRcXoybFFnYlpDVWxBN2pZd3VIQnJzNFQ5cERma28tX1pLd0ppTnE5QmFsWWx3ME10ZTctdVktdlZObE5mM2VTWjFfVERpSVkyc0E5aFlObjBCQ2lEdUFCZDJWTk9taVpDRQ?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "20022cf968ee5aa2d1e0",
-      "title": "Dallas Mavericks handed massive boost ahead of 2026-27 NBA season as Kyrie Irving completes recovery",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhRQVY4VE11RkVkRWZIZDdJRXc2SUs5aTFQeVRSMFE3QU1qQ1B0R25ZTzZPaU9zSndtRndJRVdHSGxFVUdya2REY1ZtaldQYkw4ZDdkeU00a1VRTmlxOG5rR1hiT0ZlcUIxWUZTTHM4YWxfZTRNdHZYQktpTG5GRVA5SjJfZU1RT2F2VDgyQQ?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "Dallas Mavericks handed massive boost ahead of 2026-27 NBA season as Kyrie Irving completes recovery Yahoo Sports",
-      "published_at": "2026-07-28T13:42:27+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks handed massive boost ahead of 2026-27 NBA season as Kyrie Irving completes recovery\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMijwFBVV95cUxPblhRQVY4VE11RkVkRWZIZDdJRXc2SUs5aTFQeVRSMFE3QU1qQ1B0R25ZTzZPaU9zSndtRndJRVdHSGxFVUdya2REY1ZtaldQYkw4ZDdkeU00a1VRTmlxOG5rR1hiT0ZlcUIxWUZTTHM4YWxfZTRNdHZYQktpTG5GRVA5SjJfZU1RT2F2VDgyQQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "37d0b655d3199ae71ad1",
-      "title": "15-Year-Old Becomes FC Dallas' Youngest Pro Signing",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZElsbEdtTWxaeGxGQ28xMkFwdElJbkRhYWJGSjIzRGJuaVEtWnRQSzlwX1U5RHRBYjhEWG5NTmptSTJCSW9HU1hXd3Q3UGhaMkQ0OVRoRTlWTmxSSmx4NkpLWURRX1F2Q296aXdTcDE3YnRlV0Q4MzgzLXo1dDBJWkFFcnFVRkJsVEprc1A2Q3NfdmlLeENwRGk0MU9kQdIBngFBVV95cUxPZElsbEdtTWxaeGxGQ28xMkFwdElJbkRhYWJGSjIzRGJuaVEtWnRQSzlwX1U5RHRBYjhEWG5NTmptSTJCSW9HU1hXd3Q3UGhaMkQ0OVRoRTlWTmxSSmx4NkpLWURRX1F2Q296aXdTcDE3YnRlV0Q4MzgzLXo1dDBJWkFFcnFVRkJsVEprc1A2Q3NfdmlLeENwRGk0MU9kQQ?oc=5",
-      "source": "Local Profile",
-      "summary": "15-Year-Old Becomes FC Dallas' Youngest Pro Signing Local Profile",
-      "published_at": "2026-07-28T13:30:00+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n15-Year-Old Becomes FC Dallas' Youngest Pro Signing\n\nSource: Local Profile\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxPZElsbEdtTWxaeGxGQ28xMkFwdElJbkRhYWJGSjIzRGJuaVEtWnRQSzlwX1U5RHRBYjhEWG5NTmptSTJCSW9HU1hXd3Q3UGhaMkQ0OVRoRTlWTmxSSmx4NkpLWURRX1F2Q296aXdTcDE3YnRlV0Q4MzgzLXo1dDBJWkFFcnFVRkJsVEprc1A2Q3NfdmlLeENwRGk0MU9kQdIBngFBVV95cUxPZElsbEdtTWxaeGxGQ28xMkFwdElJbkRhYWJGSjIzRGJuaVEtWnRQSzlwX1U5RHRBYjhEWG5NTmptSTJCSW9HU1hXd3Q3UGhaMkQ0OVRoRTlWTmxSSmx4NkpLWURRX1F2Q296aXdTcDE3YnRlV0Q4MzgzLXo1dDBJWkFFcnFVRkJsVEprc1A2Q3NfdmlLeENwRGk0MU9kQQ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "757aa66943dc420481bd",
       "title": "DFW’s next suburban growth wave is forming west of Fort Worth",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WanJGeWlrNjNOa1ZCZENLRHpLMEF1bHlSRDFnT3QwYXdfQjdpMkduUEFHX2hCRlhLMzJaT0lEdmljeWpvbjUzUGNROU85SER3MzRaek5UZnNCdnEzRmROTVhob1h3dUxPSmxrUzlOcw?oc=5",
       "source": "HousingWire",
       "summary": "DFW’s next suburban growth wave is forming west of Fort Worth HousingWire",
       "published_at": "2026-07-28T12:57:54+00:00",
-      "category": "Breaking",
+      "category": "Community",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nDFW’s next suburban growth wave is forming west of Fort Worth\n\nSource: HousingWire\nRead more: https://news.google.com/rss/articles/CBMib0FVX3lxTE9WanJGeWlrNjNOa1ZCZENLRHpLMEF1bHlSRDFnT3QwYXdfQjdpMkduUEFHX2hCRlhLMzJaT0lEdmljeWpvbjUzUGNROU85SER3MzRaek5UZnNCdnEzRmROTVhob1h3dUxPSmxrUzlOcw?oc=5\n\nTexas News Roundup"
+      "caption": "📍 COMMUNITY — DFW\n\nDFW’s next suburban growth wave is forming west of Fort Worth\n\nSource: HousingWire\nRead more: https://news.google.com/rss/articles/CBMib0FVX3lxTE9WanJGeWlrNjNOa1ZCZENLRHpLMEF1bHlSRDFnT3QwYXdfQjdpMkduUEFHX2hCRlhLMzJaT0lEdmljeWpvbjUzUGNROU85SER3MzRaek5UZnNCdnEzRmROTVhob1h3dUxPSmxrUzlOcw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "03b3140aa8b6e956f9b7",
@@ -1095,52 +1443,16 @@
       "caption": "🚧 TRAFFIC — DFW\n\nMother, daughters, and dog killed in Kaufman County crash\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmFHRWNHaktSQXRPVE1RS0dmN1JrdE9faUxoTzJETHhHRFVBcVpZQUNzenk2SGRsSmhvUW8zMDVwbWFfeEVfb3drOFZLNk56bVRyRU1WRFFIMmVUVVBNM1lEbXlLTkE0NU9XNGk2Und6ZG9JcEo5UmQ3bXRVWWM3eVpyYkVyd0lLNkhzWFFpZ3RCblhkQVVKOUF3endpMWp1XzE5QUM1a9IBrwFBVV95cUxORnpFbWJ1ME52UjNpcFBhVEZVRnpFS1RFQTRJTl9zYTQzQ0hhcm5sQlhvNk9zOWktdnZxR3g3S3JNRGZZMGRnQlExSlMzV0tJaGN2UEcyM3l4N1lVTGo0ZGQwdlpaZVdRdWpzSWhIbUQ2Vk15UjV2RmEtQWY2VEl1VDE1bHJ1R2JOSlRkOXU0VWQyVHJLdmh3bGRCeUs1NjUtVXNpMUVTa3JuZE5ja05j?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "48d7d4440b9a1c53e3ef",
-      "title": "Cowboys headlines: Dallas arrives in Oxnard; Contender buzz begins",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWWFoNnZwckcwaEc1UWZWX0hsakFhUXljX3M4ak56c1huTjA0QktpZkptR0hSVlhib2U2MlZRWk9mSnhmTjJrMDQ2MEVUWDFhNko2ZmsxYlBuVHVCWHFjVGZtbEQxVU5rYUFnMHRhM0R0M21qT2t4U3RTU0t3OE9jRmtNU0J3U0Fmd01EYnJpQ3B4TVpHU3NuQU05OXVnNmFUcldJaFByNmxwYUdPdWVYNGRrNjNfeFB1MmthTU5OLTNzYlRQa2R6NnFJeklVVW1IQmhnRVhobm4?oc=5",
-      "source": "Cowboys Wire",
-      "summary": "Cowboys headlines: Dallas arrives in Oxnard; Contender buzz begins Cowboys Wire",
-      "published_at": "2026-07-28T12:42:00+00:00",
-      "category": "Sports",
+      "id": "2993819d8ada5dae131d",
+      "title": "Debra Tyriver Obituary (1958 - 2021) - The Colony, TX",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3o1azNHOVVGNllWWHFIc18wMjlYZjA1V002MnRNVHRlWlNjMU5qdUZud1RmZFFvbXRBN0cxU1FEOWZjV2M5SUpDbG1HeWE3SE5iVWR5b1hydzA5bEVsTTJxSUpwYzZkNEtvS0FaamFoNFdfVk5xWFpXY0daM3ZkS1k2Vlc1M21TSzhOZHF5QUhObDU3aGdVNVFEZHpiWGQzQVE?oc=5",
+      "source": "Dallas News",
+      "summary": "Debra Tyriver Obituary (1958 - 2021) - The Colony, TX Dallas News",
+      "published_at": "2026-07-28T12:24:17+00:00",
+      "category": "Breaking",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nCowboys headlines: Dallas arrives in Oxnard; Contender buzz begins\n\nSource: Cowboys Wire\nRead more: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWWFoNnZwckcwaEc1UWZWX0hsakFhUXljX3M4ak56c1huTjA0QktpZkptR0hSVlhib2U2MlZRWk9mSnhmTjJrMDQ2MEVUWDFhNko2ZmsxYlBuVHVCWHFjVGZtbEQxVU5rYUFnMHRhM0R0M21qT2t4U3RTU0t3OE9jRmtNU0J3U0Fmd01EYnJpQ3B4TVpHU3NuQU05OXVnNmFUcldJaFByNmxwYUdPdWVYNGRrNjNfeFB1MmthTU5OLTNzYlRQa2R6NnFJeklVVW1IQmhnRVhobm4?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "d2715adaacaed022f4f8",
-      "title": "Dallas Cowboys report for training camp in Oxnard",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSThGSl9xZHVUUHNxeTZaNWk0NVV1aFN4NksxaE4tcFh3YWIzV1ctRUJnNWxBbHpVdjc4bzFWdjJUV2VFTHVjLWgwUktJemk2ck5iTEwwVnNNYkVuaTVzSExxdnpEZHhWaUpDYkhaVmE5MTFPT29ZUy1Xd3hWWmxPamhBdXptb0hMS01OWXVNcEJYWmhrZG1xMEsxOFczNHBIc3lzbVVickQ1aE1aVG9Hbnk5akFwUlJ1MGdyNTNoZy1weTMtTFBR?oc=5",
-      "source": "KVUE",
-      "summary": "Dallas Cowboys report for training camp in Oxnard KVUE",
-      "published_at": "2026-07-28T12:37:00+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys report for training camp in Oxnard\n\nSource: KVUE\nRead more: https://news.google.com/rss/articles/CBMixwFBVV95cUxPSThGSl9xZHVUUHNxeTZaNWk0NVV1aFN4NksxaE4tcFh3YWIzV1ctRUJnNWxBbHpVdjc4bzFWdjJUV2VFTHVjLWgwUktJemk2ck5iTEwwVnNNYkVuaTVzSExxdnpEZHhWaUpDYkhaVmE5MTFPT29ZUy1Xd3hWWmxPamhBdXptb0hMS01OWXVNcEJYWmhrZG1xMEsxOFczNHBIc3lzbVVickQ1aE1aVG9Hbnk5akFwUlJ1MGdyNTNoZy1weTMtTFBR?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "0a8854c0c0bb30d9b7c3",
-      "title": "The Mavericks are playing with fire with Dereck Lively II and they need to stop ASAP",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQMVROMHduQ3VYNVh6bklDOWtvN29tLTV2RmN6N3F6a2xwSnJKVzc0M0taQ0JsYzFVNUxJUUVId1NtMGlhNThuMWRyZWZMcTZGRGUwOU9kNW5ZdWdjSnc4Q0hIVDNnLWlBS3ZZSEhUd1BXekkzSWZvZVg0dkR1QWgwTkdNamtVMTRoNDVxOTFUbGVoRzZ5aDNiRHRJck5qRXlyOGFvRGJRU0ktSDBoakdFellmYmJhVVBQR2gxT04xaVhBN29VanJoTnc5a0dFZDVCakNjMEhIMU1oTFFOZjNvb3Z6a1BUSDNqeHFkSjZGZEtoTW16RGQxekJ3TFhrRDg3U0R3cFppVVZaOXkxV2YwTEswNTdIQkNyT0FILWdLRmQtdw?oc=5",
-      "source": "Sport DFW",
-      "summary": "The Mavericks are playing with fire with Dereck Lively II and they need to stop ASAP Sport DFW",
-      "published_at": "2026-07-28T12:30:00+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nThe Mavericks are playing with fire with Dereck Lively II and they need to stop ASAP\n\nSource: Sport DFW\nRead more: https://news.google.com/rss/articles/CBMiogJBVV95cUxQMVROMHduQ3VYNVh6bklDOWtvN29tLTV2RmN6N3F6a2xwSnJKVzc0M0taQ0JsYzFVNUxJUUVId1NtMGlhNThuMWRyZWZMcTZGRGUwOU9kNW5ZdWdjSnc4Q0hIVDNnLWlBS3ZZSEhUd1BXekkzSWZvZVg0dkR1QWgwTkdNamtVMTRoNDVxOTFUbGVoRzZ5aDNiRHRJck5qRXlyOGFvRGJRU0ktSDBoakdFellmYmJhVVBQR2gxT04xaVhBN29VanJoTnc5a0dFZDVCakNjMEhIMU1oTFFOZjNvb3Z6a1BUSDNqeHFkSjZGZEtoTW16RGQxekJ3TFhrRDg3U0R3cFppVVZaOXkxV2YwTEswNTdIQkNyT0FILWdLRmQtdw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "dd3b90afbf333535928d",
-      "title": "Dallas weather: July 28 morning forecast",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHQzNU9FQkl5dVFBY1FJWHNlRjgzaUVYWEpxem16Y1JuNWs4Qm9XdzJxTUE0UnN1YzZSUFBWSEpxM1ZxWjNvUHV6ZV9fT0NrVVdWUDBnV0xxSkNVaU1ndm9aa084VGgxcjE1MVFUb1ZUSUZ3U0VBTmZZZVdQSkVSMEYzeHllSl9FNjczWlFoWlNCYUR2RG5iWFFueXY4S0pGZ1lqTUZqY3BOOTZzVmtMQ2QwTFlDQdIBuwFBVV95cUxQb2E1WWhrcDNqaXgzMHBlT011TzE5WmNpNV9ZVXFoNHFXbWhITWZDX1B0RWN2cTgySkwyZ3BEUThSalVsVFdtWVYzODZZMlFRd1haN0VxUlJwWmhxdFY4akpraGtob0RxM1czV2RMR2JPZ0U5RGNvQzlISkZXMXlLT1R5WGdYX2lYX2ZTSEVuX1RwY0hLNEdjZ2ZBZVlHWl9oS1NiUllHYWEySjA2ZTd1Z0ZHcDV4bjRwWkZ3?oc=5",
-      "source": "FOX 4 News Dallas-Fort Worth",
-      "summary": "Dallas weather: July 28 morning forecast FOX 4 News Dallas-Fort Worth",
-      "published_at": "2026-07-28T12:29:49+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nDallas weather: July 28 morning forecast\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMitgFBVV95cUxPeHQzNU9FQkl5dVFBY1FJWHNlRjgzaUVYWEpxem16Y1JuNWs4Qm9XdzJxTUE0UnN1YzZSUFBWSEpxM1ZxWjNvUHV6ZV9fT0NrVVdWUDBnV0xxSkNVaU1ndm9aa084VGgxcjE1MVFUb1ZUSUZ3U0VBTmZZZVdQSkVSMEYzeHllSl9FNjczWlFoWlNCYUR2RG5iWFFueXY4S0pGZ1lqTUZqY3BOOTZzVmtMQ2QwTFlDQdIBuwFBVV95cUxQb2E1WWhrcDNqaXgzMHBlT011TzE5WmNpNV9ZVXFoNHFXbWhITWZDX1B0RWN2cTgySkwyZ3BEUThSalVsVFdtWVYzODZZMlFRd1haN0VxUlJwWmhxdFY4akpraGtob0RxM1czV2RMR2JPZ0U5RGNvQzlISkZXMXlLT1R5WGdYX2lYX2ZTSEVuX1RwY0hLNEdjZ2ZBZVlHWl9oS1NiUllHYWEySjA2ZTd1Z0ZHcDV4bjRwWkZ3?oc=5\n\nTexas News Roundup"
+      "caption": "🔴 BREAKING — DFW\n\nDebra Tyriver Obituary (1958 - 2021) - The Colony, TX\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiogFBVV95cUxNb3o1azNHOVVGNllWWHFIc18wMjlYZjA1V002MnRNVHRlWlNjMU5qdUZud1RmZFFvbXRBN0cxU1FEOWZjV2M5SUpDbG1HeWE3SE5iVWR5b1hydzA5bEVsTTJxSUpwYzZkNEtvS0FaamFoNFdfVk5xWFpXY0daM3ZkS1k2Vlc1M21TSzhOZHF5QUhObDU3aGdVNVFEZHpiWGQzQVE?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "d63677f0ccd868b56fe3",
@@ -1155,42 +1467,6 @@
       "caption": "🚨 POLICE — DFW\n\nUS Army Veteran and Former Dallas Police Officer Helps Military and First Responders Start Travel Businesses\n\nSource: PR Newswire\nRead more: https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcVRmdUFxRTdkTHhYM3VUZDBxMGZGVlpnSmhXek92cktIQWY4UkJieXVkZTFDNmg5MGJmc21WWDVDeWxHRmZyTkhpLXN6Uk9BdExhLTdyX2Mxd09iVGFkdUJTd3Y1dG9aQ1MtcEJoUkdBUHZHZ0RqUElVcVdkTHFNZTB0b3Y3WXhNR19pTm52LWxaOEZ5Z3hMMU83b2N1Q3JPU0JxZ1BvZ0daWENtU0JpeXNwSi1LZUg3d1M3UUxSazk1RXpnc2N0YlFWYXhNQVRlTi1ENVQzNnBVLUJXSkhWQ1M0d3JWN0JnWVZwaWJ2WWI1SHJqeWs0?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "2801f2899ab060f9d7a0",
-      "title": "Dallas Cowboys Offensive Line Ready To Prove 'Iron Sharpens Iron' In Training Camp",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVgxckFkbU11eTZmaFMtbWhlMjFuc21LYWxuUk9PRUZwblZqeDROOF9PM3VMSi1Jc2VkeTJTWnVNeGNBYlA4WlFzMy1zX2tIOF9LNTkxZzZxR0VPa2RJRkdBTzdJY205NVBBYWNHV29JVE5vRGJyNlNVQVplWkNwU2M3MkNnYWc1QUpyYk1RWi1reDc1UzhUUk9pNExielVMTTRoZ0ptN3FPODk3cWxuTk9iSQ?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Dallas Cowboys Offensive Line Ready To Prove 'Iron Sharpens Iron' In Training Camp Sports Illustrated",
-      "published_at": "2026-07-28T12:00:02+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys Offensive Line Ready To Prove 'Iron Sharpens Iron' In Training Camp\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxNYVgxckFkbU11eTZmaFMtbWhlMjFuc21LYWxuUk9PRUZwblZqeDROOF9PM3VMSi1Jc2VkeTJTWnVNeGNBYlA4WlFzMy1zX2tIOF9LNTkxZzZxR0VPa2RJRkdBTzdJY205NVBBYWNHV29JVE5vRGJyNlNVQVplWkNwU2M3MkNnYWc1QUpyYk1RWi1reDc1UzhUUk9pNExielVMTTRoZ0ptN3FPODk3cWxuTk9iSQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "644f6b4b0b0bd50d4bcf",
-      "title": "Fort Worth Stockyards round up 1.8M visitors during World Cup, officials say",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXJXeV81bTd3bG9aelY4UmZ0UTI2Mk44RVM1UFJlRkNIR3lFWk5VbnI0Sy0zS2VtdmV5SXVCVjhpci1FT0FOLVRvQlZjUHB5TDJBdUJHY1dLXzRpakxlWnJIQWFLeWt1MTh0U3EwTExmZDlWT0ZMVDZEUWhRNVFnOVFUWVQxYVdBVURNdnNEV3BwVEFFLVZSb00tdzFPOE81Q2VTd3g3NzNCX2FFRWlnQ2xwOW9kNzA?oc=5",
-      "source": "KERA News",
-      "summary": "Fort Worth Stockyards round up 1.8M visitors during World Cup, officials say KERA News",
-      "published_at": "2026-07-28T11:52:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nFort Worth Stockyards round up 1.8M visitors during World Cup, officials say\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXJXeV81bTd3bG9aelY4UmZ0UTI2Mk44RVM1UFJlRkNIR3lFWk5VbnI0Sy0zS2VtdmV5SXVCVjhpci1FT0FOLVRvQlZjUHB5TDJBdUJHY1dLXzRpakxlWnJIQWFLeWt1MTh0U3EwTExmZDlWT0ZMVDZEUWhRNVFnOVFUWVQxYVdBVURNdnNEV3BwVEFFLVZSb00tdzFPOE81Q2VTd3g3NzNCX2FFRWlnQ2xwOW9kNzA?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "639e889ba89217ad6f42",
-      "title": "Kyrie Irving update is exactly what Mavericks fans wanted to hear",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRUw2ZXlFdTNxaVVmd1N2NE16cGRaYV96RWNOUkcwMnNIYmNQUC1UZDBTT3ZqMHc3bEExeHlSSHlPc2JZRHpXRndZNmlWOEpMSl9yTGNod2F6TWNidXE4SGxyQklhaXI5QTdubUdONk9fcWNOQVh5V1BrdklMVlZJcF9EakkzcWtoellJaA?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "Kyrie Irving update is exactly what Mavericks fans wanted to hear Yahoo Sports",
-      "published_at": "2026-07-28T11:47:52+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nKyrie Irving update is exactly what Mavericks fans wanted to hear\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMijAFBVV95cUxQRUw2ZXlFdTNxaVVmd1N2NE16cGRaYV96RWNOUkcwMnNIYmNQUC1UZDBTT3ZqMHc3bEExeHlSSHlPc2JZRHpXRndZNmlWOEpMSl9yTGNod2F6TWNidXE4SGxyQklhaXI5QTdubUdONk9fcWNOQVh5V1BrdklMVlZJcF9EakkzcWtoellJaA?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "9e98674e60de48edc8c3",
       "title": "Former Plano elementary teacher faces 3 new child indecency charges, police say",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1FrVmJBdE9Sa0NiQjB5WW5WNExodFpacTkwZE93X2FLMERHLWhjdGplS3Z6ZmVIVkNkVjZTdUlXUmUzM2tlY2JkZ2FlbzA0ZVBaUS00cXQxRmNtUGNGS3BBLURJZnoyZXl1OTZjamVQR1IyWVFBVVBOYTh3OGlQeWptdTU3OHBDbjVGc1FlakFTUjliekdhUk8wOV90TEhEMmViajVjOTJGeVJtci1VaFdFVHl2Zw?oc=5",
@@ -1201,30 +1477,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nFormer Plano elementary teacher faces 3 new child indecency charges, police say\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1FrVmJBdE9Sa0NiQjB5WW5WNExodFpacTkwZE93X2FLMERHLWhjdGplS3Z6ZmVIVkNkVjZTdUlXUmUzM2tlY2JkZ2FlbzA0ZVBaUS00cXQxRmNtUGNGS3BBLURJZnoyZXl1OTZjamVQR1IyWVFBVVBOYTh3OGlQeWptdTU3OHBDbjVGc1FlakFTUjliekdhUk8wOV90TEhEMmViajVjOTJGeVJtci1VaFdFVHl2Zw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "4c792668c3c67f0a1e5a",
-      "title": "North Texas under a heat advisory for Tuesday",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93X2tvWW4wT21EVGREUklESWdubU01TnBRN3VwZ2Q2Ty1LRFpzQzVwQV9QSlNSUGUxZldvN2hXakpfQTZuQ1B3T0NHbXhRZlFUTDZraEtiV0hQaWNEMWx3X19xcnZ4SXl0ZlVkYllCaWNjVGNjX2VpOHhPcw?oc=5",
-      "source": "CBS News",
-      "summary": "North Texas under a heat advisory for Tuesday CBS News",
-      "published_at": "2026-07-28T11:25:43+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nNorth Texas under a heat advisory for Tuesday\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMie0FVX3lxTE93X2tvWW4wT21EVGREUklESWdubU01TnBRN3VwZ2Q2Ty1LRFpzQzVwQV9QSlNSUGUxZldvN2hXakpfQTZuQ1B3T0NHbXhRZlFUTDZraEtiV0hQaWNEMWx3X19xcnZ4SXl0ZlVkYllCaWNjVGNjX2VpOHhPcw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "e6c02f353a9efb57310e",
-      "title": "Every player Mavericks' Dusty May coached in college who reached the NBA",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUpIY2V2Y1RaLUV0ZzlDRWpWajlfZWxRTWU4SGdlM0JrUEJoVUM5NjdwVjZFZVpSZ0pKVlFsZkowVXN6ZzUxd2F3cmZlU095OUtOYkNfaVJKZWRLUXRqVGp2QktpdnpRVUZtbTlVeElUZHR3N19MY0p4ZzhqZFV4TzhPaWlpejVxTVhpYS1tcUg1VVE0dF91Wkx2V1YxdXF6bDJHYkt3?oc=5",
-      "source": "Dallas News",
-      "summary": "Every player Mavericks' Dusty May coached in college who reached the NBA Dallas News",
-      "published_at": "2026-07-28T11:02:15+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nEvery player Mavericks' Dusty May coached in college who reached the NBA\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMipgFBVV95cUxQOUpIY2V2Y1RaLUV0ZzlDRWpWajlfZWxRTWU4SGdlM0JrUEJoVUM5NjdwVjZFZVpSZ0pKVlFsZkowVXN6ZzUxd2F3cmZlU095OUtOYkNfaVJKZWRLUXRqVGp2QktpdnpRVUZtbTlVeElUZHR3N19MY0p4ZzhqZFV4TzhPaWlpejVxTVhpYS1tcUg1VVE0dF91Wkx2V1YxdXF6bDJHYkt3?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "68b3430d4b7edc627154",
@@ -1239,40 +1491,28 @@
       "caption": "📍 COMMUNITY — DFW\n\nFestival Eritrea USA Returns to North Texas, Celebrating More Than 50 Years of Culture and Community\n\nSource: Dallas Weekly\nRead more: https://news.google.com/rss/articles/CBMizgFBVV95cUxQTm9xY1o4WlVtaGo3SUNqRS1icURBYkhjOFJEaXpUcE0xV1pUcmFhRjM4QWMxblk0cERqNm9QUmtQbGVlbGZwLVVMWWV3ZlJzX2tjMGJTTmJac1dUeE12eURvRTVqc25LamZrbjBEWXVhcHdYWEhmWXEyOGpZcUNvcjR2Q2ZQMWpXX1JGM3pJNEdTMGdkUlUxLTkwYzY4ZFIwMDd3WkVncU1tNzlENi1IWWlYcmhadXdYUlNuaE51eVlhbmotV3VQRzV6dEFpQQ?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "e25ca0bcf4e11ff4af1f",
-      "title": "Dallas Cowboys Veterans Excited For Defensive Revival Under Christian Parker",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTdNX0JVOVBFVkVDSnk2bEhCWU5DS2lrRlRTUVF4cXM0MXY1OXdlOTNNVjFNbWxjZ053MHRNQ1RuSkRWd2dFN0tMYXM5eFMwVmlUR1pUcWY5R0szZVhIeGZLN0gzTVIxSFR1cEl3cmpaaTNMbVJQamNDTVBoNVQ0TUF2RjIwQWNfcUZOc09KTTE0NXlta3llU0d6MHdfdnBKRkJPNQ?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Dallas Cowboys Veterans Excited For Defensive Revival Under Christian Parker Sports Illustrated",
-      "published_at": "2026-07-28T10:24:24+00:00",
-      "category": "Sports",
+      "id": "b994941678808fa55dcf",
+      "title": "Plano officials OK $1.4M for Drone as First Responder Program",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTV9XTG9WS25adkN0MmY5bURqeTZrOWhaUzhXNVQzaHFvaVBUeGxIcG9VNU9VSC1PM0g2SjBWTTM0OXdOZkFuejZKOUZKdVFlMUxINElOazRFTmFwT3otOUJxZWpjbVBrbjRDQ1ZqNTBPNEc1MHpaQ2tYY0paNHhmMU5aMkVSS2pEU0JOcGhkVkFHOTVuSm41a1RtUWVWbEkzRjJZUG9TbjU?oc=5",
+      "source": "Community Impact",
+      "summary": "Plano officials OK $1.4M for Drone as First Responder Program Community Impact",
+      "published_at": "2026-07-28T10:00:00+00:00",
+      "category": "Police",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys Veterans Excited For Defensive Revival Under Christian Parker\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTdNX0JVOVBFVkVDSnk2bEhCWU5DS2lrRlRTUVF4cXM0MXY1OXdlOTNNVjFNbWxjZ053MHRNQ1RuSkRWd2dFN0tMYXM5eFMwVmlUR1pUcWY5R0szZVhIeGZLN0gzTVIxSFR1cEl3cmpaaTNMbVJQamNDTVBoNVQ0TUF2RjIwQWNfcUZOc09KTTE0NXlta3llU0d6MHdfdnBKRkJPNQ?oc=5\n\nTexas News Roundup"
+      "caption": "🚨 POLICE — DFW\n\nPlano officials OK $1.4M for Drone as First Responder Program\n\nSource: Community Impact\nRead more: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTV9XTG9WS25adkN0MmY5bURqeTZrOWhaUzhXNVQzaHFvaVBUeGxIcG9VNU9VSC1PM0g2SjBWTTM0OXdOZkFuejZKOUZKdVFlMUxINElOazRFTmFwT3otOUJxZWpjbVBrbjRDQ1ZqNTBPNEc1MHpaQ2tYY0paNHhmMU5aMkVSS2pEU0JOcGhkVkFHOTVuSm41a1RtUWVWbEkzRjJZUG9TbjU?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "67ffb682d55f07ea5360",
-      "title": "In ‘limbo’: North Texas family’s legal battle with school district could affect special ed statewide",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTFQNEJKRkV0WG81WUtGOGRNTXV2OW01SEptSlhDdzdFbHRfNXVHNnhmaWFFY09kV2dqQ1FnSW1rclA0V0p3YllvM0NjNTgwemZkNWJCSlVqZHFaeVlZMlB2ZlR3WVV5TWlHSkFJSDM0VHpLd0NYZHNqR0tGRm5xZzFvZ3RiV2xBdzVyOTdCZzhFOUFxVDk5dWVYSkVpaTZJLTlOVlluWDJCX2dIcjRNcG9Dc0VSSDZlVXBHdkN0QmZkZ09RQ3F3T1JXMzVkZmRXVDFmXzAxdjhKZnRVMTFv?oc=5",
-      "source": "KERA News",
-      "summary": "In ‘limbo’: North Texas family’s legal battle with school district could affect special ed statewide KERA News",
-      "published_at": "2026-07-28T10:04:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nIn ‘limbo’: North Texas family’s legal battle with school district could affect special ed statewide\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTFQNEJKRkV0WG81WUtGOGRNTXV2OW01SEptSlhDdzdFbHRfNXVHNnhmaWFFY09kV2dqQ1FnSW1rclA0V0p3YllvM0NjNTgwemZkNWJCSlVqZHFaeVlZMlB2ZlR3WVV5TWlHSkFJSDM0VHpLd0NYZHNqR0tGRm5xZzFvZ3RiV2xBdzVyOTdCZzhFOUFxVDk5dWVYSkVpaTZJLTlOVlluWDJCX2dIcjRNcG9Dc0VSSDZlVXBHdkN0QmZkZ09RQ3F3T1JXMzVkZmRXVDFmXzAxdjhKZnRVMTFv?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "024ce7db62f53848aaf8",
-      "title": "30 North Texas RaceTrac stores set for remodel",
+      "id": "f8a809038975827d3c2e",
+      "title": "30 North Texas RaceTrac stores set for an update",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdlUlpuM2w3ZzduUVdwTVBGNzJFcWFDOElhMXZMb2I5TnBzNWJ5MzdxRDNlb0JPR2Z5ZmJsMHgtTXRpUWZuc24xUUppampxaGRaZURkZm5WTEdYNm4xTDktT0FmZUlVR0s3NDVrUW1Xc2c1REhVX2dxQlpLQ3RCSnhwZUJibmJndzhoVlpjYzc2M180elhR?oc=5",
       "source": "Community Impact",
-      "summary": "30 North Texas RaceTrac stores set for remodel Community Impact",
+      "summary": "30 North Texas RaceTrac stores set for an update Community Impact",
       "published_at": "2026-07-28T10:00:00+00:00",
       "category": "Community",
       "thumbnail": "",
       "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\n30 North Texas RaceTrac stores set for remodel\n\nSource: Community Impact\nRead more: https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdlUlpuM2w3ZzduUVdwTVBGNzJFcWFDOElhMXZMb2I5TnBzNWJ5MzdxRDNlb0JPR2Z5ZmJsMHgtTXRpUWZuc24xUUppampxaGRaZURkZm5WTEdYNm4xTDktT0FmZUlVR0s3NDVrUW1Xc2c1REhVX2dxQlpLQ3RCSnhwZUJibmJndzhoVlpjYzc2M180elhR?oc=5\n\nTexas News Roundup"
+      "caption": "📍 COMMUNITY — DFW\n\n30 North Texas RaceTrac stores set for an update\n\nSource: Community Impact\nRead more: https://news.google.com/rss/articles/CBMilwFBVV95cUxOMXdlUlpuM2w3ZzduUVdwTVBGNzJFcWFDOElhMXZMb2I5TnBzNWJ5MzdxRDNlb0JPR2Z5ZmJsMHgtTXRpUWZuc24xUUppampxaGRaZURkZm5WTEdYNm4xTDktT0FmZUlVR0s3NDVrUW1Xc2c1REhVX2dxQlpLQ3RCSnhwZUJibmJndzhoVlpjYzc2M180elhR?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "63a99bac109e1de1922b",
@@ -1299,28 +1539,40 @@
       "caption": "📍 COMMUNITY — DFW\n\nTarrant County College launches 4-year bachelor’s degree in early childhood education\n\nSource: Community Impact\nRead more: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcVJYZHZfdVhtSUlTMVVCeU1WaTkwSTBXYWtXTmhSYW0wdFZPVWlCRWZQc29qcm9rTjdlYzBvSWlPZUJraE5MUmRuZTA2UUlNYTl5LXlJSXlEOVF2dURmV25YZGNvZTg0VTZTaXlmOGgySEZwNVFZVWtzdzBpdXBmZ0J2UWlTd0N2Z2FCc1hOLVVfSmpXb1ljV3p0bVFBbF8xLTVLcUc1TTVUWmh5Z1hneVhNdVk2S2o1VmZTRFJiSU1Sb3pncnBZY3g4NGNqeFZCN0o1VEZBaG00NC1fcWVVRk9jN2oweE51M1g1dWwtNlI?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "9c66b33916b77db0eb86",
+      "title": "Family-owned Sweetie's Cheesecakes brings unique flavors to Fort Worth",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnFFQlM1czJ3TUZvTlFSZDk3bmxvQUNKQll1c3YyZkJnV0VDdVoyeWNObXFnMDNIM3VCNlBZOGJxb3E4Ym1yQjB6VVNpN0VwRlNHdEY5UER4Zk5Gd2E5czZENEhtbnVCSGtEbV8tZVdnZDZ6elB6by0zWS1YSWhUZHdOaU9TVTBfczBrUnk0MElFTEJuNklDbURWekVnTTZ1bi1oTlcxTS1LUTJEYkJvNlNKZDJkeEIwVjBmOHpxYlFad3AwdWpXYndHekxjYkgtbU5ndVhVUkQ?oc=5",
+      "source": "Community Impact",
+      "summary": "Family-owned Sweetie's Cheesecakes brings unique flavors to Fort Worth Community Impact",
+      "published_at": "2026-07-28T10:00:00+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nFamily-owned Sweetie's Cheesecakes brings unique flavors to Fort Worth\n\nSource: Community Impact\nRead more: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUnFFQlM1czJ3TUZvTlFSZDk3bmxvQUNKQll1c3YyZkJnV0VDdVoyeWNObXFnMDNIM3VCNlBZOGJxb3E4Ym1yQjB6VVNpN0VwRlNHdEY5UER4Zk5Gd2E5czZENEhtbnVCSGtEbV8tZVdnZDZ6elB6by0zWS1YSWhUZHdOaU9TVTBfczBrUnk0MElFTEJuNklDbURWekVnTTZ1bi1oTlcxTS1LUTJEYkJvNlNKZDJkeEIwVjBmOHpxYlFad3AwdWpXYndHekxjYkgtbU5ndVhVUkQ?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "c4fc7fe285240d711c4d",
       "title": "Dallas 'hid' homeless people from FIFA, council member says, cites ongoing 'inhumane' conditions",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU1NTMUg2b2hyY0p1NXFDVTNldWtvY2pKZUdKMnZTN1FfZVRJeFh6aWc1OVV3SFJvYUFQRmZRVHViUW5vajJEYzNlbXZCRkttSlRVNktnQUJLVkFEUFNuenBSemEwdE9QUnpKRU55clRvSFNBLVEyRW44UHVEMEJKakJLZUhWUDEwRjZSakczalFpNlc2dzE2Z21xLXVueDR5Y0FpeGVKZ2lKS3FGdGF0Ylk1c1lqbUF4NzBJS1Y2ZlVtYll5SzFxaTBvNFhfQzBGQks3YlctajNPNURWT2RxWFU5OGkxeEhw?oc=5",
       "source": "KERA News",
       "summary": "Dallas 'hid' homeless people from FIFA, council member says, cites ongoing 'inhumane' conditions KERA News",
       "published_at": "2026-07-28T09:57:00+00:00",
-      "category": "Breaking",
+      "category": "Fire",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nDallas 'hid' homeless people from FIFA, council member says, cites ongoing 'inhumane' conditions\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU1NTMUg2b2hyY0p1NXFDVTNldWtvY2pKZUdKMnZTN1FfZVRJeFh6aWc1OVV3SFJvYUFQRmZRVHViUW5vajJEYzNlbXZCRkttSlRVNktnQUJLVkFEUFNuenBSemEwdE9QUnpKRU55clRvSFNBLVEyRW44UHVEMEJKakJLZUhWUDEwRjZSakczalFpNlc2dzE2Z21xLXVueDR5Y0FpeGVKZ2lKS3FGdGF0Ylk1c1lqbUF4NzBJS1Y2ZlVtYll5SzFxaTBvNFhfQzBGQks3YlctajNPNURWT2RxWFU5OGkxeEhw?oc=5\n\nTexas News Roundup"
+      "caption": "🚒 FIRE — DFW\n\nDallas 'hid' homeless people from FIFA, council member says, cites ongoing 'inhumane' conditions\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU1NTMUg2b2hyY0p1NXFDVTNldWtvY2pKZUdKMnZTN1FfZVRJeFh6aWc1OVV3SFJvYUFQRmZRVHViUW5vajJEYzNlbXZCRkttSlRVNktnQUJLVkFEUFNuenBSemEwdE9QUnpKRU55clRvSFNBLVEyRW44UHVEMEJKakJLZUhWUDEwRjZSakczalFpNlc2dzE2Z21xLXVueDR5Y0FpeGVKZ2lKS3FGdGF0Ylk1c1lqbUF4NzBJS1Y2ZlVtYll5SzFxaTBvNFhfQzBGQks3YlctajNPNURWT2RxWFU5OGkxeEhw?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "cc9d1f8d7821cd794cd4",
-      "title": "Bryce Dallas Howard says she was asked to lose weight while filming 'Jurassic World: Dominion'—and SIGH",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRkhsS1pVRHNXeFpIRmpKVk81aC00TldpaldWNEhUV0VMX2hfY3lqVzdfU1Zfdm8wbGs1VUR1bG5kdFFqb3RDTUNJaVlVT0lrN2J6RlZvZVNUaW5IM0hNS1V2bllOZlpDM0NDdGtib1lLcjFEdklLNldqNFVLbEg1aDB2SEpWT0ZfWXc?oc=5",
-      "source": "Motherly",
-      "summary": "Bryce Dallas Howard says she was asked to lose weight while filming 'Jurassic World: Dominion'—and SIGH Motherly",
-      "published_at": "2026-07-28T08:55:11+00:00",
-      "category": "Breaking",
+      "id": "2be7a9e3cffbda34e3da",
+      "title": "Dallas Wings Vs. Portland Fire | FULL GAME HIGHLIGHTS | June 13, 2026 Joanna Lumley (tytn5jDQKe)",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVG02UjZTMFJES05ZM3dfZXFfUnp1MllrSjJldWhLWVp4eHJ0ZFFmaDJUZ3I0bmc3eGRWMFFpR1BDcGZ3MjhMa2hmSzg1SXR5bVlrZ3JHdkd4Nk01WU5ocA?oc=5",
+      "source": "Mshale",
+      "summary": "Dallas Wings Vs. Portland Fire | FULL GAME HIGHLIGHTS | June 13, 2026 Joanna Lumley (tytn5jDQKe) Mshale",
+      "published_at": "2026-07-28T09:10:15+00:00",
+      "category": "Fire",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nBryce Dallas Howard says she was asked to lose weight while filming 'Jurassic World: Dominion'—and SIGH\n\nSource: Motherly\nRead more: https://news.google.com/rss/articles/CBMiigFBVV95cUxNRkhsS1pVRHNXeFpIRmpKVk81aC00TldpaldWNEhUV0VMX2hfY3lqVzdfU1Zfdm8wbGs1VUR1bG5kdFFqb3RDTUNJaVlVT0lrN2J6RlZvZVNUaW5IM0hNS1V2bllOZlpDM0NDdGtib1lLcjFEdklLNldqNFVLbEg1aDB2SEpWT0ZfWXc?oc=5\n\nTexas News Roundup"
+      "caption": "🚒 FIRE — DFW\n\nDallas Wings Vs. Portland Fire | FULL GAME HIGHLIGHTS | June 13, 2026 Joanna Lumley (tytn5jDQKe)\n\nSource: Mshale\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uVG02UjZTMFJES05ZM3dfZXFfUnp1MllrSjJldWhLWVp4eHJ0ZFFmaDJUZ3I0bmc3eGRWMFFpR1BDcGZ3MjhMa2hmSzg1SXR5bVlrZ3JHdkd4Nk01WU5ocA?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "244a5621b99e143cceaa",
@@ -1335,18 +1587,6 @@
       "caption": "🌪️ WEATHER — DFW\n\n‘It Was A Well-Deserved Win’: Bridget Carleton Details Watching Azzi Fudd’s 30-Point Final Round In WNBA 3-Point Contest\n\nSource: Dallas Hoops Journal\nRead more: https://news.google.com/rss/articles/CBMijAFBVV95cUxNVTRSXzliOGV0Qmd1elRvUEQwdkh1YWIwRWFHZ1JROUtXZ2Q5NjZWYmo5Zk1taGdBSi1IcXNMeXlGUXdWcUNhUE1IMl9wREJCdHBGUy1QUmdWNjZTMzIyUlh2MURoSEluVzVxVk5kVU51Y0tzRW9lTjJ1MGF1NFZoTDNxOGV0M2J0bVp3QQ?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "48f87677b22a3d61e589",
-      "title": "Dallas Cowboys arrive in Oxnard for first day of training camp",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDNMQVlBYU9fQ3FUbmtuZVY4dV9PcjNxZTVfYko3emVyYW5OTVY3Tmd1a3ZkNnJVTjVNSS1LRWpPNGxlU01lanJXS0Nac1hPMTVhUldxY2RKWmtVY3VqM1ozTkl3cm94cllzek9ydDhDRXlwdzMtNzdmelg0bm5GOUhvaE5nQkx5T19EOFVR0gGiAUFVX3lxTE5weVREREpLR3R0aWdTaTNydFNEMG8tcGVFZmtnX3dxSk52Z3J6d3dzTjFPYnV2LUl5M1FkblNmQ2pjWldseXR4X2VpMW0zcngwdHBmNldpUUl2ZnRXcGZsOGxsMWZuVllqaVRxTVU2UUhzZW85TWVhTXY2UWMzTmdWczlBMnBmbmI3ZFphNjRRTENUNThDcGtRWF9Fb1dBeFdlUQ?oc=5",
-      "source": "KLTV.com",
-      "summary": "Dallas Cowboys arrive in Oxnard for first day of training camp KLTV.com",
-      "published_at": "2026-07-28T04:28:00+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys arrive in Oxnard for first day of training camp\n\nSource: KLTV.com\nRead more: https://news.google.com/rss/articles/CBMijgFBVV95cUxPcDNMQVlBYU9fQ3FUbmtuZVY4dV9PcjNxZTVfYko3emVyYW5OTVY3Tmd1a3ZkNnJVTjVNSS1LRWpPNGxlU01lanJXS0Nac1hPMTVhUldxY2RKWmtVY3VqM1ozTkl3cm94cllzek9ydDhDRXlwdzMtNzdmelg0bm5GOUhvaE5nQkx5T19EOFVR0gGiAUFVX3lxTE5weVREREpLR3R0aWdTaTNydFNEMG8tcGVFZmtnX3dxSk52Z3J6d3dzTjFPYnV2LUl5M1FkblNmQ2pjWldseXR4X2VpMW0zcngwdHBmNldpUUl2ZnRXcGZsOGxsMWZuVllqaVRxTVU2UUhzZW85TWVhTXY2UWMzTmdWczlBMnBmbmI3ZFphNjRRTENUNThDcGtRWF9Fb1dBeFdlUQ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "be9caf747ed021d8b8df",
       "title": "Fort Worth launches new program to help nonprofits become grant-ready",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWhfYzQ5SEh4TlAxckxSenRLOVNWNjJnS3l1bkM3TTlOMjZIOWhta3pVbzF4Y3AwOUZDVFVJMUEyS2FHNmVGUkdFZHR0RjJmckgzRlJnYU5LNHhXY09wV0hDYXc2ajhXRC1Gb1dEU3d0YTJFY2c5OFBQN3ViMzFpOHBkQnM2a0x6cE1fRjUwZmxVYWVnc1F3UUluQXJiY29mTlBNbTNDTDVsQ0ZfQ1E?oc=5",
@@ -1357,18 +1597,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nFort Worth launches new program to help nonprofits become grant-ready\n\nSource: The Business Press\nRead more: https://news.google.com/rss/articles/CBMirgFBVV95cUxNeWhfYzQ5SEh4TlAxckxSenRLOVNWNjJnS3l1bkM3TTlOMjZIOWhta3pVbzF4Y3AwOUZDVFVJMUEyS2FHNmVGUkdFZHR0RjJmckgzRlJnYU5LNHhXY09wV0hDYXc2ajhXRC1Gb1dEU3d0YTJFY2c5OFBQN3ViMzFpOHBkQnM2a0x6cE1fRjUwZmxVYWVnc1F3UUluQXJiY29mTlBNbTNDTDVsQ0ZfQ1E?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "2f66317818d16be077fb",
-      "title": "Woman charged in 2012 Arlington murder in which victim was stabbed 100 times seeks bond",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUxmMFVkcU1qaHNsbnZJenJzYXVNcmdHcGE3ZV83b0hvOUowUHU5akpJTDFZNjh0ckRiYVdXNV9QQXdUa2hBZFdpdXZtbGpZWTA1R3NkWGZ0ZnQwSzdXbHlOM3hDUWE0bGdyS2hsd01QTV9TY0ltZ0RsWFJRc0FGOWtCV1o0dzVBVHBlSllXNFMzYU9Ydjl0d3VJRGd6Y0YtUVE?oc=5",
-      "source": "CBS News",
-      "summary": "Woman charged in 2012 Arlington murder in which victim was stabbed 100 times seeks bond CBS News",
-      "published_at": "2026-07-28T03:38:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nWoman charged in 2012 Arlington murder in which victim was stabbed 100 times seeks bond\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdUxmMFVkcU1qaHNsbnZJenJzYXVNcmdHcGE3ZV83b0hvOUowUHU5akpJTDFZNjh0ckRiYVdXNV9QQXdUa2hBZFdpdXZtbGpZWTA1R3NkWGZ0ZnQwSzdXbHlOM3hDUWE0bGdyS2hsd01QTV9TY0ltZ0RsWFJRc0FGOWtCV1o0dzVBVHBlSllXNFMzYU9Ydjl0d3VJRGd6Y0YtUVE?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "11ba4827c58133b155b7",
@@ -1407,18 +1635,6 @@
       "caption": "🚨 POLICE — DFW\n\nFather of man killed by Fort Worth Police Officer Sunday on pursuit for truth\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMitAFBVV95cUxON0NqR2g2M3M3QkdueWltTHJ2ZF90TkhxUk53V0tUU2NtdUFoRXoyZGJsNUl4U3RTRGZqRDNHNmRsYmRXM1hncEZ1ME8wRWtPWmdTN2lnZXZfRkdpNG44OXdBUWI3eXlfS0FQVlkyemRkSzdjM0o5bWRDVWdjY3NQOFE2ZTJDMFFyRm9MUXlNQUJQYnlBUHU2TERNVFQ5WW56TWFjank1NG4xRkZneEpERFl5OUI?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "0a6d0fe1741812dc6ee4",
-      "title": "Fort Worth man arrested after child nearly drowns at neighborhood pool: police",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oOGxVUjI0TkJfZDVLXzB2MG1Ja1phYUJGV3cxT1pCZDh1OU1BX2VfeHhTSWdpT2JzSkgzOE9XOTIwem5aeTJOcVRtN0ZjcjlvdEF1WF94SmJGUWJvMUlya1lxbDdYMGRRd0ZoUkpFY0I2Q3B5WExz?oc=5",
-      "source": "Fort Worth Star-Telegram",
-      "summary": "Fort Worth man arrested after child nearly drowns at neighborhood pool: police Fort Worth Star-Telegram",
-      "published_at": "2026-07-28T03:01:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nFort Worth man arrested after child nearly drowns at neighborhood pool: police\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMid0FVX3lxTE5oOGxVUjI0TkJfZDVLXzB2MG1Ja1phYUJGV3cxT1pCZDh1OU1BX2VfeHhTSWdpT2JzSkgzOE9XOTIwem5aeTJOcVRtN0ZjcjlvdEF1WF94SmJGUWJvMUlya1lxbDdYMGRRd0ZoUkpFY0I2Q3B5WExz?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "59f190bc9dcc211745c0",
       "title": "Driver charged with manslaughter after fatal crash",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10QXJva3dnaGUxaUVGYUFGLVB0YUx0SVVxN2FJXzMyMjRfOXdRcjNKbnFtR2NoN3kwWklua185bWE4eF96UXp2R0ZrNHNzLUdWc0pFbjZvaGlPeXItS1pjadIBZkFVX3lxTE9EZWN3aHVhU19ybUo5YnBiZFUtaU5sV1RMSTBJLUFMT3I0NFYxLUl3MDdjLUkwSndwSTZFYVExYmVSbnFzMFhyWTVRQXlxaFJWUU9TZjl4YXJLTXU1WnVJeXdoYVB6dw?oc=5",
@@ -1455,18 +1671,6 @@
       "caption": "🚒 FIRE — DFW\n\nDallas County’s First Safe Haven Baby Box Opens in Rowlett\n\nSource: thetraveler.org\nRead more: https://news.google.com/rss/articles/CBMijwFBVV95cUxOeXhtSkh1WXRVMlk0TWVPaDJIUFIzTTdQX2J0SXd4YkpEQS02Tkh4VUlIenpCWWYtLWdEZ3VJQzlSRFhSMjBldVlkYjZXbGVJcGN3UnN6cW5tc1NsZHRxMHBGYUxKT0lWRjVGWGprLXMyckU2Vks5WlVfX1lJblBGSUpFUjJfcWhvdFFBaW4yZw?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "30ab8605e0078b68aaa8",
-      "title": "A look into JPS expansion plan — and what has changed over the years",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlBvNW1MUTBWTVcxT052akZRTS1qZzVDVmtHb0lEVTcwNHE0MU8wTmpRclpaQXBSeTB4aXRlZ1ktOXNLaTBHOWs2S0M3WEZXLXpsX2xoNUxpZWFCaWZwS093UXJOMnJYXzZWbTRxNFFBdGFMemVCQXJhcjJGNW5iLVF6a2ZkZ3JzYXR1b2w0OXNSSVY1M3ZNR2hWTUhlVThOdHZ4OUE5cWQ1UQ?oc=5",
-      "source": "Fort Worth Report",
-      "summary": "A look into JPS expansion plan — and what has changed over the years Fort Worth Report",
-      "published_at": "2026-07-28T00:20:32+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nA look into JPS expansion plan — and what has changed over the years\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlBvNW1MUTBWTVcxT052akZRTS1qZzVDVmtHb0lEVTcwNHE0MU8wTmpRclpaQXBSeTB4aXRlZ1ktOXNLaTBHOWs2S0M3WEZXLXpsX2xoNUxpZWFCaWZwS093UXJOMnJYXzZWbTRxNFFBdGFMemVCQXJhcjJGNW5iLVF6a2ZkZ3JzYXR1b2w0OXNSSVY1M3ZNR2hWTUhlVThOdHZ4OUE5cWQ1UQ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "05a5e7bbbe2d115a14bd",
       "title": "Top Headlines (7/27/2026): Mother and 2 young daughters killed in North Texas crash",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRXRmS2EyQjE1X0RZblhHc2p2T0NKVk9Vb2IzdjBGdld4MF9pNDdXMk81SmM0SWxqLUptcUJTYTgtaXVwMFlxLXp3NThpbEFIS0FZamVfRndpMDZHekp1WGp6dU5ScFhWT2RKSkVwOTdhR3BvallrWlA4YTZhSnI3Y3FZRllWRzhPRm5NRGRmbDdRTlQtRHhHSGR2VXl0VjY4R3BmeGtKajBQV1FYNHRCSWx5c1BTWmREUjRmTE52dERMTExxelROOVFuNjVFNV80NHg3OGxjVjRva09vVmtXNXkyNTd0YjB5VWM0WFlxcEVEQkY1cG5XdDRMdw?oc=5",
@@ -1489,18 +1693,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nPlano ISD teacher faces three new charges in child sexual abuse investigation\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMivAFBVV95cUxNeG9uRlA1T0wzLU04NWdmU0lsRksyNVhhSTlxTUVRblR3NUJOYTdPWVZVRllBcUFkd20xY2JISnNVcnF2WGZNV2RISDI4R1NxUlM2ZUhTbDZRV3R6a0d2b0dSdFFIWHg5a2g3MU9vQ0YyQXd3Rm50Nl83MUVpcXV6V0p0OFhMZUI2TTZMOGJtZkdkdjFhY2h2cW1EVkIzLVNSYjFFQXVFblNuVTBQcUtsX3lQbnJ4MWpTbHBTddIBxAFBVV95cUxOVzNlbUlyR1hxR1B0RGRaal96OG5TYVJfQVFmSkxYUTlFc0pfcHhfaHRzaHhOVUQwZkdXNm5DMEZEekdHSjBWZjI4MXhKaWJnclllOHY5eFBqNkphSGs5cy13bXlUdzhmTXpKMkpPQUNabGIzYzZza1BsUGFxZXppXzZBVG9kSTEzTlYtdHZiUlZRVW5jaUYtazNIMzQyV0pJMmpqN0ZfVHdxQ0dMVWRLamdTWGlMRG1jUWJMcVZ1OTBrb2hS?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a4d3cf79af2e8027d998",
-      "title": "Arlington Heights rebrands its National Night Out event as ‘Night in the Heights’",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3RzU3JBLU5OakV6WkVwU1lsN3dXVHpXMGtCVnBjaUhaR0JlWmkxRmFNRWxDeTBrNk8yZUlES2VSTTRBSGJ5U1JzVXM1YjFIdVdsNnctSmF5dmdGelFrNld6ZTdxeC02cUJZNXhRWGZWdGdaRFlHUE5HMkl2ZGZHYkJINkhvRVdQYkxRaUdOVGdlRkE1VmRFdmZfbjJwU1ByOEFOR0tleHU4c1ZjS3oxTnUzNGdreFAwWV9BYlB5NA?oc=5",
-      "source": "Daily Herald",
-      "summary": "Arlington Heights rebrands its National Night Out event as ‘Night in the Heights’ Daily Herald",
-      "published_at": "2026-07-27T23:37:09+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nArlington Heights rebrands its National Night Out event as ‘Night in the Heights’\n\nSource: Daily Herald\nRead more: https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3RzU3JBLU5OakV6WkVwU1lsN3dXVHpXMGtCVnBjaUhaR0JlWmkxRmFNRWxDeTBrNk8yZUlES2VSTTRBSGJ5U1JzVXM1YjFIdVdsNnctSmF5dmdGelFrNld6ZTdxeC02cUJZNXhRWGZWdGdaRFlHUE5HMkl2ZGZHYkJINkhvRVdQYkxRaUdOVGdlRkE1VmRFdmZfbjJwU1ByOEFOR0tleHU4c1ZjS3oxTnUzNGdreFAwWV9BYlB5NA?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "53083b8254c3e58236d3",
@@ -1587,18 +1779,6 @@
       "caption": "🌪️ WEATHER — DFW\n\nStorm-Related Power Outages in Arlington Heights; Tree Damage Reported on Euclid Ave Near Dryden Ave Arlington Heights\n\nSource: arlingtoncardinal.com\nRead more: https://news.google.com/rss/articles/CBMi8gFBVV95cUxOOTUzVkxjeDR5R2piZzhOOXJRdUZJejIxYnZUOEQ5TFd4OTlJa3dsTXc5VXlNOGNFYUZiZzVGV3NNLTF6YU1KUDBmb29HTzNGaVBMQ3NiY1BRR2VyYzZCNDFFaUF1UTRNR2R2LXgxSHBPZS1saFIwNzUwdGFvTEoyRGdjM0NLeU5IN3A1dHViVmN2a3VyTlF5WHR1RVJ6YVNjZmd6eUlBQ0ZzWjJoSS13ODZBX0l2cElXaDllbm53a2ItcldSd2duclZFZXgwd3VMSzBGbmg3cWFkRkhLZENfRnN1VEVCUHVnX1RjaGNHb3RmZw?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "0adb3cfe8ccdccda1fff",
-      "title": "Former Plano elementary teacher accused of child abuse faces more child indecency charges",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHhfclpZZ0dXbml6cnRwSGRWS2h0UkI3WmRZRUVLeklDNXpQajJZRlQtTVlFNTNHdThFYTVPSll5M0tUd1dKOEQ2NmhOQnpITHhsNTBsZHllU0I3QVdCVDl6a3B0MFhXa05IRWpyeDZQanRzdU83eGd6bWt1cnhOSFhXR0NkOGtUdWhmdVJzTGQydGxCTHJEVFpTM1hwa2U1SVVjdVJiMC1TempGQlV4WlhmTGplWkliU3Q5VUpKbm9iN00?oc=5",
-      "source": "CBS News",
-      "summary": "Former Plano elementary teacher accused of child abuse faces more child indecency charges CBS News",
-      "published_at": "2026-07-27T22:33:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nFormer Plano elementary teacher accused of child abuse faces more child indecency charges\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOHhfclpZZ0dXbml6cnRwSGRWS2h0UkI3WmRZRUVLeklDNXpQajJZRlQtTVlFNTNHdThFYTVPSll5M0tUd1dKOEQ2NmhOQnpITHhsNTBsZHllU0I3QVdCVDl6a3B0MFhXa05IRWpyeDZQanRzdU83eGd6bWt1cnhOSFhXR0NkOGtUdWhmdVJzTGQydGxCTHJEVFpTM1hwa2U1SVVjdVJiMC1TempGQlV4WlhmTGplWkliU3Q5VUpKbm9iN00?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "8f977ce0497a10a1ae82",
       "title": "Fort Worth program helps residents clear warrants, traffic tickets without jail",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOFlWWEJUTDdqUEJaT1JMMGVEREp4ZldTVWdfTHV5YUd3T0lvOTQ2aFlVZnJ0SjBnZDFCNXJrajYwWmE4WlFYM1kzZGRRYmhzbl9idjk0TGVVR0hYR29uMWFsTU9YdUl0dHd1MUM3RUowYUM0Y1NZV3Fac3AzSlRqN2hJMDBYNlY4SjR4d1hmbFpVVXQ0ay0tSGxqeF9Pb2FyLWNEUTZYcHJTTmZlNW5pemRGTlBTUQ?oc=5",
@@ -1669,18 +1849,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nThe Pony aims to blend Italy, art and community in the heart of Denton\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxQTUFwZ0FxRGxiVzNCS2hseGJKX3NNRzNINHhyVGNpTzlnb1l1bkdERWM4bVEzbnZGa0Z3NmZmQ1cyTzhMOUpHOG5PcFJwNGFadm9mQkdCMDZJRm5taGdyQXJJbDB6OXREd0dGRVNxM2h5MHRQdHA5N0NZS2t1TzMyY0dqTzgwaHljeWJIbjRJc3l3QlFVYjVpTFo4YVpLQkdycUxtT0wtWmZLb21LYjkzdE5VZw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "866aa37f7dc428c54f6e",
-      "title": "Second man arrested in March fatal shooting at Arlington convenience store",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2VaNC10MWRfV2w3S0VlejF3TjdxSWl1OUFuY0hhT29ZTGpCa2hUbEJQOThaa1pjbW16QmlWY2s2U19DX1JfaEZrY3E0VnVUZG5YYVFkWXFWNGNPME0tQTNXTEtKNHNGVWptWC1mZ2RqeERocDZLYjN1ZkdmdzVwR2IxLWxjS2F3QUJhN0o4LUZKeldPMzVZVHgxcW9jNndYU3FJeWJ1TF8?oc=5",
-      "source": "Dallas News",
-      "summary": "Second man arrested in March fatal shooting at Arlington convenience store Dallas News",
-      "published_at": "2026-07-27T21:25:41+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nSecond man arrested in March fatal shooting at Arlington convenience store\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2VaNC10MWRfV2w3S0VlejF3TjdxSWl1OUFuY0hhT29ZTGpCa2hUbEJQOThaa1pjbW16QmlWY2s2U19DX1JfaEZrY3E0VnVUZG5YYVFkWXFWNGNPME0tQTNXTEtKNHNGVWptWC1mZ2RqeERocDZLYjN1ZkdmdzVwR2IxLWxjS2F3QUJhN0o4LUZKeldPMzVZVHgxcW9jNndYU3FJeWJ1TF8?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "faffa4bedb653b08e89b",
@@ -1863,18 +2031,6 @@
       "caption": "🚧 TRAFFIC — DFW\n\nSmall plane veers off runway at Arlington Municipal Airport\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ1BKRHlQSHFiZThQcUNmYVJBOXBJbU1jXzBrNVlhVTUtYkFPSlYyLWFXaHlzSHdXbTZiZTNUNEhET0FwMjBzbGp3cGk3SklQRXRBTVp4Tk5kUXFEaG9Uc3M3OGY1bnlqcXJCT1V6WVN1R3B2aTFNOUlkWDJkS0VMODlLZV9yMnFrdW50OW92Zw?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "4e7dc264b7bdce22bc21",
-      "title": "Fort Worth dental office appears to be temporarily closed despite signaling plans to reopen after dentist arrested",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMmVsbkxZU1oxNHpta011XzZpbElkeVotZHlwZlpPWEk5M25ncnhuUkxHSC10MEVxdkZPZjlHaC1iVE5vaVB6TThuUUdUWXIwUkc3Z3AzV3pza29fSUhvU05FWVlrdmFUY09QQUhGNHRjeENCRFBuQ0FWSFpuX1VLbGFoNUhEVVdNT2ZRb2U1c2psMHp3ZWlNZFNlT3BGSkd6b0k5elVVY3RULWNoVjhRQk5YelVIc29kdGoyekVTaExNN09hOVJCLTQzaUxpRXRFRE9QUk9kaHdfYTQ?oc=5",
-      "source": "WFAA",
-      "summary": "Fort Worth dental office appears to be temporarily closed despite signaling plans to reopen after dentist arrested WFAA",
-      "published_at": "2026-07-27T17:31:00+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nFort Worth dental office appears to be temporarily closed despite signaling plans to reopen after dentist arrested\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMmVsbkxZU1oxNHpta011XzZpbElkeVotZHlwZlpPWEk5M25ncnhuUkxHSC10MEVxdkZPZjlHaC1iVE5vaVB6TThuUUdUWXIwUkc3Z3AzV3pza29fSUhvU05FWVlrdmFUY09QQUhGNHRjeENCRFBuQ0FWSFpuX1VLbGFoNUhEVVdNT2ZRb2U1c2psMHp3ZWlNZFNlT3BGSkd6b0k5elVVY3RULWNoVjhRQk5YelVIc29kdGoyekVTaExNN09hOVJCLTQzaUxpRXRFRE9QUk9kaHdfYTQ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "7c418284a6696ae4db43",
       "title": "Plane veers off runway at Arlington Municipal Airport, officials say",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS3FLampNejR1NjYxTkU3VWh0dUR0Q014UGxtYjdoRGRUMk5mTWZLVFBCS3JaY0J0am1TUTB4N0Z2Y1EyTWhPNGdILUQ1NVN1bEF3dFprMlFENnN2MXByYXY0a1NBT2JZb1Fhd0FlZjNCTTBsN1MtWEUzbnd4Tm9teWNETV9saFFCMHdnWXFpUQ?oc=5",
@@ -1899,28 +2055,16 @@
       "caption": "🚒 FIRE — DFW\n\nPilot OK after plane veers off Arlington runway\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLXJHSVlXN2dQRWFkRVNubjR4Z0VXd3lnMlhOVmJIZF9tQjlxSG93YUVWSzZCVGE1Nk90UklPTXFqd3J3SGIwYnhZdGhPbFp3XzcxTEJ2ekJyUHBidEREdVlJTnd0QnNTOTRVY2I2VEpSeG9mVFd5UUlORDVGZjdQOTJrYUtGY1V30gGQAUFVX3lxTE1pdFVPdkdETzREcWpQLXBLOUdWVFRJLXJhTl9HZldSSE9SY1BRWmFSWVdMT3lTNGNYV0Iyc1J2SjB4cEc0YVhmWEg3c0w0ZzZObFBqakU0cDNPU2pzb0MwOXozQTlldWFmX3ZyRHBJZnQwc0ZtX0Z5eUZrQk9QVnR4M0FqU29fX0xMU1gtdlBvcA?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "650c1173f87c391d6f18",
-      "title": "How TxDOT, others help never-ending Dallas traffic",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnlmeWticlNUZXV4VV9GQWd5c2RIUThraGhyODhla1QwNVNZMFRwRFN4LXBPSzlIUkFqRjc0LTBfOXZ5Uzcwcm0taXBkeW1ua2VORE9ENHFfeEFOX0R2THhqY0VlSkFLYldORm5VQlpHMjFNd0V2a0JJSTRpRThlT3ZoLVcxQ0I1cFFkMG55N2pGeVJHMnJ1ZXVlZkZXT3NYbjJEMGZNYndfUVZxbHBCc1o2UnRvSUVs?oc=5",
-      "source": "Dallas News",
-      "summary": "How TxDOT, others help never-ending Dallas traffic Dallas News",
-      "published_at": "2026-07-27T17:01:38+00:00",
-      "category": "Traffic",
+      "id": "0bdf22959bc31b907ee9",
+      "title": "Who's watching Dallas traffic? Inside the control centers managing your commute",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0hSeUhmNUs5V2k2VkNuNEJxcl9ndmFmWW9EN1R2cE0xdTY0MTIzUU1MUFFkcmtYYWFsTElkUDhwaklXaTZVZlpManAzZlk2MjNhQy02WTV1aTlvdkE2aERpdTdhOE1aVmpRNTBEWFhoWDJsMFRuZG82a2VOVlRuU0FldkpRLVRFSWxaVUlMblY3TEk?oc=5",
+      "source": "Yahoo",
+      "summary": "Who's watching Dallas traffic? Inside the control centers managing your commute Yahoo",
+      "published_at": "2026-07-27T16:56:28+00:00",
+      "category": "Weather",
       "thumbnail": "",
       "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nHow TxDOT, others help never-ending Dallas traffic\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnlmeWticlNUZXV4VV9GQWd5c2RIUThraGhyODhla1QwNVNZMFRwRFN4LXBPSzlIUkFqRjc0LTBfOXZ5Uzcwcm0taXBkeW1ua2VORE9ENHFfeEFOX0R2THhqY0VlSkFLYldORm5VQlpHMjFNd0V2a0JJSTRpRThlT3ZoLVcxQ0I1cFFkMG55N2pGeVJHMnJ1ZXVlZkZXT3NYbjJEMGZNYndfUVZxbHBCc1o2UnRvSUVs?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a481f8a837f443e09cf4",
-      "title": "Visterra Landscape Group adds Qualitiscape Services in Fort Worth",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3l3aWE0dFpfVnlTTzdWOEVXcWVNeVNabTZDZDNXdlRaT1Y0M3JDVkgzalF6SXVBdGwzZjFad090cW1RRDBzalVLanViSE1vdVdLU3lsX3duLUluWXlVdERiRzl1cFFreG9zaWpERmxEWE51YS1JNm01Qy1pWE9SZDlJMHd6MTg5U0pnZFlhbXFXZDV0dmxIdnh1QmFEc0xiMHI1NElHZw?oc=5",
-      "source": "Lawn & Landscape",
-      "summary": "Visterra Landscape Group adds Qualitiscape Services in Fort Worth Lawn & Landscape",
-      "published_at": "2026-07-27T16:39:00+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nVisterra Landscape Group adds Qualitiscape Services in Fort Worth\n\nSource: Lawn & Landscape\nRead more: https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3l3aWE0dFpfVnlTTzdWOEVXcWVNeVNabTZDZDNXdlRaT1Y0M3JDVkgzalF6SXVBdGwzZjFad090cW1RRDBzalVLanViSE1vdVdLU3lsX3duLUluWXlVdERiRzl1cFFreG9zaWpERmxEWE51YS1JNm01Qy1pWE9SZDlJMHd6MTg5U0pnZFlhbXFXZDV0dmxIdnh1QmFEc0xiMHI1NElHZw?oc=5\n\nTexas News Roundup"
+      "caption": "🌪️ WEATHER — DFW\n\nWho's watching Dallas traffic? Inside the control centers managing your commute\n\nSource: Yahoo\nRead more: https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ0hSeUhmNUs5V2k2VkNuNEJxcl9ndmFmWW9EN1R2cE0xdTY0MTIzUU1MUFFkcmtYYWFsTElkUDhwaklXaTZVZlpManAzZlk2MjNhQy02WTV1aTlvdkE2aERpdTdhOE1aVmpRNTBEWFhoWDJsMFRuZG82a2VOVlRuU0FldkpRLVRFSWxaVUlMblY3TEk?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "ca38a80cd68d3fb1ca92",
@@ -2211,18 +2355,6 @@
       "caption": "🚒 FIRE — DFW\n\nRowlett installs Dallas County’s first Safe Haven Baby Box\n\nSource: KERA News\nRead more: https://news.google.com/rss/articles/CBMikgFBVV95cUxNUDZMUXR5SjEtZXo5dUhCQVluaUxnRG9BR2pEWXktZFhXbDllY3BoeXdheXVpekR3akExSGlmbU9sVTFITEN3ZUIxd3VCQVpnLXE4cWtUWXVRaUtycVBJU3ZNd1l5X0tVZlFScE5wNllZRXo3VGYwdVNRZjQyejJNSi1iejBUWUV5eGMyclY3YWVlUQ?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "0d6906867867a668d0b6",
-      "title": "Pho King Way to bring Vietnamese cuisine to north Fort Worth",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVJhVTVRLUt1cjM3ZGNSRVk2d0taOE9NeDVORFcxUVlnUS1qTy05RHpSLUJNVXlETW81REpYVGhUMkN4MWVQWDh6QlBzTWJNLTVnbEQxanlHckVTRnlpelpNYnZQdDV0cHJhbHNIOXk1OTlobTdRc3dKNUtMWWl0UEJzVkxLeE54LXQzRHpIWGRGRVhfVjhUSlNia3d5bjJ6TlVTMHlyU1BpOC1LZXAxbHprSjRmcnROaG1xbl9PTmhPTFdfdkd3eW5jSUQ?oc=5",
-      "source": "Community Impact",
-      "summary": "Pho King Way to bring Vietnamese cuisine to north Fort Worth Community Impact",
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nPho King Way to bring Vietnamese cuisine to north Fort Worth\n\nSource: Community Impact\nRead more: https://news.google.com/rss/articles/CBMizAFBVV95cUxOLVJhVTVRLUt1cjM3ZGNSRVk2d0taOE9NeDVORFcxUVlnUS1qTy05RHpSLUJNVXlETW81REpYVGhUMkN4MWVQWDh6QlBzTWJNLTVnbEQxanlHckVTRnlpelpNYnZQdDV0cHJhbHNIOXk1OTlobTdRc3dKNUtMWWl0UEJzVkxLeE54LXQzRHpIWGRGRVhfVjhUSlNia3d5bjJ6TlVTMHlyU1BpOC1LZXAxbHprSjRmcnROaG1xbl9PTmhPTFdfdkd3eW5jSUQ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "e5769561d5385893ab79",
       "title": "Arike Ogunbowale & Azzi Fudd Postgame Press Conference | Dallas Wings Vs. Fire (June 13, 2026) Iphone 18 Pro Max (jepjqbO5jp)",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvRUJxYjFxMC05c3I0blQ3UGMtek53TGE0aWdkTGUxN09mWDliMFRKa3hIUnJiWldiZkd3dEVGazNZdDBPRW1DZnV2ZVRuMk1JWDRBUm4zN1JoNVN3WnVZbw?oc=5",
@@ -2319,18 +2451,6 @@
       "caption": "🚨 POLICE — DFW\n\n3 men shot, 2 arrested after party fight outside Arlington apartments\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVJLTTJQUE5xUVlLaExnRWVGdmwtSXc3eW9DbVRpWnRDaUV0UnF3SmEzYmw2aEpfcUJCaFpER3RxN2Qwb2MyOXlqZVBxRko0bmpBd3ZnTVJzTkc2LTN6a18zaEFhbXZFQzhZdUFiRHlPR1lyejl0MnZOeldhQU0wbU1Fa3ZoQmpUMFIxT3Joc2l5b09IZm5wd9IBoAFBVV95cUxPMGZ2SmpoeEV4ZXRJSVBySmZBMmdyd3VCUWJoMXRFdFRmZ093M1V3X0EyTnhycnNTd1J3NG5fd0RuZHB2WWQwa1pnLTJCY0hySXZHYXFVTUQ4UEZXSWFmenNJXzJXbjBOeENDazJyeTh6elpoM2ZXVUtseVUyaWdFaXpBQmpQd004U2RUaWxVZ3d1dUNoZjdxNER2aHVGRTEz?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "e440de8903081b06fd84",
-      "title": "47-year-old motorcyclist dead after crash with 18-wheeler in Arlington",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVI3X0FUbkl5eFI5Mnl5YTJoRkZzMUM0VzdESUVmVHc1U0lxUWFFdmN5LUNyWXRuRDFrck01MjhON0cxLUFKdGhpdWZoakxybjNJYThUSVZyN1JsUXFmWWRCQXFLN182dFZNMjZXTW15VHVQdTBiMFJaZlBxcEFxU05lZFhudlFpZF9WdVp1VFp2U0JkVkx3MzhOT0QzU1l5dUlRcHk4eV83Ykw4a21ueWFTQkJmaXdIaTJr0gG7AUFVX3lxTFAtUjdfQVRuSXl4UjkyeXlhMmhGRnMxQzRXN0RJRWZUdzVTSXFRYUV2Y3ktQ3JZdG5EMWtyTTUyOE43RzEtQUp0aGl1ZmhqTHJuM0lhOFRJVnI3UmxRcWZZZEJBcUs3XzZ0Vk0yNldNbXlUdVB1MGIwUlpmUHFwQXFTTmVkWG52UWlkX1Z1WnVUWnZTQmRWTHczOE5PRDNTWXl1SVFweTh5XzdiTDhrbW55YVNCQmZpd0hpMms?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "47-year-old motorcyclist dead after crash with 18-wheeler in Arlington NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-07-26T22:22:31+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\n47-year-old motorcyclist dead after crash with 18-wheeler in Arlington\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVI3X0FUbkl5eFI5Mnl5YTJoRkZzMUM0VzdESUVmVHc1U0lxUWFFdmN5LUNyWXRuRDFrck01MjhON0cxLUFKdGhpdWZoakxybjNJYThUSVZyN1JsUXFmWWRCQXFLN182dFZNMjZXTW15VHVQdTBiMFJaZlBxcEFxU05lZFhudlFpZF9WdVp1VFp2U0JkVkx3MzhOT0QzU1l5dUlRcHk4eV83Ykw4a21ueWFTQkJmaXdIaTJr0gG7AUFVX3lxTFAtUjdfQVRuSXl4UjkyeXlhMmhGRnMxQzRXN0RJRWZUdzVTSXFRYUV2Y3ktQ3JZdG5EMWtyTTUyOE43RzEtQUp0aGl1ZmhqTHJuM0lhOFRJVnI3UmxRcWZZZEJBcUs3XzZ0Vk0yNldNbXlUdVB1MGIwUlpmUHFwQXFTTmVkWG52UWlkX1Z1WnVUWnZTQmRWTHczOE5PRDNTWXl1SVFweTh5XzdiTDhrbW55YVNCQmZpd0hpMms?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "4752721a777696d04ed6",
       "title": "Fort Worth Police Fatally Shoot Two Suspects In Separate Incidents Over Weekend",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFhEcjJvcG5CZXlGbXZ3S1dzTzc0Unh5eFA1WUI3dUlucjI1VnlWV29aVUpBR3JweEpJc0NhQnduQV9Wd2doZy1FZUtqUXpfLWNiV3h1cGtSNmh4WENBWlF6bXRjT0FYb0lzbjEydUNaRlEwYnJEN2kzQ21NMG5UZUlpQ255dkdmeFhQSzdpbEVFNFJxSm5aSkVfaWp4YjI4czI2YUFRbEppd0g4QThKSU9ocWY?oc=5",
@@ -2341,18 +2461,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nFort Worth Police Fatally Shoot Two Suspects In Separate Incidents Over Weekend\n\nSource: Dallas Express\nRead more: https://news.google.com/rss/articles/CBMitAFBVV95cUxPRFhEcjJvcG5CZXlGbXZ3S1dzTzc0Unh5eFA1WUI3dUlucjI1VnlWV29aVUpBR3JweEpJc0NhQnduQV9Wd2doZy1FZUtqUXpfLWNiV3h1cGtSNmh4WENBWlF6bXRjT0FYb0lzbjEydUNaRlEwYnJEN2kzQ21NMG5UZUlpQ255dkdmeFhQSzdpbEVFNFJxSm5aSkVfaWp4YjI4czI2YUFRbEppd0g4QThKSU9ocWY?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "f888077db0bcbfab45f2",
-      "title": "Motorcyclist killed after crashing with 18-wheeler in Arlington, police say",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91TFRZaU9XREV5MlRCWDc0NDU2VWZwWmRXaTc3bU8xOFA2Ym9EVlJtWF91SnQ5aEVUa0xCT1FmS2tqekdEYmc2dmUyMHktZ3EwLU5kUlJ6QkJTUzNFVDI0eEtyLWZuaF9rZzFvWDI2djM4SHBKLTdYU3dpRnU?oc=5",
-      "source": "Fort Worth Star-Telegram",
-      "summary": "Motorcyclist killed after crashing with 18-wheeler in Arlington, police say Fort Worth Star-Telegram",
-      "published_at": "2026-07-26T21:59:00+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nMotorcyclist killed after crashing with 18-wheeler in Arlington, police say\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMifEFVX3lxTE91TFRZaU9XREV5MlRCWDc0NDU2VWZwWmRXaTc3bU8xOFA2Ym9EVlJtWF91SnQ5aEVUa0xCT1FmS2tqekdEYmc2dmUyMHktZ3EwLU5kUlJ6QkJTUzNFVDI0eEtyLWZuaF9rZzFvWDI2djM4SHBKLTdYU3dpRnU?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "a01df777f31c825b453e",
@@ -2533,66 +2641,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚒 FIRE — DFW\n\nNorth Texas fire chief leads 14-day disaster response across Texas\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMivgFBVV95cUxOVEJ1enFDNlV1YVMyeWZ1S0REOUdOYTZjQmpNNkZaVVhXLXd0c2JTN3ZOMDZzMHlTT1A1NlpEYTYycXFRdjZhM0hhWF9pbVJyX0pBNzhJd2JJOXU1RWpEd0p4TXd5ZE1zVlJRcXFNZWRYUE5oUEV2dXQ0Q05sVXpMVUF1aVd5MENpNmNnaDNheFpVZ3hFTy1VdUZXMFBncV9HQUdNa2UzdW4wQ0RfRUlnV01HNU5IOFY4QTVfYVJB0gG-AUFVX3lxTE5UQnV6cUM2VXVhUzJ5ZnVLREQ5R05hNmNCak02RlpVWFctd3RzYlM3dk4wNnMweVNPUDU2WkRhNjJxcVF2NmEzSGFYX2ltUnJfSkE3OEl3Ykk5dTVFakR3SnhNd3lkTXNWUlFxcU1lZFhQTmhQRXZ1dDRDTmxVekxVQXVpV3kwQ2k2Y2doM2F4WlVneEVPLVV1RlcwUGdxX0dBR01rZTN1bjBDRF9FSWdXTUc1Tkg4VjhBNV9hUkE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "6ea7ed87d41df26373d9",
-      "title": "Car Crash into Subway Restaurant at Arlington Heights Rd and Grove St Arlington Heights",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYVE3Ny1UZmdoeDlsSVZmYXdJbHp5cFlvWkhxTlJ2QUNCUXZHc1FwVzFKbHRPckZkbTltcDFBbjQzSERSZldhZmRQbUlKTjdIaGh2LUdVM2ZTZFBVb09yQUdaS3gtdUh5anZuUnZmYzNHNnl6XzRiNmY0cVNKQThJWkxrUlRaVGo2YkE?oc=5",
-      "source": "arlingtoncardinal.com",
-      "summary": "Car Crash into Subway Restaurant at Arlington Heights Rd and Grove St Arlington Heights arlingtoncardinal.com",
-      "published_at": "2026-07-25T22:15:26+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nCar Crash into Subway Restaurant at Arlington Heights Rd and Grove St Arlington Heights\n\nSource: arlingtoncardinal.com\nRead more: https://news.google.com/rss/articles/CBMiigFBVV95cUxOYVE3Ny1UZmdoeDlsSVZmYXdJbHp5cFlvWkhxTlJ2QUNCUXZHc1FwVzFKbHRPckZkbTltcDFBbjQzSERSZldhZmRQbUlKTjdIaGh2LUdVM2ZTZFBVb09yQUdaS3gtdUh5anZuUnZmYzNHNnl6XzRiNmY0cVNKQThJWkxrUlRaVGo2YkE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "88706e8ceaa431cb18e0",
-      "title": "Man found shot to death in truck, Arlington police seek public's help",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWE41ZTNLbXY4V3BfS0c5Tjd6bERQOThXRHV3NDZZN1lPZVoxYjZyMm5vRlZsTFFlOEVWZU55eXpEcTFJWmlwbkRlTnNyN2V3WUN2YngxbmZWWHNjU3d3NG05U0o3R2tDd3dWSXByUkJNU1RfbGJWR2lqUEF3cDdyQUJSNi1keDVHVERIaWx3amd1QjQ4ZWVaN2lLS27SAaQBQVVfeXFMTUltcklyUG1keVNNNW9oZ1lvVTF6OHRFV3IwSmxLOXE2YndiN3dEOFgtX2hKa1V1T0lYSGpkci1PM0hzbXJxZWZkZ1psSFJFSWU4bTNEeURob3p0aU4yMnR4M3Nob3hvVzVnRzZPREdLcG9GVHBJX2tXOHEtcU83SjlmRW1TY1FwNmFDazAxMEpVNHQ1eFNfRHFZdFV3R1hjV1NfcDM?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "Man found shot to death in truck, Arlington police seek public's help NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-07-25T22:01:35+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nMan found shot to death in truck, Arlington police seek public's help\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMinAFBVV95cUxPWE41ZTNLbXY4V3BfS0c5Tjd6bERQOThXRHV3NDZZN1lPZVoxYjZyMm5vRlZsTFFlOEVWZU55eXpEcTFJWmlwbkRlTnNyN2V3WUN2YngxbmZWWHNjU3d3NG05U0o3R2tDd3dWSXByUkJNU1RfbGJWR2lqUEF3cDdyQUJSNi1keDVHVERIaWx3amd1QjQ4ZWVaN2lLS27SAaQBQVVfeXFMTUltcklyUG1keVNNNW9oZ1lvVTF6OHRFV3IwSmxLOXE2YndiN3dEOFgtX2hKa1V1T0lYSGpkci1PM0hzbXJxZWZkZ1psSFJFSWU4bTNEeURob3p0aU4yMnR4M3Nob3hvVzVnRzZPREdLcG9GVHBJX2tXOHEtcU83SjlmRW1TY1FwNmFDazAxMEpVNHQ1eFNfRHFZdFV3R1hjV1NfcDM?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "66a707767f3778a59d70",
-      "title": "Man shot inside pickup likely wasn't targeted in road rage attack near busy Arlington shopping district, police say",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUVJrVXdsZjFuSFZKSlV3c2k3MGU5dm9WM3dOT0NiaG9zZXFDS0dSeEJUTjYwQ05mMU5JU2hTN3NoYnNHaXYwM2pmMWNtMW56Mkc4ZEp4SXQ2Q3gxNXhsTnhwUzlqeU9BWVlJbTZ4NUloVHBwRWNxMFRveXoza25xT0o0dmhDdnRucWdHWUpEREdXVDBMTEN6U3ltZnBrdw?oc=5",
-      "source": "CBS News",
-      "summary": "Man shot inside pickup likely wasn't targeted in road rage attack near busy Arlington shopping district, police say CBS News",
-      "published_at": "2026-07-25T21:58:00+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nMan shot inside pickup likely wasn't targeted in road rage attack near busy Arlington shopping district, police say\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxQUVJrVXdsZjFuSFZKSlV3c2k3MGU5dm9WM3dOT0NiaG9zZXFDS0dSeEJUTjYwQ05mMU5JU2hTN3NoYnNHaXYwM2pmMWNtMW56Mkc4ZEp4SXQ2Q3gxNXhsTnhwUzlqeU9BWVlJbTZ4NUloVHBwRWNxMFRveXoza25xT0o0dmhDdnRucWdHWUpEREdXVDBMTEN6U3ltZnBrdw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "8937c66b01b9ed4247a9",
-      "title": "Texas police search for gunman in fatal night shooting",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZEtpR1VKckVidzM0WHlfeVQxX2VqaTREM1h0LVF3dWZ3aVZFTy1rYV9FbFVaX0FfM3Y2U1pyVnJHdnFiOWN1eTVmdk8wVVdvS2E5c2ZMNEJHaHkwR05Udl80U184QzNLUGxIbkhXblZQR1lzSU0tT0YwNm5tT1ZUejQ4SVlDaHJfalN6bWhJWm44Z9IBlwFBVV95cUxPT25GR1d3X2dwVFFDZVhhZlJFREZUR1U3Ym1aZmJEeWdydkxpSWRzMmx5WWdOQ3ZUZXZ1OWtTMGJxdmwyLTRGUEVIc1dKYWk5eENScExyVWlvZXR5cTlPOEp2ZmxDVU5FZWwyRUwxOWdyMmxaSmcxWGszYVRPdklRRVdlWE9YeHdXb2Q1b2UwckIxZHA3TjVN?oc=5",
-      "source": "FOX 4 News Dallas-Fort Worth",
-      "summary": "Texas police search for gunman in fatal night shooting FOX 4 News Dallas-Fort Worth",
-      "published_at": "2026-07-25T21:27:40+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nTexas police search for gunman in fatal night shooting\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMikgFBVV95cUxOZEtpR1VKckVidzM0WHlfeVQxX2VqaTREM1h0LVF3dWZ3aVZFTy1rYV9FbFVaX0FfM3Y2U1pyVnJHdnFiOWN1eTVmdk8wVVdvS2E5c2ZMNEJHaHkwR05Udl80U184QzNLUGxIbkhXblZQR1lzSU0tT0YwNm5tT1ZUejQ4SVlDaHJfalN6bWhJWm44Z9IBlwFBVV95cUxPT25GR1d3X2dwVFFDZVhhZlJFREZUR1U3Ym1aZmJEeWdydkxpSWRzMmx5WWdOQ3ZUZXZ1OWtTMGJxdmwyLTRGUEVIc1dKYWk5eENScExyVWlvZXR5cTlPOEp2ZmxDVU5FZWwyRUwxOWdyMmxaSmcxWGszYVRPdklRRVdlWE9YeHdXb2Q1b2UwckIxZHA3TjVN?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "64def842438c568d5302",
-      "title": "‘No credible threat’ found in suspicious vehicle investigation in Arlington",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONktyU0ZxZnhZbVFqN3oxZi1tb0hXby02UEc0am5vS29GNGVGZFFQMVZrSnlWM0lTZU4zOXNhUnZ4cjRqUHpkWU1CaGpoSjZudmcxd29ZQ3pnMVlsSEwyTmluUUZsSXBaMXZ6NjVQMm1PYnFteE1xMnVuUmtEbG9pc0lFSzNoYjJQZkprV1ZaNzdzNEZoLWgtZmxTa0d6MkNVdEtDTEptcjlOZmRyN25WRzFpSnlIbUZ5dGFWUEh5emtKSnEtTXVZQ2ZTWWVCSm54X1HSAdcBQVVfeXFMUE1uemJIc052VVRPUER1Y25QMTBMTXV6cm1nb0tISERURDk4Qk1pM1BxaW5GTTFjQTJQUWtDWE5JN1lETk81bWYzUWtNd0syelZOQ0dacWVNaEczOVFHWHJpUWhwODJjUzljeTBnWE5BOVFIZGRBakh5MmRhUl8zOC1aelBITWJtQjg5WlNCR2JjVW9RTURvaWZ2eklPVjBiZ0ZNRXMyTkFYUG9vU3cxUmVQUFpyZklPbmYxOGd5TTZwd1BydE1mUmo1cnctLVNXREJPM3JlY1k?oc=5",
-      "source": "DC News Now",
-      "summary": "‘No credible threat’ found in suspicious vehicle investigation in Arlington DC News Now",
-      "published_at": "2026-07-25T21:18:01+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\n‘No credible threat’ found in suspicious vehicle investigation in Arlington\n\nSource: DC News Now\nRead more: https://news.google.com/rss/articles/CBMi0gFBVV95cUxONktyU0ZxZnhZbVFqN3oxZi1tb0hXby02UEc0am5vS29GNGVGZFFQMVZrSnlWM0lTZU4zOXNhUnZ4cjRqUHpkWU1CaGpoSjZudmcxd29ZQ3pnMVlsSEwyTmluUUZsSXBaMXZ6NjVQMm1PYnFteE1xMnVuUmtEbG9pc0lFSzNoYjJQZkprV1ZaNzdzNEZoLWgtZmxTa0d6MkNVdEtDTEptcjlOZmRyN25WRzFpSnlIbUZ5dGFWUEh5emtKSnEtTXVZQ2ZTWWVCSm54X1HSAdcBQVVfeXFMUE1uemJIc052VVRPUER1Y25QMTBMTXV6cm1nb0tISERURDk4Qk1pM1BxaW5GTTFjQTJQUWtDWE5JN1lETk81bWYzUWtNd0syelZOQ0dacWVNaEczOVFHWHJpUWhwODJjUzljeTBnWE5BOVFIZGRBakh5MmRhUl8zOC1aelBITWJtQjg5WlNCR2JjVW9RTURvaWZ2eklPVjBiZ0ZNRXMyTkFYUG9vU3cxUmVQUFpyZklPbmYxOGd5TTZwd1BydE1mUmo1cnctLVNXREJPM3JlY1k?oc=5\n\nTexas News Roundup"
     }
   ]
 }
