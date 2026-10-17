@@ -1,54 +1,534 @@
 {
-  "updated_at": "2026-10-17T21:43:04.844779+00:00",
-  "count": 195,
+  "updated_at": "2026-10-17T23:59:16.022284+00:00",
+  "count": 197,
   "stories": [
     {
-      "id": "8f9a1f87e18a9f7eead3",
-      "title": "2 dead after fatal North Texas fire, officials say",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0lqczhMSk5NbThaWXdqU2Y3UTIzb0k2eXVWdkxVY1RlMTlSLWJKYmFFWl9jbE9hSmwtSFc1dmtzQWYyVmNzakNLWEVYampWVEZuVzk2QlpleDlXQ0x0TEw1alZRUTRINUw2OTB1RENxenVwam5EQTdjc0M3dWFPOFNxNzhlblo3SnFmQVBJS3F5VkFwSGZHMHhRb0VlYWZDNVI0Z3Zqb0tSQmxscW0wa0RZMGpKNjNHTjdDTjFOaWNWZw?oc=5",
-      "source": "WFAA",
-      "summary": "2 dead after fatal North Texas fire, officials say WFAA",
-      "published_at": "2026-10-17T21:16:00+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\n2 dead after fatal North Texas fire, officials say\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0lqczhMSk5NbThaWXdqU2Y3UTIzb0k2eXVWdkxVY1RlMTlSLWJKYmFFWl9jbE9hSmwtSFc1dmtzQWYyVmNzakNLWEVYampWVEZuVzk2QlpleDlXQ0x0TEw1alZRUTRINUw2OTB1RENxenVwam5EQTdjc0M3dWFPOFNxNzhlblo3SnFmQVBJS3F5VkFwSGZHMHhRb0VlYWZDNVI0Z3Zqb0tSQmxscW0wa0RZMGpKNjNHTjdDTjFOaWNWZw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "f3fd535bde61838b1c24",
-      "title": "Dallas Mavericks have waived two-way guard John …",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUhXbjdYZVFYc0Frek9KQWx4SjFaalAwdldfd19JR1VMUFhaWjk3RXFLdVlNNVpWWmpra21VQUYyR3hxZXVFMzhPMzBYUTNsOFJSYXBJVVRzOVVtOGR6T1lOR3RNRF90T3AxUzFUekM4VTVudzFGT2gzSmJYbDQwM3REd012dTFleDA4VkMzTTg5UHZlX1VNSVBDTzZZbE5UMVdhQjZVcmphRHoxZ0FCVWlRZTBBcjZuUXBFelBB?oc=5",
-      "source": "HoopsHype",
-      "summary": "Dallas Mavericks have waived two-way guard John … HoopsHype",
-      "published_at": "2026-10-17T21:12:00+00:00",
+      "id": "60568eb96e31f97bac9a",
+      "title": "+nhl+(LIVE*STREAms$)+!+ Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQY1lwSmRxaHFfNnROVDF1cDhLQVU3MXRiaXJIcmQtX3R4QXlQdlZPR0piWEFyWHVSWXJKMkl1bDh2WE0yaVl1bHpSMzBEUGZLX0d0NFNBOFVULUt0eWFyTEpsd1FNX1NZY3VpUFFETE9ERmZsNjFja0hTaW82ay1vMVdaNS1lcm0tUjJEMkd0S2t3bXVkSGREWTNiRmJlNXloOXNCV1hjc2pyY2NLOC1VRUhPUHdsNVpJUEVRYjE4NVQ2cmZDTEhxbU9aUU9SZTJDZmpCT0dxVmRyX0M1dTNKalc5c3pRMzVMODlwbjVObFJzTWR6TmVUc3FkSWhhQ04zVXNGR3N2cl9tbXlJajVXZUFyOE94aVNjeThVTVlRckZUZnoycFVzYnBiZEhLQ2JFY1lfYkFwS3dYQ1QtRnhhSzQ2YmhkV2ptYW5iYWdXTG85VTJQa3I3cm5oaE5LR0U?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "+nhl+(LIVE*STREAms$)+!+ Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:43:02+00:00",
       "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks have waived two-way guard John …\n\nSource: HoopsHype\nRead more: https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUhXbjdYZVFYc0Frek9KQWx4SjFaalAwdldfd19JR1VMUFhaWjk3RXFLdVlNNVpWWmpra21VQUYyR3hxZXVFMzhPMzBYUTNsOFJSYXBJVVRzOVVtOGR6T1lOR3RNRF90T3AxUzFUekM4VTVudzFGT2gzSmJYbDQwM3REd012dTFleDA4VkMzTTg5UHZlX1VNSVBDTzZZbE5UMVdhQjZVcmphRHoxZ0FCVWlRZTBBcjZuUXBFelBB?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\n+nhl+(LIVE*STREAms$)+!+ Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi3wJBVV95cUxQY1lwSmRxaHFfNnROVDF1cDhLQVU3MXRiaXJIcmQtX3R4QXlQdlZPR0piWEFyWHVSWXJKMkl1bDh2WE0yaVl1bHpSMzBEUGZLX0d0NFNBOFVULUt0eWFyTEpsd1FNX1NZY3VpUFFETE9ERmZsNjFja0hTaW82ay1vMVdaNS1lcm0tUjJEMkd0S2t3bXVkSGREWTNiRmJlNXloOXNCV1hjc2pyY2NLOC1VRUhPUHdsNVpJUEVRYjE4NVQ2cmZDTEhxbU9aUU9SZTJDZmpCT0dxVmRyX0M1dTNKalc5c3pRMzVMODlwbjVObFJzTWR6TmVUc3FkSWhhQ04zVXNGR3N2cl9tbXlJajVXZUFyOE94aVNjeThVTVlRckZUZnoycFVzYnBiZEhLQ2JFY1lfYkFwS3dYQ1QtRnhhSzQ2YmhkV2ptYW5iYWdXTG85VTJQa3I3cm5oaE5LR0U?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "adb909a645dfbd3b6ccd",
-      "title": "Dallas Cowboys need to approach the next two games as must wins",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFYtc0lESEg5c2NQUm4tMFp6X1ZMZEdiRnFsTFRuOU02Slk4ZW9DX3Z6alg0Xy1nS19fVG1vTktvWW8tMjBrVllHX3plX3BqSGktQ3ZXTmpNbk5aSmRPX3JmS2JiMVRqZzZ5ME5ZU0k4bHp1bF9NbWJxdWY5bHNqLUZnUC05ZnhqS2NrRENvUnhCXzlDYlVXbmk3M19hemdwOTlDZmo0cE8zUEluWUNZb0x6a3NkeUszSkhpSVlhd3VvUQ?oc=5",
-      "source": "Blogging The Boys",
-      "summary": "Dallas Cowboys need to approach the next two games as must wins Blogging The Boys",
-      "published_at": "2026-10-17T21:00:00+00:00",
+      "id": "7b951cc67edb056ee3ae",
+      "title": "#+(LIVESTREAMs!!)FREE!] Chicago Blackhawks vs Dallas Stars LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 free, #+(LIVESTREAMs!!)FREE!] Chicago Blackhawks vs Dallas Stars LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 free, Full Live",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQZFppMzZFb3A2NFVxYnRrekZ1eG1Nd2c3c2FZRHFONTZzX1lFVVBZT25sLS1lTERnbkhKa3JjSEpySzl0d01JSEE1eWIycGNZT1ZCYzJJZ19GOHk0Nk5GYU44b1o5NFEwb1BZNkJsUnZvRDZoRTBDLTBFSGZWV1NLSy13b1JPUFNpT2lQQjdLbkpXdU5RTWdHTVNmZWJYdzl1cW1aNjVJcFhxSnRKRkhLVWVqV3k1TGFLd1Q5VlYyWENfZ3RLY2xHMGFzeU1JOVZuNTEyTnZDeHNDdUxBZjZTZFJrN01uTi1mTXlITm9OaXpzYWdnWUxpMFhWbjFIeEFDaW94SS1qNVRxMHJhQ0dBMDBvV0c3Qjd5bnM5UlctM0Y2bFhTNDlPWDhWeFE2akd2TGNLTmg4UDNMWndWTWcwa1VEWk5uQXJiYjRaaWsyeHJhSHJ2WTBaVlY3YnVrMXdx?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "#+(LIVESTREAMs!!)FREE!] Chicago Blackhawks vs Dallas Stars LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 free, #+(LIVESTREAMs!!)FREE!] Chicago Blackhawks vs Dallas Stars LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 free, Full Live Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:43:01+00:00",
       "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys need to approach the next two games as must wins\n\nSource: Blogging The Boys\nRead more: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNFYtc0lESEg5c2NQUm4tMFp6X1ZMZEdiRnFsTFRuOU02Slk4ZW9DX3Z6alg0Xy1nS19fVG1vTktvWW8tMjBrVllHX3plX3BqSGktQ3ZXTmpNbk5aSmRPX3JmS2JiMVRqZzZ5ME5ZU0k4bHp1bF9NbWJxdWY5bHNqLUZnUC05ZnhqS2NrRENvUnhCXzlDYlVXbmk3M19hemdwOTlDZmo0cE8zUEluWUNZb0x6a3NkeUszSkhpSVlhd3VvUQ?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\n#+(LIVESTREAMs!!)FREE!] Chicago Blackhawks vs Dallas Stars LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 free, #+(LIVESTREAMs!!)FREE!] Chicago Blackhawks vs Dallas Stars LIVE Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 free, Full Live\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi4AJBVV95cUxQZFppMzZFb3A2NFVxYnRrekZ1eG1Nd2c3c2FZRHFONTZzX1lFVVBZT25sLS1lTERnbkhKa3JjSEpySzl0d01JSEE1eWIycGNZT1ZCYzJJZ19GOHk0Nk5GYU44b1o5NFEwb1BZNkJsUnZvRDZoRTBDLTBFSGZWV1NLSy13b1JPUFNpT2lQQjdLbkpXdU5RTWdHTVNmZWJYdzl1cW1aNjVJcFhxSnRKRkhLVWVqV3k1TGFLd1Q5VlYyWENfZ3RLY2xHMGFzeU1JOVZuNTEyTnZDeHNDdUxBZjZTZFJrN01uTi1mTXlITm9OaXpzYWdnWUxpMFhWbjFIeEFDaW94SS1qNVRxMHJhQ0dBMDBvV0c3Qjd5bnM5UlctM0Y2bFhTNDlPWDhWeFE2akd2TGNLTmg4UDNMWndWTWcwa1VEWk5uQXJiYjRaaWsyeHJhSHJ2WTBaVlY3YnVrMXdx?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "4c7170780ab301964b61",
-      "title": "Dallas Mavericks announced today that they have …",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRRcU9oS1hZYUpvc0lTbU5XUXI5MmlSZ0p5OVBFcVdTVkJOQTJJcTZaLVBheENubjZmaWZYUXRQcXpsa19hSm5nWU5BNGVfMlRpWklDSTZIc2Q3SWFBRDhpaEVFMlRPSWF5R2xwOU5GSFUwUV9kTl83TVlUcDA4MHZMVk95aUZtS3hPcm8tckYzeXU0Vm9uT1hRY2JfS25JMFgtM0thaXZDR3VoWnlTQTBCSlBJc2VzT1M0cjBB?oc=5",
-      "source": "HoopsHype",
-      "summary": "Dallas Mavericks announced today that they have … HoopsHype",
-      "published_at": "2026-10-17T20:59:00+00:00",
+      "id": "4fae9aad88b6037d85b9",
+      "title": "#√☯️[[Live NHL+!]] Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄 Results Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQa2pBUHZCMWI2R1VuYnpkMnZKcmluQTI4cGs1dHE2LTJFUm1XNHBKZG5adXRVbVFVcXVsVWgtZ0swaGpFeXc5bHZPVkRHNWh2QVI2RkFISkhYRnFuTVJSclc0cjBETkpDRHdyX0dKUldpY3dzS2ktTjBUUVNPUWEwejRYVzJsNGJaVElpQzczMmJhLXJIanRiMXlqMnJ0MjJyTnZLY3FKUWd6azR6cXM0VVB1YWJweERiSUZLNDktRUk3REwyTDBTM0JYNUJDelJzQXRlbHZGSWNuc01IMUdyTmhqVV95d3gxVmFtaHFMQlM0VnN2LXNwX3pFZHk2Yy01MEdJWGZJM25YRERZNlAyUF9ha2ZuVXFENXRyLXF3V202WmRxNENJaUxlUWdyQi0xMmRncTQzdndtci1YYkU4TldfN0lSSXNFc3E5ekZaNWRkb2VCanZUaHBaYVVSbE0?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "#√☯️[[Live NHL+!]] Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄 Results Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:42:59+00:00",
       "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks announced today that they have …\n\nSource: HoopsHype\nRead more: https://news.google.com/rss/articles/CBMivgFBVV95cUxQWjRRcU9oS1hZYUpvc0lTbU5XUXI5MmlSZ0p5OVBFcVdTVkJOQTJJcTZaLVBheENubjZmaWZYUXRQcXpsa19hSm5nWU5BNGVfMlRpWklDSTZIc2Q3SWFBRDhpaEVFMlRPSWF5R2xwOU5GSFUwUV9kTl83TVlUcDA4MHZMVk95aUZtS3hPcm8tckYzeXU0Vm9uT1hRY2JfS25JMFgtM0thaXZDR3VoWnlTQTBCSlBJc2VzT1M0cjBB?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\n#√☯️[[Live NHL+!]] Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄 Results Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi3wJBVV95cUxQa2pBUHZCMWI2R1VuYnpkMnZKcmluQTI4cGs1dHE2LTJFUm1XNHBKZG5adXRVbVFVcXVsVWgtZ0swaGpFeXc5bHZPVkRHNWh2QVI2RkFISkhYRnFuTVJSclc0cjBETkpDRHdyX0dKUldpY3dzS2ktTjBUUVNPUWEwejRYVzJsNGJaVElpQzczMmJhLXJIanRiMXlqMnJ0MjJyTnZLY3FKUWd6azR6cXM0VVB1YWJweERiSUZLNDktRUk3REwyTDBTM0JYNUJDelJzQXRlbHZGSWNuc01IMUdyTmhqVV95d3gxVmFtaHFMQlM0VnN2LXNwX3pFZHk2Yy01MEdJWGZJM25YRERZNlAyUF9ha2ZuVXFENXRyLXF3V202WmRxNENJaUxlUWdyQi0xMmRncTQzdndtci1YYkU4TldfN0lSSXNFc3E5ekZaNWRkb2VCanZUaHBaYVVSbE0?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "702c26ae8c8b4f7b0dc1",
+      "title": "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 Ｆｒｅｅ On 18 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPSUZhcnd0UGhEQzdCMzM3Z3JzQ0x6ZkNkQThYU0o4Q01UWnVDTmhhLTBVemZHTEk3cnlGa1M1Qkw2WmwyblhkdjFNbUJ6UXMwcnhWc3JjYWc5eUs3Q3hEVVVLYXdOUTlLLWd2alRXckxKcjJWdWRXVVg1Nk40aFFfOE9lN1lETFVGd0FlNmlaOENnN0QwcXVUUTE1OFRxMW1FR3AzSjhlb0RwRFllWUtkcE13cjEyc216aXZuNmMydlNaZF9LOGxaOWc4dmZVTjlVcDI1VE9CbnF5ZHItY2p6dG1rMEZYZjhxVjZNMEl1VVJ0T2U4bzFvMXhjdzlES2daeGZjcXV4bmwzekNNTWZwbDBLYkhEWlZWb0xJLU9QMEdCSHQ4aDNXZ3IxTXh2MWhyWWl4LXpybjVOUlRvdl9EQzZFRGJ1NzBhcG91QjQwYk1nSkJnNXYyQXBhN0pid0ZO?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 Ｆｒｅｅ On 18 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:42:58+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄 𝐒𝐭𝐑𝐞𝐀𝐦 Ｆｒｅｅ On 18 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi4AJBVV95cUxPSUZhcnd0UGhEQzdCMzM3Z3JzQ0x6ZkNkQThYU0o4Q01UWnVDTmhhLTBVemZHTEk3cnlGa1M1Qkw2WmwyblhkdjFNbUJ6UXMwcnhWc3JjYWc5eUs3Q3hEVVVLYXdOUTlLLWd2alRXckxKcjJWdWRXVVg1Nk40aFFfOE9lN1lETFVGd0FlNmlaOENnN0QwcXVUUTE1OFRxMW1FR3AzSjhlb0RwRFllWUtkcE13cjEyc216aXZuNmMydlNaZF9LOGxaOWc4dmZVTjlVcDI1VE9CbnF5ZHItY2p6dG1rMEZYZjhxVjZNMEl1VVJ0T2U4bzFvMXhjdzlES2daeGZjcXV4bmwzekNNTWZwbDBLYkhEWlZWb0xJLU9QMEdCSHQ4aDNXZ3IxTXh2MWhyWWl4LXpybjVOUlRvdl9EQzZFRGJ1NzBhcG91QjQwYk1nSkJnNXYyQXBhN0pid0ZO?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "912d5036b1fe16be2ad7",
+      "title": "Dallas Mavericks waive two guards ahead of Monday roster deadline",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0NmazlTT2dtcWFoN3lRdTF5ZFBKRkZhSUtyc0NUZW9rS2pNdExreHNpMGE0TmdwNmpYeXphWnlsVE1mMEVKMkpObU83S0t4Nl9MTTNna3BjR01wZ09Vd3gweVVSS2E4bEMwUllxN2NDVkh4MWUzMDRZakFReE9XTy1PVm9RNEdwUVJST1gxeUZJOGs5UWZOTlM4aEIzSHNZOTVZaEdvbVdXcEtUV1g5QkZEZ0U?oc=5",
+      "source": "Dallas News",
+      "summary": "Dallas Mavericks waive two guards ahead of Monday roster deadline Dallas News",
+      "published_at": "2026-10-17T23:36:10+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks waive two guards ahead of Monday roster deadline\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMitAFBVV95cUxNN0NmazlTT2dtcWFoN3lRdTF5ZFBKRkZhSUtyc0NUZW9rS2pNdExreHNpMGE0TmdwNmpYeXphWnlsVE1mMEVKMkpObU83S0t4Nl9MTTNna3BjR01wZ09Vd3gweVVSS2E4bEMwUllxN2NDVkh4MWUzMDRZakFReE9XTy1PVm9RNEdwUVJST1gxeUZJOGs5UWZOTlM4aEIzSHNZOTVZaEdvbVdXcEtUV1g5QkZEZ0U?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ebcb6cd0f0f4046aa939",
+      "title": "[LIVESTM-NOW] Dallas Stars vs Chicago Blackhawks | TV Coverage",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTUJJTjh2OFFVcWxTMFRVN0E1R1pXMGNDWnZKMHVLb3RucHlUdnFQUGNXY3lHVTVQSk5LSUNwV0wtcWJrUXREWWJDVlRDS29HRy1RRlFkd3FDS2hJQUdOWEVpSUZCZFN6NVdtYkh6enVENzZHbENraTRnZHFhcWpncGpCUm1lVXAzT3FlMjFXb0ZkSXFhSmczbm90TUZsMzhEZWRrMTlKRFVsZVV4eVMycmFPc0VhdF9odEZ3OWs2enBBNFpBRnpKUHEwNkU0ZzU4TTZUcG5PeDNOQnhuYlQ0aFRfU0s1UEJfbUVoc0FkN1ZmMXNFbTBzdWFFY0F2RU5URFlUZl82UDBrcDZYeTVFNUVWYnhYNUJUOUxnbGZTOXN5Y2RfSjJaUngybkdfdjBFd2NnYUlPWVNJNHg5Y240R1JIUkdMMTJCZVAzRUFWc1Y?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "[LIVESTM-NOW] Dallas Stars vs Chicago Blackhawks | TV Coverage Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:34:50+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n[LIVESTM-NOW] Dallas Stars vs Chicago Blackhawks | TV Coverage\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxNTUJJTjh2OFFVcWxTMFRVN0E1R1pXMGNDWnZKMHVLb3RucHlUdnFQUGNXY3lHVTVQSk5LSUNwV0wtcWJrUXREWWJDVlRDS29HRy1RRlFkd3FDS2hJQUdOWEVpSUZCZFN6NVdtYkh6enVENzZHbENraTRnZHFhcWpncGpCUm1lVXAzT3FlMjFXb0ZkSXFhSmczbm90TUZsMzhEZWRrMTlKRFVsZVV4eVMycmFPc0VhdF9odEZ3OWs2enBBNFpBRnpKUHEwNkU0ZzU4TTZUcG5PeDNOQnhuYlQ0aFRfU0s1UEJfbUVoc0FkN1ZmMXNFbTBzdWFFY0F2RU5URFlUZl82UDBrcDZYeTVFNUVWYnhYNUJUOUxnbGZTOXN5Y2RfSjJaUngybkdfdjBFd2NnYUlPWVNJNHg5Y240R1JIUkdMMTJCZVAzRUFWc1Y?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "c973241350c89abc2544",
+      "title": "【PUCK DROP LIVE】Chicago Blackhawks vs Dallas Stars — NHL",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQzlIdnBQWk5YTVRJN1gzajFRTUw4d0p5LWZCT0xsM0sweThkdFhWeEJfUEUtX29IbGVpWXgybUFWSWhmeG1qaHNmdjROcmZ3VUtjV3VSQmQzWDRYdDRpQ2ktdmFzZUtJOGNSbDdOb2ZiT0ZscmpIdVhTekh3VWJ3QUFONmFPaDZFY2Ftb0tlNy0tNldWNHFrTHdSblVlSzE0MlF1TlJrWTBUNnl4VmhQTlphQXE3WUp5UnFkZ05iMmFFR2EwYmoxdnFjbTNrZlRzTXVNWlRsRTgwQ3Q1eHRONjctTS1fVTZlcUl2dFJCeVBhaGVPMklBWGpFY2p0V09OX2d5M2x5ZVUtdGwzWFBxMTBXTWZnVG9OeXF0Y1Q5bW83QjlWYkcyVkxpOTlpN1A3Nkdkc2VnR280M3NxR2dzaUFLVDV1NjVwUG1RQ0dOLXFuR2NhZlhV?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "【PUCK DROP LIVE】Chicago Blackhawks vs Dallas Stars — NHL Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:34:49+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n【PUCK DROP LIVE】Chicago Blackhawks vs Dallas Stars — NHL\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi1wJBVV95cUxOQzlIdnBQWk5YTVRJN1gzajFRTUw4d0p5LWZCT0xsM0sweThkdFhWeEJfUEUtX29IbGVpWXgybUFWSWhmeG1qaHNmdjROcmZ3VUtjV3VSQmQzWDRYdDRpQ2ktdmFzZUtJOGNSbDdOb2ZiT0ZscmpIdVhTekh3VWJ3QUFONmFPaDZFY2Ftb0tlNy0tNldWNHFrTHdSblVlSzE0MlF1TlJrWTBUNnl4VmhQTlphQXE3WUp5UnFkZ05iMmFFR2EwYmoxdnFjbTNrZlRzTXVNWlRsRTgwQ3Q1eHRONjctTS1fVTZlcUl2dFJCeVBhaGVPMklBWGpFY2p0V09OX2d5M2x5ZVUtdGwzWFBxMTBXTWZnVG9OeXF0Y1Q5bW83QjlWYkcyVkxpOTlpN1A3Nkdkc2VnR280M3NxR2dzaUFLVDV1NjVwUG1RQ0dOLXFuR2NhZlhV?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "34f5492e3c3d621b2bbc",
+      "title": "$+⚽+【ＬＩＶＥ ＣＨＡＮＮＥＬ】 Chicago Blackhawks - Dallas Stars LIVE Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOV1d0ZHEzSVQ0NVFqSmFoUWhOcjBVU1dMMVNST19CRmxicnVNRjVUMVFKNm1XallyeUtuMy1EV3h6LTNZZTB2R3o2NDNnT1o2Q0FsckctS1BzOEJMYU93Nm1CYUkzbjRMQlM2aUJuWkQ2ejJPZC1KNHpnbGZQUEdhT2xCb2k2NHJtc1B5RXJLTWdBZTFHODdxNDhEVHI3QVVjNVUwTFVfRzI3ZUpUQ0dxQjUtcFdPeVlydjg5ZnQxdUpHMGllUTd3eW1KZFE2a1VydFA2Qkl0b2NDM2RSV2VqTmduUVo1WXVjNzQzRmN2OUZmdDhhRWQ3MmlhTVJFZlctSmsycEJjT3BQbDA0RFV5dlZpS3ZKRWVGTGlNN3cwMkUyMFRjTnZyUS1KSXpjUkQtYldQVGVPdTkyVFNRQ2JlQzRqa24xd1FtbExCeS01anpqek1ILVc2c3AwRllvdw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "$+⚽+【ＬＩＶＥ ＣＨＡＮＮＥＬ】 Chicago Blackhawks - Dallas Stars LIVE Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:08:37+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n$+⚽+【ＬＩＶＥ ＣＨＡＮＮＥＬ】 Chicago Blackhawks - Dallas Stars LIVE Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 18 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi3gJBVV95cUxOV1d0ZHEzSVQ0NVFqSmFoUWhOcjBVU1dMMVNST19CRmxicnVNRjVUMVFKNm1XallyeUtuMy1EV3h6LTNZZTB2R3o2NDNnT1o2Q0FsckctS1BzOEJMYU93Nm1CYUkzbjRMQlM2aUJuWkQ2ejJPZC1KNHpnbGZQUEdhT2xCb2k2NHJtc1B5RXJLTWdBZTFHODdxNDhEVHI3QVVjNVUwTFVfRzI3ZUpUQ0dxQjUtcFdPeVlydjg5ZnQxdUpHMGllUTd3eW1KZFE2a1VydFA2Qkl0b2NDM2RSV2VqTmduUVo1WXVjNzQzRmN2OUZmdDhhRWQ3MmlhTVJFZlctSmsycEJjT3BQbDA0RFV5dlZpS3ZKRWVGTGlNN3cwMkUyMFRjTnZyUS1KSXpjUkQtYldQVGVPdTkyVFNRQ2JlQzRqa24xd1FtbExCeS01anpqek1ILVc2c3AwRllvdw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "a745e433bb7f70bef5a4",
+      "title": "!+[*UCL TODAY*] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Updates 91890",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOLUh1WEhseExzOGpaRTBEZ3BlWGJtbzkzOXkweDJfVWF0WWRhZjlBdWc4MjhaeFBpUm5lUGpOT2dQeklGcXdZQlZuZDFyTGZDaTUzV3FRM2hKVTVVSDVCbzFIMTcyNk1iS1VRNmJxMkJ3VDgxVFVPdkx3TThfb0xOTi1ma3lva3FBMGdId0NYa25waTY4a0t2RkgwMklPdllQbzB5aGdIOXVXRzh0SGM2QmQ5MTZDZzJ6Nktmcy1teGhrdVRNYTdGRG9RSkJuOEJVUS1QN0JJdTZzMTVfUHNQNndaNFFSZVdkdkxDOEpQS0tYZ2tNTzhSV0htTkI4UXZuRXFvdi03Y0t2U1kxWWt5Nlc0bnl4b0psVGJXc0xfcWlxSUNwSWFtb19yaThiTGVTOTRCQS1qUHg4OGw1ZzJhZXc5MlNfekVyT0NxdDVLNnZLZw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "!+[*UCL TODAY*] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Updates 91890 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:08:21+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n!+[*UCL TODAY*] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Updates 91890\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxOLUh1WEhseExzOGpaRTBEZ3BlWGJtbzkzOXkweDJfVWF0WWRhZjlBdWc4MjhaeFBpUm5lUGpOT2dQeklGcXdZQlZuZDFyTGZDaTUzV3FRM2hKVTVVSDVCbzFIMTcyNk1iS1VRNmJxMkJ3VDgxVFVPdkx3TThfb0xOTi1ma3lva3FBMGdId0NYa25waTY4a0t2RkgwMklPdllQbzB5aGdIOXVXRzh0SGM2QmQ5MTZDZzJ6Nktmcy1teGhrdVRNYTdGRG9RSkJuOEJVUS1QN0JJdTZzMTVfUHNQNndaNFFSZVdkdkxDOEpQS0tYZ2tNTzhSV0htTkI4UXZuRXFvdi03Y0t2U1kxWWt5Nlc0bnl4b0psVGJXc0xfcWlxSUNwSWFtb19yaThiTGVTOTRCQS1qUHg4OGw1ZzJhZXc5MlNfekVyT0NxdDVLNnZLZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "8e65181d513b5e3b9155",
+      "title": "+!(ESPN~TV) Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Stream 49069",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRENzaVZYeERBQUszcjdtTjEyREVGa05Kel9mSDZCd05DVi1KNUthb0IxNllGNTVKcFU3Z29TZ3ZUSFhKQVl5OHJuY3lyZENiQkJ5THNKcEVSRmpIem5uaHJPbXFjWVJuVHBQc1BqTnF5eldNQUo0bVhTcHdKVW9iSEplbHhKQW1waG8xa09lZDA0NlBMd090MWxIVkJZRmxfb1hhckY3OE9xLXBJUC1JTm1JN1NUakh1NUdSUkxjSURpUjg5UURiTE02eFBzVHJNQVZJTzBja1J3czhKaURJbzNlYW9oNzBVRkUtR1AxbWNkdFhadW52bzByU0hWcXFlVHl1dkFiNGNDZ3gxeno4V2w0Y2paMmxfUVBuZkhVdTVOb3FXZzROOUZ2YnJzWHIxV3dMUHFQLVZCOENhZjFXUGZGYjB6dnYzX3J1dno2TTVYQQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "+!(ESPN~TV) Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Stream 49069 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:08:12+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n+!(ESPN~TV) Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Stream 49069\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRENzaVZYeERBQUszcjdtTjEyREVGa05Kel9mSDZCd05DVi1KNUthb0IxNllGNTVKcFU3Z29TZ3ZUSFhKQVl5OHJuY3lyZENiQkJ5THNKcEVSRmpIem5uaHJPbXFjWVJuVHBQc1BqTnF5eldNQUo0bVhTcHdKVW9iSEplbHhKQW1waG8xa09lZDA0NlBMd090MWxIVkJZRmxfb1hhckY3OE9xLXBJUC1JTm1JN1NUakh1NUdSUkxjSURpUjg5UURiTE02eFBzVHJNQVZJTzBja1J3czhKaURJbzNlYW9oNzBVRkUtR1AxbWNkdFhadW52bzByU0hWcXFlVHl1dkFiNGNDZ3gxeno4V2w0Y2paMmxfUVBuZkhVdTVOb3FXZzROOUZ2YnJzWHIxV3dMUHFQLVZCOENhZjFXUGZGYjB6dnYzX3J1dno2TTVYQQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "3c9d11d489db290eafe5",
+      "title": "!+[*𝐋𝐈𝐕𝐄 COVERAGE*] Houston Dynamo FC vs FC Dallas UEFA Champions League Today 64076",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNaHRfNGxyZ3RiQU52WmdxTzQ4aVBJalN5RkR4cWk3STgwV2I1VVdKTEZzN29sdFk5Q2JOMkIwUG1LNFJGQWlVZk1MOGFxV0JQWVFfN0k4c09nQWVVY1Q4c0lqNmE2S0Iwek9HSkVJSEIxQnNwNDFGZHFBcTluWWJBanRDV0daczdBbi0tMGtEaEpaN2V0ZzRuWUFmU3pjbTdkU2NURnpxbmlCOGhMcjZYXzIxRlhpeWM1enNfWkNtaGpiTWlPZl92b2loLV9Lb2g5U3EtdGlzdDhmbjd6bVo2V3ZQemJfSm1pWTJsUVhmZzJ1MTJtdzVEUFJuTVMzQkFBSjgyWHVRekYyLXVBNzlWUFRFeHYydDBmZ1lESFd4NzRCVHVZNGJJb0djLUxVanVKWHBhTGVXMjAtTWVGaS1rNXJUTEVJelE0U0xaVTk4TVc?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "!+[*𝐋𝐈𝐕𝐄 COVERAGE*] Houston Dynamo FC vs FC Dallas UEFA Champions League Today 64076 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:08:09+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n!+[*𝐋𝐈𝐕𝐄 COVERAGE*] Houston Dynamo FC vs FC Dallas UEFA Champions League Today 64076\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxNaHRfNGxyZ3RiQU52WmdxTzQ4aVBJalN5RkR4cWk3STgwV2I1VVdKTEZzN29sdFk5Q2JOMkIwUG1LNFJGQWlVZk1MOGFxV0JQWVFfN0k4c09nQWVVY1Q4c0lqNmE2S0Iwek9HSkVJSEIxQnNwNDFGZHFBcTluWWJBanRDV0daczdBbi0tMGtEaEpaN2V0ZzRuWUFmU3pjbTdkU2NURnpxbmlCOGhMcjZYXzIxRlhpeWM1enNfWkNtaGpiTWlPZl92b2loLV9Lb2g5U3EtdGlzdDhmbjd6bVo2V3ZQemJfSm1pWTJsUVhmZzJ1MTJtdzVEUFJuTVMzQkFBSjgyWHVRekYyLXVBNzlWUFRFeHYydDBmZ1lESFd4NzRCVHVZNGJJb0djLUxVanVKWHBhTGVXMjAtTWVGaS1rNXJUTEVJelE0U0xaVTk4TVc?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b339c68e684b7c27fee4",
+      "title": "[WATCH𝐋𝐈𝐕𝐄]SKY!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 NOW 56117",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQjNVcWFyb1hFVUotb3VVRm94M0dyQUxNQ1Q0NVlCOE03c1ZFdy1wOTRkTU9EYUw1WjdhNnloSkRpMWxlRExvWHRpT1hWd3M5czBfOC03aGlfOU9oc3FMZVNfSTExVEJhV0xHaDd6YUlfejIxWVRLNldoMlR6YkwtQWV3YlJxOHJwblg0MUo1eGdaQ0dSY29rMGYyMEl6Ti0zWjg0UmxfMTloUkFPQ3JtWHNRbmRRN2lEcU9wSURNM09DLVlYcVl6cUx4Y09WcjJCMXA2U3VPZEdWS1BnU1ljcEpvNTM1YnREN1owTEtVbTlBX1VqVnpULVhYenVLTVRRaGwyRHFNSmhxQUZrN0ZmVzlNMTZFR29RSjZCSkdXeGNnTWx0WXg2Qkg0dWZrYXI0cXpGTlI3YlNIZGhXbTRoSXpDUnRnUS1WN2NwUXdEYnQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "[WATCH𝐋𝐈𝐕𝐄]SKY!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 NOW 56117 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:08:02+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\n[WATCH𝐋𝐈𝐕𝐄]SKY!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 NOW 56117\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxPQjNVcWFyb1hFVUotb3VVRm94M0dyQUxNQ1Q0NVlCOE03c1ZFdy1wOTRkTU9EYUw1WjdhNnloSkRpMWxlRExvWHRpT1hWd3M5czBfOC03aGlfOU9oc3FMZVNfSTExVEJhV0xHaDd6YUlfejIxWVRLNldoMlR6YkwtQWV3YlJxOHJwblg0MUo1eGdaQ0dSY29rMGYyMEl6Ti0zWjg0UmxfMTloUkFPQ3JtWHNRbmRRN2lEcU9wSURNM09DLVlYcVl6cUx4Y09WcjJCMXA2U3VPZEdWS1BnU1ljcEpvNTM1YnREN1owTEtVbTlBX1VqVnpULVhYenVLTVRRaGwyRHFNSmhxQUZrN0ZmVzlNMTZFR29RSjZCSkdXeGNnTWx0WXg2Qkg0dWZrYXI0cXpGTlI3YlNIZGhXbTRoSXpDUnRnUS1WN2NwUXdEYnQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "f9272bc82726708b672c",
+      "title": "*#WatchLive!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free stream 84476",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxONUxFNHpqLUFNSnBub0JBd0tfVE10a0NjMDRKNHRVcEtQUENVZ3lZdVJKOGVzM2wzNVZlMk5rdEo0UkxQME9DS0NvWUI2VWtoQ2pUclJDOFRnZVlrRFVfUlItVlgwdlNrN2N2UzFyTm5ISk9hRmJuejdBeEltdzNjaXJBdWJjZkNXMHpwaHpZVGU2T3R1Q1FyUUJESC1wVnJaRG5OT0k2STA3Zk1fNTNkRmVZTkstQlNVNDBvNENIRXZFdUpycl9HcGZMbzBsZWRsaWVfdHR3cDVpdWtBaGhpQjVhMHROMnVKLUota3lVMVhZelFMWEpwUlUxOURYNFRrcXZEZ3R1Z2pwTVQ4dHprUjk0WnZIN3d1bVdiaDBlX2tDN2lmN1BjQVlEV2duQVZ5N1JGWW04eFNaOUgtVzhkN3VZRU9GRlJ2ZHpBbngza0RGdw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "*#WatchLive!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free stream 84476 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:58+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\n*#WatchLive!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free stream 84476\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxONUxFNHpqLUFNSnBub0JBd0tfVE10a0NjMDRKNHRVcEtQUENVZ3lZdVJKOGVzM2wzNVZlMk5rdEo0UkxQME9DS0NvWUI2VWtoQ2pUclJDOFRnZVlrRFVfUlItVlgwdlNrN2N2UzFyTm5ISk9hRmJuejdBeEltdzNjaXJBdWJjZkNXMHpwaHpZVGU2T3R1Q1FyUUJESC1wVnJaRG5OT0k2STA3Zk1fNTNkRmVZTkstQlNVNDBvNENIRXZFdUpycl9HcGZMbzBsZWRsaWVfdHR3cDVpdWtBaGhpQjVhMHROMnVKLUota3lVMVhZelFMWEpwUlUxOURYNFRrcXZEZ3R1Z2pwTVQ4dHprUjk0WnZIN3d1bVdiaDBlX2tDN2lmN1BjQVlEV2duQVZ5N1JGWW04eFNaOUgtVzhkN3VZRU9GRlJ2ZHpBbngza0RGdw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "8496b5717d313d7dd05d",
+      "title": "#*$[[WATCH𝐋𝐈𝐕𝐄]FREE!!!]] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Update 08751",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUVg5MUZaWEduOVF1N3F3SEk2dHd3WTVLdGFNUm5hckpCSk4wN1ZCWXdPWVpJUl9RZzRlQ09vNXROci1obTlmNHJINkh2eFcycDlGam5mb1gweFVldUZwRzF6OFFQUGV2b0NSaDlhU2F1OHhobHVLZ2lRMEZydU5rUHE3ejJQQl80RGFpMEZFVnhnWWFseHY0U3RTYWJRbmFiMlZ3cEh5cmFXZ2xHX29xSTgyeVRmYzE0MWE3RjRYY0cyWFpEdHJkcF9FT1FmR1VRQjc2UmxxTTNua0s5a25PeXdpRWRjUlRtVktBX0NXcmJ5Vzh6TW1wN2JfS0VLWGVHOWNhTzlybEZyZjNVLXlJVjhoU2o2TnF4UHRTdUJnb0ctNEdTcGtUUTdiTFBETzh2YWcwVVRTMEdrYTF0VV94MjdGOFRBV0sybzdsNkZTWnNQZw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "#*$[[WATCH𝐋𝐈𝐕𝐄]FREE!!!]] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Update 08751 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:51+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\n#*$[[WATCH𝐋𝐈𝐕𝐄]FREE!!!]] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Update 08751\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxPUVg5MUZaWEduOVF1N3F3SEk2dHd3WTVLdGFNUm5hckpCSk4wN1ZCWXdPWVpJUl9RZzRlQ09vNXROci1obTlmNHJINkh2eFcycDlGam5mb1gweFVldUZwRzF6OFFQUGV2b0NSaDlhU2F1OHhobHVLZ2lRMEZydU5rUHE3ejJQQl80RGFpMEZFVnhnWWFseHY0U3RTYWJRbmFiMlZ3cEh5cmFXZ2xHX29xSTgyeVRmYzE0MWE3RjRYY0cyWFpEdHJkcF9FT1FmR1VRQjc2UmxxTTNua0s5a25PeXdpRWRjUlRtVktBX0NXcmJ5Vzh6TW1wN2JfS0VLWGVHOWNhTzlybEZyZjNVLXlJVjhoU2o2TnF4UHRTdUJnb0ctNEdTcGtUUTdiTFBETzh2YWcwVVRTMEdrYTF0VV94MjdGOFRBV0sybzdsNkZTWnNQZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b725aa0efba3431fce3b",
+      "title": "[LIVE*sTrEaMs] +[*UEFA 𝐋𝐈𝐕𝐄*] Houston Dynamo FC vs FC Dallas live 73824 Live Broadcast Free ON Tv Channel",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNem5pTHhUazlvX0NsRm16TzBRWFhDT09tRXRvOVF6aXplYm5nOE1Sa1BmeDhEUnNtaTVOZmhQbEhlNDlLbEo3Nk4zRjlrbEZXZ2V1d0hlVXJaSnpWZWI2WExicEFKOFJwbHZ5RWRoLWJqWEpfSEZ1WkNKUW5YSmRwTzhNUlVhTDNneTN4dVRmemljdlJMYWkzRWljZzZ5WXB1QW0zdHN1Y1RmRVA3WC1XZHVWdVVIZnpEN2Z5MGlIMlpENDRpakZRamtETk5IMjZ2U0c1dTY2d2hvXzZYR2tySDBFSFQ0TEoxUklMaWxNdTdob1p0VmlGaktlc2JsWDlwTWc1RGp4bDVWYlpJY2hBOFFmVDczMUQ3c21uYU05YWNjUlJhUWQ0VnFKaUFiNzh2WWdNSGpINEt6M3dCbThnbEg5TGRjdldCZ3dwdC1UeUh3QQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "[LIVE*sTrEaMs] +[*UEFA 𝐋𝐈𝐕𝐄*] Houston Dynamo FC vs FC Dallas live 73824 Live Broadcast Free ON Tv Channel Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:47+00:00",
+      "category": "Traffic",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚧 TRAFFIC — DFW\n\n[LIVE*sTrEaMs] +[*UEFA 𝐋𝐈𝐕𝐄*] Houston Dynamo FC vs FC Dallas live 73824 Live Broadcast Free ON Tv Channel\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxNem5pTHhUazlvX0NsRm16TzBRWFhDT09tRXRvOVF6aXplYm5nOE1Sa1BmeDhEUnNtaTVOZmhQbEhlNDlLbEo3Nk4zRjlrbEZXZ2V1d0hlVXJaSnpWZWI2WExicEFKOFJwbHZ5RWRoLWJqWEpfSEZ1WkNKUW5YSmRwTzhNUlVhTDNneTN4dVRmemljdlJMYWkzRWljZzZ5WXB1QW0zdHN1Y1RmRVA3WC1XZHVWdVVIZnpEN2Z5MGlIMlpENDRpakZRamtETk5IMjZ2U0c1dTY2d2hvXzZYR2tySDBFSFQ0TEoxUklMaWxNdTdob1p0VmlGaktlc2JsWDlwTWc1RGp4bDVWYlpJY2hBOFFmVDczMUQ3c21uYU05YWNjUlJhUWQ0VnFKaUFiNzh2WWdNSGpINEt6M3dCbThnbEg5TGRjdldCZ3dwdC1UeUh3QQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "6943299b4e36a3cbbc1f",
+      "title": "[𝐋𝐈𝐕𝐄STREAM]TV!!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free stream 35329",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSzF4WHo1TDVaa3FzTXlnOFh4N3dybmlNb1VielI4TmRDMHlTRGRDQjN1c2FNaDk4WENERThGN0hjREtJSFFScnFKc05JQTRHRUZOQkVuQ2xCcnpza1ZLVGZ3WkZOMXZINk5EWGVQWXlseV9yS0JkRmluUDhwd0NnZGF2Z0R2REREbmExNWtvZGVVdzh6MTZiOEt3UHlqMUphQUVGb1oxMHRTOVhXSThaS0FpNmJDcVpBVENVUHhfR2xfMG12U1dvb2RnenFkU2ZnSFpJVmdWa3BQRXE4azg3eTVBcDVQLU0wMjg0b1FuR29qNUdVcXdqMmFuNnpmVV94T24zQ1FHNUJ2YWJwdW9mSm1nY2oyUEdfYlJCMjF1MmdfUENFcmRuQnVaZG4yZ0FhUFBOLVA4SjRHSnptbzNERjRaNFBCZFA0eFpjM040T20?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "[𝐋𝐈𝐕𝐄STREAM]TV!!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free stream 35329 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:43+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n[𝐋𝐈𝐕𝐄STREAM]TV!!] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free stream 35329\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxQSzF4WHo1TDVaa3FzTXlnOFh4N3dybmlNb1VielI4TmRDMHlTRGRDQjN1c2FNaDk4WENERThGN0hjREtJSFFScnFKc05JQTRHRUZOQkVuQ2xCcnpza1ZLVGZ3WkZOMXZINk5EWGVQWXlseV9yS0JkRmluUDhwd0NnZGF2Z0R2REREbmExNWtvZGVVdzh6MTZiOEt3UHlqMUphQUVGb1oxMHRTOVhXSThaS0FpNmJDcVpBVENVUHhfR2xfMG12U1dvb2RnenFkU2ZnSFpJVmdWa3BQRXE4azg3eTVBcDVQLU0wMjg0b1FuR29qNUdVcXdqMmFuNnpmVV94T24zQ1FHNUJ2YWJwdW9mSm1nY2oyUEdfYlJCMjF1MmdfUENFcmRuQnVaZG4yZ0FhUFBOLVA4SjRHSnptbzNERjRaNFBCZFA0eFpjM040T20?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "39e35473f4a941a01b2c",
+      "title": "$+ +𝐋𝐈𝐕𝐄@STREAMS] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free streams 86629",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWjZrZ2RnTUhHTkpkVWtmRDZySUVKa2N3d185VTRpMjhJT0dELUlyLUtPXy1CX0dBaWZ5VTJTLWtsQ3g5RU8zQmFGXzEtOFI5aWkyVVZrcWsxbUFubGVISmJKVU1leDZMS1laLWplMUhQN0JfWW53RmdKQmhQU0NSMy1FdlY5eGY5cUNnRlBtbmlOVk9YMWxzZ0ZlRlRQLWR4VlZ2cnJuckM1WjBhS3ZQQjJhNDk2c2FlNXlhbG9Fb2tHM25EOUl0MWpzeVduZ0VFd25KNE56ejY2QUVNZHJlTEctamZiTndEQVBOTU00d3hhSTN1Z2cwV1dCRklieTlGak1wdmpJWWtkbW5yeThJUk91RGZLcDdIWWZIZHBVcllqQUFzUGh5czJIT1NfWV8zaTJnal8wWlVrUWNqWGd5RzhHY2piRHFlYmtCOVRBUU4yQQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "$+ +𝐋𝐈𝐕𝐄@STREAMS] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free streams 86629 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:37+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n$+ +𝐋𝐈𝐕𝐄@STREAMS] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 free streams 86629\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWjZrZ2RnTUhHTkpkVWtmRDZySUVKa2N3d185VTRpMjhJT0dELUlyLUtPXy1CX0dBaWZ5VTJTLWtsQ3g5RU8zQmFGXzEtOFI5aWkyVVZrcWsxbUFubGVISmJKVU1leDZMS1laLWplMUhQN0JfWW53RmdKQmhQU0NSMy1FdlY5eGY5cUNnRlBtbmlOVk9YMWxzZ0ZlRlRQLWR4VlZ2cnJuckM1WjBhS3ZQQjJhNDk2c2FlNXlhbG9Fb2tHM25EOUl0MWpzeVduZ0VFd25KNE56ejY2QUVNZHJlTEctamZiTndEQVBOTU00d3hhSTN1Z2cwV1dCRklieTlGak1wdmpJWWtkbW5yeThJUk91RGZLcDdIWWZIZHBVcllqQUFzUGh5czJIT1NfWV8zaTJnal8wWlVrUWNqWGd5RzhHY2piRHFlYmtCOVRBUU4yQQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "5806e02b09a0479875fe",
+      "title": "++[𝐋𝐈𝐕𝐄STREAMS] FREE!! Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 59274",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPVEtsalJuU0pHM29xcV9PZm14aW5Ia3pfMF8xZ2ZvZGl5eS15dXVBZ1YxTk1Va0J6OVY4NkZ1RTI0ZjI0bHU4OUUtVUNkMEdudjZ5YXNiczlUOHZCbUlEQzk1OHo1eXZ1TWtUbm0xdTVDT1lteDlFUGVNWXpDRXpDN2oyMS1feFJKQjdNQmRUUTBURGFnTkpiZHA4bkNHV1JhUGpBLWRReXQ5c1JBVWNVcFY1V1FUVTMyZ2FJclhDNUlwNGc3NlJiejA2OTFFT2hCOUdQVWkwcXA0eVVzMWdNVFJLTmhxU3JVRk43dFNTaGc4eThEdWtPcWVFd1pFYTVtUzZZeU0yQ3ZqT1IzSTE2dGwzQ0pFdmlQTEI3N1Z5azFKZS1YRVd2UURUYVdJMkh2eFZ1bEF6NEFpaUZheVFIQUt1VEZ0d19HMGk5MDBlY2Y0dw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "++[𝐋𝐈𝐕𝐄STREAMS] FREE!! Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 59274 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:34+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n++[𝐋𝐈𝐕𝐄STREAMS] FREE!! Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 59274\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxPVEtsalJuU0pHM29xcV9PZm14aW5Ia3pfMF8xZ2ZvZGl5eS15dXVBZ1YxTk1Va0J6OVY4NkZ1RTI0ZjI0bHU4OUUtVUNkMEdudjZ5YXNiczlUOHZCbUlEQzk1OHo1eXZ1TWtUbm0xdTVDT1lteDlFUGVNWXpDRXpDN2oyMS1feFJKQjdNQmRUUTBURGFnTkpiZHA4bkNHV1JhUGpBLWRReXQ5c1JBVWNVcFY1V1FUVTMyZ2FJclhDNUlwNGc3NlJiejA2OTFFT2hCOUdQVWkwcXA0eVVzMWdNVFJLTmhxU3JVRk43dFNTaGc4eThEdWtPcWVFd1pFYTVtUzZZeU0yQ3ZqT1IzSTE2dGwzQ0pFdmlQTEI3N1Z5azFKZS1YRVd2UURUYVdJMkh2eFZ1bEF6NEFpaUZheVFIQUt1VEZ0d19HMGk5MDBlY2Y0dw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "3ea03b821b1a86726a63",
+      "title": "!+【𝐋𝐈𝐕𝐄STREAMS-Free】 Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 36177",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZmt3SXQzLVRoYVF6TlF5M3dZdkhIN0NlMnBsUDNLNDI1d3JzeWhNSDRLQUNJTzN2ZzlXa3NyMWstSzlQd1BXNVJyQzNQZ09qX3VGZnFrUUtmaFNYOTNDZGEzcnp0MGwtNUFrbmxic2JEUEhheUc1dWo3Qkc4WlZ3OXA0VEpPQnkySXJIZGU5RFNKNnNpQ015amxuSXJsTlAzRUhuTmcwb1NHRERkSDIyekhzYVFpVllzc2dJUW5KS2xBQ2J2Z3dwR0tzczdrRTBacVA0X1NzdGcyM1FYY1ZVS29UUDAzX1VDY19WRlpOMHhtSWc0SV9rWnhNU3V3RVVvNDlTa1NFbXhHMnVfWFpUWEFSMHdTbVhRM2hJdldBbTdkVXE4VTRWUEE0NVlvYmRJYlFrVFl4MVpMdExkU1JhalZjLUpOUGdDaTRSMDYyQ185UQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "!+【𝐋𝐈𝐕𝐄STREAMS-Free】 Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 36177 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:34+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n!+【𝐋𝐈𝐕𝐄STREAMS-Free】 Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 36177\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZmt3SXQzLVRoYVF6TlF5M3dZdkhIN0NlMnBsUDNLNDI1d3JzeWhNSDRLQUNJTzN2ZzlXa3NyMWstSzlQd1BXNVJyQzNQZ09qX3VGZnFrUUtmaFNYOTNDZGEzcnp0MGwtNUFrbmxic2JEUEhheUc1dWo3Qkc4WlZ3OXA0VEpPQnkySXJIZGU5RFNKNnNpQ015amxuSXJsTlAzRUhuTmcwb1NHRERkSDIyekhzYVFpVllzc2dJUW5KS2xBQ2J2Z3dwR0tzczdrRTBacVA0X1NzdGcyM1FYY1ZVS29UUDAzX1VDY19WRlpOMHhtSWc0SV9rWnhNU3V3RVVvNDlTa1NFbXhHMnVfWFpUWEFSMHdTbVhRM2hJdldBbTdkVXE4VTRWUEE0NVlvYmRJYlFrVFl4MVpMdExkU1JhalZjLUpOUGdDaTRSMDYyQ185UQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "2de6e7a61b8161ff0d77",
+      "title": "(++𝐋𝐈𝐕𝐄>STREAM..!!) Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 FREE 06184",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdmxBTnAxdDN1eVZIN0tUbHI1blJLalJlYkF6VjFjN2VFRDdQWmQ3Qi1EX0M3Y3EtM3d1M2daRlZ4UUFPYmVuMDVwVkU0b2xJdTJxc0lxaHFkZ0JBZ2tNT3BPdjdjTDZTRzlDdE1QX2c5akVvbWlYWi16c3dSeDFwWGdBYVRHeGFENXBmZDdkRVpOTk92aWlMRzhqTFp1cXhuZ1BUSDQ0ZkFTelBENzk0V2RnUExvS25qU1gwdklQTjVaLTN6X0trd0xEOGowTXlTakVTZzFBX1VMT2Z3NnhDT0M5Tm5vX1ZlMXNETGpDWlFraDA5VHRmM2t3UXF6TlZ6YWVRN2ZCeW1vM3FvQjRRdTRuejdOZ0hIYXBaOWdZNE5xU1poOHNIb1oycWtiRTZNcXdqYWQtaVIybGdUSFBvN01YN25iYnQ2NzZnWlRRMUVYUQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "(++𝐋𝐈𝐕𝐄>STREAM..!!) Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 FREE 06184 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:29+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n(++𝐋𝐈𝐕𝐄>STREAM..!!) Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 FREE 06184\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxOdmxBTnAxdDN1eVZIN0tUbHI1blJLalJlYkF6VjFjN2VFRDdQWmQ3Qi1EX0M3Y3EtM3d1M2daRlZ4UUFPYmVuMDVwVkU0b2xJdTJxc0lxaHFkZ0JBZ2tNT3BPdjdjTDZTRzlDdE1QX2c5akVvbWlYWi16c3dSeDFwWGdBYVRHeGFENXBmZDdkRVpOTk92aWlMRzhqTFp1cXhuZ1BUSDQ0ZkFTelBENzk0V2RnUExvS25qU1gwdklQTjVaLTN6X0trd0xEOGowTXlTakVTZzFBX1VMT2Z3NnhDT0M5Tm5vX1ZlMXNETGpDWlFraDA5VHRmM2t3UXF6TlZ6YWVRN2ZCeW1vM3FvQjRRdTRuejdOZ0hIYXBaOWdZNE5xU1poOHNIb1oycWtiRTZNcXdqYWQtaVIybGdUSFBvN01YN25iYnQ2NzZnWlRRMUVYUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "603075000a224c796309",
+      "title": "=+🧲[𝐋𝐈𝐕𝐄@STREAM]$ Houston Dynamo FC vs FC Dallas Match 13639",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcTRKY0daV0k5MWFheEFBQkJIM2s3bWlpdThVYzFIQzJwOFpqT2x3bjNnMXZLTTYtVUNZVlplQWdzbEh0RXp0UUxxRUljam1mWUE5YlQ3SS1CUEpnV1p2V0c0b3JHeTE1VEtUd2hINU1BOE5KT0p2U3NaQUhIVFY1a082Q3N0RmVDQW9oaXl5bFM1VmVVakJ6WEljT3RBNHRBOUZ6a19hdFhyZ3J1VEJ0VGlnVTNnd1d5SFpLSU1GVnFKMFJKenBOUjJWZjA1LXlaclBqOHZXUkc1Nk42OUhFQ2Y5VnBLUjdwRFlXNjNfZElPQ2NGVWs3NC1ZVlpCZWxzbC1samN0ZlhadjI3V3RDdzZSdHZiQm1QYXBsY3pTU2g2WHVoZHg5X3NOcFQ5dmoycmZSRzhjMXBBQ0k2S2Z5MWxCQlJwT3lOaDl2TmdtbmN2dw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "=+🧲[𝐋𝐈𝐕𝐄@STREAM]$ Houston Dynamo FC vs FC Dallas Match 13639 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:29+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n=+🧲[𝐋𝐈𝐕𝐄@STREAM]$ Houston Dynamo FC vs FC Dallas Match 13639\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxPcTRKY0daV0k5MWFheEFBQkJIM2s3bWlpdThVYzFIQzJwOFpqT2x3bjNnMXZLTTYtVUNZVlplQWdzbEh0RXp0UUxxRUljam1mWUE5YlQ3SS1CUEpnV1p2V0c0b3JHeTE1VEtUd2hINU1BOE5KT0p2U3NaQUhIVFY1a082Q3N0RmVDQW9oaXl5bFM1VmVVakJ6WEljT3RBNHRBOUZ6a19hdFhyZ3J1VEJ0VGlnVTNnd1d5SFpLSU1GVnFKMFJKenBOUjJWZjA1LXlaclBqOHZXUkc1Nk42OUhFQ2Y5VnBLUjdwRFlXNjNfZElPQ2NGVWs3NC1ZVlpCZWxzbC1samN0ZlhadjI3V3RDdzZSdHZiQm1QYXBsY3pTU2g2WHVoZHg5X3NOcFQ5dmoycmZSRzhjMXBBQ0k2S2Z5MWxCQlJwT3lOaDl2TmdtbmN2dw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "8292a2714788c82710c0",
+      "title": "[LIVE*sTrEaMs] !+[*MATCHDAY*] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 04944 Live Broadcast Free ON Tv Channel",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPM2hPSWZQZ1pzUzRFYlpOU0FtdThaelFFSVNxVHc4bDZXYW00N2dIMVE4N29jaTdkby1XVTVOeE13Y1ZfWnNLREQyaXNraUl4WVpiWkY3eUtNYXhQU01aV0pGNy1uYS1wNlZZZlltN0pZRUt0VEtYalIxRjByNzRzaWRfMDE3eW81NHE4OUJKcXdzTFI1WnViT0FkSE9zTEVPTU1mLUhiam05XzY0SUNQU0RLNmxWWTZGcjctQkExODhCRHNEdTNOVjJ4Ymg0UlVxX012UmRqWVB0QmFtQWx3T0hHSGgzTGFaVk95eEo1YkEyYmNGR3VrYzkxNTVxV2Fjb1Z2QmNndHVPeVowcE5KS1VHUWc2SEIxb09yb01iUGVKdnZDZVRqa1pudzRqdHJwT2M2R0loZUVpSk4tYnRpdU5MWWtkc3czSjlhZHBUS1I?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "[LIVE*sTrEaMs] !+[*MATCHDAY*] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 04944 Live Broadcast Free ON Tv Channel Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:24+00:00",
+      "category": "Traffic",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚧 TRAFFIC — DFW\n\n[LIVE*sTrEaMs] !+[*MATCHDAY*] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 04944 Live Broadcast Free ON Tv Channel\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxPM2hPSWZQZ1pzUzRFYlpOU0FtdThaelFFSVNxVHc4bDZXYW00N2dIMVE4N29jaTdkby1XVTVOeE13Y1ZfWnNLREQyaXNraUl4WVpiWkY3eUtNYXhQU01aV0pGNy1uYS1wNlZZZlltN0pZRUt0VEtYalIxRjByNzRzaWRfMDE3eW81NHE4OUJKcXdzTFI1WnViT0FkSE9zTEVPTU1mLUhiam05XzY0SUNQU0RLNmxWWTZGcjctQkExODhCRHNEdTNOVjJ4Ymg0UlVxX012UmRqWVB0QmFtQWx3T0hHSGgzTGFaVk95eEo1YkEyYmNGR3VrYzkxNTVxV2Fjb1Z2QmNndHVPeVowcE5KS1VHUWc2SEIxb09yb01iUGVKdnZDZVRqa1pudzRqdHJwT2M2R0loZUVpSk4tYnRpdU5MWWtkc3czSjlhZHBUS1I?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "32d1f72356e194096f95",
+      "title": "(Live Tonight)! Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Free 11641",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRzVxWTFsMFRZZWY0b0MwRS1MdUwwMXhsNHFZSWRJeEtMU0FpRGdMdDZGSnowSjVQWnY1UVdhUlY3dXh6aXJiSThIWENodUloakJjOE9BX2g3bTJJbThwQjB3ejFhc0ZzOXowZE9aSV9fQnpaRFFQVHhpSWhVLTQwUmMzekFDYloweGM5THRqMVl6dVVwOXlMam5SYjE1ODR1TnRZcDhiV0RhS3BMZk14M2NVakJfUmZCYXRXQXcwbHQ1THNDN1pYcmJFTzVkUnhIVFAzYm5WLTg5eW1YUC1XOUN4cE9kWUdSRDhuN1BPODlvaFkyaDNKajVwdzNCYXNqRW02Qm9SRFRJQlluY3VBRi04N2RaY2s5Y0NVT0tuckVKc2lYZ2xtLWQyTXF6UkRQNlYzZmpLZmJlOEtSd3BWTUpxUWJ4WFR0bVFrNWJicS1vZw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "(Live Tonight)! Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Free 11641 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:22+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n(Live Tonight)! Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 Free 11641\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0gJBVV95cUxNRzVxWTFsMFRZZWY0b0MwRS1MdUwwMXhsNHFZSWRJeEtMU0FpRGdMdDZGSnowSjVQWnY1UVdhUlY3dXh6aXJiSThIWENodUloakJjOE9BX2g3bTJJbThwQjB3ejFhc0ZzOXowZE9aSV9fQnpaRFFQVHhpSWhVLTQwUmMzekFDYloweGM5THRqMVl6dVVwOXlMam5SYjE1ODR1TnRZcDhiV0RhS3BMZk14M2NVakJfUmZCYXRXQXcwbHQ1THNDN1pYcmJFTzVkUnhIVFAzYm5WLTg5eW1YUC1XOUN4cE9kWUdSRDhuN1BPODlvaFkyaDNKajVwdzNCYXNqRW02Qm9SRFRJQlluY3VBRi04N2RaY2s5Y0NVT0tuckVKc2lYZ2xtLWQyTXF6UkRQNlYzZmpLZmJlOEtSd3BWTUpxUWJ4WFR0bVFrNWJicS1vZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "580866baef4cee355f00",
+      "title": "~!!@[LIvE@sTREAMs] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 FREE 66595",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQOUM1M2RPcVJPUF9zZ1gzR05laWZCVkdmYzh6U1lPYUtTQ2JFcDNfdUNXM1ByaEdJUlFncDNGa3hQdnlsaUxWT0ZjbDRmbUxuOF81S1k0VlU1RWhJUzJIeTllN0VXcDcwM0JXLVVvYi1hZ1hCaFp1WmFvVDhudWRXZXhrYldycEVxMnNkOEctcWtab3JCalk5eTRlWVhxNk1pUmVLZV9MMWdrakpFb1dBSDlyWmxtdDF1X25weXA1eWpfaF9NSmJNdURLak41bmgxajVBQ0lKX0hJVVRQVVNYX3h5YTJsS3hEdmgyZGVKR0hacHhJS1lMMW5yRTgxNjc4UFVOaEtsa20tNl9XWTVQTFlka08xaVhoMlhMc3BIVy1mZUJ6WlotQXdhV200Y25oVUdpOEcxV3U1aGJ4Wlhla1VtV05WbXJUYU1iWnpCTDc?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "~!!@[LIvE@sTREAMs] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 FREE 66595 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:07:16+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n~!!@[LIvE@sTREAMs] Houston Dynamo FC vs FC Dallas 𝐋𝐈𝐕𝐄 FREE 66595\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxQOUM1M2RPcVJPUF9zZ1gzR05laWZCVkdmYzh6U1lPYUtTQ2JFcDNfdUNXM1ByaEdJUlFncDNGa3hQdnlsaUxWT0ZjbDRmbUxuOF81S1k0VlU1RWhJUzJIeTllN0VXcDcwM0JXLVVvYi1hZ1hCaFp1WmFvVDhudWRXZXhrYldycEVxMnNkOEctcWtab3JCalk5eTRlWVhxNk1pUmVLZV9MMWdrakpFb1dBSDlyWmxtdDF1X25weXA1eWpfaF9NSmJNdURLak41bmgxajVBQ0lKX0hJVVRQVVNYX3h5YTJsS3hEdmgyZGVKR0hacHhJS1lMMW5yRTgxNjc4UFVOaEtsa20tNl9XWTVQTFlka08xaVhoMlhMc3BIVy1mZUJ6WlotQXdhV200Y25oVUdpOEcxV3U1aGJ4Wlhla1VtV05WbXJUYU1iWnpCTDc?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "21126e64d29da96027df",
+      "title": "✧[HOCKEY LIVE NOW] Dallas Stars vs Chicago Blackhawks 𝐋𝐈𝐕𝐄",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOLVB1Rjdva29LclZHSXFIR3F0dktCd0l1N1VjdnJVVjlYZFZqUjJtY19rT3pJRVNPLUhCNzJjZDBzbjNLcExfbmphVTExNGRDSy1pU2k2RVdsSTJGSXJ1MU9RckVzY1pGZWl3TGlPNnFKRmpZTThBQXdod2lXT1RQNDJUVjhTMVpLTWphVFJURTBvLVJTUmFIYVZST3hHeEVYM292OUVJSWRlRk1MRXlDaFBQQWpvc1hPNXNiQVpmTmJmUHhiVzZEb0ZNX2ZvSUtRTDNSZFN3UGswLVhVZk5LR0dYM3ZNNEZhNWtkb20xckhXeExDUUJjSEIyVFVhYTNkRTdJcUdLWWtibS10M011bHo2Q1ZOOWVTRkFOcFJ1dE1qVFkzZ0RoeHdxUEc2aFNkRkdVcXMyWWpSVmVTcmw5Y2JndUlxNENKZnhuaTRrYmVHZGxJeVJZ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "✧[HOCKEY LIVE NOW] Dallas Stars vs Chicago Blackhawks 𝐋𝐈𝐕𝐄 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:03:26+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n✧[HOCKEY LIVE NOW] Dallas Stars vs Chicago Blackhawks 𝐋𝐈𝐕𝐄\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi1wJBVV95cUxOLVB1Rjdva29LclZHSXFIR3F0dktCd0l1N1VjdnJVVjlYZFZqUjJtY19rT3pJRVNPLUhCNzJjZDBzbjNLcExfbmphVTExNGRDSy1pU2k2RVdsSTJGSXJ1MU9RckVzY1pGZWl3TGlPNnFKRmpZTThBQXdod2lXT1RQNDJUVjhTMVpLTWphVFJURTBvLVJTUmFIYVZST3hHeEVYM292OUVJSWRlRk1MRXlDaFBQQWpvc1hPNXNiQVpmTmJmUHhiVzZEb0ZNX2ZvSUtRTDNSZFN3UGswLVhVZk5LR0dYM3ZNNEZhNWtkb20xckhXeExDUUJjSEIyVFVhYTNkRTdJcUdLWWtibS10M011bHo2Q1ZOOWVTRkFOcFJ1dE1qVFkzZ0RoeHdxUEc2aFNkRkdVcXMyWWpSVmVTcmw5Y2JndUlxNENKZnhuaTRrYmVHZGxJeVJZ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "2545c4013f2046faa70e",
+      "title": "🔥[LIVE NHL ACTION] Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUUU0QXNsN2E1ekY3WDUtZTYtRVJnQlg1ZF9xRDBWdE10a2hWdXlfWjlfY3JWRXRodWFFWDZPbnlnVm9uZGhyR1ItaUtjaGhCMlg2c1BCMVFYaFFQcFNZR2daUmpyOWdialg3QVV3TWFFV2QyNXFxSVhrcGlacTJXSnpRLWpLQmc2bXFYNm5LSnpRcy1VZGZlbHdTZ1NZVlFMdm9BcUJZUWZBS0liSkloQTh6REJ2NGF1d2pkcmppbWR3RWtsS2o0aXE5VV90Z2pUV184M0JIX1ZLajhyUWM4cExkRW4tMGoydkZsd09DN2RYOHJ2OVNVYW4zN0NKbGl1Zl9NVTZwWHZwNk9jT003ak1ZZ2VnZU43dkdUTGViQ01fTGVFZUM1X01CUTJ1dnViX0dSRXhaeU9uQnE3RGYtTTZSeVM5alVJOGVYYU9CSnBHdDZ2ejRN?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "🔥[LIVE NHL ACTION] Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T23:03:25+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n🔥[LIVE NHL ACTION] Chicago Blackhawks vs Dallas Stars 𝐋𝐈𝐕𝐄\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi1wJBVV95cUxOUUU0QXNsN2E1ekY3WDUtZTYtRVJnQlg1ZF9xRDBWdE10a2hWdXlfWjlfY3JWRXRodWFFWDZPbnlnVm9uZGhyR1ItaUtjaGhCMlg2c1BCMVFYaFFQcFNZR2daUmpyOWdialg3QVV3TWFFV2QyNXFxSVhrcGlacTJXSnpRLWpLQmc2bXFYNm5LSnpRcy1VZGZlbHdTZ1NZVlFMdm9BcUJZUWZBS0liSkloQTh6REJ2NGF1d2pkcmppbWR3RWtsS2o0aXE5VV90Z2pUV184M0JIX1ZLajhyUWM4cExkRW4tMGoydkZsd09DN2RYOHJ2OVNVYW4zN0NKbGl1Zl9NVTZwWHZwNk9jT003ak1ZZ2VnZU43dkdUTGViQ01fTGVFZUM1X01CUTJ1dnViX0dSRXhaeU9uQnE3RGYtTTZSeVM5alVJOGVYYU9CSnBHdDZ2ejRN?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ad4192ba48cd25e655b9",
+      "title": "【LIVESTREAMS】FREE] Dallas Stars vs Chicago Blackhawks Game Live Online ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQYUJ2Y0cxOE5YZ0N5TDlzV0QzYmMzSU4yUUxlTWdGSDBiSXdNcWF5VnpGaTBtVlRPQUlMakc4S0UzdDJqTmE3Qko2OG00X1o4bmRDaHZLU2NHTkpkMVc4V25IaTNkSTNVMW5tWFdRTmxEcWhvMGU1cmI1YllFVlU4cERGUEpDSVFSZFBWa04tS1RuQWpOSkFmclVkSVNUa1c1OFVvcFd4OG8zVmdsb05TWUVDRXFCcFU4Ylk0MW84NWV1WFJhM2lLX2NNUDJGVUJxcVRhY1BCclVHMXBoTjUzaVBGVHFUS2ZSelhmLTZBZ1pLcTZhNkNUVjhsa0Y1QmdhMlJ4TFhSbUFNakdMenlMbVVXTF8yYjd3MzBVMUU1SHZweGVtaEJWM3hIUXlHZThScmpuTGpSb0FOTURUa0RKUWw2cmFOd0Y5bDBSVEZUYnQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "【LIVESTREAMS】FREE] Dallas Stars vs Chicago Blackhawks Game Live Online ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:58:55+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n【LIVESTREAMS】FREE] Dallas Stars vs Chicago Blackhawks Game Live Online ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxQYUJ2Y0cxOE5YZ0N5TDlzV0QzYmMzSU4yUUxlTWdGSDBiSXdNcWF5VnpGaTBtVlRPQUlMakc4S0UzdDJqTmE3Qko2OG00X1o4bmRDaHZLU2NHTkpkMVc4V25IaTNkSTNVMW5tWFdRTmxEcWhvMGU1cmI1YllFVlU4cERGUEpDSVFSZFBWa04tS1RuQWpOSkFmclVkSVNUa1c1OFVvcFd4OG8zVmdsb05TWUVDRXFCcFU4Ylk0MW84NWV1WFJhM2lLX2NNUDJGVUJxcVRhY1BCclVHMXBoTjUzaVBGVHFUS2ZSelhmLTZBZ1pLcTZhNkNUVjhsa0Y1QmdhMlJ4TFhSbUFNakdMenlMbVVXTF8yYjd3MzBVMUU1SHZweGVtaEJWM3hIUXlHZThScmpuTGpSb0FOTURUa0RKUWw2cmFOd0Y5bDBSVEZUYnQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "61de0acf2ff2ed883471",
+      "title": "++🏒[LIVESTREAMS]TV!$! Chicago Blackhawks vs Dallas Stars news Live Online Free",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOeE1QRmpZTWhzd0RVMEtpWUxGSmwtdVhMX3Bjd3ZESkZrVUJqamhxVU8yUnFFZDVYc1lmWjMxcklGSjZDNHdLeDRpUzI1c19PWmhaWEo4WEhDM0N4akhhdDB4STNBZ1BCTWVrRG9GdU5wYmFxc0tfRDlfN1ZVRnZHRXc0UEdrdGV3Y3BhMWwyUE5rY1h0ZnFzWWpFQkVUSU4yVEIxNlAtV25CQnpIamJBQXItRjlYUnhnU05BT2JzOGZMR2JHTmU5WjFlRTRjZGlkV0FYX2cwQkpRZS1XdEk3Y3pxUGp6Q0dKeDFRYTZCUkRVMHVQVF9BbkJkY2VOTk5ra3lVdUdMcERqeXlZYVc2aUlhNTBXWEpadTZuREJYRmFwbVdyd3NNcG5yR2lISTN2MURhaERrYkdvSnRyX1lRaU1fRF96eTUxcEE?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "++🏒[LIVESTREAMS]TV!$! Chicago Blackhawks vs Dallas Stars news Live Online Free Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:58:55+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n++🏒[LIVESTREAMS]TV!$! Chicago Blackhawks vs Dallas Stars news Live Online Free\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiygJBVV95cUxOeE1QRmpZTWhzd0RVMEtpWUxGSmwtdVhMX3Bjd3ZESkZrVUJqamhxVU8yUnFFZDVYc1lmWjMxcklGSjZDNHdLeDRpUzI1c19PWmhaWEo4WEhDM0N4akhhdDB4STNBZ1BCTWVrRG9GdU5wYmFxc0tfRDlfN1ZVRnZHRXc0UEdrdGV3Y3BhMWwyUE5rY1h0ZnFzWWpFQkVUSU4yVEIxNlAtV25CQnpIamJBQXItRjlYUnhnU05BT2JzOGZMR2JHTmU5WjFlRTRjZGlkV0FYX2cwQkpRZS1XdEk3Y3pxUGp6Q0dKeDFRYTZCUkRVMHVQVF9BbkJkY2VOTk5ra3lVdUdMcERqeXlZYVc2aUlhNTBXWEpadTZuREJYRmFwbVdyd3NNcG5yR2lISTN2MURhaERrYkdvSnRyX1lRaU1fRF96eTUxcEE?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "4d91b0b5bcdd4add135f",
+      "title": "+!(𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃-TV) Dallas Stars NHL Game Live Stream Free redzone",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQamRlN2RjQzJNMzJ2LW00LVJQTWlnS1cxaXNRa2djRFI4ekpSRGFNWjZqcnphVUdjbG5lcTZIcVd0eWFBWnY5czBCQ1RoMEhIa2x1MEZ0QzNaUFBTbHhmVE8yMUhKbTMwNVdmWUxKY180ei1OZWR4eE9ZSzFXeml1azhyaGw0U2tMVHVDYWg1YVA2Yzhld2dBV0FjX0JLVGdPOVp5eDJaSDQtN1gwTmtaa181WEZ4UVR0WUNUcXJFWk5lTWp1NlhueDgxYmV3RmRkdkc5Vk1FdlJqMzRDbXFodWpWb2otT1l1VlVBQVFoZVVGVDlROHRiYVM4cjBuLS02ZUdzemIxcHdOYXN1dEpQektyVWpxcFh6QWZ0SDIxOUVnNHNHSW83UjlYTU43TmFONVBlV2xTdXh6UFV4V25EZVVSTUFUY1poWnhV?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "+!(𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃-TV) Dallas Stars NHL Game Live Stream Free redzone Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:58:55+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n+!(𝕆𝔽𝔽𝕀ℂ𝕀𝔸𝕃-TV) Dallas Stars NHL Game Live Stream Free redzone\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiywJBVV95cUxQamRlN2RjQzJNMzJ2LW00LVJQTWlnS1cxaXNRa2djRFI4ekpSRGFNWjZqcnphVUdjbG5lcTZIcVd0eWFBWnY5czBCQ1RoMEhIa2x1MEZ0QzNaUFBTbHhmVE8yMUhKbTMwNVdmWUxKY180ei1OZWR4eE9ZSzFXeml1azhyaGw0U2tMVHVDYWg1YVA2Yzhld2dBV0FjX0JLVGdPOVp5eDJaSDQtN1gwTmtaa181WEZ4UVR0WUNUcXJFWk5lTWp1NlhueDgxYmV3RmRkdkc5Vk1FdlJqMzRDbXFodWpWb2otT1l1VlVBQVFoZVVGVDlROHRiYVM4cjBuLS02ZUdzemIxcHdOYXN1dEpQektyVWpxcFh6QWZ0SDIxOUVnNHNHSW83UjlYTU43TmFONVBlV2xTdXh6UFV4V25EZVVSTUFUY1poWnhV?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "0c1250a9b9e02460afa0",
+      "title": "Dallas Mavericks guarantee Cooper Flagg's contract through 2027-28 season",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk8yRVpCdVBpSHlLczliV0ZBYW9hM3lvZUx3c2RQUjZ6STY2MWZsUElzUnBHdkFjMmdJSzZWYjBudkt4X0YwNVZNM3J4RWluc2NUOVE2MXAtRVE0cU9HbV80X1V2YUIyQV9IOVd0TzdLM1UwdVFtMnJhTFBJdzhlSjlJZ285aTNnN3NweHNKREJhRnNxSGNRQ3pZYzNNR1dKM2tJSU1Qbw?oc=5",
+      "source": "Dallas News",
+      "summary": "Dallas Mavericks guarantee Cooper Flagg's contract through 2027-28 season Dallas News",
+      "published_at": "2026-10-17T22:57:41+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks guarantee Cooper Flagg's contract through 2027-28 season\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMipwFBVV95cUxNZk8yRVpCdVBpSHlLczliV0ZBYW9hM3lvZUx3c2RQUjZ6STY2MWZsUElzUnBHdkFjMmdJSzZWYjBudkt4X0YwNVZNM3J4RWluc2NUOVE2MXAtRVE0cU9HbV80X1V2YUIyQV9IOVd0TzdLM1UwdVFtMnJhTFBJdzhlSjlJZ285aTNnN3NweHNKREJhRnNxSGNRQ3pZYzNNR1dKM2tJSU1Qbw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b35dcdd82bf38c9b89ce",
+      "title": "Hundreds at Dallas No Kings rally urged to carry concerns to ballot box",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KOEoybWxfS3pjZGdVbGF5WlNrOUdyaExaV1lyN2tUXzNZTDRvdjhFQnFCYUdrWXgyNFN3TEN6VkRSQjJqY3VYcEg1NkU1RDBRN3JTZnNxMkJtZmF6QzlCMy1rM1BiZ3JVeVlVZWlwU0Q3OUl5RFhF?oc=5",
+      "source": "Dallas News",
+      "summary": "Hundreds at Dallas No Kings rally urged to carry concerns to ballot box Dallas News",
+      "published_at": "2026-10-17T22:56:53+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nHundreds at Dallas No Kings rally urged to carry concerns to ballot box\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMid0FVX3lxTE5KOEoybWxfS3pjZGdVbGF5WlNrOUdyaExaV1lyN2tUXzNZTDRvdjhFQnFCYUdrWXgyNFN3TEN6VkRSQjJqY3VYcEg1NkU1RDBRN3JTZnNxMkJtZmF6QzlCMy1rM1BiZ3JVeVlVZWlwU0Q3OUl5RFhF?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b497fefb56c32d1ce7ef",
+      "title": "(LIVE) Dallas Stars vs Chicago Blackhawks LIVE STREAM FREE 17 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQWthZjZ4dl9GWnBMT3FBa2hPMTJ0RWFWUmd3c011QjFMa3pFUzhvaC1ZdXB5V3hvNWpVc2FTQXpUSHFELUlNbGFvQ00yTWx1cUVyeXNNeVY1SmtlX05hZ0N3RE9NVF9qUXAzNW94YWlaYlFGMk9kRXZudkxzR3ZwaHp0dWlRaUprbXRRcXhYZl8tTUo0V1N0dXdlVWx6c081RUF5YjhreGNUUEh1UkE5Z2R6djJLNUtRcE42OUU5d295cUVUMzNINDdMbThqdmJyVzlDSGJfVzRoQzJ6eFNscVM3eVZvS2tfTjVqYk5nemNkQVNmbUxSbzFtZUNhM0trLXYwSkNNbDBuc29Dc2VhYkpUbEZLOFNhMW91a2R6ajdGUXZ2OXFtNVhKOU9wUTAwcmFpN0dRODRNR09BNGZYV25rZw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "(LIVE) Dallas Stars vs Chicago Blackhawks LIVE STREAM FREE 17 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:53:42+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n(LIVE) Dallas Stars vs Chicago Blackhawks LIVE STREAM FREE 17 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwwJBVV95cUxPQWthZjZ4dl9GWnBMT3FBa2hPMTJ0RWFWUmd3c011QjFMa3pFUzhvaC1ZdXB5V3hvNWpVc2FTQXpUSHFELUlNbGFvQ00yTWx1cUVyeXNNeVY1SmtlX05hZ0N3RE9NVF9qUXAzNW94YWlaYlFGMk9kRXZudkxzR3ZwaHp0dWlRaUprbXRRcXhYZl8tTUo0V1N0dXdlVWx6c081RUF5YjhreGNUUEh1UkE5Z2R6djJLNUtRcE42OUU5d295cUVUMzNINDdMbThqdmJyVzlDSGJfVzRoQzJ6eFNscVM3eVZvS2tfTjVqYk5nemNkQVNmbUxSbzFtZUNhM0trLXYwSkNNbDBuc29Dc2VhYkpUbEZLOFNhMW91a2R6ajdGUXZ2OXFtNVhKOU9wUTAwcmFpN0dRODRNR09BNGZYV25rZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ce8aed524572703365cb",
+      "title": "(LIVE) Chicago Blackhawks vs Dallas Stars LIVE STREAM FREE 17 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNS2FibHg0eVNzQVk5ZDB0OC1ZSnNybXZlWUtvQTdQVDlXVVNyeE5ua1dfN2Jzc3FlYm1sdGZoemZSNWhEeklxcXNvLTgzenFjSUFOdDlPTkx5RjJ2MF90MDJaQkUzNm9zUW8xWkJzUEFQX2RldEJLOUI0c3RBZHVUV2JIdkZYUzF6RE1heDU3QzVEU1Y0WWY5THFLZ2p1dWRINThJSThjM3dTamlGRnlWbVdoWmt1VG1NOEthRjk3TWREbEpfX25xMVBFVHRENkx2aUJHSXJGdjJKV2xEblVEb1l6RFJRdzM3WG1ZdU1iM0FlTEE0MUtrTEI4Sm11Tmx3bExqUFMzSmozel9zYVBRUHhBTGZ5eml3NENUTXRLNmFyZFhIdFZYSmI1X05haHItYW53b2JINEhZa2JsQVhfUDFR?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "(LIVE) Chicago Blackhawks vs Dallas Stars LIVE STREAM FREE 17 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:53:42+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n(LIVE) Chicago Blackhawks vs Dallas Stars LIVE STREAM FREE 17 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxNS2FibHg0eVNzQVk5ZDB0OC1ZSnNybXZlWUtvQTdQVDlXVVNyeE5ua1dfN2Jzc3FlYm1sdGZoemZSNWhEeklxcXNvLTgzenFjSUFOdDlPTkx5RjJ2MF90MDJaQkUzNm9zUW8xWkJzUEFQX2RldEJLOUI0c3RBZHVUV2JIdkZYUzF6RE1heDU3QzVEU1Y0WWY5THFLZ2p1dWRINThJSThjM3dTamlGRnlWbVdoWmt1VG1NOEthRjk3TWREbEpfX25xMVBFVHRENkx2aUJHSXJGdjJKV2xEblVEb1l6RFJRdzM3WG1ZdU1iM0FlTEE0MUtrTEI4Sm11Tmx3bExqUFMzSmozel9zYVBRUHhBTGZ5eml3NENUTXRLNmFyZFhIdFZYSmI1X05haHItYW53b2JINEhZa2JsQVhfUDFR?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "7034560e31229238b341",
+      "title": "HERE’S!* WAY TO WATCH Chicago Blackhawks vs Dallas Stars LIVE STREAMS NHL Ice Hockey ON TV CHANNEL",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORUFzem9WNXJVRUQxek82bkVMNmhFRFc5NmF0eGQxZ2NINVpqWExEME1XQXVHR0lsdG1CWmZHei01LXJRX0pINmhaSExfMzRwSTVJR1F6aFFJc2JGQTl4RENzQ3VhalJ0d1lRd3dsUG1rNmxMNjdCa295NTZKWTA4UG5NVHZYTzNMVVJ0M2JXWUJ6dWFxNkUwWGZsQ3BOcXNvbmFMTEZOck5RYWJ2S2dTV29fbEUzNUpPVnI0c3Z2THFIOE5Oak5xWXhXRnZiVWpDNWw3TGVkNzlzYjBhNW5wcG1UamNIaEhYNXdjbU5OWkxrdlJvUDIwLXNJMWZJdExmekRlN3VsVnRLclNkSzFCQldCSkMyd3FGWW1PbXI0ZDEzeVNFcmVUVzFLbkVRUW5ZVkVMODhYN3NBR0NQNnFSQjNn?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "HERE’S!* WAY TO WATCH Chicago Blackhawks vs Dallas Stars LIVE STREAMS NHL Ice Hockey ON TV CHANNEL Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:53:42+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\nHERE’S!* WAY TO WATCH Chicago Blackhawks vs Dallas Stars LIVE STREAMS NHL Ice Hockey ON TV CHANNEL\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxORUFzem9WNXJVRUQxek82bkVMNmhFRFc5NmF0eGQxZ2NINVpqWExEME1XQXVHR0lsdG1CWmZHei01LXJRX0pINmhaSExfMzRwSTVJR1F6aFFJc2JGQTl4RENzQ3VhalJ0d1lRd3dsUG1rNmxMNjdCa295NTZKWTA4UG5NVHZYTzNMVVJ0M2JXWUJ6dWFxNkUwWGZsQ3BOcXNvbmFMTEZOck5RYWJ2S2dTV29fbEUzNUpPVnI0c3Z2THFIOE5Oak5xWXhXRnZiVWpDNWw3TGVkNzlzYjBhNW5wcG1UamNIaEhYNXdjbU5OWkxrdlJvUDIwLXNJMWZJdExmekRlN3VsVnRLclNkSzFCQldCSkMyd3FGWW1PbXI0ZDEzeVNFcmVUVzFLbkVRUW5ZVkVMODhYN3NBR0NQNnFSQjNn?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "1acbd800908750721174",
+      "title": "HERE’S!* WAY TO WATCH Dallas Stars vs Chicago Blackhawks LIVE STREAMS NHL Ice Hockey ON TV CHANNEL",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPYldSazZvQ0htTEJWYV9jcHNoR2Q4aXJKSXE3M201Q3V1eDFKRkE3elVWR1ZWOUxKc1RhMHRWcmY1d3c5WkRiYTR6SEFvMnZwOTlHTVRLc0VGbkFiR1JlYzBIZHFvTGJYTzlGb08yUmNIV2Q2OEhUY21nRkRlLUVia1NjU3YtOTc0amlnY3puWXJfd3BDMnM3ejB6REM4WGNpZUp1aE9lMnczMHltdmVmOTJnMzhXc2o1SUpIclgzS0RWLXViM1NsSl9mcGMtaG5IZ1IwdFNRUVphdE1PdFo3QVpvY0NzUTA5d1RtbDI0LThFaHVVWW04WGZmLWI0TUo3d0ltQzRLblE1UXlKdmpoRmp2RHdhUWZwS0I0a0JCWlF0NkxrUWFrX0NuMGdrMVRjdzl1LTZvMGJyZWRka0x3bUVR?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "HERE’S!* WAY TO WATCH Dallas Stars vs Chicago Blackhawks LIVE STREAMS NHL Ice Hockey ON TV CHANNEL Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:53:42+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\nHERE’S!* WAY TO WATCH Dallas Stars vs Chicago Blackhawks LIVE STREAMS NHL Ice Hockey ON TV CHANNEL\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxPYldSazZvQ0htTEJWYV9jcHNoR2Q4aXJKSXE3M201Q3V1eDFKRkE3elVWR1ZWOUxKc1RhMHRWcmY1d3c5WkRiYTR6SEFvMnZwOTlHTVRLc0VGbkFiR1JlYzBIZHFvTGJYTzlGb08yUmNIV2Q2OEhUY21nRkRlLUVia1NjU3YtOTc0amlnY3puWXJfd3BDMnM3ejB6REM4WGNpZUp1aE9lMnczMHltdmVmOTJnMzhXc2o1SUpIclgzS0RWLXViM1NsSl9mcGMtaG5IZ1IwdFNRUVphdE1PdFo3QVpvY0NzUTA5d1RtbDI0LThFaHVVWW04WGZmLWI0TUo3d0ltQzRLblE1UXlKdmpoRmp2RHdhUWZwS0I0a0JCWlF0NkxrUWFrX0NuMGdrMVRjdzl1LTZvMGJyZWRka0x3bUVR?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "2bdb5dcc51ae9c05fafd",
+      "title": "(LIVESTREAMs!)Chicago Blackhawks vs Dallas Stars Live free NHL Ice Hockey October, 17, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX0JtQWNvX3paZXNXTjMwNTJvUzBFT1M5dGZHcUpONXBfWEdYN3loMlJVcjBSb0lHYXFpcGgyRUQzUm9oeVFSblZQajh0eDZFcms3SnJMaHhkSkxld28yWXpDS2NmRGE4VHQ2bmVTb1huN0FYckgwT25tZ3VTMmp6WjBjOEpvRFhXdEYzQXhBbURiLXk4UHBLdDN1bzdiSWcyOGdBblE3UDdJYXo3UGZhdE5FRVBjVFFIR0FfMXExY042NVRoLVVwQ1FkamhVTU82a1NRb2tSb2xLNDNaWHVpb3RoZnh1WWRpTVkyUUFyNWg0bzlZUEhmS0ljdy1MS2NES0ZQZGlJWVdNVURPM1ZGNldMWmhKUlZQM3EyMnp0aTJMRk54amdUOTduSVY2bWdBWk04UURSaFF5WFF4cG83algxYw?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "(LIVESTREAMs!)Chicago Blackhawks vs Dallas Stars Live free NHL Ice Hockey October, 17, 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:53:42+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n(LIVESTREAMs!)Chicago Blackhawks vs Dallas Stars Live free NHL Ice Hockey October, 17, 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwwJBVV95cUxNX0JtQWNvX3paZXNXTjMwNTJvUzBFT1M5dGZHcUpONXBfWEdYN3loMlJVcjBSb0lHYXFpcGgyRUQzUm9oeVFSblZQajh0eDZFcms3SnJMaHhkSkxld28yWXpDS2NmRGE4VHQ2bmVTb1huN0FYckgwT25tZ3VTMmp6WjBjOEpvRFhXdEYzQXhBbURiLXk4UHBLdDN1bzdiSWcyOGdBblE3UDdJYXo3UGZhdE5FRVBjVFFIR0FfMXExY042NVRoLVVwQ1FkamhVTU82a1NRb2tSb2xLNDNaWHVpb3RoZnh1WWRpTVkyUUFyNWg0bzlZUEhmS0ljdy1MS2NES0ZQZGlJWVdNVURPM1ZGNldMWmhKUlZQM3EyMnp0aTJMRk54amdUOTduSVY2bWdBWk04UURSaFF5WFF4cG83algxYw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "a265d1594feff25a8cd9",
+      "title": "【LIVESTREAMS】FREE]Dallas Stars vs Chicago Blackhawks Live Free NHL Ice Hockey October 17, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPNVN5MnBwWHhRV3ZVNUxSU2tvMFJrVS1TRXF1OElyTXd2aEZiLWoxeDg0TU5wRGwyQ0tMNjlDQV9pS3ZrOGw3SjlRbXlmNExsNy1kRUNkOWk1bHBGYi1aZVVOblY0cjRRYkwzbkdFVHFnM2NRbTNXSVpTQXd5UC1kOU0wa2tKMTVtYks5S3BaeEJnZ2R6TkZkQ2JHVmFtSmhqSS1BRzdUU1hQQVNjQjJOYUhUNGxHNnRGT21pNHhVbHNUT2RBZWhwcDBsd084N0lENHpyQkc5Y3pZWGNBSXJIMThLVXhIY0hLMHpXLUhGTkYta2E3UzdSQlNXVzlkdFdxMURxMUVrVjcyNnRSV1M0dTZaOGRnbXhoYTVaZWsza2JNYVBNSXZzSHYtemlJcTVnU3R0UzlabXdpbVduY05QMGIxNHhyc0dG?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "【LIVESTREAMS】FREE]Dallas Stars vs Chicago Blackhawks Live Free NHL Ice Hockey October 17, 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:51:13+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n【LIVESTREAMS】FREE]Dallas Stars vs Chicago Blackhawks Live Free NHL Ice Hockey October 17, 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiyAJBVV95cUxPNVN5MnBwWHhRV3ZVNUxSU2tvMFJrVS1TRXF1OElyTXd2aEZiLWoxeDg0TU5wRGwyQ0tMNjlDQV9pS3ZrOGw3SjlRbXlmNExsNy1kRUNkOWk1bHBGYi1aZVVOblY0cjRRYkwzbkdFVHFnM2NRbTNXSVpTQXd5UC1kOU0wa2tKMTVtYks5S3BaeEJnZ2R6TkZkQ2JHVmFtSmhqSS1BRzdUU1hQQVNjQjJOYUhUNGxHNnRGT21pNHhVbHNUT2RBZWhwcDBsd084N0lENHpyQkc5Y3pZWGNBSXJIMThLVXhIY0hLMHpXLUhGTkYta2E3UzdSQlNXVzlkdFdxMURxMUVrVjcyNnRSV1M0dTZaOGRnbXhoYTVaZWsza2JNYVBNSXZzSHYtemlJcTVnU3R0UzlabXdpbVduY05QMGIxNHhyc0dG?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "afc92c57b54f79733893",
+      "title": "LIVE/FREE:Chicago Blackhawks V Dallas Stars LIVE STREA.Ms ON 17th. October. 2026",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPYThwMHE2NzJVZDY5bW1adFNGMTRNeUs2SmpxejZ6SC1OS3hDdHJaVVBaaUlIUmRkSjBpOFRTMHlxNnFXdWIwY1BkOVVoLUxDSlZmMFdGUmM0bER4MmVuX2R3cGVhTF91OXFneDVRZllNd3FVUWJDYTd0Yks5bTF5Nl9fT3hkdXhRM1ZhUzl3UmctekJUbXZKVHl6YlVVN2NFN2FMUTFCdXc2TDdiODZMd2d2dzVQckF5dGFUeFdtcWJSemlBSVZ3Q1ZQLTdGa2s5ZHExVnlHTFdGSXJWS1NwY0Zlc1cwRmxFTDdqbG5lbmt1aHZUQlBGa0ZhNjYtNVZvT0FJUXBPTjR6MXhfNXdNRlhBdGIxdHBSeHRUZW93Rzg1WVkxN2FxcGY3ZnBVeURzMDE4QndxWUtid2tPc3JBakk4NE9IeFE?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "LIVE/FREE:Chicago Blackhawks V Dallas Stars LIVE STREA.Ms ON 17th. October. 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:51:10+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nLIVE/FREE:Chicago Blackhawks V Dallas Stars LIVE STREA.Ms ON 17th. October. 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMixwJBVV95cUxPYThwMHE2NzJVZDY5bW1adFNGMTRNeUs2SmpxejZ6SC1OS3hDdHJaVVBaaUlIUmRkSjBpOFRTMHlxNnFXdWIwY1BkOVVoLUxDSlZmMFdGUmM0bER4MmVuX2R3cGVhTF91OXFneDVRZllNd3FVUWJDYTd0Yks5bTF5Nl9fT3hkdXhRM1ZhUzl3UmctekJUbXZKVHl6YlVVN2NFN2FMUTFCdXc2TDdiODZMd2d2dzVQckF5dGFUeFdtcWJSemlBSVZ3Q1ZQLTdGa2s5ZHExVnlHTFdGSXJWS1NwY0Zlc1cwRmxFTDdqbG5lbmt1aHZUQlBGa0ZhNjYtNVZvT0FJUXBPTjR6MXhfNXdNRlhBdGIxdHBSeHRUZW93Rzg1WVkxN2FxcGY3ZnBVeURzMDE4QndxWUtid2tPc3JBakk4NE9IeFE?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "487be2e1a9b334bc14cf",
+      "title": "LIVE/FREE:Dallas Stars V Chicago Blackhawks LIVE STREA.Ms 17. 10. 2026",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQd1duWTE2eExMTW1qTXM5QlBpemkxS0NLaHZaczQ3a3g0NXUtYTVTSnUxN0haNHBBaUt0dkN6NTVaQlBNMVFCdFdVVENiVWtQVG1BOUZScHJUYnIwRHZPQnZrNS1aZG1RaXpveV9qME5obkxQU2s3cTdSWndtS0ZBOVZ5b2NGdEJHMEVIVUdqVDlrY0NCRGlRZnJXZGRKUlozcDBVdjQ5QlNpN3FDME55QUhRNHd3S0Q4Vmh3Q08xYlB4MGFYSmZoRENKYVVmMnpzaEZtZF9pTDVzMjVBcHFTSDFtSWJ4eWMyTGZ4V0oyMUtRMFRVUWppVUY0b3VCTEJkNlZ3ZlpHclYyYlpCcEUyTDh2dERxM2xoZU1ndVNPcFhPX0V5ZDZRcTBTZGtxNHpsM2RMQWVaa050TmVIZWR5OHhIU2hra28?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "LIVE/FREE:Dallas Stars V Chicago Blackhawks LIVE STREA.Ms 17. 10. 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:51:09+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nLIVE/FREE:Dallas Stars V Chicago Blackhawks LIVE STREA.Ms 17. 10. 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMixwJBVV95cUxQd1duWTE2eExMTW1qTXM5QlBpemkxS0NLaHZaczQ3a3g0NXUtYTVTSnUxN0haNHBBaUt0dkN6NTVaQlBNMVFCdFdVVENiVWtQVG1BOUZScHJUYnIwRHZPQnZrNS1aZG1RaXpveV9qME5obkxQU2s3cTdSWndtS0ZBOVZ5b2NGdEJHMEVIVUdqVDlrY0NCRGlRZnJXZGRKUlozcDBVdjQ5QlNpN3FDME55QUhRNHd3S0Q4Vmh3Q08xYlB4MGFYSmZoRENKYVVmMnpzaEZtZF9pTDVzMjVBcHFTSDFtSWJ4eWMyTGZ4V0oyMUtRMFRVUWppVUY0b3VCTEJkNlZ3ZlpHclYyYlpCcEUyTDh2dERxM2xoZU1ndVNPcFhPX0V5ZDZRcTBTZGtxNHpsM2RMQWVaa050TmVIZWR5OHhIU2hra28?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "a69be909ee32c91219fd",
+      "title": "LIVE/FREE:Chicago Blackhawks V Dallas Stars LIVE STREA.Ms 17. 10. 2026",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQRXhXcUlYQjRYaFNYQUt1M3FyRGxLRVB1YWN2enJfWXFoaUxtSHpzYmtzYlk0UkpMblNMTXhldWFZVU55SVVGei1QcTFmNkJ5Y1R4ME1ldWlzMjhsT2VvZWJWWVhTMzhmbnR1VXRka3VycU5FR3dFRmpEMzR4R3c1bzBiMkJDbGRSb2J5S29qWDdaQ3BNbjJIemdDa3V0TGFfbFkwZTlEdE5tRWVhVlF6Ry1ZWFFJcEs0Q1JKSkpXbWFoeDRiVEZma2ljTy1INExSRHRtWVdoNF9mTEJqc2EtR2xQUndmZXJJTzRVd3FROVpKZGRqanV2amNpbzJKLVMtcXE4Q21aaXhKUGdCVGVVeEhrdUM1VmZNZlk3NnpJdVYyMUVKUVYtT21DMXV5X0xXaDdTdEpKdWhIVTkwd3ltTlNvaDk5U1U?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "LIVE/FREE:Chicago Blackhawks V Dallas Stars LIVE STREA.Ms 17. 10. 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:51:08+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nLIVE/FREE:Chicago Blackhawks V Dallas Stars LIVE STREA.Ms 17. 10. 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMixwJBVV95cUxQRXhXcUlYQjRYaFNYQUt1M3FyRGxLRVB1YWN2enJfWXFoaUxtSHpzYmtzYlk0UkpMblNMTXhldWFZVU55SVVGei1QcTFmNkJ5Y1R4ME1ldWlzMjhsT2VvZWJWWVhTMzhmbnR1VXRka3VycU5FR3dFRmpEMzR4R3c1bzBiMkJDbGRSb2J5S29qWDdaQ3BNbjJIemdDa3V0TGFfbFkwZTlEdE5tRWVhVlF6Ry1ZWFFJcEs0Q1JKSkpXbWFoeDRiVEZma2ljTy1INExSRHRtWVdoNF9mTEJqc2EtR2xQUndmZXJJTzRVd3FROVpKZGRqanV2amNpbzJKLVMtcXE4Q21aaXhKUGdCVGVVeEhrdUM1VmZNZlk3NnpJdVYyMUVKUVYtT21DMXV5X0xXaDdTdEpKdWhIVTkwd3ltTlNvaDk5U1U?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "f29bfad38e846ba33bc6",
+      "title": "++[LIVESTREAMS]TV!!Chicago Blackhawks vs Dallas Stars Live Streaming NHL Ice Hockey Free Online 2026",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTEpTTTJ1WDVrNjBWUVBMZVFrVnFubEZONlpST3JNZk43M2lIS0pmZ3RSR2JKWC1YczV2OFNzTG5EU2ZBY09MNHRQRzF5MUl2QkpuWWVVc1o2ME5NQTVFYmxhMUxtdTZ4UWplS1hWbmdScG5SbUsxOHdXbWQ3MXhFRDlfWGVZQ3BtR0FOM3QzS2ZLODZRYzA4emRxUGhfYjFPbGlRVi01Z2VFejBlZnFYZjhNS0w2eFpwSDFBUnJMeU8yMjVMSGc3dXpsc1ByVTNxU2lLd1ZKUmVzV3VlbDJRWTVXYllzbHFWZ0p5Ynh1OGQxSjhQdlBORk9tRkpiN3FSQ0VsVEpjelZfUk9RVk9NeUt3LVNvMVhNMXFRaGRCdElPdFNmRzJYa0pKcDRLWWU0UnRwMGpuRl9rcG5neEx1ZVpHZVN4WGs?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "++[LIVESTREAMS]TV!!Chicago Blackhawks vs Dallas Stars Live Streaming NHL Ice Hockey Free Online 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T22:51:04+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n++[LIVESTREAMS]TV!!Chicago Blackhawks vs Dallas Stars Live Streaming NHL Ice Hockey Free Online 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMixwJBVV95cUxNTEpTTTJ1WDVrNjBWUVBMZVFrVnFubEZONlpST3JNZk43M2lIS0pmZ3RSR2JKWC1YczV2OFNzTG5EU2ZBY09MNHRQRzF5MUl2QkpuWWVVc1o2ME5NQTVFYmxhMUxtdTZ4UWplS1hWbmdScG5SbUsxOHdXbWQ3MXhFRDlfWGVZQ3BtR0FOM3QzS2ZLODZRYzA4emRxUGhfYjFPbGlRVi01Z2VFejBlZnFYZjhNS0w2eFpwSDFBUnJMeU8yMjVMSGc3dXpsc1ByVTNxU2lLd1ZKUmVzV3VlbDJRWTVXYllzbHFWZ0p5Ynh1OGQxSjhQdlBORk9tRkpiN3FSQ0VsVEpjelZfUk9RVk9NeUt3LVNvMVhNMXFRaGRCdElPdFNmRzJYa0pKcDRLWWU0UnRwMGpuRl9rcG5neEx1ZVpHZVN4WGs?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "281bb2551a1517de08c7",
+      "title": "NBC 5 Forecast: Cool mornings and pleasant afternoons for North Texas",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDFBa0VkdGduQm1ibHhxdWh0U0xCVkRGXzAyWXZtQ0JJYm5YWk1QU2FBSU5iQlh3U1J1ZkJaOEdKQm82SktxZ3p4cENBYVBIaTVYcHZNLTExZ3lnRFNBc0xsSEtTODIzY2dUSWlLVkMtUXZHYXdKRllqZ29OTVFLdU00QWlnakYxM3JCY3pRUHN4VXlzNjByaWFCQU1BODBxSTluNllmcUU1d29rQkJiSjhBVHpzMUFYZUZaNjRlbjByZ1phdDBueWgwcWlzd9IB1gFBVV95cUxObUxRNWxYdGJHN1dFMkFWQUdBTVI5WFQyV0xOczNUMWZFV1Q5NHBRUlNySDYyTmNDNXc4OUZhcjVJVkJ6OE45cGR1RlRGOV9GZGV1Zmg1ZTJxbFA1andnek5jTVhFMU5tUG5GUEpLNkJsamNFdmlFUXZybS1FcUJQY3FWcXJTTEo3Y3FpNWVtZ3dYRzJKcTNzdmxyaFlITHJMdWMwdDJyYS1Va3F2cmduLWZJdjdNVFVGMmpCakc1amJNRjV4Q2VmU1Utdmt5bm5LVHJMSzZR?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "NBC 5 Forecast: Cool mornings and pleasant afternoons for North Texas NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-10-17T22:32:56+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nNBC 5 Forecast: Cool mornings and pleasant afternoons for North Texas\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMizgFBVV95cUxOaDFBa0VkdGduQm1ibHhxdWh0U0xCVkRGXzAyWXZtQ0JJYm5YWk1QU2FBSU5iQlh3U1J1ZkJaOEdKQm82SktxZ3p4cENBYVBIaTVYcHZNLTExZ3lnRFNBc0xsSEtTODIzY2dUSWlLVkMtUXZHYXdKRllqZ29OTVFLdU00QWlnakYxM3JCY3pRUHN4VXlzNjByaWFCQU1BODBxSTluNllmcUU1d29rQkJiSjhBVHpzMUFYZUZaNjRlbjByZ1phdDBueWgwcWlzd9IB1gFBVV95cUxObUxRNWxYdGJHN1dFMkFWQUdBTVI5WFQyV0xOczNUMWZFV1Q5NHBRUlNySDYyTmNDNXc4OUZhcjVJVkJ6OE45cGR1RlRGOV9GZGV1Zmg1ZTJxbFA1andnek5jTVhFMU5tUG5GUEpLNkJsamNFdmlFUXZybS1FcUJQY3FWcXJTTEo3Y3FpNWVtZ3dYRzJKcTNzdmxyaFlITHJMdWMwdDJyYS1Va3F2cmduLWZJdjdNVFVGMmpCakc1amJNRjV4Q2VmU1Utdmt5bm5LVHJMSzZR?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "de8984cc62dd43df6aba",
+      "title": "Ex-Dallas police officer convicted of murdering Botham Jean released on parole",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQkh2VElqNVZDeWF6QmlfOHdoN3hobENSb0xOVEZmckxLdlZIUk05MjBkUTUxcTRhX1BVU0UxclNvdzRjdHFOTEdEc1pHdDhpdGk2ZkpkWXJpdHNydnYxcEJ2ZGxoclk1dGg1Y09VYk1rTGljaDNwbjZ5dVMtcWZkT0VhcFhYcnVjWWJfUmd3cnZjcTI0bWozUU1xUXpnQ3ZsUlI3VkdHel92aF82Skh2ZS0yWDdUZncyTU5xTkNEN2h6c2dwSGY2QmhCR3VFVnY0Z3dGYnotVS1Mb3VKWjZOUHlvSjBCdFc1Y2M2dkc3a3gyRkVxLXM4S0F3?oc=5",
+      "source": "WHAS11",
+      "summary": "Ex-Dallas police officer convicted of murdering Botham Jean released on parole WHAS11",
+      "published_at": "2026-10-17T22:14:00+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nEx-Dallas police officer convicted of murdering Botham Jean released on parole\n\nSource: WHAS11\nRead more: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQkh2VElqNVZDeWF6QmlfOHdoN3hobENSb0xOVEZmckxLdlZIUk05MjBkUTUxcTRhX1BVU0UxclNvdzRjdHFOTEdEc1pHdDhpdGk2ZkpkWXJpdHNydnYxcEJ2ZGxoclk1dGg1Y09VYk1rTGljaDNwbjZ5dVMtcWZkT0VhcFhYcnVjWWJfUmd3cnZjcTI0bWozUU1xUXpnQ3ZsUlI3VkdHel92aF82Skh2ZS0yWDdUZncyTU5xTkNEN2h6c2dwSGY2QmhCR3VFVnY0Z3dGYnotVS1Mb3VKWjZOUHlvSjBCdFc1Y2M2dkc3a3gyRkVxLXM4S0F3?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "8a33ad4a0f135feda6d0",
+      "title": "Dallas Mavericks Open Roster Spot By Waiving Sharpshooter",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbm9KWVJ4eEU4OEpNcXlUSF9jTG96T2ZUbzZwMGVIYWN0Yk81Mi1QZW1LbjNubjFxa01neTRyanY2em1QRjVGdkpGR194WWxsOTlKNDVpUHFPSTliRlFZM3M3dHBmODNhWjgtX3Z4dUZGTTQzTHV5bHc3NWp4STdhaE1pandCdy1zb3RZbGtndmw2UXppZXNwTXNXZVdBTkxsaXRrY2w2V0pibVNNUFE?oc=5",
+      "source": "Sports Illustrated",
+      "summary": "Dallas Mavericks Open Roster Spot By Waiving Sharpshooter Sports Illustrated",
+      "published_at": "2026-10-17T21:46:54+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks Open Roster Spot By Waiving Sharpshooter\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMirgFBVV95cUxPbm9KWVJ4eEU4OEpNcXlUSF9jTG96T2ZUbzZwMGVIYWN0Yk81Mi1QZW1LbjNubjFxa01neTRyanY2em1QRjVGdkpGR194WWxsOTlKNDVpUHFPSTliRlFZM3M3dHBmODNhWjgtX3Z4dUZGTTQzTHV5bHc3NWp4STdhaE1pandCdy1zb3RZbGtndmw2UXppZXNwTXNXZVdBTkxsaXRrY2w2V0pibVNNUFE?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "4726d5058d844e153606",
@@ -61,18 +541,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys player gets bad news before Packers game\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMihgFBVV95cUxOQWhFdDZFb0lrN2FCNzRTVy1mR1BYd2QyNk9qd0RQeDl1Qm1ibkdpSTZaSW1ZVkVwcFRyeTdVajZxNmRxQ1AxYzRkeTdqQWdQWnJZeExVVjRRdHprLWdRRHJwRWxTUDZCSlBtVFJ1WkxwNUIxS3AzbjlwS01yd3lULXZ1UXI0UQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "43a1cf61cced3af396e6",
-      "title": "Joe Milton is unlikely to play versus Dallas in Week 7, but another former Cowboy may get a chance at a revenge game",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeVdhc1VIWUNqSktadFo1el9LaDZ0bl9DT2RiaU5rakc4Wm1rTnpRdkF5bHBDd0x1Rmwwa3ZOSlBVVXZRbGpObGNoVXJhSDdHazk5Z0tMbGlpUHJTbFpxXzVXVmphNGZwSGRneEhaUW0xUnZiY0xITUMza0YzZ2czaVlkbld3YVdCeFJYOFdaUjMzTTg?oc=5",
-      "source": "A to Z Sports",
-      "summary": "Joe Milton is unlikely to play versus Dallas in Week 7, but another former Cowboy may get a chance at a revenge game A to Z Sports",
-      "published_at": "2026-10-17T20:43:23+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nJoe Milton is unlikely to play versus Dallas in Week 7, but another former Cowboy may get a chance at a revenge game\n\nSource: A to Z Sports\nRead more: https://news.google.com/rss/articles/CBMikwFBVV95cUxOeVdhc1VIWUNqSktadFo1el9LaDZ0bl9DT2RiaU5rakc4Wm1rTnpRdkF5bHBDd0x1Rmwwa3ZOSlBVVXZRbGpObGNoVXJhSDdHazk5Z0tMbGlpUHJTbFpxXzVXVmphNGZwSGRneEhaUW0xUnZiY0xITUMza0YzZ2czaVlkbld3YVdCeFJYOFdaUjMzTTg?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "bd0aa0ab68ded1a4b4ca",
@@ -123,30 +591,6 @@
       "caption": "🔴 BREAKING — DFW\n\nFort Worth Art Commission green-lights two public art final designs\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVFSZUgwa2xUd2NzM2YyS19NYXpvdXE4VldWQzQzeXgzSklOS2hkSkJ3TEhYc2ZORkM1ckYyM2J6aUkzNm5oNzVGeHppYkVDaGV0UG83eTVqWmtUUUhHYVg3SnFFbHo0MVg0dkhEUTVBZGltRzdtQlVkQUFMdGNSNWxiM1c3YU43OU1KNjN6b1c5N0ppMU1RdDE0UFZ3dkdvcmtKN1JHYlViTjg?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "d686a90390258284d45b",
-      "title": "Gateway Park armadillo, citywide aquatics plan draw attention of park board",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG1UMW01ZFh1X1diMkdxR0hDSDBVQVZ0Q2RvWHpYMWRWVExnaVM2SFExaUh6dEo2b2ZjWnU1bU9KOXBCdHpxOUtoX2ppNmVrNThQSlJpb3BZSnlHREI5M21UTldhcXp0Y2JBLUhQY2owdmhXajh6Z3lIWHpXZE9rV0F6ekpkRkdpRmNwN0ZHVWs2TFZsd0RMYk0zRE82Qi1oLWsxMi1TcWlLejhQVkczUmdiTDM?oc=5",
-      "source": "Fort Worth Report",
-      "summary": "Gateway Park armadillo, citywide aquatics plan draw attention of park board Fort Worth Report",
-      "published_at": "2026-10-17T19:15:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nGateway Park armadillo, citywide aquatics plan draw attention of park board\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMitAFBVV95cUxQWG1UMW01ZFh1X1diMkdxR0hDSDBVQVZ0Q2RvWHpYMWRWVExnaVM2SFExaUh6dEo2b2ZjWnU1bU9KOXBCdHpxOUtoX2ppNmVrNThQSlJpb3BZSnlHREI5M21UTldhcXp0Y2JBLUhQY2owdmhXajh6Z3lIWHpXZE9rV0F6ekpkRkdpRmNwN0ZHVWs2TFZsd0RMYk0zRE82Qi1oLWsxMi1TcWlLejhQVkczUmdiTDM?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "207fa6600d2b5674fa21",
-      "title": "Green Bay Packers vs. Dallas Cowboys Fantasy Football Matchup Breakdown For Week 6",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1RUOHZrUnZTVUl2QXNSdDd5M0d4WFBFalBFZ0ZwZng2X0d5SElqbS1hbnYyc04xQy14YktGb2ViVXBTcWoxc0hENDV1WTRta0J1RHdidlNQaTVJVVlOT09GM0RaWE1reFhUaWF1OUJnWmExVS10bjNKbUltTnZyQVRHVlBnNHBYQW91NDB2aEY0a2lGQ2ZFSnBmTm83TFVuWjM4OEpidWhZT3ZoZHB3WDRPdFRYckxUbmpSSlViYXlDOEg3?oc=5",
-      "source": "FantasyLife",
-      "summary": "Green Bay Packers vs. Dallas Cowboys Fantasy Football Matchup Breakdown For Week 6 FantasyLife",
-      "published_at": "2026-10-17T19:00:07+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nGreen Bay Packers vs. Dallas Cowboys Fantasy Football Matchup Breakdown For Week 6\n\nSource: FantasyLife\nRead more: https://news.google.com/rss/articles/CBMixAFBVV95cUxOV1RUOHZrUnZTVUl2QXNSdDd5M0d4WFBFalBFZ0ZwZng2X0d5SElqbS1hbnYyc04xQy14YktGb2ViVXBTcWoxc0hENDV1WTRta0J1RHdidlNQaTVJVVlOT09GM0RaWE1reFhUaWF1OUJnWmExVS10bjNKbUltTnZyQVRHVlBnNHBYQW91NDB2aEY0a2lGQ2ZFSnBmTm83TFVuWjM4OEpidWhZT3ZoZHB3WDRPdFRYckxUbmpSSlViYXlDOEg3?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "e54be9af009efc2a3b3b",
       "title": "DFW Airport is going high-tech to support operations",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMDdZdjcxNXVaYkowNUZGMW8xQkJxaENwamN4UkpsR3hFX2lJUE14UVJwLVBST3JJMnFtZlA5LWlydHlLamNFMGFzNmRyU1Z0TGdQMGN4ODJsT1N6SlNJdEs3Nm1tUjkxYmpvd1E3bWMtQktya2kxZXFKbS1qYXltT3YzYk44QTU0S1g1b2FKVTFSNXdoWDVN?oc=5",
@@ -171,28 +615,16 @@
       "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys Projected to Be Major Suitors at NFL Trade Deadline\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMinwFBVV95cUxNV3UyNzZDcjZ1a0NCdDF4N1pieWczS1dGbmo2ZEcxT3RfQUtXeXllVGw0aHRTaHRTRXM3RGYtWEgwRkduRkFMbnl0SWtGal9XeEQ3OVFKZHRRZDNxd3lmU1JUUkJRbXo2ekhVWjJJdG96eXloNEZWd2RMcFpqR1JkdTVyY3VCaFZQLUR4UnZOREk4LTBlc0JMX1htRm4xX0U?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "c8912459e93a15fd0af9",
-      "title": "FC Dallas at Houston Dynamo, October 2026 – game info and lineup prediction",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXY1NDR5cTZING52WkxONHVPX0tGYnRSSFFiNGtjNTdsdFhoc2VfdVNVNWtCeGRuTUI4SFJEVUk1XzdmRW8xZmtLN0VuUFpwX2ZXTWpRTGtTUUowbkhSUmxRcXZqc0V5cEhMZmNhdFpmRnc0R3VpQUZXMmVvS25FcnE1S2swVkM5VVE3Qmw4d2h1QWd2dzh2OEx30gGaAUFVX3lxTE9VdjU0NHlxNkg0bnZaTE40dU9fS0ZidFJIUWI0a2M1N2x0WGhzZV91U1U1a0J4ZG5NQjhIUkRVSTVfN2ZFbzFma0s3RW5QWnBfZldNalFMa1NRSjBuSFJSbFFxdmpzRXlwSExmY2F0WmZGdzRHdWlBRlcyZW9LbkVycTVLazBWQzlVUTdCbDh3aHVBZ3Z3OHY4THc?oc=5",
-      "source": "3rd Degree",
-      "summary": "FC Dallas at Houston Dynamo, October 2026 – game info and lineup prediction 3rd Degree",
-      "published_at": "2026-10-17T18:16:24+00:00",
-      "category": "Sports",
+      "id": "ae2b18b602cf5c7d6455",
+      "title": "Military accidentally triggers Air Force One slide ahead of Trump's Dallas trip: Source - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm56TGFOUzZ6cUN4TW5jTlRWTGtUZ09HNXBOb1ZGdXBlTk9veVN1U0NIRUxNN2Q5NnlNeDJIei1jcGhzcHVoR1loQWtBbndYckZHVHJ3RlBsWk5GbmNUanZXSDAwbXJ0dTZIcmdGVWVvVWNOcWpBaXpUbEl2RmZKbFBrSnNETk9uN25MTUVyaG5QNHpCOG1sbnNHYzBmVGlMX2ZDQ9IBqgFBVV95cUxOWWVpZk83Vkh2dTg4WXVCWGNwVzBDMDlZSFVZVlUwZHBwcHI4elVJTl9TampQS3BuZEYxb18xcFdOa3VKQ2dodmpVUnIwYzFiN2JRV2tNSDFtZzhuSVhVbThLYUl1ZGdsUVRWRWh1Q045MFVnWWJiMEplUU5vWHFDdFFScFBmeVZrUEFJX2NROEhwTDZ0N21YN0V3VGhnN1hOMVhwQllKaVZ4UQ?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "summary": "Military accidentally triggers Air Force One slide ahead of Trump's Dallas trip: Source ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-10-17T18:16:40+00:00",
+      "category": "Breaking",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nFC Dallas at Houston Dynamo, October 2026 – game info and lineup prediction\n\nSource: 3rd Degree\nRead more: https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXY1NDR5cTZING52WkxONHVPX0tGYnRSSFFiNGtjNTdsdFhoc2VfdVNVNWtCeGRuTUI4SFJEVUk1XzdmRW8xZmtLN0VuUFpwX2ZXTWpRTGtTUUowbkhSUmxRcXZqc0V5cEhMZmNhdFpmRnc0R3VpQUZXMmVvS25FcnE1S2swVkM5VVE3Qmw4d2h1QWd2dzh2OEx30gGaAUFVX3lxTE9VdjU0NHlxNkg0bnZaTE40dU9fS0ZidFJIUWI0a2M1N2x0WGhzZV91U1U1a0J4ZG5NQjhIUkRVSTVfN2ZFbzFma0s3RW5QWnBfZldNalFMa1NRSjBuSFJSbFFxdmpzRXlwSExmY2F0WmZGdzRHdWlBRlcyZW9LbkVycTVLazBWQzlVUTdCbDh3aHVBZ3Z3OHY4THc?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "576b5244f1418c8b8fd5",
-      "title": "Shawn Marion delivers sobering Kyrie Irving reality check amid Mavericks comeback hopes",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzJFbG5HSkdGbUVrRkVXc3Vqa0hsRVJIUkkxNXhyWFdocTlkaGV0b094MmJaSXVNTkVlTjZTMG1LUGs5eF9uSF82am9zT2VGcXFQYWZZNWZIbFcyNHFWR2tOTjNuTUxWc01sRjdCTzRkUUlqQUhyVGF2TFJVZHBnR2RMT1VISHdybEZQNDFR?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "Shawn Marion delivers sobering Kyrie Irving reality check amid Mavericks comeback hopes Yahoo Sports",
-      "published_at": "2026-10-17T18:08:27+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nShawn Marion delivers sobering Kyrie Irving reality check amid Mavericks comeback hopes\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMijgFBVV95cUxQXzJFbG5HSkdGbUVrRkVXc3Vqa0hsRVJIUkkxNXhyWFdocTlkaGV0b094MmJaSXVNTkVlTjZTMG1LUGs5eF9uSF82am9zT2VGcXFQYWZZNWZIbFcyNHFWR2tOTjNuTUxWc01sRjdCTzRkUUlqQUhyVGF2TFJVZHBnR2RMT1VISHdybEZQNDFR?oc=5\n\nTexas News Roundup"
+      "caption": "🔴 BREAKING — DFW\n\nMilitary accidentally triggers Air Force One slide ahead of Trump's Dallas trip: Source - ABC News\n\nSource: Breaking News, Latest News and Videos\nRead more: https://news.google.com/rss/articles/CBMipAFBVV95cUxOMm56TGFOUzZ6cUN4TW5jTlRWTGtUZ09HNXBOb1ZGdXBlTk9veVN1U0NIRUxNN2Q5NnlNeDJIei1jcGhzcHVoR1loQWtBbndYckZHVHJ3RlBsWk5GbmNUanZXSDAwbXJ0dTZIcmdGVWVvVWNOcWpBaXpUbEl2RmZKbFBrSnNETk9uN25MTUVyaG5QNHpCOG1sbnNHYzBmVGlMX2ZDQ9IBqgFBVV95cUxOWWVpZk83Vkh2dTg4WXVCWGNwVzBDMDlZSFVZVlUwZHBwcHI4elVJTl9TampQS3BuZEYxb18xcFdOa3VKQ2dodmpVUnIwYzFiN2JRV2tNSDFtZzhuSVhVbThLYUl1ZGdsUVRWRWh1Q045MFVnWWJiMEplUU5vWHFDdFFScFBmeVZrUEFJX2NROEhwTDZ0N21YN0V3VGhnN1hOMVhwQllKaVZ4UQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "3a346e591dd01422b66b",
@@ -243,88 +675,16 @@
       "caption": "🏟️ SPORTS — DFW\n\n!+[*𝐋𝐈𝐕𝐄 FOOTBALL*] Houston Dynamo FC vs FC Dallas UEFA Champions League Coverage 90296\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi0AJBVV95cUxPX1NqRGlob1dKUW00TjI0a1haeGRHSXdNRDVzXzhTTi05N1Y2bVl2U1EzR1I3N2dxU0Y1cDBkZ3FXSkUwNDRNNWZZc0w0YmMxbTlxczBENEVxLVJtbTVzaW9McUlHSTI4Q3ZaemIwRTNvRzdSckdRVnRaNlR4NzVjXzZrU2dma3U0ZDkxcDJ2LWpZbkhaaDZaTER1bUMwdUJfZlRpRFhJN2tSTDdTZExTaVRsdDFoVjRuUXk3aVhra184Y00wYVF0b2JTamt0SnpKVVdLT3d6NFZFRjVqVUMwanhETkhzdFZpZXE2TTNsS0FlVU5sMWNGOGtCdUZ2T2ZOanFzaGxVT0VlalIyX0FFTmcyOEZ1QVdDNU9pWUpsNllvRmI1d2Nic0stVjlFZTVIU0IxYm9DTXRyRGRwQ19nclFhMlVDOHN6YkFFMUVxYUk?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "598c7da0cfd460053d6f",
-      "title": "3 Reasons Cowboys Fans Should Be Confident Dallas Will Beat Packers",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXJsb0N4ZjUzcXpWYWtlamVxdHVTRUFQcGRvLTllaDA5cEMzUEc3d2hPWjdhUGc5N1lVOUNDN1FjVkwtTHJORmhBVzVsaGFvbTJzTi1taVo2bUNXOFNFanNHSXJWMElodE5zbUVKenY0X01zZEZJc2d4c1pfSDR1YnljQm1SVmZDTzdrS29nYzhRVjRMbmZLRm5vMjhQdi1ra3FNS2xB?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "3 Reasons Cowboys Fans Should Be Confident Dallas Will Beat Packers Sports Illustrated",
-      "published_at": "2026-10-17T18:00:01+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n3 Reasons Cowboys Fans Should Be Confident Dallas Will Beat Packers\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXJsb0N4ZjUzcXpWYWtlamVxdHVTRUFQcGRvLTllaDA5cEMzUEc3d2hPWjdhUGc5N1lVOUNDN1FjVkwtTHJORmhBVzVsaGFvbTJzTi1taVo2bUNXOFNFanNHSXJWMElodE5zbUVKenY0X01zZEZJc2d4c1pfSDR1YnljQm1SVmZDTzdrS29nYzhRVjRMbmZLRm5vMjhQdi1ra3FNS2xB?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "5a48308fd6d1e4890fe3",
-      "title": "North Texas soccer sputters midseason with final chances ahead to finish strong",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS0k2TW1TOUd0ZklpTk1lYTNxcDlvUnFqVjd2aWdHTll1N05ET2d2UldYVkRyNUxjMkZRaWk4dUdzUHVyWll3ZkNZMlFwVkV0VE8xNW42bW9leXNmNk1rZk1tZnRXWjZXaVFKMGw3emROTFdzUVdacUhMZHRLdzN4dkUzM0tSREhCU2cwRDdkWjVweUlJYlgwbWx4YW9UNjRuVGZjRXI0T29VRXhsQ28tUlpKdVRVSG1Mdnc2dll4c0ZFa05teHgtMTZVYUZfaGlCeFF0RnNPWV9JcGVaT1dIQi1WQXMtZ2ZWXzhDYUQteVU0QQ?oc=5",
-      "source": "North Texas Daily",
-      "summary": "North Texas soccer sputters midseason with final chances ahead to finish strong North Texas Daily",
-      "published_at": "2026-10-17T18:00:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nNorth Texas soccer sputters midseason with final chances ahead to finish strong\n\nSource: North Texas Daily\nRead more: https://news.google.com/rss/articles/CBMi8gFBVV95cUxNS0k2TW1TOUd0ZklpTk1lYTNxcDlvUnFqVjd2aWdHTll1N05ET2d2UldYVkRyNUxjMkZRaWk4dUdzUHVyWll3ZkNZMlFwVkV0VE8xNW42bW9leXNmNk1rZk1tZnRXWjZXaVFKMGw3emROTFdzUVdacUhMZHRLdzN4dkUzM0tSREhCU2cwRDdkWjVweUlJYlgwbWx4YW9UNjRuVGZjRXI0T29VRXhsQ28tUlpKdVRVSG1Mdnc2dll4c0ZFa05teHgtMTZVYUZfaGlCeFF0RnNPWV9JcGVaT1dIQi1WQXMtZ2ZWXzhDYUQteVU0QQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a14bd3e97030af9fa50b",
-      "title": "+nhl+(LIVE*STREAms$)+!+ Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNN1FxM3M2UHF1TnFDOVVCNTlLTGx2Z2Q5MDJiZXNNdEp6YU1JeFB1alNpMzNTX1I0UlRoVk5STWptTWFheVRROWZ3Qy1lbW8zYUg3T1ZIQ0tPczlhNUVxVjIxQnNiWHJXRnhfZzNwU3lyTG1yTGJVTnNob0JnTTEyRFcyaEJ0eDI3MmtyZnliMFpQVUpJclIybmNwcWl3LTRkbDJlNFVsYVBMMXFCc05qYV9SYUNxMUQtY2JNN0xWMU1vdGdSSG1yeTA0Sl8xaXliYkpPNUgwTV9aZUdJX3VNZzZKTGRKWFBueDcyUktocGFidFQzdVRTQTRIdl8xbHN4cFp5RUlqR252TTVJNnF2QTI1eFhEREdoQXBLN2tqYXVNSXdPaFNKTDkxWjBRT3UzRlQ0elJObXZiQ0JVLVNVTkw2MjVvUVhWbEE5NmUxUkFsQjV5WlY3SWh6ZFZ4MzQ?oc=5",
+      "id": "8f431167ddff63bd3bd0",
+      "title": "[LIVESTREAM]TV!!] Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPSmZSWk9yWDVRSHg2ZXRlY191SzhmRDJtdDJsaTBvSUZ2ai0tU0xNRndGbDdLcG1wYjg1N0ZjRlc0YTBmX3BzU19ka2Q2Ui1aWFAtd18tbjRGR2dkOTBBcl9pU3dTX0hHTHRRRUd1VnFNOUhTTUJQc0U1UnJsV0JEYk52RklsS1BZSUE0bVJfQnZGN2tHbWZaNXNUaURheWVaMV91TFZYUE9ORmFQalBpVnlVVURENk1MSG43YjBHemtmVzdXdWhxYUlEOXZpVWJvZ1RrSkI0ZDJXMjZERU1NaG1Kd2l1Mk9zNWEzS3hYQlRJN3ZVc3pGcS1ZVDFVbTN1M3RJNy02TzJ6dVZCUlZyZmRvZVhQUlk1alNyR0VLcDVPaEU0RWlIMEJVbklFbXhrSk9FTU5CQ0diMEZHbmZQZVZWWTVtMUZw?oc=5",
       "source": "Universidad de Córdoba (UCO)",
-      "summary": "+nhl+(LIVE*STREAms$)+!+ Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-17T17:37:30+00:00",
+      "summary": "[LIVESTREAM]TV!!] Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-17T17:11:03+00:00",
       "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n+nhl+(LIVE*STREAms$)+!+ Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi3wJBVV95cUxNN1FxM3M2UHF1TnFDOVVCNTlLTGx2Z2Q5MDJiZXNNdEp6YU1JeFB1alNpMzNTX1I0UlRoVk5STWptTWFheVRROWZ3Qy1lbW8zYUg3T1ZIQ0tPczlhNUVxVjIxQnNiWHJXRnhfZzNwU3lyTG1yTGJVTnNob0JnTTEyRFcyaEJ0eDI3MmtyZnliMFpQVUpJclIybmNwcWl3LTRkbDJlNFVsYVBMMXFCc05qYV9SYUNxMUQtY2JNN0xWMU1vdGdSSG1yeTA0Sl8xaXliYkpPNUgwTV9aZUdJX3VNZzZKTGRKWFBueDcyUktocGFidFQzdVRTQTRIdl8xbHN4cFp5RUlqR252TTVJNnF2QTI1eFhEREdoQXBLN2tqYXVNSXdPaFNKTDkxWjBRT3UzRlQ0elJObXZiQ0JVLVNVTkw2MjVvUVhWbEE5NmUxUkFsQjV5WlY3SWh6ZFZ4MzQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "8504c52b6976eb5a3ab9",
-      "title": "Gorillaz lead an electric Fort Worth pilgrimage up ‘The Mountain’",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0I2UEFlMzRlSmlSVXNnSGdLR0tCSkVraDlMb2ltUjQ0VlN3VlRHenpBOWtvNlAtYl9iS2tfRXBaR3h6Vm50S0hHRDNhZHI4R0huLWNWMmcyOHRqS1gxbjRmUGtXODA2ckFqUGdDUnFINE1NWDh6bk0wVjRjWDkxNTdNd0paRU9MN3hkR2xOQk9TNXpza202M3Z4UDA4eHhOcER3ZU41Y0ZXUzdlS3pF?oc=5",
-      "source": "Dallas Observer",
-      "summary": "Gorillaz lead an electric Fort Worth pilgrimage up ‘The Mountain’ Dallas Observer",
-      "published_at": "2026-10-17T17:27:31+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nGorillaz lead an electric Fort Worth pilgrimage up ‘The Mountain’\n\nSource: Dallas Observer\nRead more: https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0I2UEFlMzRlSmlSVXNnSGdLR0tCSkVraDlMb2ltUjQ0VlN3VlRHenpBOWtvNlAtYl9iS2tfRXBaR3h6Vm50S0hHRDNhZHI4R0huLWNWMmcyOHRqS1gxbjRmUGtXODA2ckFqUGdDUnFINE1NWDh6bk0wVjRjWDkxNTdNd0paRU9MN3hkR2xOQk9TNXpza202M3Z4UDA4eHhOcER3ZU41Y0ZXUzdlS3pF?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "b45b69dadaf21d451f42",
-      "title": "Fantasy Football Week 6 Bold Predictions: James Cook Fumbles RB1 Status, Dallas Goedert's Elite Sunday",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3RQMHpRQTBRT0hidHpkaFRKaHp0UE5iajRuYTF6aTBWZjJNVVo3T0RvamVpVVBmRnVVaE5kMG1qQ3pid3l3dF9UaXFsanVHanYtNzQtdGRtVU00ak14RXNYUVpBNS1RZVNaU3V0clpySi1nVjF5dVpxWHktRGpmMXYyam5obEcza2pTYWk4OVZNZDg2UHprQm5kZkxxWFJZclVrVw?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Fantasy Football Week 6 Bold Predictions: James Cook Fumbles RB1 Status, Dallas Goedert's Elite Sunday Sports Illustrated",
-      "published_at": "2026-10-17T17:27:23+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nFantasy Football Week 6 Bold Predictions: James Cook Fumbles RB1 Status, Dallas Goedert's Elite Sunday\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMipAFBVV95cUxOX3RQMHpRQTBRT0hidHpkaFRKaHp0UE5iajRuYTF6aTBWZjJNVVo3T0RvamVpVVBmRnVVaE5kMG1qQ3pid3l3dF9UaXFsanVHanYtNzQtdGRtVU00ak14RXNYUVpBNS1RZVNaU3V0clpySi1nVjF5dVpxWHktRGpmMXYyam5obEcza2pTYWk4OVZNZDg2UHprQm5kZkxxWFJZclVrVw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "11f600d94cabf3fbee07",
-      "title": "The solution to our polarization could be in mundane things",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTJZdUlCS3ZUbHQyTFZ0Q21nWWNhNWh0VUpXMi10ZGpFWVpzbUplbG1LaVlucV8tMWhjV0l6TU5LeHItZXhwVzh6bkNUMmVNQUVSUTZHVVdUbWdVOGhlWVZMWkJ1dG1QV2V5TkppbXdiNEtTeTZ5YzFOUl9qbG9xWC1BWTJNaWYtZDVBVVZqVFhaNk5uSElsTGRMRC12M0NISEc0RHl4cno4YXc?oc=5",
-      "source": "Dallas News",
-      "summary": "The solution to our polarization could be in mundane things Dallas News",
-      "published_at": "2026-10-17T17:06:26+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nThe solution to our polarization could be in mundane things\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTJZdUlCS3ZUbHQyTFZ0Q21nWWNhNWh0VUpXMi10ZGpFWVpzbUplbG1LaVlucV8tMWhjV0l6TU5LeHItZXhwVzh6bkNUMmVNQUVSUTZHVVdUbWdVOGhlWVZMWkJ1dG1QV2V5TkppbXdiNEtTeTZ5YzFOUl9qbG9xWC1BWTJNaWYtZDVBVVZqVFhaNk5uSElsTGRMRC12M0NISEc0RHl4cno4YXc?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "b0b8cdbb48add917b73a",
-      "title": "George William Fulbright – Aug. 5, 1952 – Oct. 13, 2026",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUlkVXlEdlpWUXM1bHU5WmNub293blFGTGd5akozS05abTZMaFpVekxwd2hKbG9TakdqRUNNZk5IOEpnLWswblhUazFLQUhneUdOM1J5Q1MxYXZUdTlBOWd1aHJaMUh1cGpIbW16RU03MG9Qdmw2bUhsa3VhYkg0Qmk4VWxzdzlZMktKcWVsTXQ?oc=5",
-      "source": "Fort Worth Report",
-      "summary": "George William Fulbright – Aug. 5, 1952 – Oct. 13, 2026 Fort Worth Report",
-      "published_at": "2026-10-17T17:00:00+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nGeorge William Fulbright – Aug. 5, 1952 – Oct. 13, 2026\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMikAFBVV95cUxNeUlkVXlEdlpWUXM1bHU5WmNub293blFGTGd5akozS05abTZMaFpVekxwd2hKbG9TakdqRUNNZk5IOEpnLWswblhUazFLQUhneUdOM1J5Q1MxYXZUdTlBOWd1aHJaMUh1cGpIbW16RU03MG9Qdmw2bUhsa3VhYkg0Qmk4VWxzdzlZMktKcWVsTXQ?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\n[LIVESTREAM]TV!!] Dallas Stars vs Chicago Blackhawks Ｌｉｖｅ Ｓｔｒｅａｍ ＯＮ 17 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiyAJBVV95cUxPSmZSWk9yWDVRSHg2ZXRlY191SzhmRDJtdDJsaTBvSUZ2ai0tU0xNRndGbDdLcG1wYjg1N0ZjRlc0YTBmX3BzU19ka2Q2Ui1aWFAtd18tbjRGR2dkOTBBcl9pU3dTX0hHTHRRRUd1VnFNOUhTTUJQc0U1UnJsV0JEYk52RklsS1BZSUE0bVJfQnZGN2tHbWZaNXNUaURheWVaMV91TFZYUE9ORmFQalBpVnlVVURENk1MSG43YjBHemtmVzdXdWhxYUlEOXZpVWJvZ1RrSkI0ZDJXMjZERU1NaG1Kd2l1Mk9zNWEzS3hYQlRJN3ZVc3pGcS1ZVDFVbTN1M3RJNy02TzJ6dVZCUlZyZmRvZVhQUlk1alNyR0VLcDVPaEU0RWlIMEJVbklFbXhrSk9FTU5CQ0diMEZHbmZQZVZWWTVtMUZw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "c8e388914da00c014c87",
@@ -337,42 +697,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🔴 BREAKING — DFW\n\nWhere I Live: After living in West Texas, library manager finds belonging in Fairmount\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmpKcko2WlhKck03cnJkVjdBTnp1S0FwaXp3RXpuVV9zRUd3ZC1DcEFJdlJqbHNHWWFKcWp1MXBHZWh6QXMwS041MUpQWmRPd2RFdkFrX1lmQy1BZHFWTFJJM1FKelZpQVI2endqaUdoSEhYVGw1ZW5pNTg2QVREdXlIZFFIWGExRUNleUxqVE9CQ051cGQ1Ujl5TkR3UFJzS2VIQVRkZUt6X2h1VE9Pbk56MmdVNGt5bGNObjJYOU9QQQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "e2f523e5c24de8318e1e",
-      "title": "Latest internet theory about Dallas Cowboys CB Joey Porter Jr. doesn't make sense, here's why",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDg2dzVyX1hmcW9IXzVQMGZXR2w1VTFhX2dpVXFsUFFDZ0dtczB2dE55VC13NXB3ckFCcWFUNHRlX2FHT0thcjZrY0NEMDA3OU5JQ3p5SXdFdXdaTjFLaFRzakQ5MUsxekU3bmhYbktfYzZSaEk4ek90cndoVUp2Ymdta202Z0lXOUxLOGwtOUhwbzl3OW5sZFdrdnE2ejh2M3lwNXYwNDVEY1pHMXo0ODgzbVQ4MzlKS0V3?oc=5",
-      "source": "A to Z Sports",
-      "summary": "Latest internet theory about Dallas Cowboys CB Joey Porter Jr. doesn't make sense, here's why A to Z Sports",
-      "published_at": "2026-10-17T16:37:11+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nLatest internet theory about Dallas Cowboys CB Joey Porter Jr. doesn't make sense, here's why\n\nSource: A to Z Sports\nRead more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZDg2dzVyX1hmcW9IXzVQMGZXR2w1VTFhX2dpVXFsUFFDZ0dtczB2dE55VC13NXB3ckFCcWFUNHRlX2FHT0thcjZrY0NEMDA3OU5JQ3p5SXdFdXdaTjFLaFRzakQ5MUsxekU3bmhYbktfYzZSaEk4ek90cndoVUp2Ymdta202Z0lXOUxLOGwtOUhwbzl3OW5sZFdrdnE2ejh2M3lwNXYwNDVEY1pHMXo0ODgzbVQ4MzlKS0V3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "107b8af30e1d49126dca",
-      "title": "‘Tattoo Mark’: Cowboys lost one of their biggest fans. Friends say his impact was far greater",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZm9SdjJIbERKcHA4VkM4am9KcVZRczM5SGZNTUZDSGdnWkJIVDhzcVlVWkVPM1VWVGk5WXlSWTZqaUFvS2NjN2d4WTZVWURhcXhOWmtUYmlCQnRCMTNrTk9yZ2t1UWExelFiaVpXRElDZ3hXWVBiTXo4TGlPcHFoWTdYUUxwbGRZbkJ2d1lfQTRvZGVBYUh0V01xQjlLRjcyRms5ajZyS2IwRms?oc=5",
-      "source": "Dallas News",
-      "summary": "‘Tattoo Mark’: Cowboys lost one of their biggest fans. Friends say his impact was far greater Dallas News",
-      "published_at": "2026-10-17T16:27:26+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n‘Tattoo Mark’: Cowboys lost one of their biggest fans. Friends say his impact was far greater\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZm9SdjJIbERKcHA4VkM4am9KcVZRczM5SGZNTUZDSGdnWkJIVDhzcVlVWkVPM1VWVGk5WXlSWTZqaUFvS2NjN2d4WTZVWURhcXhOWmtUYmlCQnRCMTNrTk9yZ2t1UWExelFiaVpXRElDZ3hXWVBiTXo4TGlPcHFoWTdYUUxwbGRZbkJ2d1lfQTRvZGVBYUh0V01xQjlLRjcyRms5ajZyS2IwRms?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "ae682acda17e3075d96e",
-      "title": "Former Cowboys Joe Milton And Jaydon Blue Face Dallas",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmhoZkktRm93X3h5SHZaTjhQUU5CendMd1JuZ0k4aGhNT3JSR3lJMUtERXBEZ2lBZVRrQnVhbnJ5dndTZ1BjdkZpeHFFdE56bkk0NnpZckdYNmRnakViMHJJZG56UkJKY3ZTNGtRb1RNUTgxSi1GRjBSSVc2TFFwNHZMS3FfaktH?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "Former Cowboys Joe Milton And Jaydon Blue Face Dallas Yahoo Sports",
-      "published_at": "2026-10-17T16:20:07+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nFormer Cowboys Joe Milton And Jaydon Blue Face Dallas\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUmhoZkktRm93X3h5SHZaTjhQUU5CendMd1JuZ0k4aGhNT3JSR3lJMUtERXBEZ2lBZVRrQnVhbnJ5dndTZ1BjdkZpeHFFdE56bkk0NnpZckdYNmRnakViMHJJZG56UkJKY3ZTNGtRb1RNUTgxSi1GRjBSSVc2TFFwNHZMS3FfaktH?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "e1b72f96085f52e6caed",
@@ -411,54 +735,6 @@
       "caption": "🚨 POLICE — DFW\n\n23-Year-Old Killed in Oak Cliff Shooting, Dallas Police Still Seeking Answers\n\nSource: Hoodline\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV0doZVVqU09jUEwxSW9pRkpwT1dTb2h6VTlyTUZDYzhGTDlDQ0huVmNnaXVtNTNfazZvZEhzc1c1OWY2Qkx3dU9GYk1ra1ZveV9NSXNFTjI2MkpKUXdsLWVtRGU2aXQxTXdZWG5yTlU1WWFYNUJURnI2Mm9jV2dPd1l0U1pyXzMyTWUxeVNGeGV0eDdEQkFPM3FqUWd6ZnFDVkJQam1ySjc0dw?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "e26e279b1f62b0061266",
-      "title": "Wonderful fall weather in North Texas this weekend",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmdmbERSTVlNbkZXV3lPLXZfMTNjWmNwdHlSZEV1WkM4T19mSkstYUVLQ3NYRDJDSGd4YmY3TUVfT3VYcVB6NjBYeTc2dklnbjJuRGFSdDUxWkxxeVRITlJYV00wVmZBOXE3TTk2a2JKQm1rRHUwQkJ2bjRGVGZjVkRndkZjLWlQX3psZDQ1emE?oc=5",
-      "source": "CBS News",
-      "summary": "Wonderful fall weather in North Texas this weekend CBS News",
-      "published_at": "2026-10-17T15:18:00+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nWonderful fall weather in North Texas this weekend\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmdmbERSTVlNbkZXV3lPLXZfMTNjWmNwdHlSZEV1WkM4T19mSkstYUVLQ3NYRDJDSGd4YmY3TUVfT3VYcVB6NjBYeTc2dklnbjJuRGFSdDUxWkxxeVRITlJYV00wVmZBOXE3TTk2a2JKQm1rRHUwQkJ2bjRGVGZjVkRndkZjLWlQX3psZDQ1emE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "f1dc3092fac31d55f700",
-      "title": "MCNIFF: Virginia’s porous defense and flat offense head to Dallas in dire straits",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkxiRjBfYzFleGFuNnNLMTFQZ2ptd2ZNa3FJM2FBQWlmSm5KSG0tWVdoaUVxd2NhdzJDdkFneWxob0p1RGdTVGl4X0tKRlFoa1hway1MS2xCYldfY0JDOG9hV2FUQ1praGpISFVHdm55Vkpxcjc5c1NzckdEMkJPZ3lYbjIybDllbnB3NktOOXNpYTBCMy1NY2lBU0pVa3UwOTFrNVRkS1ptSjNzN2c0V0ZZaFdSbS0wVFRJWEp2OWFXVUVv?oc=5",
-      "source": "The Cavalier Daily",
-      "summary": "MCNIFF: Virginia’s porous defense and flat offense head to Dallas in dire straits The Cavalier Daily",
-      "published_at": "2026-10-17T15:13:06+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nMCNIFF: Virginia’s porous defense and flat offense head to Dallas in dire straits\n\nSource: The Cavalier Daily\nRead more: https://news.google.com/rss/articles/CBMixAFBVV95cUxNVkxiRjBfYzFleGFuNnNLMTFQZ2ptd2ZNa3FJM2FBQWlmSm5KSG0tWVdoaUVxd2NhdzJDdkFneWxob0p1RGdTVGl4X0tKRlFoa1hway1MS2xCYldfY0JDOG9hV2FUQ1praGpISFVHdm55Vkpxcjc5c1NzckdEMkJPZ3lYbjIybDllbnB3NktOOXNpYTBCMy1NY2lBU0pVa3UwOTFrNVRkS1ptSjNzN2c0V0ZZaFdSbS0wVFRJWEp2OWFXVUVv?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "2dfbe5fe870187657691",
-      "title": "Review: With Fabio Luisi back on the podium, an invigorating DSO concert",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWFKWXNhMk12STlzYXVjMllPWVBYM29YUkRBUldvWkw3MXlXeUQ3TUNfRjZkdDdGZTFET2JJYW1mNm11dEo1QmZOVGdJRDZNSXY0YllOOW0tdW9LTkZlZjdHN3oxeDZzR1o3cUVLZ1NKSUJZdVROb3NRcGhmOXB1LXpNbU1VSUdGYjdLcjR4Y3JhTkQ3VzgyQnR3Nl92UWVwblJwOFRpQzhvWTMyaUlTMlZpeDBZT0hiTDZmVHVkTTc1c0k?oc=5",
-      "source": "Dallas News",
-      "summary": "Review: With Fabio Luisi back on the podium, an invigorating DSO concert Dallas News",
-      "published_at": "2026-10-17T14:52:26+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nReview: With Fabio Luisi back on the podium, an invigorating DSO concert\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWFKWXNhMk12STlzYXVjMllPWVBYM29YUkRBUldvWkw3MXlXeUQ3TUNfRjZkdDdGZTFET2JJYW1mNm11dEo1QmZOVGdJRDZNSXY0YllOOW0tdW9LTkZlZjdHN3oxeDZzR1o3cUVLZ1NKSUJZdVROb3NRcGhmOXB1LXpNbU1VSUdGYjdLcjR4Y3JhTkQ3VzgyQnR3Nl92UWVwblJwOFRpQzhvWTMyaUlTMlZpeDBZT0hiTDZmVHVkTTc1c0k?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "4df364521fad2b2ed4e8",
-      "title": "Sibling drama and mixed martial arts duke it out in Dallas Theater Center show",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3phZjd2ZTlvM3hyLVJrdjRrZG0weWFPaURmNzJFZk5HX1JRcVhHd3llOVhUYkR4MFAteVdCQzlGbUdPeFlER2MtRXNSLWphS2xGcjE5YW1hLTlyanN3bWJEMGZHdFB3NGx1MmRrMkFTQllNU0V3YU1PT3FlNVBBMkNEMmR0R05BbVdPb3ltbW1taGJuNXJhWmtYLUpnazRMcDdLZmtzSFdMaGJnZlFfWV90QnpKUDFPQWh4cnE1TzJ2M0N2a2t4bE05LVhvajDSAdcBQVVfeXFMUFhVc0dhMVRqZG1jbjgxSUN5V3k2cjQ4LTlYeldBa0FHelcza3ZqMzB3ZHIzNzBMYzhfUHp1UGRhM2lNaTJBQTYzLVRvT0pYSC1UWlkzc05wX0x4WVY3QXpLZDljemRPdTNROU5FRE8yUEFIS2pTd0FMU2UtR1owcHVVcUE2eWQ2T0ZmM1VNUURYMEQyaXZjZUg4WFl3bjBDRWNRQ0JLeDFDT055MkpoVG1BN0MwSFJHaFR6YWNqaUpKc0FYU2tpbGp5T1N5U1MxSlMxXzNqb1U?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "Sibling drama and mixed martial arts duke it out in Dallas Theater Center show NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-10-17T14:48:55+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nSibling drama and mixed martial arts duke it out in Dallas Theater Center show\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMizwFBVV95cUxPV3phZjd2ZTlvM3hyLVJrdjRrZG0weWFPaURmNzJFZk5HX1JRcVhHd3llOVhUYkR4MFAteVdCQzlGbUdPeFlER2MtRXNSLWphS2xGcjE5YW1hLTlyanN3bWJEMGZHdFB3NGx1MmRrMkFTQllNU0V3YU1PT3FlNVBBMkNEMmR0R05BbVdPb3ltbW1taGJuNXJhWmtYLUpnazRMcDdLZmtzSFdMaGJnZlFfWV90QnpKUDFPQWh4cnE1TzJ2M0N2a2t4bE05LVhvajDSAdcBQVVfeXFMUFhVc0dhMVRqZG1jbjgxSUN5V3k2cjQ4LTlYeldBa0FHelcza3ZqMzB3ZHIzNzBMYzhfUHp1UGRhM2lNaTJBQTYzLVRvT0pYSC1UWlkzc05wX0x4WVY3QXpLZDljemRPdTNROU5FRE8yUEFIS2pTd0FMU2UtR1owcHVVcUE2eWQ2T0ZmM1VNUURYMEQyaXZjZUg4WFl3bjBDRWNRQ0JLeDFDT055MkpoVG1BN0MwSFJHaFR6YWNqaUpKc0FYU2tpbGp5T1N5U1MxSlMxXzNqb1U?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "4c55a6d93bd14ba331ca",
       "title": "Dallas weather: Oct. 17 morning forecast",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5falBYM1JKamxiTFVFZzRUVTB1MGtlbjlVWTdCamVkNEVjR1BFb2J0dVlxWXJqNG8yd0hQYUd2QTFnMFdOSy1hcXhzNUpGek5ONjJVOXRoOHJIVXZKSlJrMtIBZkFVX3lxTE94UWl5Tjk1TFBjY0lhZ1dtVUVIZGxPTlJzUGZEV1JIRGt3Z1BZUDQyb0tRd2pTZlJkWHZvVFFvVk9NZlBSb3dITjNKdVhOSWxJbTVMVHBIZXF0THgzVjV3Q1MwaDI5QQ?oc=5",
@@ -469,18 +745,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🌪️ WEATHER — DFW\n\nDallas weather: Oct. 17 morning forecast\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5falBYM1JKamxiTFVFZzRUVTB1MGtlbjlVWTdCamVkNEVjR1BFb2J0dVlxWXJqNG8yd0hQYUd2QTFnMFdOSy1hcXhzNUpGek5ONjJVOXRoOHJIVXZKSlJrMtIBZkFVX3lxTE94UWl5Tjk1TFBjY0lhZ1dtVUVIZGxPTlJzUGZEV1JIRGt3Z1BZUDQyb0tRd2pTZlJkWHZvVFFvVk9NZlBSb3dITjNKdVhOSWxJbTVMVHBIZXF0THgzVjV3Q1MwaDI5QQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "c986383b063c9fc56f1d",
-      "title": "Fort Worth Arlington Heights stays undefeated, cruises past North Side",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUYxNDBYREwxaXhSV0hLT2t1X09tMGVORGV1cGNxNE9nc0JOVTVPcjktLXFtekxQMlhFUTJPUHE3TEFKSWlpSXpLTXpXdGw4eWc4d1N3Z0Y1OVZiR2pNU0YtRWVrZlNUWGtHQTdqUzVldURKZkZmWS14bzFXbUMxTjgxSVdNWWpQUk80?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "Fort Worth Arlington Heights stays undefeated, cruises past North Side Yahoo Sports",
-      "published_at": "2026-10-17T14:12:08+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nFort Worth Arlington Heights stays undefeated, cruises past North Side\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLUYxNDBYREwxaXhSV0hLT2t1X09tMGVORGV1cGNxNE9nc0JOVTVPcjktLXFtekxQMlhFUTJPUHE3TEFKSWlpSXpLTXpXdGw4eWc4d1N3Z0Y1OVZiR2pNU0YtRWVrZlNUWGtHQTdqUzVldURKZkZmWS14bzFXbUMxTjgxSVdNWWpQUk80?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "a34be8c789149d3e9f3c",
@@ -495,30 +759,6 @@
       "caption": "📍 COMMUNITY — DFW\n\nMustang offense soars in win over Dallas County\n\nSource: The Clanton Advertiser\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxNSUhNdjhFdWFaQ21oamNiVmRLRDVXakZCYzZwZ2MwSHcxN0J6blJyR01uXzltbWFPRmJBWC14SHByckt1cC00NEhhUDA2cHhjcHRrVkFhM2FKMnVuSXZPRF9SemNkS29CU09Ya1V6bW8ydHVTa2xXT3BCbXJ6RUllbjdpVm9QMEd2a3Q5bjJNNExfS2c2d1lIU2cxQWlkZw?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "9d66ffd5760df51d38b2",
-      "title": "North Texas enjoys cool fall weekend weather ahead of rising temperatures",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fNkZoOVRxSHNtMllsUXM5NWpwaUFoM3hsQ2NHMHRodkVtS1JmajktSk1BZ3MydE5UT3pnUXdhMjAwM2FMRGZ1NmxRTUNBSVdScUpueTlVYTBFbUdGVEl5SzlzLU5Ndm53eTU4aWlWTzlsY044dWJka3Zadw?oc=5",
-      "source": "CBS News",
-      "summary": "North Texas enjoys cool fall weekend weather ahead of rising temperatures CBS News",
-      "published_at": "2026-10-17T13:52:00+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nNorth Texas enjoys cool fall weekend weather ahead of rising temperatures\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMie0FVX3lxTE5fNkZoOVRxSHNtMllsUXM5NWpwaUFoM3hsQ2NHMHRodkVtS1JmajktSk1BZ3MydE5UT3pnUXdhMjAwM2FMRGZ1NmxRTUNBSVdScUpueTlVYTBFbUdGVEl5SzlzLU5Ndm53eTU4aWlWTzlsY044dWJka3Zadw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "e74f2c68f76371ed502e",
-      "title": "The new-look Dallas Mavericks must answer a familiar question",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHhWQWpVS052cm40ZWJfcU5LSE83RWRFMk1WemNHcW9HQ1VxcE9kUGZzMGFXa1hqZ0JHOVBVR2E3ejVISTlmb2Rjak1oYjRjb29CQmRxQ25pUDI5TEdDemFFbVB4blBXeFZ2NktWZGgxUFFKUTluRmdGT0R5V2x2OXptcXZ3OU4xM01FaFZqZmRJNFE?oc=5",
-      "source": "The New York Times",
-      "summary": "The new-look Dallas Mavericks must answer a familiar question The New York Times",
-      "published_at": "2026-10-17T13:39:04+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nThe new-look Dallas Mavericks must answer a familiar question\n\nSource: The New York Times\nRead more: https://news.google.com/rss/articles/CBMikwFBVV95cUxQNHhWQWpVS052cm40ZWJfcU5LSE83RWRFMk1WemNHcW9HQ1VxcE9kUGZzMGFXa1hqZ0JHOVBVR2E3ejVISTlmb2Rjak1oYjRjb29CQmRxQ25pUDI5TEdDemFFbVB4blBXeFZ2NktWZGgxUFFKUTluRmdGT0R5V2x2OXptcXZ3OU4xM01FaFZqZmRJNFE?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "fa6676154b7e2d57da5f",
       "title": "How car recalls get reported",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FalVDaVhvXzloNTJOekVtWWl2WnRZajN5U01ZZEtFYmtXZnN0R3RRZGZpWUk4LXpRYW5IanVOOVF4ZWlsd3RoaURudnpkSEo1WU5ZRmY0QnRaWDlmTllLVGpDSTfSAWpBVV95cUxNRzAwMDhnUHhSLVkzQWpLQ0w4b09wMFRIV1dvc1kycHc5TXBVbkxoeW1vbE1ZYncxNjFiMzNVTlNRUlprRXFXRFJvVVA0VE9HUXYzLXNNc0Q3QWx0Vmt1azY0WnI5NmVnZ1hn?oc=5",
@@ -529,18 +769,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚧 TRAFFIC — DFW\n\nHow car recalls get reported\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FalVDaVhvXzloNTJOekVtWWl2WnRZajN5U01ZZEtFYmtXZnN0R3RRZGZpWUk4LXpRYW5IanVOOVF4ZWlsd3RoaURudnpkSEo1WU5ZRmY0QnRaWDlmTllLVGpDSTfSAWpBVV95cUxNRzAwMDhnUHhSLVkzQWpLQ0w4b09wMFRIV1dvc1kycHc5TXBVbkxoeW1vbE1ZYncxNjFiMzNVTlNRUlprRXFXRFJvVVA0VE9HUXYzLXNNc0Q3QWx0Vmt1azY0WnI5NmVnZ1hn?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "68acd660e761f7cb33c8",
-      "title": "'No Kings' demonstrations to be held across Texas Saturday",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTkzaEU5VVJOV25MM24zY2hMdHRjLXFXUm14MVJqMG5sbGlSM2p4TU1LN2RWVVlzX1JKQVRZOFdGQUx0NmhITWo5akc5R2NwTWRubGd5TXlrX1Z2ME13cTJSNjhwa3dJb2dES1ZwZEZRbmxTZlJhOHV0bnhWRTQ1Y1gxX0YyaHYtRHFz?oc=5",
-      "source": "FOX 4 News Dallas-Fort Worth",
-      "summary": "'No Kings' demonstrations to be held across Texas Saturday FOX 4 News Dallas-Fort Worth",
-      "published_at": "2026-10-17T13:00:09+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\n'No Kings' demonstrations to be held across Texas Saturday\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTkzaEU5VVJOV25MM24zY2hMdHRjLXFXUm14MVJqMG5sbGlSM2p4TU1LN2RWVVlzX1JKQVRZOFdGQUx0NmhITWo5akc5R2NwTWRubGd5TXlrX1Z2ME13cTJSNjhwa3dJb2dES1ZwZEZRbmxTZlJhOHV0bnhWRTQ1Y1gxX0YyaHYtRHFz?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "ab10a242aab303dc3927",
@@ -555,18 +783,6 @@
       "caption": "🚨 POLICE — DFW\n\nVideo Ex-Dallas police officer convicted of murder released on parole - ABC News\n\nSource: Breaking News, Latest News and Videos\nRead more: https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iWkdOT3M2TlhJTDVFUWxNUFNfbWhDMDRUMklyWkZ6X01kZ2YwRkdiaFhWTWRXeVBjS3pya1MxN190X3VkNHpVV3BxTzA?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "503ff8842bfcb40b7d4c",
-      "title": "FC Dallas vs Houston Dynamo: Lineups, Storylines & What to Watch",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ25CNVhsb1ByMDBWdDRJemZQV0h5QkVmTGFKQm43TlVhbVF0NVdsd2pXMW9IWnFoMUFPMEVNSkc4N0dZekJ3NjlXSmtUb194RmYycUJPSkIyMlhBUDNBbHpUWWkxSWRpcDRIQjBzQldVZk5OUnVNNnlQUmhaMjkwUkI1TzZRME1obFdlQTlRNjB0MVpnSUVYR1R4djluV3R5?oc=5",
-      "source": "Big D Soccer",
-      "summary": "FC Dallas vs Houston Dynamo: Lineups, Storylines & What to Watch Big D Soccer",
-      "published_at": "2026-10-17T12:44:04+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nFC Dallas vs Houston Dynamo: Lineups, Storylines & What to Watch\n\nSource: Big D Soccer\nRead more: https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ25CNVhsb1ByMDBWdDRJemZQV0h5QkVmTGFKQm43TlVhbVF0NVdsd2pXMW9IWnFoMUFPMEVNSkc4N0dZekJ3NjlXSmtUb194RmYycUJPSkIyMlhBUDNBbHpUWWkxSWRpcDRIQjBzQldVZk5OUnVNNnlQUmhaMjkwUkI1TzZRME1obFdlQTlRNjB0MVpnSUVYR1R4djluV3R5?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "19b7d5e68deb2e9a433d",
       "title": "Dallas Police Spokeswoman Accused Of Posing As Cop In Road-Rage Stop",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2RlRWh0Z1hYTmY5aFFZckJiMHc4eTNpZFQ0aUxITlpzT212Smozb2dNcG56OWtvNWZ1LTh1VkRjcnZBOVlfaENkXzhxMkY4a25sZFdtSmpReFk2UHNJTldKMEZzMXJzNDdSRm9Rel90TVNPWmJ3enRiSzRwZzZadjNKUVNKSUpzSmEtLVhacXZEbUJocXd1ay12VlFSRjZLRUdv?oc=5",
@@ -577,18 +793,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚧 TRAFFIC — DFW\n\nDallas Police Spokeswoman Accused Of Posing As Cop In Road-Rage Stop\n\nSource: Dallas Express\nRead more: https://news.google.com/rss/articles/CBMiowFBVV95cUxQa2RlRWh0Z1hYTmY5aFFZckJiMHc4eTNpZFQ0aUxITlpzT212Smozb2dNcG56OWtvNWZ1LTh1VkRjcnZBOVlfaENkXzhxMkY4a25sZFdtSmpReFk2UHNJTldKMEZzMXJzNDdSRm9Rel90TVNPWmJ3enRiSzRwZzZadjNKUVNKSUpzSmEtLVhacXZEbUJocXd1ay12VlFSRjZLRUdv?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "af1ac4290858e497920b",
-      "title": "Grading Every Hawks Player in Preseason Win Over the Dallas Mavericks",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlFKZHBsaDZYeVprWm9EOU9qM3NoLXNVZzA0NVR0ZDBVZUlpQlhpU0dRN2lORTBsVHJTU0c2bWlHQzFzdHdQZHoydHlfaFV1d3ZpQkRfc3MyOU9KbnVrODFUYlQ5bTBWOW5ZS0lnRlVmLXhYclJrUWtfemp5TS1sZW1QcURzYnRQWWhzM2hscnJoemtlaXFTRlZjOW1TUmdmamt0bnM2YjROQWhHdDdEdzQtaVlLRWc?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Grading Every Hawks Player in Preseason Win Over the Dallas Mavericks Sports Illustrated",
-      "published_at": "2026-10-17T12:22:53+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nGrading Every Hawks Player in Preseason Win Over the Dallas Mavericks\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlFKZHBsaDZYeVprWm9EOU9qM3NoLXNVZzA0NVR0ZDBVZUlpQlhpU0dRN2lORTBsVHJTU0c2bWlHQzFzdHdQZHoydHlfaFV1d3ZpQkRfc3MyOU9KbnVrODFUYlQ5bTBWOW5ZS0lnRlVmLXhYclJrUWtfemp5TS1sZW1QcURzYnRQWWhzM2hscnJoemtlaXFTRlZjOW1TUmdmamt0bnM2YjROQWhHdDdEdzQtaVlLRWc?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "403f2c166f03836b65dc",
@@ -621,34 +825,10 @@
       "source": "Dallas News",
       "summary": "How to vote for write-in candidates on Dallas County ballots Dallas News",
       "published_at": "2026-10-17T12:03:37+00:00",
-      "category": "Breaking",
+      "category": "Community",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nHow to vote for write-in candidates on Dallas County ballots\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2hiajdxMHE5Vjd5VHBfWVVCWGZhbExlSWw0dXQwQW5Ca3c5TGljcWJOdWUtTVY0bkdCR3BCa0dRQmVYb2RDUzNZa2E4aG02RkVITUgwa0EwUDRYcURyS2UwbmRhOG1tNC1iMnVaS1ZRUnl1QkxvdUsySzZkcG9FenlIRGlzZ0Fldkln?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "773c36e4fc89bf6aca09",
-      "title": "4 Dallas Cowboys Facing Make-or-Break Game in Week 6 vs. Green Bay Packers",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTJnUHdhWXRXcU85VUxYOTMwaUVZRlNHbmJVeFRIMWRkVWxfaTdoSlAtZEJVeHdxWHBBVG1FcWpISGZkZ0VuRE52RmZZMFVkV0R6Z3JET3UzOWp1bC1Ec1JGRk9LTVJXemZxdVpobFpWbDZIdXliVFkwR0ppdC05SnhueE5XTE5oRzVRTHdad1ZUbHY3QVE?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "4 Dallas Cowboys Facing Make-or-Break Game in Week 6 vs. Green Bay Packers Sports Illustrated",
-      "published_at": "2026-10-17T12:00:03+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n4 Dallas Cowboys Facing Make-or-Break Game in Week 6 vs. Green Bay Packers\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTJnUHdhWXRXcU85VUxYOTMwaUVZRlNHbmJVeFRIMWRkVWxfaTdoSlAtZEJVeHdxWHBBVG1FcWpISGZkZ0VuRE52RmZZMFVkV0R6Z3JET3UzOWp1bC1Ec1JGRk9LTVJXemZxdVpobFpWbDZIdXliVFkwR0ppdC05SnhueE5XTE5oRzVRTHdad1ZUbHY3QVE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "09cf5cc1d445fc1274b6",
-      "title": "Dallas Cowboys Suffer Major Drop in NFL Power Rankings After Embarassing Loss",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2NtZ0lPekV0Z2ZrQ0J0alJTRnhRSEdxampxMEcxSGM0c19GVWZVQVhnUzRzWUwxdk5oSE94WDdjVWhkZXZkQkVGbTE0SHRZYU9VOGMtSTA2amh0X08wcEJrUHYwTW5Nem9lTzBNQnNlVHJaVFNsdXBrZlJYRkk3ZTFrclUzM2tG?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "Dallas Cowboys Suffer Major Drop in NFL Power Rankings After Embarassing Loss Yahoo Sports",
-      "published_at": "2026-10-17T11:59:18+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys Suffer Major Drop in NFL Power Rankings After Embarassing Loss\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa2NtZ0lPekV0Z2ZrQ0J0alJTRnhRSEdxampxMEcxSGM0c19GVWZVQVhnUzRzWUwxdk5oSE94WDdjVWhkZXZkQkVGbTE0SHRZYU9VOGMtSTA2amh0X08wcEJrUHYwTW5Nem9lTzBNQnNlVHJaVFNsdXBrZlJYRkk3ZTFrclUzM2tG?oc=5\n\nTexas News Roundup"
+      "caption": "📍 COMMUNITY — DFW\n\nHow to vote for write-in candidates on Dallas County ballots\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd2hiajdxMHE5Vjd5VHBfWVVCWGZhbExlSWw0dXQwQW5Ca3c5TGljcWJOdWUtTVY0bkdCR3BCa0dRQmVYb2RDUzNZa2E4aG02RkVITUgwa0EwUDRYcURyS2UwbmRhOG1tNC1iMnVaS1ZRUnl1QkxvdUsySzZkcG9FenlIRGlzZ0Fldkln?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "45b97b110974f4a3ed64",
@@ -657,70 +837,10 @@
       "source": "Dallas News",
       "summary": "Dallas County homeless tax divides some providers over priorities, goals Dallas News",
       "published_at": "2026-10-17T11:18:49+00:00",
-      "category": "Breaking",
+      "category": "Community",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nDallas County homeless tax divides some providers over priorities, goals\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFJjaVNWSFFNOEF1cU5nSG9jTGdwdXZ3b09SNzF4VlpFWWNuNEdsVnhRNWtwLUM4Yld4bTI1UDV3UXBqcWFlbDFNbEJfX1VUNmpDVWVyejFFOE9NSkdza2NWdmVrZHRWU2ZPNWd5YlMtTlhmbmxQbHFnRWNOcTRETS04cmRkMlBhVFJnOUxSRzhMdnhPQlRGakR2ZXJycFF6YndBOWc3WWxoZw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "c571a68264ee9357fe5f",
-      "title": "How cold will winter be? Here’s what to expect in Dallas-Fort Worth",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWF0aXNDT3VCOVBXcENnWlpRS0VGWXF0VTZMbzlUaHdwMi1nN21EejhQbFJZVlpVckxmTkdFVGpQYkdXZloteTl3UVZkaG41MGk1ckswVEpuWFg0TjhlSlBLSGpZUDA1QlpNbm9xVVRKaTFyUEduT2thVUJwTHQySlY4Y3RVTmkxeG5zRWNPbFBCYlFFTzlLRi1Pa1I?oc=5",
-      "source": "Dallas News",
-      "summary": "How cold will winter be? Here’s what to expect in Dallas-Fort Worth Dallas News",
-      "published_at": "2026-10-17T11:06:23+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nHow cold will winter be? Here’s what to expect in Dallas-Fort Worth\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMinAFBVV95cUxOYWF0aXNDT3VCOVBXcENnWlpRS0VGWXF0VTZMbzlUaHdwMi1nN21EejhQbFJZVlpVckxmTkdFVGpQYkdXZloteTl3UVZkaG41MGk1ckswVEpuWFg0TjhlSlBLSGpZUDA1QlpNbm9xVVRKaTFyUEduT2thVUJwTHQySlY4Y3RVTmkxeG5zRWNPbFBCYlFFTzlLRi1Pa1I?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "d81d54f00e4e4412b2df",
-      "title": "Former Dallas Cowboys Star Criticizes Pointless Players-Only Meeting",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHhKSTl6Vl9Md3puLTU1VkxyT0VWY2RSMVNTeG9GWFY2Qzk1OUNEUkktY3hHWFR4N21VM2toMFBPc2k4NDRrWUk0MzdteDZNeFFhUnFLYko0WTktMk5iS3BNRWd3dDFPbE13MEtBN2JTQjlSQno4LTRudVhDR2xraHAtQVljVGhRRlpGQVhCRUFXdzJEYWE0YjkxWEUyYmNzemhxNm94bw?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Former Dallas Cowboys Star Criticizes Pointless Players-Only Meeting Sports Illustrated",
-      "published_at": "2026-10-17T11:03:38+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nFormer Dallas Cowboys Star Criticizes Pointless Players-Only Meeting\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHhKSTl6Vl9Md3puLTU1VkxyT0VWY2RSMVNTeG9GWFY2Qzk1OUNEUkktY3hHWFR4N21VM2toMFBPc2k4NDRrWUk0MzdteDZNeFFhUnFLYko0WTktMk5iS3BNRWd3dDFPbE13MEtBN2JTQjlSQno4LTRudVhDR2xraHAtQVljVGhRRlpGQVhCRUFXdzJEYWE0YjkxWEUyYmNzemhxNm94bw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "f240202f9d12a0f7f0c2",
-      "title": "Dallas Cowboys news: Plan for Caleb Downs may change for Packers game",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1NMcUlfYnRCY255VzBpQ2VZaHpUWXNqWE1MSmtHSlNVNmtRY2JFcnFxb3ZqandaRUg3NmRUYjdWTkRVeFhFWUk1bnFFZ0xFSTQzSUtMeXBLOUY3TlpobU15LU9LTGQ4Y0lOWmQ0OE5UeUo3NF95am9Ga0tBeENkVHlqOXV4cFVjSUlQMEVvVEEtQjExdUMxdEN5ZHdzcTI4TUFWaHc3eFpQbGtvejgzenlfQnNMNDQ?oc=5",
-      "source": "Blogging The Boys",
-      "summary": "Dallas Cowboys news: Plan for Caleb Downs may change for Packers game Blogging The Boys",
-      "published_at": "2026-10-17T11:00:00+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys news: Plan for Caleb Downs may change for Packers game\n\nSource: Blogging The Boys\nRead more: https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1NMcUlfYnRCY255VzBpQ2VZaHpUWXNqWE1MSmtHSlNVNmtRY2JFcnFxb3ZqandaRUg3NmRUYjdWTkRVeFhFWUk1bnFFZ0xFSTQzSUtMeXBLOUY3TlpobU15LU9LTGQ4Y0lOWmQ0OE5UeUo3NF95am9Ga0tBeENkVHlqOXV4cFVjSUlQMEVvVEEtQjExdUMxdEN5ZHdzcTI4TUFWaHc3eFpQbGtvejgzenlfQnNMNDQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "8f59c950b282944cc907",
-      "title": "Dallas Mavericks 2026-27 player preview: What exactly is Zaccharie Risacher?",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWswWkxfNDNBX0pidmYzSXR2LTQyR1hiMmVOX1NUajVUZnlmUUpfRzFabkdHSWR3SHp3X2NKWnlJeG8wTmcxTDNaMWk3TzVDUEpZSHljUU5pVkJXeS1CXy1FMm1JVmZpZTlGajZkTFZsRkFwNmZ6WnR4R0MtOGdXMUtzZC1fZFE?oc=5",
-      "source": "Yahoo Sports",
-      "summary": "Dallas Mavericks 2026-27 player preview: What exactly is Zaccharie Risacher? Yahoo Sports",
-      "published_at": "2026-10-17T10:12:00+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks 2026-27 player preview: What exactly is Zaccharie Risacher?\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMihwFBVV95cUxNLWswWkxfNDNBX0pidmYzSXR2LTQyR1hiMmVOX1NUajVUZnlmUUpfRzFabkdHSWR3SHp3X2NKWnlJeG8wTmcxTDNaMWk3TzVDUEpZSHljUU5pVkJXeS1CXy1FMm1JVmZpZTlGajZkTFZsRkFwNmZ6WnR4R0MtOGdXMUtzZC1fZFE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "3d9c8e5e114a00da4851",
-      "title": "North Texas gets a taste of fall Saturday as a cold front moves through",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlBXVnh2YUxUQjdyRldZTDBLV3BTcjNrT2JOTFpxV3lVQi1GZnJ4ajg2UE1aWGp4ektFdGloSE5xRThzYVJIRTA4enJ1bmt0LXlGQ0RpZmQ5dG9ILVJGM3pKazF2RHBEbW0xMnVWVVE2NzRpcHB4UXpNWkc4ZGFnOTBrLWdkdGs5NW9lZ0Q5ZlQ4X181OE9LcWp1UEpDNHFzUUEzUG9nc2pRdw?oc=5",
-      "source": "Dallas News",
-      "summary": "North Texas gets a taste of fall Saturday as a cold front moves through Dallas News",
-      "published_at": "2026-10-17T10:04:13+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nNorth Texas gets a taste of fall Saturday as a cold front moves through\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYlBXVnh2YUxUQjdyRldZTDBLV3BTcjNrT2JOTFpxV3lVQi1GZnJ4ajg2UE1aWGp4ektFdGloSE5xRThzYVJIRTA4enJ1bmt0LXlGQ0RpZmQ5dG9ILVJGM3pKazF2RHBEbW0xMnVWVVE2NzRpcHB4UXpNWkc4ZGFnOTBrLWdkdGs5NW9lZ0Q5ZlQ4X181OE9LcWp1UEpDNHFzUUEzUG9nc2pRdw?oc=5\n\nTexas News Roundup"
+      "caption": "📍 COMMUNITY — DFW\n\nDallas County homeless tax divides some providers over priorities, goals\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVFJjaVNWSFFNOEF1cU5nSG9jTGdwdXZ3b09SNzF4VlpFWWNuNEdsVnhRNWtwLUM4Yld4bTI1UDV3UXBqcWFlbDFNbEJfX1VUNmpDVWVyejFFOE9NSkdza2NWdmVrZHRWU2ZPNWd5YlMtTlhmbmxQbHFnRWNOcTRETS04cmRkMlBhVFJnOUxSRzhMdnhPQlRGakR2ZXJycFF6YndBOWc3WWxoZw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "846871e35bf0494c7732",
@@ -745,18 +865,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nThe Boho Market at Community Beer Co.\n\nSource: Dallas Observer\nRead more: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDdLSF81RHhsUkNSbFR5NHlxaXdlMzVFaUlQSk5BbzlCc1BjVUk3MzY2XzNLR0NmUzVFM1FPMzBqZVpjNWNrS0gxWUI2RkR0bGI0ZFVocl9ZLU5xMGFrUld4anhtb1A3bko3ekp4cWFPazVOSl8wMFlidHlnbDROUVUta3FNaFMyMnlj?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "0cc749af335ad4f5d119",
-      "title": "Utah Jazz vs Dallas Mavericks Nov 6, 2026 Game Summary",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Yc2hlTGd6NGZTZjVDV3hMMDN3U045QXFQZ3RWbVd0T1dvVmZkaUR1eF9wUDlkdkRJRmVjWUpLMkljYzhBQ2cyRHU1bjJCc2ZlMV9wb3JLdmtLR25FT2lZTTBRa1B3LWhqcXR5TlZjZ3FYSzQ?oc=5",
-      "source": "NBA.com",
-      "summary": "Utah Jazz vs Dallas Mavericks Nov 6, 2026 Game Summary NBA.com",
-      "published_at": "2026-10-17T06:27:18+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nUtah Jazz vs Dallas Mavericks Nov 6, 2026 Game Summary\n\nSource: NBA.com\nRead more: https://news.google.com/rss/articles/CBMic0FVX3lxTE5Yc2hlTGd6NGZTZjVDV3hMMDN3U045QXFQZ3RWbVd0T1dvVmZkaUR1eF9wUDlkdkRJRmVjWUpLMkljYzhBQ2cyRHU1bjJCc2ZlMV9wb3JLdmtLR25FT2lZTTBRa1B3LWhqcXR5TlZjZ3FYSzQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "96231dd33c2e545679d7",
@@ -831,28 +939,16 @@
       "caption": "🚒 FIRE — DFW\n\nCould your car catch fire while parked? Millions face ‘park outside' recalls\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzRwM1FkeWNtb3JCZXd1cURmdWNqQTJDblFJVnNGMXVZS24zWm1MaDlVSmdaV0t4Q1JOTW82WEM0cWc5dW9hOWpFbHdpV3JpRy1wMG1oYWlxU3Y3enpKR2g3ZXd5MVhFbGZrdmo0el9EMFV4VGhNQW1WUWpubUo3OVI1SXVGUFFxZVJPRGE0X0RJTk9ZRmp4RmdjU1hIb2wtYUY3Nl9OOXpPN05qaG84WGgxSW9weFpkSzk1dFNGd9IBxwFBVV95cUxORVBCemFYNTNzY25rUndqUXFicVQtdWxfWl9ycmxyNWJqMHpRd05ZWUZONTlFSUJXRGI3TUk0a1lVR1lUeU11NWhaaFZvSTFnSGxodE5tQWFHX2oyRTNqbUlFWHdlbTFQd0FLNlVHbGZ3dVhVNVB1bXY0alRZWTk3VC1Cc0s3XzJIWUdjamFwa2ZZZW00WDdfRUp2enY1dU1nYVpoZ1ZRUXBpWWZfelVuc2dyY2wxcWtzUTM1ZTVHQWhFeU1oMkVN?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "ae33d8e6d5ef9e7d735f",
-      "title": "UNT Dallas teacher residency program helps fill North Texas classrooms",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUM4RktoNTdsN3QyQl8tNk1KNXRicERUTmp3bnp6bEZEU0FJV2JqNkVmdjBtVWNER1kzRG1VTzRuTE50YVN5YlZ5MkY2NXhkMmJjZlVLeUk4cUt5aDlieHFxVXE5Wi1nQVFsMnZHNW9WTDJheU16a2ZjX2tEYjFOSUxpaVYtSmlOcWEyQkVLX2tSc3lNcXMyOW1SM0NSVXBKeUczS3dsWmFnb1E?oc=5",
-      "source": "CBS News",
-      "summary": "UNT Dallas teacher residency program helps fill North Texas classrooms CBS News",
-      "published_at": "2026-10-17T03:19:00+00:00",
-      "category": "Police",
+      "id": "dcbdcea029121933c93c",
+      "title": "Dallas weather: October 16 overnight forecast",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRbTd2SDJFc01WWDZYZWV5Sng5OUh2Ym5ZODVac1ZsVUJveHNLMFhKQVhMeGdvTlRERllydkxZRlIwRUZjdEZEdkQ1YnFKd1VrQm8zaHdoR2dEcGJGTHY2NtIBZkFVX3lxTE5JNHplNklwc3RGQTNmdmUtWUVaeUdVYnItSHBKMHp4ZHVMRjNVeExreUFrRmIwUVRqS0lJUUdRbXJaNjlEMENxeFdrandsSGFjUkNCazYxVFNVT3VESkd1bVUxUlB6dw?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Dallas weather: October 16 overnight forecast FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-17T03:07:06+00:00",
+      "category": "Weather",
       "thumbnail": "",
       "official": false,
-      "caption": "🚨 POLICE — DFW\n\nUNT Dallas teacher residency program helps fill North Texas classrooms\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcUM4RktoNTdsN3QyQl8tNk1KNXRicERUTmp3bnp6bEZEU0FJV2JqNkVmdjBtVWNER1kzRG1VTzRuTE50YVN5YlZ5MkY2NXhkMmJjZlVLeUk4cUt5aDlieHFxVXE5Wi1nQVFsMnZHNW9WTDJheU16a2ZjX2tEYjFOSUxpaVYtSmlOcWEyQkVLX2tSc3lNcXMyOW1SM0NSVXBKeUczS3dsWmFnb1E?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "0e03090f3a9846552584",
-      "title": "Langdon, Beckman, G. Stanfield, Herrera wrangle provisional No. 1 spots in Dallas",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3V6cGI1S3hyX0xBeXg5NnNsYzNuNkxvcnF4RExxcGxUTWJFNHIzYkpPNVhkSXBjS2NPeEdpb2tNUkNfQzlnYjhUa2NkUURFZVUyY3JXSkNabU1KWW9MOGxpZzluclVvYWF0Y2libnBBRlBjVS1oOU5lWnlPSzA3VkJwc1lpZTU1MnliVS13dWpYU3JFZ1B2bm9MeFpaMGEzZXFNb2ZSZw?oc=5",
-      "source": "NHRA",
-      "summary": "Langdon, Beckman, G. Stanfield, Herrera wrangle provisional No. 1 spots in Dallas NHRA",
-      "published_at": "2026-10-17T03:16:40+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nLangdon, Beckman, G. Stanfield, Herrera wrangle provisional No. 1 spots in Dallas\n\nSource: NHRA\nRead more: https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3V6cGI1S3hyX0xBeXg5NnNsYzNuNkxvcnF4RExxcGxUTWJFNHIzYkpPNVhkSXBjS2NPeEdpb2tNUkNfQzlnYjhUa2NkUURFZVUyY3JXSkNabU1KWW9MOGxpZzluclVvYWF0Y2libnBBRlBjVS1oOU5lWnlPSzA3VkJwc1lpZTU1MnliVS13dWpYU3JFZ1B2bm9MeFpaMGEzZXFNb2ZSZw?oc=5\n\nTexas News Roundup"
+      "caption": "🌪️ WEATHER — DFW\n\nDallas weather: October 16 overnight forecast\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRbTd2SDJFc01WWDZYZWV5Sng5OUh2Ym5ZODVac1ZsVUJveHNLMFhKQVhMeGdvTlRERllydkxZRlIwRUZjdEZEdkQ1YnFKd1VrQm8zaHdoR2dEcGJGTHY2NtIBZkFVX3lxTE5JNHplNklwc3RGQTNmdmUtWUVaeUdVYnItSHBKMHp4ZHVMRjNVeExreUFrRmIwUVRqS0lJUUdRbXJaNjlEMENxeFdrandsSGFjUkNCazYxVFNVT3VESkd1bVUxUlB6dw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "9e539241097bb91a66fe",
@@ -867,16 +963,16 @@
       "caption": "🚒 FIRE — DFW\n\nNorte Fire burns across 450+ acres in San Clemente, CA\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMijwFBVV95cUxQX3FHbFRnWFFRSkl1cFlGeDZSeHZwSzZKeGJUSUg4ZTk0bU9lUlI4TE9TMFg3QmJfMkJZSTBKN3pkeGZ2bUtXQXdlblBUQjRTaXZfRmRSaGhKenBjTUtDN3BWTjk0YjY3OVIyck9jY3BKSkthczVobUFVUERmbEVIcHlQaUlha0NvbVU1M0o5Y9IBlAFBVV95cUxQR3JFR3l4TEVvem0tYUR5R25GVHRTdzdfWTctcHJkcWd6enBNZHRyZ1ZLVzFWZmJMVFNnNFFJQklDUlZ3VnBrem1iN2ZjMlRaNnZSMlRpaVNMTVpZekFiQWQwOTFkQkdYeFhIcEdYRmRnZ2x0S1Flekx6OFhISjNvdThiQnZELTVLVmZNUHFIN0JqQTdC?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "9575f9f17a1ad85f3ca8",
-      "title": "Winners And Losers From The Atlanta Hawks' Blowout Preseason Win Over The Dallas Mavericks",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTY1ZHlaR1lFXzNFcUNhc2VIQWFSTktGZmJ2eS1fZlVmVUpkM21vQlhzZXh1bGFyamg1RHZFV3oybXQtRU9TMTZNRFlOSGZfV2ZjSnZkRlN1ZHV1SlBoZlZXSWdCTHhGSl9VdXpKcGJpOWF1aDhEVkhCbnNVTy1HYWZUNk14WmRTc3ZUY0U0bGwxendhTF82dTY0a25HUkx2TngtNjJvRGtfTUt2akE1MkVPVTBYU3o1Z3dXUmpJN0pNNHFnMGVkZGxNSnBkNmR4M0E?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Winners And Losers From The Atlanta Hawks' Blowout Preseason Win Over The Dallas Mavericks Sports Illustrated",
-      "published_at": "2026-10-17T02:52:29+00:00",
-      "category": "Sports",
+      "id": "70541b5a936ab92fa238",
+      "title": "Athlete supports cancer research in U.S. marathon challenge",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTVk8tZWJJMEVXZUtpT0VUVlFrVjZ5c0RGZHE4anNTc0pTTXRROEtkZzRIS3JmYnNXY2RhMUtxWklCNzFCZUhuY2JxYjRENXhJSUN5SE9hajFwcDkzTk1INNIBZkFVX3lxTE9TSlpQOS1GdUphczQwNWNUVkh3X2tKakdpQVQyUy14bFdYamZKZzBJb2JsWjk0TFZRT1ZVUmlOd2VkN0hreklRZWg0cDQyNlB0aUczcXFudFNLTllsUDdTZm9TMUlGdw?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Athlete supports cancer research in U.S. marathon challenge FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-17T02:56:12+00:00",
+      "category": "Police",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nWinners And Losers From The Atlanta Hawks' Blowout Preseason Win Over The Dallas Mavericks\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTY1ZHlaR1lFXzNFcUNhc2VIQWFSTktGZmJ2eS1fZlVmVUpkM21vQlhzZXh1bGFyamg1RHZFV3oybXQtRU9TMTZNRFlOSGZfV2ZjSnZkRlN1ZHV1SlBoZlZXSWdCTHhGSl9VdXpKcGJpOWF1aDhEVkhCbnNVTy1HYWZUNk14WmRTc3ZUY0U0bGwxendhTF82dTY0a25HUkx2TngtNjJvRGtfTUt2akE1MkVPVTBYU3o1Z3dXUmpJN0pNNHFnMGVkZGxNSnBkNmR4M0E?oc=5\n\nTexas News Roundup"
+      "caption": "🚨 POLICE — DFW\n\nAthlete supports cancer research in U.S. marathon challenge\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTVk8tZWJJMEVXZUtpT0VUVlFrVjZ5c0RGZHE4anNTc0pTTXRROEtkZzRIS3JmYnNXY2RhMUtxWklCNzFCZUhuY2JxYjRENXhJSUN5SE9hajFwcDkzTk1INNIBZkFVX3lxTE9TSlpQOS1GdUphczQwNWNUVkh3X2tKakdpQVQyUy14bFdYamZKZzBJb2JsWjk0TFZRT1ZVUmlOd2VkN0hreklRZWg0cDQyNlB0aUczcXFudFNLTllsUDdTZm9TMUlGdw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "1e8cfbfda7d47e6e458f",
@@ -1035,18 +1131,6 @@
       "caption": "🚒 FIRE — DFW\n\nFire seek to join Revolution in playoff field when teams meet\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMic0FVX3lxTFBmSENfTjR4TGZsQzNNMm9XMDUyQnJLMEYtRmk0SmRURlk2NkVIT3FmUjFKcTVqSXZxVkVYdkNhWkp6RVVCWWlhRWFvUmpEdHU1Zm1OSTJyZWJoZGRzVmQ3Sl9TRW9KcjdYVGZBejdBbV9wRnc?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "0d5ab1b0ef1b6cfb6148",
-      "title": "Dallas police release body camera video of the officer involved shooting at an Oak Cliff motel",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcy1XMURSQUVVdnZaVzFwV0JMbDkxcUxmVC1PazlfUkZFbFhYMEZCcHA2YUJpcW92TERTSFRxYXdReW1YMHFZRUtqNHoxNFdpa0JtWWY1ZGg2U0w5Z3ExVzFxU0std2MtQVQ2M0x0Tm1QWDhfRXR4MndSaHJDem1haUVPNU5xb2VWWnh0M1FUNlZ4QVJwS082Nm9KejJyQXN4N1AxQjBsMjl5ZV9FYnFzR0VIdm5oMjl6dzR1OVhaWmNZVnQxY0lsN1pacTRWcUZDRFBLWTVSRm5FVUVwOVpoZWpaVmgwUE1Pd2M3ZGZ4RnExMFJXZy1OYlZHNDJqNVI4b0Fz?oc=5",
-      "source": "WFAA",
-      "summary": "Dallas police release body camera video of the officer involved shooting at an Oak Cliff motel WFAA",
-      "published_at": "2026-10-16T23:25:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nDallas police release body camera video of the officer involved shooting at an Oak Cliff motel\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMigwJBVV95cUxNcy1XMURSQUVVdnZaVzFwV0JMbDkxcUxmVC1PazlfUkZFbFhYMEZCcHA2YUJpcW92TERTSFRxYXdReW1YMHFZRUtqNHoxNFdpa0JtWWY1ZGg2U0w5Z3ExVzFxU0std2MtQVQ2M0x0Tm1QWDhfRXR4MndSaHJDem1haUVPNU5xb2VWWnh0M1FUNlZ4QVJwS082Nm9KejJyQXN4N1AxQjBsMjl5ZV9FYnFzR0VIdm5oMjl6dzR1OVhaWmNZVnQxY0lsN1pacTRWcUZDRFBLWTVSRm5FVUVwOVpoZWpaVmgwUE1Pd2M3ZGZ4RnExMFJXZy1OYlZHNDJqNVI4b0Fz?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "be96347e257f43141552",
       "title": "Dallas police spokesperson under investigation",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnlLQ0NFalhiR2tEZ0x5SV96TC1CZExiVWFhejQ4RFh3MGNLckRGV2lCVDZjNGFIUGJodjBBRTQ4X1ZWWkxkaG9SdUVTNm1BbThqOHR0TzN2V0I3cDR6dlNsY3NCUkJqV25iOGJTWTJ3aHUtR3RCTUFOZFR3bk43WlJvb3QzYS1XUTI2c0xqZTdCWGI3dWFmWU930gGfAUFVX3lxTE85YS1UWUJ0WU9GSzB4Y0ROWjJoWnZsZ1FUY2NWd0pKcjJrZllxN3FTdkx2ck9iYmRlU21odmhyX2dHZ2FrdTF0d3l3YWlObTNzUmpIckJNeTJPUnRqdlZqSWJCNkJPdm9LUEpJNTRfSDN3WVVCeUhYdUo4M2ZiQ2wxd1NpSTdveV9OTTFnbmFCODFmM25md3VPR1VMMWhBcw?oc=5",
@@ -1057,18 +1141,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nDallas police spokesperson under investigation\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnlLQ0NFalhiR2tEZ0x5SV96TC1CZExiVWFhejQ4RFh3MGNLckRGV2lCVDZjNGFIUGJodjBBRTQ4X1ZWWkxkaG9SdUVTNm1BbThqOHR0TzN2V0I3cDR6dlNsY3NCUkJqV25iOGJTWTJ3aHUtR3RCTUFOZFR3bk43WlJvb3QzYS1XUTI2c0xqZTdCWGI3dWFmWU930gGfAUFVX3lxTE85YS1UWUJ0WU9GSzB4Y0ROWjJoWnZsZ1FUY2NWd0pKcjJrZllxN3FTdkx2ck9iYmRlU21odmhyX2dHZ2FrdTF0d3l3YWlObTNzUmpIckJNeTJPUnRqdlZqSWJCNkJPdm9LUEpJNTRfSDN3WVVCeUhYdUo4M2ZiQ2wxd1NpSTdveV9OTTFnbmFCODFmM25md3VPR1VMMWhBcw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "e19b7706dfb1cfda5d62",
-      "title": "Top Dallas police civilian media official under criminal investigation over alleged incident with motorist",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVHNVU1pLZmtuTWFuaDhvTWZjUjRBUGtZR3RXYnJOa3A1R1VHaWpudDRPXzg2T2NSSFExai1VdU1DUXVKaXR2bkJ2Wk5jbjRFVVpaRXptR2UxbFdKUE0xMGFINXFOVTZLWmI3STJXdUlHSGs4TlREcURGancyeGwtYkdnbnJqbDFRdVVtSEJTQkZQNGoyZzhaME1ITU5reS15d0FXSHF3TmluZ0NXbHhpQlNPWWhkRjlUTFBFSFV5SzNMNVhTa3ZvQm1TYmlYT1BCQmJIenduM0s2ejBTZGM5VmY0VjRRdUNHM2lwckppa0k2anAyWlVHcE1hMVpKTE1zWjhjZlNFRWhIUQ?oc=5",
-      "source": "WFAA",
-      "summary": "Top Dallas police civilian media official under criminal investigation over alleged incident with motorist WFAA",
-      "published_at": "2026-10-16T23:22:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nTop Dallas police civilian media official under criminal investigation over alleged incident with motorist\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiigJBVV95cUxOVHNVU1pLZmtuTWFuaDhvTWZjUjRBUGtZR3RXYnJOa3A1R1VHaWpudDRPXzg2T2NSSFExai1VdU1DUXVKaXR2bkJ2Wk5jbjRFVVpaRXptR2UxbFdKUE0xMGFINXFOVTZLWmI3STJXdUlHSGs4TlREcURGancyeGwtYkdnbnJqbDFRdVVtSEJTQkZQNGoyZzhaME1ITU5reS15d0FXSHF3TmluZ0NXbHhpQlNPWWhkRjlUTFBFSFV5SzNMNVhTa3ZvQm1TYmlYT1BCQmJIenduM0s2ejBTZGM5VmY0VjRRdUNHM2lwckppa0k2anAyWlVHcE1hMVpKTE1zWjhjZlNFRWhIUQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "7b707b379a3494d6788f",
@@ -1213,18 +1285,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nTop Dallas police spokesperson under investigation, chief says\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkpiNHVrNnN2Y0puOWRmWUFUc0tQUmpqX1RjOVZTQl80WG9uU1I1TzA0NnlzSFBKV0IyT3ZKRVdIdnIwbkh2V2xOSDUyeE4zTFZmUENPeWw0ZVNjT2xydXpYbFRzb2I4SHZsRG41UjExM1RPMkNzeFk0SVotakNoM3Y4bVJodGJPTUo3WnlaemF0c0gtYkI5TFV3bkxfZUVIamU5NnVsWWJNZjkwYjRMdTJ3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "b0383decc925bf60f222",
-      "title": "Arlington Fire Department Purchases Five Mobile Medical Units After 2026 World Cup",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUQ2aXhJOEs4M0pSN2g1R3VmTjFYMVpUOE40anNSQ2FaOFFrS2tIa0c2V2NENzZ0Um95bWtsXzBCalZuNE04QXB0ZWt3YnR6dzNVdy1qRUJXOUdrOVlFVVduZnpYUnBOQkxZS0IxZ0R5ODVHMmpkX3dmMU10c2xwREFJQWhXazhHaDVzcVozYk9XVTN5TlVya3RqTzVlR0hsSkZDMVk5NmlPTzZMYVlOWnNn?oc=5",
-      "source": "The National Law Review",
-      "summary": "Arlington Fire Department Purchases Five Mobile Medical Units After 2026 World Cup The National Law Review",
-      "published_at": "2026-10-16T21:58:31+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nArlington Fire Department Purchases Five Mobile Medical Units After 2026 World Cup\n\nSource: The National Law Review\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUQ2aXhJOEs4M0pSN2g1R3VmTjFYMVpUOE40anNSQ2FaOFFrS2tIa0c2V2NENzZ0Um95bWtsXzBCalZuNE04QXB0ZWt3YnR6dzNVdy1qRUJXOUdrOVlFVVduZnpYUnBOQkxZS0IxZ0R5ODVHMmpkX3dmMU10c2xwREFJQWhXazhHaDVzcVozYk9XVTN5TlVya3RqTzVlR0hsSkZDMVk5NmlPTzZMYVlOWnNn?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "be7dc124d80abf053111",
@@ -1887,6 +1947,18 @@
       "caption": "📍 COMMUNITY — DFW\n\nPastries, shawarma: Check out 6 Dallas-Fort Worth dining updates\n\nSource: Community Impact Newspaper\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQU5ZMTJnS200ZFAyUjQ3c2RCNzJSSVlHU1ZsLTVEcEJIckh6UXAwZHZHcE9jbTJDQUthbFhzLXJ3Sm5sQU0xalFmQ2xOZXN4UXYxcWUtLUVKVzRxOVBUZk8wWXE5WXpGZEphNm5wdXZVWG9HOUs0VEtpaWZVeU9YeVVRTWtWc2poOHR3UVYtSi05TldXNTVzYXBRUkNlY29mSVExbjRydVFWZHM?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "f9e20fcad0dcf7d4083d",
+      "title": "Plano police investigate fatal shooting on Middle Cove Drive",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOanBUVXc4ZjFOQmV4a0QwSXBMNmYweXRTVDZaUkgyMmNCV1BQVEp4ZHIydVRBX2FpSEEwSFozb1JjcjV0VGtOcEVWSHFEb1l6aW9naWdnc0Q1X0lub0cwb1lBVjB2OGRXV2xMOVRZMmJUYlowd3QtYlBJVldvcUxlWTJnOUNsQWtlVXQ3cklsUFlXQld1WXV0MVQxSjV5M2Y5RFA5UGd3?oc=5",
+      "source": "Dallas News",
+      "summary": "Plano police investigate fatal shooting on Middle Cove Drive Dallas News",
+      "published_at": "2026-10-16T00:02:58+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nPlano police investigate fatal shooting on Middle Cove Drive\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMipgFBVV95cUxOanBUVXc4ZjFOQmV4a0QwSXBMNmYweXRTVDZaUkgyMmNCV1BQVEp4ZHIydVRBX2FpSEEwSFozb1JjcjV0VGtOcEVWSHFEb1l6aW9naWdnc0Q1X0lub0cwb1lBVjB2OGRXV2xMOVRZMmJUYlowd3QtYlBJVldvcUxlWTJnOUNsQWtlVXQ3cklsUFlXQld1WXV0MVQxSjV5M2Y5RFA5UGd3?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "55e18bbcf7e8b17300c1",
       "title": "Dallas County poll workers prepare for the general election on Nov. 3",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFOR3p5NHlicXVLTjVNdkpuZUkzQmZDRVBxSGt6bzVrcXNXRkNzSjJlNFhsMHNSMXNEc3k5bUYxTDd0QXBUTHhlLTJjVUotQ1hCQkptLWNlTkRMZWp3VEh1aXpEeWxKQ1d2WDRDbl9YMUxlQ2taTXFlZk5ucXFjc2tJZ2swWGlLRnQ2aHA4LXNodkxLWS1FaS1CblNKY1ZNSmpTdXZuYkxpOWtDSzVNdFdiSnBuRnpOcC1FTnNn0gHGAUFVX3lxTE9NaEJ3OGhzblVwOE9XWW5XNmhsOUVjaGZDZXBtSC1KN29qbTY4Q3N5eXV0aktlNkN2LWdjQ0Z0NHY5SXltNm9uaGNfRVpLaXhSWHlYWW5kZDRhWmdlNjhzRE9lOHYtYVEzck9YclhyTC1JUGhtbUxMVk5ZSWFXc1FTc1ZvaVNuWkgyTWw0UXJRZFdzWjZyVnBPa1RCSDZHQXNQQkdtTFk0TnNWWGk5cE1sTHNtd0xFMm1xbFQydk9ZeEVlMWFXQQ?oc=5",
@@ -1899,6 +1971,18 @@
       "caption": "📍 COMMUNITY — DFW\n\nDallas County poll workers prepare for the general election on Nov. 3\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMivgFBVV95cUxONWFOR3p5NHlicXVLTjVNdkpuZUkzQmZDRVBxSGt6bzVrcXNXRkNzSjJlNFhsMHNSMXNEc3k5bUYxTDd0QXBUTHhlLTJjVUotQ1hCQkptLWNlTkRMZWp3VEh1aXpEeWxKQ1d2WDRDbl9YMUxlQ2taTXFlZk5ucXFjc2tJZ2swWGlLRnQ2aHA4LXNodkxLWS1FaS1CblNKY1ZNSmpTdXZuYkxpOWtDSzVNdFdiSnBuRnpOcC1FTnNn0gHGAUFVX3lxTE9NaEJ3OGhzblVwOE9XWW5XNmhsOUVjaGZDZXBtSC1KN29qbTY4Q3N5eXV0aktlNkN2LWdjQ0Z0NHY5SXltNm9uaGNfRVpLaXhSWHlYWW5kZDRhWmdlNjhzRE9lOHYtYVEzck9YclhyTC1JUGhtbUxMVk5ZSWFXc1FTc1ZvaVNuWkgyTWw0UXJRZFdzWjZyVnBPa1RCSDZHQXNQQkdtTFk0TnNWWGk5cE1sTHNtd0xFMm1xbFQydk9ZeEVlMWFXQQ?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "8748094a9efa0ef306ac",
+      "title": "Pride In Dallas was a weekend of unabashed joy for Texas’s Queer community",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWlhCQ0Rmby1jc3U0RDRHa0g0RndZNUJrdGRMQkM1R1QtY2dJZWhUclRwVzhRNHM1QzVnNC1zNG1mekxrRDNqQkVLTUdvWTR6NzZHX0xhdUpHRTZQeXM1X0F2UnVaeVlqMkZiaU03T2w3cnNqUDFXT29IRWx0QzZBQVhwTWlCNGpJOW11eHl0bU1veGxrM3dzTng3RlZqZ3FfUXhsWEM3ZzNLaVZzRjNNTjJTQlZVQjZUaC1XM3lHdlRmX2xsLWpsajVYenFNYl9PRXFtWGJTYmwyWmwyaHVv?oc=5",
+      "source": "Seattle Gay News",
+      "summary": "Pride In Dallas was a weekend of unabashed joy for Texas’s Queer community Seattle Gay News",
+      "published_at": "2026-10-15T23:42:43+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nPride In Dallas was a weekend of unabashed joy for Texas’s Queer community\n\nSource: Seattle Gay News\nRead more: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWlhCQ0Rmby1jc3U0RDRHa0g0RndZNUJrdGRMQkM1R1QtY2dJZWhUclRwVzhRNHM1QzVnNC1zNG1mekxrRDNqQkVLTUdvWTR6NzZHX0xhdUpHRTZQeXM1X0F2UnVaeVlqMkZiaU03T2w3cnNqUDFXT29IRWx0QzZBQVhwTWlCNGpJOW11eHl0bU1veGxrM3dzTng3RlZqZ3FfUXhsWEM3ZzNLaVZzRjNNTjJTQlZVQjZUaC1XM3lHdlRmX2xsLWpsajVYenFNYl9PRXFtWGJTYmwyWmwyaHVv?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "6ca31567075b1480f455",
       "title": "South Dallas church engages community on $400M Dallas public safety bond ahead of vote",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdzk3ekw0LWYzT3dZeXQzdk54T3JLR0N0RXdlT2otZTJ4d2VYbEJ3MjVjSTJjWFQ4dVFTMjQ5SVBlT0RPNExFa1g4cklsWW1oR1g0Yjd1UGowQnZuWmF1V01sVkhMVHNBcktQZnk4U2xWdkxUVlJzUndCazBNNlJUX0VSaklyY25PaGZMTW8zMVdvdnR6RHJDcTNSdEJRREQ2Tl9PSUdCY0ZwOVJJQjBjQ3NJcFRfSElzVTY3ZW95SHp6T2I4ZklTMDkySG5JZFo4MW9Sd2Z1dXZfaC1OYWtsVWJaQ1dOd3dxNHNfS05ucXk5WktITC1EZGthRzB2QQ?oc=5",
@@ -1909,18 +1993,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚒 FIRE — DFW\n\nSouth Dallas church engages community on $400M Dallas public safety bond ahead of vote\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdzk3ekw0LWYzT3dZeXQzdk54T3JLR0N0RXdlT2otZTJ4d2VYbEJ3MjVjSTJjWFQ4dVFTMjQ5SVBlT0RPNExFa1g4cklsWW1oR1g0Yjd1UGowQnZuWmF1V01sVkhMVHNBcktQZnk4U2xWdkxUVlJzUndCazBNNlJUX0VSaklyY25PaGZMTW8zMVdvdnR6RHJDcTNSdEJRREQ2Tl9PSUdCY0ZwOVJJQjBjQ3NJcFRfSElzVTY3ZW95SHp6T2I4ZklTMDkySG5JZFo4MW9Sd2Z1dXZfaC1OYWtsVWJaQ1dOd3dxNHNfS05ucXk5WktITC1EZGthRzB2QQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "fcd2dd7b9e826cd6fbf9",
-      "title": "McDonald’s to spend millions on construction boom across North Texas",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORms2V3BzWW4tTEI2WDhWY3B5VFZXWHZnWjlCODlmdWwzMlBlWkpDcjZDTkV6MWJ5VXctVGRBc2pSNXJEWHJZQ0JKYVNPTXVJVHV1aHhabVFBcVVmbDFRU1NMdlRfLTg5T0dqX1VIMlZEa296MnBPWER2aGZoNmxrVDdhX3VKaENaSFY5U25rcjhQdk9EUEhzWUcxMXphSDhMeE9rRnRHNm5QS28?oc=5",
-      "source": "Fort Worth Report",
-      "summary": "McDonald’s to spend millions on construction boom across North Texas Fort Worth Report",
-      "published_at": "2026-10-15T22:44:05+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nMcDonald’s to spend millions on construction boom across North Texas\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxORms2V3BzWW4tTEI2WDhWY3B5VFZXWHZnWjlCODlmdWwzMlBlWkpDcjZDTkV6MWJ5VXctVGRBc2pSNXJEWHJZQ0JKYVNPTXVJVHV1aHhabVFBcVVmbDFRU1NMdlRfLTg5T0dqX1VIMlZEa296MnBPWER2aGZoNmxrVDdhX3VKaENaSFY5U25rcjhQdk9EUEhzWUcxMXphSDhMeE9rRnRHNm5QS28?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "2ae2d86e9c26fe3ba964",
@@ -1947,30 +2019,6 @@
       "caption": "📍 COMMUNITY — DFW\n\nRising costs fuel food insecurity concerns across North Texas communities\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMirwFBVV95cUxOQU5neTlLVG55ZUI5ZEt3eTBNV05kb0N4Zk5wQUFDcS1pUVN3algtMWxfTzEzdzd0NGpWTllma1VXdUpXVmNwVHRLOXdUNXd1ZXBFeWhoc2x6VGtVeWR1NXoxcUxKcVNhMUE1UkJBVXhsNGxHWVV6QUwtZHhzLVFEOXZVUGhMbWNVWU93UGo1ODRBZE42RFFEa3Z5bXpuNmVzcGE3elZhaUNNbHVzWGhB?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "b341501187dfa3c879db",
-      "title": "Plano ISD To Contribute Up to $250 Million Toward Dallas Stars Arena",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzI4YzZna2xUN2JHcVkwZ2JFYURicFhDT1dDZUNZa2l3MGV1Q3poajVrdy16b1JoRW03cmVoOGp0cDdZNmMtTy1FYXJxUVRMVmNXRWlMcDNmMW54bnhZNWxkRkNkM0tjR2lJbmNKQnZFZDVFVm5Ia0VaV1U2RG9OOTFYRk1GSTNIZmpKVFdXTnNZcFZZZmxxRl9MMlo4bWhWRk84?oc=5",
-      "source": "Texas Scorecard",
-      "summary": "Plano ISD To Contribute Up to $250 Million Toward Dallas Stars Arena Texas Scorecard",
-      "published_at": "2026-10-15T22:17:25+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nPlano ISD To Contribute Up to $250 Million Toward Dallas Stars Arena\n\nSource: Texas Scorecard\nRead more: https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzI4YzZna2xUN2JHcVkwZ2JFYURicFhDT1dDZUNZa2l3MGV1Q3poajVrdy16b1JoRW03cmVoOGp0cDdZNmMtTy1FYXJxUVRMVmNXRWlMcDNmMW54bnhZNWxkRkNkM0tjR2lJbmNKQnZFZDVFVm5Ia0VaV1U2RG9OOTFYRk1GSTNIZmpKVFdXTnNZcFZZZmxxRl9MMlo4bWhWRk84?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "1021ea18eb397483d49a",
-      "title": "Family remembers 17-year-old killed in North Texas crash",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLTUweTlsU2FfbXdMZUVwUGVoT0toQnE5c1FoanZicU5aLVdzMklNZEt2NW5wdFpEVTVkUl8yX05tVGhRWjFDMWtZTm1nazljalZ1QkcxRmRSb0ZLSVZvcDhrU1Fza1QzRzRZRFVxTEJadWQyei1ucVA3ZG9vQkgzTWdoNHZGSm8yZ192QnJ0bWR3ZTdMaFhLYXFfTkJmbUlvM0ZLR21zdURJTWZiQy15WmNrRnVtcFUzZ2phRUdZc1FRbEEyUDBBSmIwTFhtMXRCWHNBT2FwbEJja1l6blNDRw?oc=5",
-      "source": "WFAA",
-      "summary": "Family remembers 17-year-old killed in North Texas crash WFAA",
-      "published_at": "2026-10-15T22:15:00+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nFamily remembers 17-year-old killed in North Texas crash\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLTUweTlsU2FfbXdMZUVwUGVoT0toQnE5c1FoanZicU5aLVdzMklNZEt2NW5wdFpEVTVkUl8yX05tVGhRWjFDMWtZTm1nazljalZ1QkcxRmRSb0ZLSVZvcDhrU1Fza1QzRzRZRFVxTEJadWQyei1ucVA3ZG9vQkgzTWdoNHZGSm8yZ192QnJ0bWR3ZTdMaFhLYXFfTkJmbUlvM0ZLR21zdURJTWZiQy15WmNrRnVtcFUzZ2phRUdZc1FRbEEyUDBBSmIwTFhtMXRCWHNBT2FwbEJja1l6blNDRw?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "e06f77c5bdbb24ce4eaf",
       "title": "PREVIOUS COVERAGE: Teen shot and killed in Plano alleyway",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN1g4dEQ2Qm5UOTZRZkRWX3h5SFBTcVg2MDA0RDBTV1BMMFVzY240QkdfUy1UWDBGeDZRWUJuTXBMU19teWU5TWdDR0xtQk8wQWVETHFBZHBxc1NwZVRiZU93ZC1xYWF0alpmenJ6emdtYUR1ekhnbVNEcWppa0tPcWZEa3AzVldwdjUtU3BIblPSAZYBQVVfeXFMTzBsOGtoWWlPUklSVEMxUXBvLTJWSTVCV0RBTW9zY3NIOV9acWc3MXYzdTdaSHNZakhyWnR2Q1FJT3kzc25ZN2tNV3hGM3RISnp3WGZZdE1HX09wZ3VHd0FsQ3pSb2tsWHZhS0Nsa0FXYUhxd2xiNk5NQ1dYSGJXTWp6ZTRYR29sQVpoR1ctRW1tTXUwUkZR?oc=5",
@@ -1993,6 +2041,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nDallas leaders debate safety bond package\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMijwFBVV95cUxONndsanl4LUtJWUItdEJVSFdMQnNwbURBd2h1WWE3cngtZHZ2SHc3dGZydnkxY3NIaTQxUG15SXcwZTVwYmRnMEhfN3puZE1DT09PbFB2R0lYRHF1c0ZFOE1PSTVBT1dRbjNHeTc5ZVhTdHdYLU5vMXNXNi1IMHFPbmRWREc3U1hSZWxXSHpCRdIBlAFBVV95cUxOdUpkZ1ZkV0JhVTNZUXYwYkdMSGgyWXFoT1otME1UUXJuVWZGZFVrYzQtUlQweVoyWkJFZ3N2enkzNHM0WWF4ZDFJNUp5WEF0M0N5NTJfRGxaUmtzNnlsWllSQTZEb1N0dWZxcWtFYmdldGVTbnUwNlhlX3VRMHVUSzd5dDI4N1FsQktpcklOaTg0NEI0?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "71df3bc7e970f40fc479",
+      "title": "The Shops at Willow Bend looking to shutter mall and start demolition in months",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVlVQ0Q1X2hPNS14czhKdkY2RGpkdm4taktvX3VqaFowazdqdTdyNkJPc3RXQk52WjJvY0VhdHZQaGJDNDF5Y1dLMGtDNkRPVFV3RkFmelFsb2VSb25tVi1MREdzcjQ2MGVJbXFUZzl5UXNac0QwRFl6WWZtX1pUVE16bnJPTzNMbFFHbVFPUjNoemxuNFdUV0pnNDMwSnE0XzRSaUJsVDU5Q1p6b2VQQ0ZsOA?oc=5",
+      "source": "Dallas News",
+      "summary": "The Shops at Willow Bend looking to shutter mall and start demolition in months Dallas News",
+      "published_at": "2026-10-15T21:03:57+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nThe Shops at Willow Bend looking to shutter mall and start demolition in months\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxNeVlVQ0Q1X2hPNS14czhKdkY2RGpkdm4taktvX3VqaFowazdqdTdyNkJPc3RXQk52WjJvY0VhdHZQaGJDNDF5Y1dLMGtDNkRPVFV3RkFmelFsb2VSb25tVi1MREdzcjQ2MGVJbXFUZzl5UXNac0QwRFl6WWZtX1pUVE16bnJPTzNMbFFHbVFPUjNoemxuNFdUV0pnNDMwSnE0XzRSaUJsVDU5Q1p6b2VQQ0ZsOA?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "ea85ae7430ea58a7b2e9",
@@ -2029,18 +2089,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nLong-planned Dallas community center in Joppa moves ahead\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMixAFBVV95cUxQWS1JT0N5VzZQNDJYcmVRQWs4TW5scDlYSjFTWjdodHNVVE1HZjlfVk1iTE4zNVdjSDk3Q1pHckIyeFFfTlVGUlZDdkF2dlZoOTNScUpuV1YxV3BOUE90ay1YbURnZm1FdFhVZUYtc3FialFnWjJlcG1WUjZwanZ2aHAwM1pYakhLbjFEVkpqMlVSS21rQlNUWHVWX2UwelJHckZmME5ES3cyNkVBbDBuMFM0WjdWQzRYVTBfR0JXeUZiTVpP?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "720b11d728cfe185669f",
-      "title": "Rock the Block: WFAA, Dallas Area Habitat for Humanity launch partnership to celebrate and invest in Joppa neighborhood",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOG1uOWppWTRYeVUzZnVEZF9wQVlDU0xjMkNiZ20yaHZtUVF6TG1tMDVSaGhtTkY5dk1aeGNwNk5pZ1NmdjFYdkkzcG9vT2pFTkJmeXpFd0txbUZCekJBcHBEV05ueFVmQm5hdG1jNWJ2a1FSMm9FeE9reFIzaW91RDhXWkZ0Ymd3SXNidXJTMEt6QTR6RnJWU21IZzJuODc4aVlCV1RUdjVlTk1jNVdIUU1sTUNSQ3dGaG9PTXdpMWxwa1BoYlFWSE5wYw?oc=5",
-      "source": "WFAA",
-      "summary": "Rock the Block: WFAA, Dallas Area Habitat for Humanity launch partnership to celebrate and invest in Joppa neighborhood WFAA",
-      "published_at": "2026-10-15T18:00:00+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nRock the Block: WFAA, Dallas Area Habitat for Humanity launch partnership to celebrate and invest in Joppa neighborhood\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiywFBVV95cUxOOG1uOWppWTRYeVUzZnVEZF9wQVlDU0xjMkNiZ20yaHZtUVF6TG1tMDVSaGhtTkY5dk1aeGNwNk5pZ1NmdjFYdkkzcG9vT2pFTkJmeXpFd0txbUZCekJBcHBEV05ueFVmQm5hdG1jNWJ2a1FSMm9FeE9reFIzaW91RDhXWkZ0Ymd3SXNidXJTMEt6QTR6RnJWU21IZzJuODc4aVlCV1RUdjVlTk1jNVdIUU1sTUNSQ3dGaG9PTXdpMWxwa1BoYlFWSE5wYw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "9823a47cdc3d6aa86c6a",
@@ -2151,16 +2199,28 @@
       "caption": "🚒 FIRE — DFW\n\nFort Worth Cadillac Dealer EV Fire Burned 17 Hours, 33 Minutes\n\nSource: The Auto Wire\nRead more: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYTI1SklwSnBLNHcwcnkwZU9uNVJvbWRZZm1FcGFfeXVBeW5ONFhYM2NPQXJoU3BKcnZBT01rS2lKRVVjTEhhY0c0eUptR0hTd1I5RHlrY2VmS1c0c2RpYkxSMjR6OTFvdGJXbENvd18xTWdFQUdsWm9zN1ptQTBYVWs2TXd4eTAy?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "3942c7ed01b42c734a3e",
-      "title": "Shooting investigation in Fort Worth",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0IzWmxnZ2NkOUcyRFhPTTRKeGh0UFRGUUZMbm5XT043OUFSUnNaNHBMNnVUMEtVd09jZHgwY0tTdXBab18teGVodDhmRDhCcDdJYkJaUGJCZ1R5YW9kOGduS2k4SDZZY29va3dvZy1MSlg2UmZWVW4xRUxyRHFHT3RQaVk1NUFFZk5YdVBn0gGWAUFVX3lxTE85SUltOWt4U1RKWVZ6Mll0TUozaEhOTGh0ZG44Z0xobXpaMmlWNmtKbC1IMzBUcGd3elVLeVRuamRhRTFlbTJ1bkdYa2RDSUV5Sm5RdUVvenpWSHNaQXpoNmhfbzBmbHdoWXAwaUZBRW5vajJ1OHVJVUJibXdYWnJoQ1ZIbkNUeVBlSjZEaDBmcndsWVJIQQ?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "Shooting investigation in Fort Worth NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-10-15T14:41:31+00:00",
-      "category": "Police",
+      "id": "bfa94a3d6a20ce3053ac",
+      "title": "Mayor Mattie Parker Rolls Out Conservancy Initiative for Fort Worth's Natural Areas",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fMVRhNmFMZVFUclVoNHl5RV82MjRwel9aLVZ0Q2x5OEFTdzJQazdKLTVJU1Bqd3RUVUQ5VFgtWkU3QVFscDBxam1QY0RnbVFqcEdVemFlMzU5SkxpT2NNWV84ZDdkOVhOUUxMNVpfaw?oc=5",
+      "source": "Fort Worth Magazine",
+      "summary": "Mayor Mattie Parker Rolls Out Conservancy Initiative for Fort Worth's Natural Areas Fort Worth Magazine",
+      "published_at": "2026-10-15T15:00:02+00:00",
+      "category": "Community",
       "thumbnail": "",
       "official": false,
-      "caption": "🚨 POLICE — DFW\n\nShooting investigation in Fort Worth\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0IzWmxnZ2NkOUcyRFhPTTRKeGh0UFRGUUZMbm5XT043OUFSUnNaNHBMNnVUMEtVd09jZHgwY0tTdXBab18teGVodDhmRDhCcDdJYkJaUGJCZ1R5YW9kOGduS2k4SDZZY29va3dvZy1MSlg2UmZWVW4xRUxyRHFHT3RQaVk1NUFFZk5YdVBn0gGWAUFVX3lxTE85SUltOWt4U1RKWVZ6Mll0TUozaEhOTGh0ZG44Z0xobXpaMmlWNmtKbC1IMzBUcGd3elVLeVRuamRhRTFlbTJ1bkdYa2RDSUV5Sm5RdUVvenpWSHNaQXpoNmhfbzBmbHdoWXAwaUZBRW5vajJ1OHVJVUJibXdYWnJoQ1ZIbkNUeVBlSjZEaDBmcndsWVJIQQ?oc=5\n\nTexas News Roundup"
+      "caption": "📍 COMMUNITY — DFW\n\nMayor Mattie Parker Rolls Out Conservancy Initiative for Fort Worth's Natural Areas\n\nSource: Fort Worth Magazine\nRead more: https://news.google.com/rss/articles/CBMib0FVX3lxTE9fMVRhNmFMZVFUclVoNHl5RV82MjRwel9aLVZ0Q2x5OEFTdzJQazdKLTVJU1Bqd3RUVUQ5VFgtWkU3QVFscDBxam1QY0RnbVFqcEdVemFlMzU5SkxpT2NNWV84ZDdkOVhOUUxMNVpfaw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "f68c31a98a87096284a5",
+      "title": "Pride In Dallas was a weekend of unabashed joy for Texas’s queer community",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdkE1dGFSQnNKRmhlajhERURKM2RFdDFLSURPYXN1dlZOejBjcEJPX3FXeVY4QnlZaDU4Rk8yazE2a3lHU3hsT2xkLXNNN0xaQnY2ZjU5bFNhLS1XZWNuWFRaMjFWUmcwb0xSY20xQlhUYWowMXVJWFdHVml1RDQ4bmZiLVdRWERPN2p6elZweGt3R1FjeXVnd1dfc3lqaGsxcjA2UWdiaF9lQ3ZSQ3IxdU54d01xNzZE?oc=5",
+      "source": "Washington Blade",
+      "summary": "Pride In Dallas was a weekend of unabashed joy for Texas’s queer community Washington Blade",
+      "published_at": "2026-10-15T13:47:05+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nPride In Dallas was a weekend of unabashed joy for Texas’s queer community\n\nSource: Washington Blade\nRead more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdkE1dGFSQnNKRmhlajhERURKM2RFdDFLSURPYXN1dlZOejBjcEJPX3FXeVY4QnlZaDU4Rk8yazE2a3lHU3hsT2xkLXNNN0xaQnY2ZjU5bFNhLS1XZWNuWFRaMjFWUmcwb0xSY20xQlhUYWowMXVJWFdHVml1RDQ4bmZiLVdRWERPN2p6elZweGt3R1FjeXVnd1dfc3lqaGsxcjA2UWdiaF9lQ3ZSQ3IxdU54d01xNzZE?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "318e42f2191f6be22e78",
@@ -2305,42 +2365,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚒 FIRE — DFW\n\nTeen found shot dead in alley behind Plano home\n\nSource: AOL.com\nRead more: https://news.google.com/rss/articles/CBMifEFVX3lxTE9PcVNndWgzbmY2bC1HSjBTdGwyVlZXNGZlOVJjRlZ3bDBxUE95ZGhUYVdaaWMzMnlpNHE1aFJzQ0JXMWlzS21kRU5oOWxNNTdRc2Y3OGp5cGY2UE44bGR5bWZHUEtBRmNPb3oxeU11NjMtWEs5SFlKMlgxakU?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "7de800898e7e3980a022",
-      "title": "Tarrant County judge vows to keep prioritizing public safety, lowering taxes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObUt5VU1pb0lHeS00eWxmYVhOUkl4ZUkyUU1MTWJLVy05ZGFEQW1WOEY3SzdLYTlYNnZtZ1BIOG05MEI2Ym9RUVdrLTBWT3piQS02YTNnZ0hFcF9rZnBBb2hDY0ZLcEhGejRVOUZmT0RyV1h2Q005SlI1U01zaXZzWkFkSkFESVBrV2lJRDVTSnVqSWkzampHc0lKb0tsUG9weGprbzlCaHpMNWVzMXV2ME9Od2UxQQ?oc=5",
-      "source": "Fort Worth Report",
-      "summary": "Tarrant County judge vows to keep prioritizing public safety, lowering taxes Fort Worth Report",
-      "published_at": "2026-10-14T23:10:37+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nTarrant County judge vows to keep prioritizing public safety, lowering taxes\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMitgFBVV95cUxObUt5VU1pb0lHeS00eWxmYVhOUkl4ZUkyUU1MTWJLVy05ZGFEQW1WOEY3SzdLYTlYNnZtZ1BIOG05MEI2Ym9RUVdrLTBWT3piQS02YTNnZ0hFcF9rZnBBb2hDY0ZLcEhGejRVOUZmT0RyV1h2Q005SlI1U01zaXZzWkFkSkFESVBrV2lJRDVTSnVqSWkzampHc0lKb0tsUG9weGprbzlCaHpMNWVzMXV2ME9Od2UxQQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "e783f9322ddac402f748",
-      "title": "TRAVEL Pride in Dallas was a weekend of unabashed joy for Texas’ queer community",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUk4wUVJWUTBQUkxLLU5SVkVWSFV0NFNfWDJwZUU3YlZOdktWb05IWTBnVDhOX2w4U25JZmFqUTZSaFhRaXlGRHZMRXgwb2o2ODVOMUN0MDVIZW5EY2JEM1UwVXFieHNBeVF4NzBVZmk0NFQxTGZlVFFVSUtYOWUwaWJ3SV9xcjRWblROSnZqSlJrdjlhVUg2aG5UMXMwU1lSeURmZERNcG83Y0J2dFBpY3V0Z0lZdGFGekE?oc=5",
-      "source": "Windy City Times",
-      "summary": "TRAVEL Pride in Dallas was a weekend of unabashed joy for Texas’ queer community Windy City Times",
-      "published_at": "2026-10-14T22:16:15+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nTRAVEL Pride in Dallas was a weekend of unabashed joy for Texas’ queer community\n\nSource: Windy City Times\nRead more: https://news.google.com/rss/articles/CBMiugFBVV95cUxQUk4wUVJWUTBQUkxLLU5SVkVWSFV0NFNfWDJwZUU3YlZOdktWb05IWTBnVDhOX2w4U25JZmFqUTZSaFhRaXlGRHZMRXgwb2o2ODVOMUN0MDVIZW5EY2JEM1UwVXFieHNBeVF4NzBVZmk0NFQxTGZlVFFVSUtYOWUwaWJ3SV9xcjRWblROSnZqSlJrdjlhVUg2aG5UMXMwU1lSeURmZERNcG83Y0J2dFBpY3V0Z0lZdGFGekE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "9408f7f144309a65c9cd",
-      "title": "Fort Worth ISD's scripted lesson plans cause outcry",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTEySEJzUWswdGhjc3U2V3QtRGp2ZDQxejctNGxXZkE0SUF1SzlyMEhUajd6SE9Tbk9uc2FuWGRvSmphMjBENC11SGhBRXYwU2JHQVNGeVBzQm1Md3VlUkJ5V0pGaUJHOE9PLUR3NG1JN1V4cWVnZXg4RUxTWENTZUVnUzgwQ25JbFRITzQ2eHB1cG1OdjZjUzI1VFh5M3FYQTI4Z1prUGxEQm5fVS130gG0AUFVX3lxTE9KRmhYLTRBQ2dteUpVVmNudFVVeXZYUVpUcWM5bTB2cUNCd0RGQWtGOTFzbWV6ODRXR1liT0NvLWNjN3VaT3hxSW5YWnhWbWRtMlg1Vy1IWWlfMjF3MUROV0UtcUpUQ1V0U1Z5bzRmZFNPbEFQSmlpUzFIT3Vfdm16Nk1aN1BRZ3FIbDdIVGJnNk5oYVZ6blUweDd4eVQ5LTBqeEJ6Z2NJcFA4Q2JKMnU5a0lBbg?oc=5",
-      "source": "FOX 4 News Dallas-Fort Worth",
-      "summary": "Fort Worth ISD's scripted lesson plans cause outcry FOX 4 News Dallas-Fort Worth",
-      "published_at": "2026-10-14T22:07:53+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nFort Worth ISD's scripted lesson plans cause outcry\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMirwFBVV95cUxNMTEySEJzUWswdGhjc3U2V3QtRGp2ZDQxejctNGxXZkE0SUF1SzlyMEhUajd6SE9Tbk9uc2FuWGRvSmphMjBENC11SGhBRXYwU2JHQVNGeVBzQm1Md3VlUkJ5V0pGaUJHOE9PLUR3NG1JN1V4cWVnZXg4RUxTWENTZUVnUzgwQ25JbFRITzQ2eHB1cG1OdjZjUzI1VFh5M3FYQTI4Z1prUGxEQm5fVS130gG0AUFVX3lxTE9KRmhYLTRBQ2dteUpVVmNudFVVeXZYUVpUcWM5bTB2cUNCd0RGQWtGOTFzbWV6ODRXR1liT0NvLWNjN3VaT3hxSW5YWnhWbWRtMlg1Vy1IWWlfMjF3MUROV0UtcUpUQ1V0U1Z5bzRmZFNPbEFQSmlpUzFIT3Vfdm16Nk1aN1BRZ3FIbDdIVGJnNk5oYVZ6blUweDd4eVQ5LTBqeEJ6Z2NJcFA4Q2JKMnU5a0lBbg?oc=5\n\nTexas News Roundup"
     }
   ]
 }
