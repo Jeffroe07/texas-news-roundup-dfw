@@ -1,7 +1,379 @@
 {
-  "updated_at": "2026-10-19T05:15:36.120097+00:00",
-  "count": 219,
+  "updated_at": "2026-10-19T11:12:39.494966+00:00",
+  "count": 214,
   "stories": [
+    {
+      "id": "120f40a5c5769ac797d4",
+      "title": "The Dallas Morning News to host ‘Inside the Newsroom’ event Nov. 14",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2ZEZXhKZFEwYTB3b1JtNkNlWEtaemlDbmt4NUxsUVZ5ZUU2SkxyLVJyampydFRObVEyMzJpclpzLXZvMW52cFpCRGU1RFFWdEpDdFM5X1BxTEN1Q3BRbGl3U3hOVm8wNnU3UDB6eUYxclp2TGo5SVVzS1AtdmRiZUNHRXdkcnZnX2ZTQTNuX1JNbHlmbkNWY0lwV0JBa2ZBWnYxUU9ZbElmY2hVQzRYYzYzQQ?oc=5",
+      "source": "Dallas News",
+      "summary": "The Dallas Morning News to host ‘Inside the Newsroom’ event Nov. 14 Dallas News",
+      "published_at": "2026-10-19T11:04:12+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nThe Dallas Morning News to host ‘Inside the Newsroom’ event Nov. 14\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2ZEZXhKZFEwYTB3b1JtNkNlWEtaemlDbmt4NUxsUVZ5ZUU2SkxyLVJyampydFRObVEyMzJpclpzLXZvMW52cFpCRGU1RFFWdEpDdFM5X1BxTEN1Q3BRbGl3U3hOVm8wNnU3UDB6eUYxclp2TGo5SVVzS1AtdmRiZUNHRXdkcnZnX2ZTQTNuX1JNbHlmbkNWY0lwV0JBa2ZBWnYxUU9ZbElmY2hVQzRYYzYzQQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "d07555f39e34d9b3253b",
+      "title": "Man Dies After Harry Hines Drop-Off As Dallas Police Probe Two Homicides",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONi1LU1NQYldBRVJxaXhOc3FpRUprYTFpMFNIank3dEJELWtsOEVZdUlya3ByQ09lUkFmZkJPYWhobkdmTGVXUVBUZlA0WUhXRXphNGh6UmFKczhWa254Z25Ia29wVzhnZnlNazZDbGFybFFpbk9UUExQbTBuVGVVSUZpTmgyMGN0eTFkbmlMdUtfcnRSNWRQNGxHRVNSQVBYcVpPOWpDOXg?oc=5",
+      "source": "Dallas Express",
+      "summary": "Man Dies After Harry Hines Drop-Off As Dallas Police Probe Two Homicides Dallas Express",
+      "published_at": "2026-10-19T11:03:17+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nMan Dies After Harry Hines Drop-Off As Dallas Police Probe Two Homicides\n\nSource: Dallas Express\nRead more: https://news.google.com/rss/articles/CBMiqAFBVV95cUxONi1LU1NQYldBRVJxaXhOc3FpRUprYTFpMFNIank3dEJELWtsOEVZdUlya3ByQ09lUkFmZkJPYWhobkdmTGVXUVBUZlA0WUhXRXphNGh6UmFKczhWa254Z25Ia29wVzhnZnlNazZDbGFybFFpbk9UUExQbTBuVGVVSUZpTmgyMGN0eTFkbmlMdUtfcnRSNWRQNGxHRVNSQVBYcVpPOWpDOXg?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "77e788ce5fd161318c08",
+      "title": "Dallas Mavericks 2026-27 coach preview: Can Dusty May make the jump?",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWGJJLVlhUzFxMGpNTURoQkd2aW1nQTQxZ0J4bFMyaWdXRnJycWI5TTlEQzZuOEZiZDRYdjJTRElrZ2d4SmljMkFFRkcxWVRfNHE0R09MbUVUV3ZrMnpKc2lGTDNXN2JmTW1uSVQxY0FjeXU4NlFoLXhzM1hoNGgxaDV2Q1JjdjJUNEMtT05PVVZ1R2FRZk1zSmZIMnFQMTJKV2phYmpXUjJSMTBCQzJhbW5INHR4NDRwSUswUFdhVDhDU0U0RXpBUGtIeXR4MElH?oc=5",
+      "source": "Mavs Moneyball",
+      "summary": "Dallas Mavericks 2026-27 coach preview: Can Dusty May make the jump? Mavs Moneyball",
+      "published_at": "2026-10-19T11:03:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDallas Mavericks 2026-27 coach preview: Can Dusty May make the jump?\n\nSource: Mavs Moneyball\nRead more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWGJJLVlhUzFxMGpNTURoQkd2aW1nQTQxZ0J4bFMyaWdXRnJycWI5TTlEQzZuOEZiZDRYdjJTRElrZ2d4SmljMkFFRkcxWVRfNHE0R09MbUVUV3ZrMnpKc2lGTDNXN2JmTW1uSVQxY0FjeXU4NlFoLXhzM1hoNGgxaDV2Q1JjdjJUNEMtT05PVVZ1R2FRZk1zSmZIMnFQMTJKV2phYmpXUjJSMTBCQzJhbW5INHR4NDRwSUswUFdhVDhDU0U0RXpBUGtIeXR4MElH?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "16c63645989e8e46f2ec",
+      "title": "Texas Rangers free agency outlook: What are the options to upgrade on offense?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0Fid083N0hfMml4Z0FicU9sOVZEY1pUQmNBNjlqazJ0UG1lc2Z3eEtXRnEyQ09Manc1X29wMDVKNDBYaVZjN053bl9WNDlFbkljNWFjaHNhaTQ3SUtEYTd0bVd4SURqQV9CNkhLUzBuSENxcFNqQTAyQUZ0dkdDam5VSjRIdEthVldwWVFLVV9NMS1fdkYzS19Qell6YzRlby1mNTBDVQ?oc=5",
+      "source": "Dallas News",
+      "summary": "Texas Rangers free agency outlook: What are the options to upgrade on offense? Dallas News",
+      "published_at": "2026-10-19T11:00:59+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nTexas Rangers free agency outlook: What are the options to upgrade on offense?\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0Fid083N0hfMml4Z0FicU9sOVZEY1pUQmNBNjlqazJ0UG1lc2Z3eEtXRnEyQ09Manc1X29wMDVKNDBYaVZjN053bl9WNDlFbkljNWFjaHNhaTQ3SUtEYTd0bVd4SURqQV9CNkhLUzBuSENxcFNqQTAyQUZ0dkdDam5VSjRIdEthVldwWVFLVV9NMS1fdkYzS19Qell6YzRlby1mNTBDVQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "350986d3a0add87f642d",
+      "title": "Dallas County early voting locations and hours",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42SHp4cjBlNUw5eDd3OVI0cTZaOEQ1X1JINTlLXzdiTnZPMUhXOHA4LTJzYTZLNlJ5X0dUcUVFbnAtM0JwaGlWT0tWN0p6NTJwYVRHRG5PWjdEZ0NXSlRjS25MYUItRUhkT05mVkhn?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Dallas County early voting locations and hours FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-19T11:00:38+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nDallas County early voting locations and hours\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMibkFVX3lxTE42SHp4cjBlNUw5eDd3OVI0cTZaOEQ1X1JINTlLXzdiTnZPMUhXOHA4LTJzYTZLNlJ5X0dUcUVFbnAtM0JwaGlWT0tWN0p6NTJwYVRHRG5PWjdEZ0NXSlRjS25MYUItRUhkT05mVkhn?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b6b7d0f0b213e92b24c6",
+      "title": "Talarico's Comeback & Paxton's Tactics | Battleground Texas",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejlCRVl6MGpQeVpKTzh5VUxaeW0yelpaRWYzTUlUeDlpQUcydHRNUzZUMXZZdEJHTEpiX1N0Q1NFbUtDNEdEalpYNWg5RjFtcHBkMHpybnlSZV8zQy1TbzFrZ0xNUzdkRUJ1UUU0bmJnTXBwSnZ0US1TS21WYmFQWlpZYzQzei1Odmtaek91UUU0Nm9Icldj0gGcAUFVX3lxTE5ZZFJ6WWNaV1M3QnB1YXpjUWo3QTlUNVE4dVVOVFk5bUY5MThJaTJ3SjgxNGRFQ2laWWoyZTNQVkIzcmJFWFZXaVlabXJGRlBnVzlubk9DM2hYOEdYdGlaZjc0aU94QTVxNWQ0TEdGTXBXa1pFdG9rSElPbllwMU9OTldvbk5KTEk5dGpBQTkzZGR5VkZnSjhHU0RNag?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Talarico's Comeback & Paxton's Tactics | Battleground Texas FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-19T11:00:35+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nTalarico's Comeback & Paxton's Tactics | Battleground Texas\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMilwFBVV95cUxPejlCRVl6MGpQeVpKTzh5VUxaeW0yelpaRWYzTUlUeDlpQUcydHRNUzZUMXZZdEJHTEpiX1N0Q1NFbUtDNEdEalpYNWg5RjFtcHBkMHpybnlSZV8zQy1TbzFrZ0xNUzdkRUJ1UUU0bmJnTXBwSnZ0US1TS21WYmFQWlpZYzQzei1Odmtaek91UUU0Nm9Icldj0gGcAUFVX3lxTE5ZZFJ6WWNaV1M3QnB1YXpjUWo3QTlUNVE4dVVOVFk5bUY5MThJaTJ3SjgxNGRFQ2laWWoyZTNQVkIzcmJFWFZXaVlabXJGRlBnVzlubk9DM2hYOEdYdGlaZjc0aU94QTVxNWQ0TEdGTXBXa1pFdG9rSElPbllwMU9OTldvbk5KTEk5dGpBQTkzZGR5VkZnSjhHU0RNag?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "a862861f40e47644d65c",
+      "title": "Collin County early voting locations and hours",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGdlazdleHhMVjYyZXBwNlFaWElpZHVyOGhoemhNR0Q0cWdxX2NBT2tldEhjc3M2Y2xrR1VlZDR2VDc2azlud0ZuUGFnWEJ2QjRUSmo1T21Zall6UERMWTFORmFoSEdiWElJaU8yUGtOSElfeXFkc3d1Y2twcTBNOWN1NkgtNUxj?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Collin County early voting locations and hours FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-19T11:00:13+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nCollin County early voting locations and hours\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGdlazdleHhMVjYyZXBwNlFaWElpZHVyOGhoemhNR0Q0cWdxX2NBT2tldEhjc3M2Y2xrR1VlZDR2VDc2azlud0ZuUGFnWEJ2QjRUSmo1T21Zall6UERMWTFORmFoSEdiWElJaU8yUGtOSElfeXFkc3d1Y2twcTBNOWN1NkgtNUxj?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "9194c165a1a02e79cb01",
+      "title": "Cowboys news: Dallas drops second-straight game behind a flat offensive performance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0lqanRaUWRJMFlwMkR2Tmt5eENoMWRTaXpsWjZ4bTdoZTV6NXNuWVRqVEp0SkJNUjZ4RjhxVk1DS2toTGE2NGRGRC1lU1dMZklVZGxVcHF1dE1kUGdYU294SHAteG5TaGx6X2xOTkZFVnJjLUM3NERXSXlKSE1CMTJlTzhTZFV2MTBuekxSN2thNmxla1BaNkRhQ1FjaUc2Tm93ZDNRWF8ydFlIUjEySkt6eU5fYUNYSXF6ejR2bDdVdktpR2xuUVh2dGdIbHFj?oc=5",
+      "source": "Blogging The Boys",
+      "summary": "Cowboys news: Dallas drops second-straight game behind a flat offensive performance Blogging The Boys",
+      "published_at": "2026-10-19T11:00:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nCowboys news: Dallas drops second-straight game behind a flat offensive performance\n\nSource: Blogging The Boys\nRead more: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ0lqanRaUWRJMFlwMkR2Tmt5eENoMWRTaXpsWjZ4bTdoZTV6NXNuWVRqVEp0SkJNUjZ4RjhxVk1DS2toTGE2NGRGRC1lU1dMZklVZGxVcHF1dE1kUGdYU294SHAteG5TaGx6X2xOTkZFVnJjLUM3NERXSXlKSE1CMTJlTzhTZFV2MTBuekxSN2thNmxla1BaNkRhQ1FjaUc2Tm93ZDNRWF8ydFlIUjEySkt6eU5fYUNYSXF6ejR2bDdVdktpR2xuUVh2dGdIbHFj?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "67a0531ce1677fc4f47c",
+      "title": "Dallas hosts Boston after Hyry's 2-goal performance - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM3h5VU10a1JZRmFkUUpoS001Y2FQZlFEVkxpZGVQdVhONEZQb3NzQTNvMHJrN1Fnak43YTJ5Si1TRnRPWGxDZ09UNlNzUFRYUFlmeG9aSnNuUzVxMW9JZU9CQ2pCRGVfZ04zTlp0ZjJPallFVUJoZ0RkbkdLcFpaX2l3T0RvNFlHekZ6LTFKUmY5U1lZenZ3ZC1FYXpZQdIBowFBVV95cUxOT1hrWWd2Qk1lWW1TSklVVWVyVjRMdW9VeUk1Z1hBcC1xRl8wYjNobHhKTGdWd3htb2tTblJJWm1WRGg1U2lQb3lhN3BFbExLMG1PQWp4QlpjUUp5ZnlOUlJtT2VsbTJRRGNvRmhSRURkZnlWbUNCUjRpZWhLT1YzQzJESFIzVnZnMUpsTnRvWm1ob0tFc1pLUDI5dG9laDdDcExV?oc=5",
+      "source": "Breaking News, Latest News and Videos",
+      "summary": "Dallas hosts Boston after Hyry's 2-goal performance ABC News - Breaking News, Latest News and Videos",
+      "published_at": "2026-10-19T10:57:55+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nDallas hosts Boston after Hyry's 2-goal performance - ABC News\n\nSource: Breaking News, Latest News and Videos\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxPM3h5VU10a1JZRmFkUUpoS001Y2FQZlFEVkxpZGVQdVhONEZQb3NzQTNvMHJrN1Fnak43YTJ5Si1TRnRPWGxDZ09UNlNzUFRYUFlmeG9aSnNuUzVxMW9JZU9CQ2pCRGVfZ04zTlp0ZjJPallFVUJoZ0RkbkdLcFpaX2l3T0RvNFlHekZ6LTFKUmY5U1lZenZ3ZC1FYXpZQdIBowFBVV95cUxOT1hrWWd2Qk1lWW1TSklVVWVyVjRMdW9VeUk1Z1hBcC1xRl8wYjNobHhKTGdWd3htb2tTblJJWm1WRGg1U2lQb3lhN3BFbExLMG1PQWp4QlpjUUp5ZnlOUlJtT2VsbTJRRGNvRmhSRURkZnlWbUNCUjRpZWhLT1YzQzJESFIzVnZnMUpsTnRvWm1ob0tFc1pLUDI5dG9laDdDcExV?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "fda1da81efb7b8a46e9c",
+      "title": "Early voting starts in Texas today",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12cWZjMnhObHVIX29NRUcxNlE1alFRRkNnNi0tZzN1SVpNcUpIUDcxeGdEaC1pNFBtMW9HT3VpWTdQTlRDMHRFR0RjRGxDVTVPMExGMjZ5NV9Zb29nZDFYetIBZkFVX3lxTE9YZ2ZONExGWjRwZV93ekpfZ3RaUnVWT1c3RDNHbWNzY3VtZVZyTHJGdHJfN1hhRGJ2V0hCY0ZZZVA4M09nX2NVV1d1ektRU3hiMlozb2FCR2ZvZ05FdzB2eVI3OEltUQ?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Early voting starts in Texas today FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-19T10:56:30+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nEarly voting starts in Texas today\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTE12cWZjMnhObHVIX29NRUcxNlE1alFRRkNnNi0tZzN1SVpNcUpIUDcxeGdEaC1pNFBtMW9HT3VpWTdQTlRDMHRFR0RjRGxDVTVPMExGMjZ5NV9Zb29nZDFYetIBZkFVX3lxTE9YZ2ZONExGWjRwZV93ekpfZ3RaUnVWT1c3RDNHbWNzY3VtZVZyTHJGdHJfN1hhRGJ2V0hCY0ZZZVA4M09nX2NVV1d1ektRU3hiMlozb2FCR2ZvZ05FdzB2eVI3OEltUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "aa78e17084574458d6a7",
+      "title": "The Packers’ defense delivered the answer Dallas needed to see",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYW9FMXRUeWNablMtczFLRzAtdkFrLU5RWTZWVzU1SVRldlo5LWJlX2xiTkZCNW8tZHpIN2Z4MjZ4SFM4OGJBTDJPcC1DdTY2aWw2ZjVtd2E1UWpPT2tmb1p5MWRjX3M3SzYwUUY2LXJ1Qk5CdUFfeFJhdHB6VkNGdTdkUHVNSjFKMlJvWVNRVE5rUQ?oc=5",
+      "source": "Yahoo Sports",
+      "summary": "The Packers’ defense delivered the answer Dallas needed to see Yahoo Sports",
+      "published_at": "2026-10-19T10:38:27+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nThe Packers’ defense delivered the answer Dallas needed to see\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMikgFBVV95cUxPYW9FMXRUeWNablMtczFLRzAtdkFrLU5RWTZWVzU1SVRldlo5LWJlX2xiTkZCNW8tZHpIN2Z4MjZ4SFM4OGJBTDJPcC1DdTY2aWw2ZjVtd2E1UWpPT2tmb1p5MWRjX3M3SzYwUUY2LXJ1Qk5CdUFfeFJhdHB6VkNGdTdkUHVNSjFKMlJvWVNRVE5rUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "c757ada62d18ac105ead",
+      "title": "Dallas Weather: Dry week and warming temperatures ahead for DFW",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVc1OGE0cVNSRzZQVkVQV3F3QlUxd25ybXNUS3ZEZm43dEk3SzVKbXNxQ1lUbVhvMXk4c3g1VnUwNEtuQzBHVy1fZ3VHcEk1RkhqMnFsalFmYzh6NktzcjdyZ19FNG03ay0tQm92ZTZycXhGOFdYSlpsZnVUeU9LMHNLa0RLWFVVaUJRampLS1Q?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Dallas Weather: Dry week and warming temperatures ahead for DFW FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-19T10:35:48+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\nDallas Weather: Dry week and warming temperatures ahead for DFW\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVc1OGE0cVNSRzZQVkVQV3F3QlUxd25ybXNUS3ZEZm43dEk3SzVKbXNxQ1lUbVhvMXk4c3g1VnUwNEtuQzBHVy1fZ3VHcEk1RkhqMnFsalFmYzh6NktzcjdyZ19FNG03ay0tQm92ZTZycXhGOFdYSlpsZnVUeU9LMHNLa0RLWFVVaUJRampLS1Q?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "cd5c8dfb5e61fa3336de",
+      "title": "Brian Schottenheimer's message after Dallas Cowboys' loss to Packers ignores the real problem with the offense",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXJWWThuT2daUWRUdXpINFRicXUyTFozSzJsT1c5QTZKLUFCd3dnaHlGaU4wWXFPUW1abVVvVm1pd016MnpSMXhYTlVWc2FYa2JrSGFmTVAwNzBKX2ZCTEZHOE5ydEVDckFEdkN6dUlQYkxnU0dVZnkxQm9YbnY3by03by1Rd0Fib3M1NndsR0stOWVmMXNyMDhkM1F3Ry1Ha0U3ZnFBcjNoQ01WLWFhVEttVlE?oc=5",
+      "source": "A to Z Sports",
+      "summary": "Brian Schottenheimer's message after Dallas Cowboys' loss to Packers ignores the real problem with the offense A to Z Sports",
+      "published_at": "2026-10-19T10:30:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nBrian Schottenheimer's message after Dallas Cowboys' loss to Packers ignores the real problem with the offense\n\nSource: A to Z Sports\nRead more: https://news.google.com/rss/articles/CBMitAFBVV95cUxQLXJWWThuT2daUWRUdXpINFRicXUyTFozSzJsT1c5QTZKLUFCd3dnaHlGaU4wWXFPUW1abVVvVm1pd016MnpSMXhYTlVWc2FYa2JrSGFmTVAwNzBKX2ZCTEZHOE5ydEVDckFEdkN6dUlQYkxnU0dVZnkxQm9YbnY3by03by1Rd0Fib3M1NndsR0stOWVmMXNyMDhkM1F3Ry1Ha0U3ZnFBcjNoQ01WLWFhVEttVlE?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "54a6a4ede5d6e9204d80",
+      "title": "Dallas weather: October 19 morning forecast",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVTWlDQ0FkUWRpQUtMUWp5UkhCX1czSEpYaEtGeUFzdUo4S3A2andvZ3pLRnJZUWNIcXN2akN5X1BBZGs5U0FLN1N0Y0lrQXRmXzJmX0NxeFpyOWpNVi1nVdIBZkFVX3lxTFBFajRXMmhnUmh1cXhQdHFnLVFQM1BnS1Q4Q2VsTXo4dlcyZFl1TlVkaENPS3hiaFhYeUtMcHZZUVhwdU05bVY0bV9sU2d4NDdwTFJWeEdLMkQwaEhKZDBVUUJCVTVsZw?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Dallas weather: October 19 morning forecast FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-19T10:27:34+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\nDallas weather: October 19 morning forecast\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVTWlDQ0FkUWRpQUtMUWp5UkhCX1czSEpYaEtGeUFzdUo4S3A2andvZ3pLRnJZUWNIcXN2akN5X1BBZGs5U0FLN1N0Y0lrQXRmXzJmX0NxeFpyOWpNVi1nVdIBZkFVX3lxTFBFajRXMmhnUmh1cXhQdHFnLVFQM1BnS1Q4Q2VsTXo4dlcyZFl1TlVkaENPS3hiaFhYeUtMcHZZUVhwdU05bVY0bV9sU2d4NDdwTFJWeEdLMkQwaEhKZDBVUUJCVTVsZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "6dc4d32a2d861ca730aa",
+      "title": "‘Walking Soccer' group kicking it in Denton",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXF3c1pORkt6b2hhOURCUnVOMmRqT0xkbzA2eDU5TTlqLVVVWkJtMVhhUDIxaW13SGpJMjZQZ2lGNkRXNWphbTQ3eVlFcmU4TjBrcTlZUUFBNDBoY3JKSWZBZDJLN2xXOVJkWVo5T3dDN01zelNLbndKOWoyVGRqV2tFeVd4MWlmVjJnS3JJaXM2ZGk5N2hRYTA1V2d2eUlP0gGoAUFVX3lxTE0yTlJXbWxjTE5oNnNMUXh0TjNLanQxNE42Y21pNkJ0NDQ1S3NRVHlDWGxsaDlGd1dBcUJINFpVeWJYRVRBd2RJcEpsS3lpLWZCZXFobEhrbkdLZEtaZ1lOZzRhLVpxbUJWYkgtTlVyMFpkWXBHLTByOGwyc2ZyTkxmVlJ5M2kzNnlmZUJuSlgzbWtYc1JZMVk1VmE2UkNvdUxIVFkyOVRoSg?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "‘Walking Soccer' group kicking it in Denton NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-10-19T10:24:22+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\n‘Walking Soccer' group kicking it in Denton\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXF3c1pORkt6b2hhOURCUnVOMmRqT0xkbzA2eDU5TTlqLVVVWkJtMVhhUDIxaW13SGpJMjZQZ2lGNkRXNWphbTQ3eVlFcmU4TjBrcTlZUUFBNDBoY3JKSWZBZDJLN2xXOVJkWVo5T3dDN01zelNLbndKOWoyVGRqV2tFeVd4MWlmVjJnS3JJaXM2ZGk5N2hRYTA1V2d2eUlP0gGoAUFVX3lxTE0yTlJXbWxjTE5oNnNMUXh0TjNLanQxNE42Y21pNkJ0NDQ1S3NRVHlDWGxsaDlGd1dBcUJINFpVeWJYRVRBd2RJcEpsS3lpLWZCZXFobEhrbkdLZEtaZ1lOZzRhLVpxbUJWYkgtTlVyMFpkWXBHLTByOGwyc2ZyTkxmVlJ5M2kzNnlmZUJuSlgzbWtYc1JZMVk1VmE2UkNvdUxIVFkyOVRoSg?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "88d36c9ca5b5c44c105e",
+      "title": "Infant found dead next to dumpster outside of Fort Worth motel, police say",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQWxrX1JfVTBuMXBwZXVFdmhZaE56VWtfOHd0OWJ4STF2X1N1d0VJamVqQlJzcFhGczZwcnBqSDlEdGtXTlJwVGJpaFBTZFhKNUlHVkE0Z3RrTHN4QjFaT0VpNGFzdE9OR1RuWnY1VC1JX0JqeldiY0h0NUcyaDQ4WUwtVFZHc0VVcXFnN2p4TXl5ejdqaWJNYWl4bmI1LWVPMmVOM2YxdnBwV2FrYnBlOE5ybGpNSmdEd1Nkb2Q3TjUxT0RJazVoaHp3NnRhU25lOENvajZUMmtVVDQ1ZXJYclRCVFNVT1ZLMWIw?oc=5",
+      "source": "WFAA",
+      "summary": "Infant found dead next to dumpster outside of Fort Worth motel, police say WFAA",
+      "published_at": "2026-10-19T10:24:00+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nInfant found dead next to dumpster outside of Fort Worth motel, police say\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQWxrX1JfVTBuMXBwZXVFdmhZaE56VWtfOHd0OWJ4STF2X1N1d0VJamVqQlJzcFhGczZwcnBqSDlEdGtXTlJwVGJpaFBTZFhKNUlHVkE0Z3RrTHN4QjFaT0VpNGFzdE9OR1RuWnY1VC1JX0JqeldiY0h0NUcyaDQ4WUwtVFZHc0VVcXFnN2p4TXl5ejdqaWJNYWl4bmI1LWVPMmVOM2YxdnBwV2FrYnBlOE5ybGpNSmdEd1Nkb2Q3TjUxT0RJazVoaHp3NnRhU25lOENvajZUMmtVVDQ1ZXJYclRCVFNVT1ZLMWIw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "6a5a0b5d6697da70a2a3",
+      "title": "A Dallas Community Fought to Preserve Its History. Now Its Mural Has New Life.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNczc0dmt2RkZqTUNPQ0l6aDFWN0dja0pwTnk3aUxDbWo2NTNmc1BpSFdmc0cybGsxZGtnNWx5elpPcXNwT3J1dnRCSzBMcXlYZ0E3UVVONUZTNWZDb2RfV3FIel8tTWVVeDlXaFlPVU1JQkpWVXYxNHdTblVYOFlvR3c4VEFHSnBobmxQQjJfeEJuMjg?oc=5",
+      "source": "Yahoo",
+      "summary": "A Dallas Community Fought to Preserve Its History. Now Its Mural Has New Life. Yahoo",
+      "published_at": "2026-10-19T10:02:10+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\nA Dallas Community Fought to Preserve Its History. Now Its Mural Has New Life.\n\nSource: Yahoo\nRead more: https://news.google.com/rss/articles/CBMikwFBVV95cUxNczc0dmt2RkZqTUNPQ0l6aDFWN0dja0pwTnk3aUxDbWo2NTNmc1BpSFdmc0cybGsxZGtnNWx5elpPcXNwT3J1dnRCSzBMcXlYZ0E3UVVONUZTNWZDb2RfV3FIel8tTWVVeDlXaFlPVU1JQkpWVXYxNHdTblVYOFlvR3c4VEFHSnBobmxQQjJfeEJuMjg?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "eca8f5f34f0815db3207",
+      "title": "Dallas voters to decide $443 million public safety bond on Nov. 3",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0t1YklDdzhjeGkyVlU4UUstQUxQbVRCczVMbHNMV19sOUlGLXN1YkJtWmZtNWppbWtPcnhHejBzbTloQk9UaUJkZEdCZms4ZFVXd2hZdHVZSE43d1lNTkt2ZmxmZnpPT2E0VWJUX2l1eUtXVmlGNkRNYkVxMXZVc1NOWDd2cXN3RFE5b29JZ0tiZE1iS2tsb1VweWVIWHBEOGQwbw?oc=5",
+      "source": "Audacy",
+      "summary": "Dallas voters to decide $443 million public safety bond on Nov. 3 Audacy",
+      "published_at": "2026-10-19T09:58:00+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nDallas voters to decide $443 million public safety bond on Nov. 3\n\nSource: Audacy\nRead more: https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0t1YklDdzhjeGkyVlU4UUstQUxQbVRCczVMbHNMV19sOUlGLXN1YkJtWmZtNWppbWtPcnhHejBzbTloQk9UaUJkZEdCZms4ZFVXd2hZdHVZSE43d1lNTkt2ZmxmZnpPT2E0VWJUX2l1eUtXVmlGNkRNYkVxMXZVc1NOWDd2cXN3RFE5b29JZ0tiZE1iS2tsb1VweWVIWHBEOGQwbw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "c2ca73fdaa4096af80fe",
+      "title": "JLL Capital Markets brokers sale of retail, multifamily portfolio in Dallas’ Bishop Arts District",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSk1rYy1ZNTNNR0hUYWJxV2R6cnZwbFRlcW10aUR2X2dzOWFwNWVqVnN4dDRCbkp2YkwyVmZtSWExejcxc1RnLVZqblRVbUdpbHc0MlpuWnZBWGkzNDlFNE8tWnM4WFkzZW9CajcteFNIQ3RENHoyQnJseE5hM05WSUM1UVg3SVU4bnF0WEpoS0g3WGRlUkZ3aXJfMTR5TnB3SW4tc010YW9Zdl9ZeWZrUzhnYzlDeFJNUVZV?oc=5",
+      "source": "REJournals",
+      "summary": "JLL Capital Markets brokers sale of retail, multifamily portfolio in Dallas’ Bishop Arts District REJournals",
+      "published_at": "2026-10-19T09:40:54+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nJLL Capital Markets brokers sale of retail, multifamily portfolio in Dallas’ Bishop Arts District\n\nSource: REJournals\nRead more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSk1rYy1ZNTNNR0hUYWJxV2R6cnZwbFRlcW10aUR2X2dzOWFwNWVqVnN4dDRCbkp2YkwyVmZtSWExejcxc1RnLVZqblRVbUdpbHc0MlpuWnZBWGkzNDlFNE8tWnM4WFkzZW9CajcteFNIQ3RENHoyQnJseE5hM05WSUM1UVg3SVU4bnF0WEpoS0g3WGRlUkZ3aXJfMTR5TnB3SW4tc010YW9Zdl9ZeWZrUzhnYzlDeFJNUVZV?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "4707f9edd171ebcc4f3f",
+      "title": "Ex-Dallas Cowboys player dead at 35 after cancer battle: ‘Fought an incredible fight’",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS1dYeXl6Mi1lMnN3Nkl0WEVTeVNEUVRoZlQ0X2FxUDRxOFNUZ1V6c0E5cGFqSmFiMlNaMWxGYV94OU9ud3o3R2JkU0VFSVFfajhyZ1J4UlZXZnlRdTA4WW9ZREItT1RMZ3ZPVU1sdEpSX1RRd2ZDT0VwblRKWmE5TmRIQWxTX3N4N01LRXFPblZVN2NIYllxelRjeUNSQktIY0s3cWpQMFdFWWRXdXZHbWw2cVlKN2RucXItZWtuUXdFcl9BSEHSAdoBQVVfeXFMUGJQRG5hU1B2SGczaS1DUldTOXdTaWZJczluZm51WDExSk1iMWFLc3VKc0V3aHl2XzJxTEtONm9EOS1rdkJDUGNFaEdjdEFXR2NQc01qeXFLSFBmbjl5LWNhcWpwUlNhNVZyZjBDQWFXd1V6amJkSkRSREZQU2lHRjZZMUZLZ0V5VzNQdldsYUFCR1FLQy05VDIxVmFuUlpmSjk5Z19uTUVlYXFwVU9VRHV1UjhyOGg1dEtpM3B6M1FPZVlFc3BOR24zU2w0U1BfQlRvN09lWGluclE?oc=5",
+      "source": "PennLive.com",
+      "summary": "Ex-Dallas Cowboys player dead at 35 after cancer battle: ‘Fought an incredible fight’ PennLive.com",
+      "published_at": "2026-10-19T09:30:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nEx-Dallas Cowboys player dead at 35 after cancer battle: ‘Fought an incredible fight’\n\nSource: PennLive.com\nRead more: https://news.google.com/rss/articles/CBMixgFBVV95cUxNS1dYeXl6Mi1lMnN3Nkl0WEVTeVNEUVRoZlQ0X2FxUDRxOFNUZ1V6c0E5cGFqSmFiMlNaMWxGYV94OU9ud3o3R2JkU0VFSVFfajhyZ1J4UlZXZnlRdTA4WW9ZREItT1RMZ3ZPVU1sdEpSX1RRd2ZDT0VwblRKWmE5TmRIQWxTX3N4N01LRXFPblZVN2NIYllxelRjeUNSQktIY0s3cWpQMFdFWWRXdXZHbWw2cVlKN2RucXItZWtuUXdFcl9BSEHSAdoBQVVfeXFMUGJQRG5hU1B2SGczaS1DUldTOXdTaWZJczluZm51WDExSk1iMWFLc3VKc0V3aHl2XzJxTEtONm9EOS1rdkJDUGNFaEdjdEFXR2NQc01qeXFLSFBmbjl5LWNhcWpwUlNhNVZyZjBDQWFXd1V6amJkSkRSREZQU2lHRjZZMUZLZ0V5VzNQdldsYUFCR1FLQy05VDIxVmFuUlpmSjk5Z19uTUVlYXFwVU9VRHV1UjhyOGg1dEtpM3B6M1FPZVlFc3BOR24zU2w0U1BfQlRvN09lWGluclE?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "570095c623d027916b81",
+      "title": "Packers Snap Counts Vs. Dallas: Week 6",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aaVU2Z3o4cHNob0ZsTkNyeHpkcmJETUt0dzQ3RlRURVB5czhfWk95dTh5RFlpVzlaQlpzX3lMUWJkYlNPc1dQNjdRc1otVzBDcldZU1JWZzJ0Y2dENXJxclp5dnRKdFdNTWtEbVRzMkthRmRBRUxTTE5R?oc=5",
+      "source": "Cheesehead TV",
+      "summary": "Packers Snap Counts Vs. Dallas: Week 6 Cheesehead TV",
+      "published_at": "2026-10-19T09:19:35+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nPackers Snap Counts Vs. Dallas: Week 6\n\nSource: Cheesehead TV\nRead more: https://news.google.com/rss/articles/CBMiekFVX3lxTE5aaVU2Z3o4cHNob0ZsTkNyeHpkcmJETUt0dzQ3RlRURVB5czhfWk95dTh5RFlpVzlaQlpzX3lMUWJkYlNPc1dQNjdRc1otVzBDcldZU1JWZzJ0Y2dENXJxclp5dnRKdFdNTWtEbVRzMkthRmRBRUxTTE5R?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "e7aeb6ebbd6bc3a31798",
+      "title": "Lone Star Politics: Oct. 18, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG1RMXctb0FDODZyNEhuOHhQcVdncTBSVHp3d2ttTUZBdGwwYnE1QUxrRWtuX3o4NFRDRUtmX0tPdWE5VmdYVVlpZmpqelByMHVleGJBdjBXMG0wVmRqRWdsX3c4VlFRNDVyenRweDdaWndPODVWTE9iZUJvMjRzdzhmTmlRZTl3YTNLYzlfbHJxU05wNFFjX2hJVU96VFV1SW5F0gGrAUFVX3lxTE01aWlMT2RXSVR5SENLY1NDN1N3ZWZlaHUwSWhwdEdITlk0M1hjQTZkTVFfNkV0WGRvQzZHQ3FWTGFMYk5pcEhOWTEyS3V2NHNyb1JRUW43WlRZQUMwMmVUZHpHdFhhbkdUQ3kyMmtIS2I0NDhueE4zdnpLTjlmd1NnVDYxSW5BLVRVMVNBVi1aSXpNTUVIQlFXM3NuYlhfckZCNko4SXZ2LWE4SQ?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "Lone Star Politics: Oct. 18, 2026 NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-10-19T09:01:30+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nLone Star Politics: Oct. 18, 2026\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiowFBVV95cUxOUG1RMXctb0FDODZyNEhuOHhQcVdncTBSVHp3d2ttTUZBdGwwYnE1QUxrRWtuX3o4NFRDRUtmX0tPdWE5VmdYVVlpZmpqelByMHVleGJBdjBXMG0wVmRqRWdsX3c4VlFRNDVyenRweDdaWndPODVWTE9iZUJvMjRzdzhmTmlRZTl3YTNLYzlfbHJxU05wNFFjX2hJVU96VFV1SW5F0gGrAUFVX3lxTE01aWlMT2RXSVR5SENLY1NDN1N3ZWZlaHUwSWhwdEdITlk0M1hjQTZkTVFfNkV0WGRvQzZHQ3FWTGFMYk5pcEhOWTEyS3V2NHNyb1JRUW43WlRZQUMwMmVUZHpHdFhhbkdUQ3kyMmtIS2I0NDhueE4zdnpLTjlmd1NnVDYxSW5BLVRVMVNBVi1aSXpNTUVIQlFXM3NuYlhfckZCNko4SXZ2LWE4SQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "6745d6fccc975cdfe6c8",
+      "title": "Dallas Cowboys Under Fire After 'Inexcusable' Loss to Packers",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWtFTHNNMjZVRV9MaEt2MGdjZTJqR3JsdmZFaEpVMGwtOWZhd2IzSjdKNkZsR2RwUzhWUFgzMzcyRl9yZGZKXy0yWDdaWmRkd1luaEMxMnk2RUoxcGJQU2pTbGFpWlpFWGJncmlPNWFkdkQzbEFSMWM5bWg4bTFQNEFlNzhjVzZHZHZNU2h1WVU0NFlad2p1bjZ4WFFnNjlYYzUxSWkyNkVKZmtxWHIydk1vYnRkT21X?oc=5",
+      "source": "Yardbarker",
+      "summary": "Dallas Cowboys Under Fire After 'Inexcusable' Loss to Packers Yardbarker",
+      "published_at": "2026-10-19T08:07:38+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nDallas Cowboys Under Fire After 'Inexcusable' Loss to Packers\n\nSource: Yardbarker\nRead more: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTWtFTHNNMjZVRV9MaEt2MGdjZTJqR3JsdmZFaEpVMGwtOWZhd2IzSjdKNkZsR2RwUzhWUFgzMzcyRl9yZGZKXy0yWDdaWmRkd1luaEMxMnk2RUoxcGJQU2pTbGFpWlpFWGJncmlPNWFkdkQzbEFSMWM5bWg4bTFQNEFlNzhjVzZHZHZNU2h1WVU0NFlad2p1bjZ4WFFnNjlYYzUxSWkyNkVKZmtxWHIydk1vYnRkT21X?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "3108a77c4be4dfe2d462",
+      "title": "Updates: Injury news on Turpin, Winters",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41U3JDcmpCb1YyZjBxRFNnV25kSktlMVJ5aEJsX1hhNTFTcHJWdWdTbjF5cFhvQ3ZKZGd4bEdfT0VtT1RobmJwd3ZSbnZzM0c3RnJiTS1kSG5fMUtJWW9qclRUWlZtQQ?oc=5",
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "summary": "Updates: Injury news on Turpin, Winters Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "published_at": "2026-10-19T07:04:53+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nUpdates: Injury news on Turpin, Winters\n\nSource: Dallas Cowboys | Official Site of the Dallas Cowboys\nRead more: https://news.google.com/rss/articles/CBMiZkFVX3lxTE41U3JDcmpCb1YyZjBxRFNnV25kSktlMVJ5aEJsX1hhNTFTcHJWdWdTbjF5cFhvQ3ZKZGd4bEdfT0VtT1RobmJwd3ZSbnZzM0c3RnJiTS1kSG5fMUtJWW9qclRUWlZtQQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "a8799c273f52e9f7b6cd",
+      "title": "Five thoughts from Cowboys-Packers: Dallas drops second straight as struggles continue",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOC1HQ19sa3RvQkdIYl83TnBXbm5Xd3J1YjliQjF0MEtxalhCT2tPcUJndDhKcjFjVXlSTHJxdHpIQ0Y4MC16NVlJYWF3MTI2dnZYOFFYVUk1T1p3VE9UcHJ1YUVXWF9Da19xbHFMRG9zWlY3cm40SHFra2ZVaTloOXV1Y1djLVNqamM2clczbEhYN3F4cTdF?oc=5",
+      "source": "Dallas News",
+      "summary": "Five thoughts from Cowboys-Packers: Dallas drops second straight as struggles continue Dallas News",
+      "published_at": "2026-10-19T06:56:42+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nFive thoughts from Cowboys-Packers: Dallas drops second straight as struggles continue\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMilwFBVV95cUxQOC1HQ19sa3RvQkdIYl83TnBXbm5Xd3J1YjliQjF0MEtxalhCT2tPcUJndDhKcjFjVXlSTHJxdHpIQ0Y4MC16NVlJYWF3MTI2dnZYOFFYVUk1T1p3VE9UcHJ1YUVXWF9Da19xbHFMRG9zWlY3cm40SHFra2ZVaTloOXV1Y1djLVNqamM2clczbEhYN3F4cTdF?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "91759b831a30d0041305",
+      "title": "C.C. Collie Obituary (1922 - 2025)",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUVVVZ1hVcDR6SzNxdkNXUU5rbGtkd1QyLUlZelF3UWdCT09WdG45YVlGaVRURmx0Y3p6X3Vnd0NwN05HUEpGUXFzUmdfeUVEQ0dBRUNGTnphVnQ0VG14a2UxbkNlLXRuSmF2X3hYbGtSMmVPMHRNRzR1aGdXVWNtTjlJQW1vVmFXdkoxZFMtUTZ1MzRRQVRSVmZNZmhoUQ?oc=5",
+      "source": "Dallas News",
+      "summary": "C.C. Collie Obituary (1922 - 2025) Dallas News",
+      "published_at": "2026-10-19T06:49:51+00:00",
+      "category": "Breaking",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🔴 BREAKING — DFW\n\nC.C. Collie Obituary (1922 - 2025)\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxOUVVVZ1hVcDR6SzNxdkNXUU5rbGtkd1QyLUlZelF3UWdCT09WdG45YVlGaVRURmx0Y3p6X3Vnd0NwN05HUEpGUXFzUmdfeUVEQ0dBRUNGTnphVnQ0VG14a2UxbkNlLXRuSmF2X3hYbGtSMmVPMHRNRzR1aGdXVWNtTjlJQW1vVmFXdkoxZFMtUTZ1MzRRQVRSVmZNZmhoUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "b33ee19e8c763d438c12",
+      "title": "Packers Week 6 Snap Counts: Who played against the Dallas Cowboys?",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQnc0MlJoSFFQZUI0QmpnTzFWTXBpMkE3N1dsV1FpNDQ5V3dfX2hMNDZaREc5LWpqek0wMjNhSmlvSjBOZGNGR0tPZFJIbTM2ei1BNTUxSkZoV0p6VDRXUEtkUUZ2czRsZGRCM1NPZUdydWNYb2dncHM1ckhDcUhJMw?oc=5",
+      "source": "Yahoo Sports",
+      "summary": "Packers Week 6 Snap Counts: Who played against the Dallas Cowboys? Yahoo Sports",
+      "published_at": "2026-10-19T06:13:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nPackers Week 6 Snap Counts: Who played against the Dallas Cowboys?\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMigAFBVV95cUxQQnc0MlJoSFFQZUI0QmpnTzFWTXBpMkE3N1dsV1FpNDQ5V3dfX2hMNDZaREc5LWpqek0wMjNhSmlvSjBOZGNGR0tPZFJIbTM2ei1BNTUxSkZoV0p6VDRXUEtkUUZ2czRsZGRCM1NPZUdydWNYb2dncHM1ckhDcUhJMw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "9d6e1ad56cfc707956f9",
+      "title": "Position-by-position grades for the Dallas Cowboys in loss to Green Bay",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkJ6elFkcnlPNXdPMFRCRGlLUW5mWkIyN2NJNXlLRzY2VVVOaUhZNko3cFNBVEZQcE1BbjR2dU5pdUhBVVJYU3cyOFpwNnRQS1NuODhGM3VnVWVjMlFGZFFFaThuTUsyNHg0MWtPakVUUEV2RXZKbTUyV2NjR1d5aHBKYw?oc=5",
+      "source": "Fort Worth Star-Telegram",
+      "summary": "Position-by-position grades for the Dallas Cowboys in loss to Green Bay Fort Worth Star-Telegram",
+      "published_at": "2026-10-19T06:04:15+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nPosition-by-position grades for the Dallas Cowboys in loss to Green Bay\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMigwFBVV95cUxPTkJ6elFkcnlPNXdPMFRCRGlLUW5mWkIyN2NJNXlLRzY2VVVOaUhZNko3cFNBVEZQcE1BbjR2dU5pdUhBVVJYU3cyOFpwNnRQS1NuODhGM3VnVWVjMlFGZFFFaThuTUsyNHg0MWtPakVUUEV2RXZKbTUyV2NjR1d5aHBKYw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "d05f9a599c10f99d416d",
+      "title": "Game Highlights: Dallas Cowboys vs. Green Bay Packers | Week 6",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Qblp3SkVZLTdxLWlCTkpITW1VM1ctVUNYSTNMUFY4bWVwYm1NbkxzODA3RG4wQnBRUVBTTUxyU1Q0WGx4THdtck9xcW1BYXpwRVRyWENzNlBpMFlYZEVfNUJDNy1hbVh1c3pIcFJNRGhQRnJWRC1B?oc=5",
+      "source": "NFL.com",
+      "summary": "Game Highlights: Dallas Cowboys vs. Green Bay Packers | Week 6 NFL.com",
+      "published_at": "2026-10-19T05:47:52+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nGame Highlights: Dallas Cowboys vs. Green Bay Packers | Week 6\n\nSource: NFL.com\nRead more: https://news.google.com/rss/articles/CBMid0FVX3lxTE5Qblp3SkVZLTdxLWlCTkpITW1VM1ctVUNYSTNMUFY4bWVwYm1NbkxzODA3RG4wQnBRUVBTTUxyU1Q0WGx4THdtck9xcW1BYXpwRVRyWENzNlBpMFlYZEVfNUJDNy1hbVh1c3pIcFJNRGhQRnJWRC1B?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "4efb88f4a942b5b77b3d",
+      "title": "Thanks to familiar miscues, the Dallas Cowboys are off to their worst start in years",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbncyeXNzczVCN2VfSENXaUlWdzBpNHZsR3V1ZmdGZkwyb0JNZlFvNHFUZzlGOFJiNlB3S1UxZER5NEVqaTVxUG5CNWtrLWpKNk1QbFB4eFdHei1XNDE2Y1dXM05rc0RXaHhOcjlKS1VuYWFZOTczRkhxY0hqWUVZQXNiYUE0UHR0MmpoZ2RXY3hTWVlNRnpZbDlJcTcybjg0VmdhclBB?oc=5",
+      "source": "NBC News",
+      "summary": "Thanks to familiar miscues, the Dallas Cowboys are off to their worst start in years NBC News",
+      "published_at": "2026-10-19T05:22:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nThanks to familiar miscues, the Dallas Cowboys are off to their worst start in years\n\nSource: NBC News\nRead more: https://news.google.com/rss/articles/CBMipgFBVV95cUxQbncyeXNzczVCN2VfSENXaUlWdzBpNHZsR3V1ZmdGZkwyb0JNZlFvNHFUZzlGOFJiNlB3S1UxZER5NEVqaTVxUG5CNWtrLWpKNk1QbFB4eFdHei1XNDE2Y1dXM05rc0RXaHhOcjlKS1VuYWFZOTczRkhxY0hqWUVZQXNiYUE0UHR0MmpoZ2RXY3hTWVlNRnpZbDlJcTcybjg0VmdhclBB?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "0288dfc5f831c964d92d",
+      "title": "Dak Prescott: Cowboys offense 'didn't hold our own' in loss to Packers",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWR3ZzNjbms1akJpVVdVS283NU51SkFuRDNxLVJLYUE3V2RTUXd0SE94QV85NDFQT0s2ei1BVmdoZmRES0RQWl8wM21hYXFEQy1KRUdtZ05RbkNMRkp4OE9YNW90akkwY2hpZHZ5YTc0bjdPSlo1X29oa1BROENJZmw4LWtqc3FzblRGTDEzY1FmWmNON19XV2hJWC1Cd3lDUUdUTA?oc=5",
+      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "summary": "Dak Prescott: Cowboys offense 'didn't hold our own' in loss to Packers Dallas Cowboys | Official Site of the Dallas Cowboys",
+      "published_at": "2026-10-19T05:07:52+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nDak Prescott: Cowboys offense 'didn't hold our own' in loss to Packers\n\nSource: Dallas Cowboys | Official Site of the Dallas Cowboys\nRead more: https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWR3ZzNjbms1akJpVVdVS283NU51SkFuRDNxLVJLYUE3V2RTUXd0SE94QV85NDFQT0s2ei1BVmdoZmRES0RQWl8wM21hYXFEQy1KRUdtZ05RbkNMRkp4OE9YNW90akkwY2hpZHZ5YTc0bjdPSlo1X29oa1BROENJZmw4LWtqc3FzblRGTDEzY1FmWmNON19XV2hJWC1Cd3lDUUdUTA?oc=5\n\nTexas News Roundup"
+    },
     {
       "id": "81c3a94c0d2c5718ceaf",
       "title": "Fans react to Green Bay Packers win over Dallas Cowboys",
@@ -27,6 +399,30 @@
       "caption": "🔴 BREAKING — DFW\n\nBob on Business: More industrial space in the construction pipeline\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVzMyRDlfWHF5QjJDNzFqcEZJVDdQckw1YUgtZHVESWRFY0FiZ0ZkUWcyLU1UMGFlVThaLU1ySl9yeGZldTdvTkdfOVYtWmJ2bW1GRUxWM0F1VzBnbnVKQnA5VGlfVHI4cjlNOWRqckVMbFJvNWxWTWVnTHRKVjhrd1c0c3l4ZUhoeUIwbHpZRG5kUXhFWjBKZlhpaVhhS0h2WjA1NU1Oa05uQQ?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "ace5f62b15dce964cdbe",
+      "title": "Boston Bruins vs. Dallas Stars Preview: 5 Crucial Keys For Boston In Dallas",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNW5pUUlnX29jNXlvQU9aV0R0a01aY0VtTi1qSHd6MjJkdFY1ZEJjTWpfQ3pzMklUUjlGTEpVeE03SzVwemNoWm81Zmg2ekNjbUdJUzVYaW9vN0lTUFR2SzJTYVdNRHJfalc4UFhMeGVhWlhDcHBFUjhMSnkxZmNKdDRxbHA?oc=5",
+      "source": "Yahoo Sports",
+      "summary": "Boston Bruins vs. Dallas Stars Preview: 5 Crucial Keys For Boston In Dallas Yahoo Sports",
+      "published_at": "2026-10-19T04:34:00+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\nBoston Bruins vs. Dallas Stars Preview: 5 Crucial Keys For Boston In Dallas\n\nSource: Yahoo Sports\nRead more: https://news.google.com/rss/articles/CBMihAFBVV95cUxNNW5pUUlnX29jNXlvQU9aV0R0a01aY0VtTi1qSHd6MjJkdFY1ZEJjTWpfQ3pzMklUUjlGTEpVeE03SzVwemNoWm81Zmg2ekNjbUdJUzVYaW9vN0lTUFR2SzJTYVdNRHJfalc4UFhMeGVhWlhDcHBFUjhMSnkxZmNKdDRxbHA?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "ee74926bcc76fdad6922",
+      "title": "NBC 5 Investigates: Dallas AI enforcement raises questions about repair assistance",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVh4QVVtOVlUcEM0XzBLN3pfWmtIZm56bUJXRHJwdFR3YmdVMmN6RDBtWjBXZjVqUmd1bU9JRTVQWGViOXRMXzI2MXJtR0ZHMFRMb2ZUcWpKVDBzSTB1N0VvbnY5S2w3U1ZOYWVaSDJvYWwxUEpVeDhNUnhJNkd5QVU4eXAyVWFLWjBUTGNqY19PR2ZEV3ZxX0ZKRDgwVTN1MGg0bURCcEEwakY2U2JjZlhnQ1hVa29xMkZiNERSSDl5NnI0cl9iQnpR0gHSAUFVX3lxTE15a0FFRldkOW9hdEdpRnNMQ1hOdXJvOVJqQlo2N0RReEtfWUt0enRUa1JNZDgwUzhWSFk5NjdtRnYxbVA0aHhUN1E5NGx0LVh6b2wtNVJ6TUpWYW9KN25UOVpUdUs2TmhNT3hKRnoyZ21yVWRFLVFwQmN5Y3RGaDVwdEtaWVlJa0RYdHhOOWJlU0dQdjhrRmIteUh1ajg2MG5WQkZ2a0wxbkpsQmFoamY1MkRVLUhaNGVLWVhFcHdyaTQ5WTN2NjNteERhbEZ1NmtxZw?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "NBC 5 Investigates: Dallas AI enforcement raises questions about repair assistance NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-10-19T04:26:17+00:00",
+      "category": "Police",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚨 POLICE — DFW\n\nNBC 5 Investigates: Dallas AI enforcement raises questions about repair assistance\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiygFBVV95cUxNZVh4QVVtOVlUcEM0XzBLN3pfWmtIZm56bUJXRHJwdFR3YmdVMmN6RDBtWjBXZjVqUmd1bU9JRTVQWGViOXRMXzI2MXJtR0ZHMFRMb2ZUcWpKVDBzSTB1N0VvbnY5S2w3U1ZOYWVaSDJvYWwxUEpVeDhNUnhJNkd5QVU4eXAyVWFLWjBUTGNqY19PR2ZEV3ZxX0ZKRDgwVTN1MGg0bURCcEEwakY2U2JjZlhnQ1hVa29xMkZiNERSSDl5NnI0cl9iQnpR0gHSAUFVX3lxTE15a0FFRldkOW9hdEdpRnNMQ1hOdXJvOVJqQlo2N0RReEtfWUt0enRUa1JNZDgwUzhWSFk5NjdtRnYxbVA0aHhUN1E5NGx0LVh6b2wtNVJ6TUpWYW9KN25UOVpUdUs2TmhNT3hKRnoyZ21yVWRFLVFwQmN5Y3RGaDVwdEtaWVlJa0RYdHhOOWJlU0dQdjhrRmIteUh1ajg2MG5WQkZ2a0wxbkpsQmFoamY1MkRVLUhaNGVLWVhFcHdyaTQ5WTN2NjNteERhbEZ1NmtxZw?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "67d68592d524bc64b763",
       "title": "⊕[ＷＡＴＣＨ ＬＩＶＥ]⊕Dallas Cowboys vs Green Bay Packers Ｌｉｖｅ ｓｔｒｅａｍ Ｆｒｅｅ",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxON2Q1SmQ1ZEE2SDJBVi1GY2FaRkN3QmJ0VTBSSzRKLUl2MGpjLVg4bEdWb2NkZk9Jd3JxcGVHVXg4M3dMb1AwdHN2VGt2TlJpa19Ka19vTjh1cVk0QXFHNEtJMmdWQlFLbXRuS3lvRGZvZ3ZtdVhUSzUxOUpkMzVDXzlVM3hrUXN2YjJHeFhuRmJjczZTRktFTENOR3dvakdNQWdSekhjY2huUUtydXRUUHFsTzlSNm1QR0dXUmt1TzNlNzVQaERBTVVHRW51M0VDWGpKZFhvYTRDajNWTDdLUk54bEV0M2Z0YTBDai1hTmU3aVB6ZUhOdzQxSUdPR0duNzZpdlZsQ2RxMlU0a3h3UTNSXzdBSDA0NDB1aWtJLUpuNE55a3VhYmlnNkJlVUtWaWMyWFU1X2FxMkNIdHh5cm5n?oc=5",
@@ -37,6 +433,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\n⊕[ＷＡＴＣＨ ＬＩＶＥ]⊕Dallas Cowboys vs Green Bay Packers Ｌｉｖｅ ｓｔｒｅａｍ Ｆｒｅｅ\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxON2Q1SmQ1ZEE2SDJBVi1GY2FaRkN3QmJ0VTBSSzRKLUl2MGpjLVg4bEdWb2NkZk9Jd3JxcGVHVXg4M3dMb1AwdHN2VGt2TlJpa19Ka19vTjh1cVk0QXFHNEtJMmdWQlFLbXRuS3lvRGZvZ3ZtdVhUSzUxOUpkMzVDXzlVM3hrUXN2YjJHeFhuRmJjczZTRktFTENOR3dvakdNQWdSekhjY2huUUtydXRUUHFsTzlSNm1QR0dXUmt1TzNlNzVQaERBTVVHRW51M0VDWGpKZFhvYTRDajNWTDdLUk54bEV0M2Z0YTBDai1hTmU3aVB6ZUhOdzQxSUdPR0duNzZpdlZsQ2RxMlU0a3h3UTNSXzdBSDA0NDB1aWtJLUpuNE55a3VhYmlnNkJlVUtWaWMyWFU1X2FxMkNIdHh5cm5n?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "5fc60eff94192d642325",
+      "title": "Student's Legs Run Over By School Bus Wheels When He Slipped While Running to Bus After School at Stevenson High School",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV2FMZzdFLVJnN1NpN2Rmc3lRQ2FQVlVKMVdRVlpPZ0NNZUVGZzJKUTFkU2hlRjZBak9vSTNKOTBzYVZZUHd5SkdiZ0J2M0dGNFR6ZFpYQ3dEbm0xNTh0T1ZkdVVzcFIwVkhsc0NSRGJxMzROZ1E5elVESEdtZmxkdTF3Umhpb1ZOQzRXQW91cDNPajZWSGFKeEJ6V3FxWERuMWkwRVh0OFgtUjBqR0lrQkpqazE3T0hNTDU3MlpWbTVac1RBUU1xd2JOZWlLZ1lDNkh3WExmNlE5TWNvTEJ3YUhpNXl5NkQ2OEdfRXAxdG5EcGs?oc=5",
+      "source": "arlingtoncardinal.com",
+      "summary": "Student's Legs Run Over By School Bus Wheels When He Slipped While Running to Bus After School at Stevenson High School arlingtoncardinal.com",
+      "published_at": "2026-10-19T04:14:37+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nStudent's Legs Run Over By School Bus Wheels When He Slipped While Running to Bus After School at Stevenson High School\n\nSource: arlingtoncardinal.com\nRead more: https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV2FMZzdFLVJnN1NpN2Rmc3lRQ2FQVlVKMVdRVlpPZ0NNZUVGZzJKUTFkU2hlRjZBak9vSTNKOTBzYVZZUHd5SkdiZ0J2M0dGNFR6ZFpYQ3dEbm0xNTh0T1ZkdVVzcFIwVkhsc0NSRGJxMzROZ1E5elVESEdtZmxkdTF3Umhpb1ZOQzRXQW91cDNPajZWSGFKeEJ6V3FxWERuMWkwRVh0OFgtUjBqR0lrQkpqazE3T0hNTDU3MlpWbTVac1RBUU1xd2JOZWlLZ1lDNkh3WExmNlE5TWNvTEJ3YUhpNXl5NkQ2OEdfRXAxdG5EcGs?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "ecebda879ffb686219f0",
@@ -61,30 +469,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys lose 23-13 to Green Bay Packers after scoreless first half\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzV3VlNuNzdjaDh4YnlzdUxNaV9udjNTLTlMZzR3SWJyajBDQ0pGZFJ4TTVkVVdQWU5fWjlJWDh4UTZLUTUtcmVQQm1OMEpTOEN4eGo1NmRBLU9tSWZFRjFKc3VSOEJJbGxJTDNLendYakNXRmZCaDlYMzAxSS1xUDF6WlVyM0dWa2hrTkxROW1PQkxnUHMwVWZEeXRaaUxQSVE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "27a9731f90e8770a8683",
-      "title": "Ultimate Dallas Sports Show - Sunday",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTVndkdoXzJ4Y0o3b0U1M0FoekFvRkk4SjNyN1IycE5hQzFtSU1wNDVBMGpvVmUtVHI1cmlWek9nd1pwU1o3YUNHY29rRHgyYmtpdlJsZi03d2VYblJHVExMNGwwbHhCVEhkV3lxWWhBMW9LdkJCeWVhbnZIdFhrTUpoaHM2Q3VJb09rX29nV0pPQVVUVUdkbDBRSGQ2X2tubkxrMTBoWl96aDF3elZrTm9Kakp6Y21Ea2Jj?oc=5",
-      "source": "WFAA",
-      "summary": "Ultimate Dallas Sports Show - Sunday WFAA",
-      "published_at": "2026-10-19T04:00:00+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nUltimate Dallas Sports Show - Sunday\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTVndkdoXzJ4Y0o3b0U1M0FoekFvRkk4SjNyN1IycE5hQzFtSU1wNDVBMGpvVmUtVHI1cmlWek9nd1pwU1o3YUNHY29rRHgyYmtpdlJsZi03d2VYblJHVExMNGwwbHhCVEhkV3lxWWhBMW9LdkJCeWVhbnZIdFhrTUpoaHM2Q3VJb09rX29nV0pPQVVUVUdkbDBRSGQ2X2tubkxrMTBoWl96aDF3elZrTm9Kakp6Y21Ea2Jj?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a8799c273f52e9f7b6cd",
-      "title": "Five thoughts from Cowboys-Packers: Dallas drops second straight as struggles continue",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOC1HQ19sa3RvQkdIYl83TnBXbm5Xd3J1YjliQjF0MEtxalhCT2tPcUJndDhKcjFjVXlSTHJxdHpIQ0Y4MC16NVlJYWF3MTI2dnZYOFFYVUk1T1p3VE9UcHJ1YUVXWF9Da19xbHFMRG9zWlY3cm40SHFra2ZVaTloOXV1Y1djLVNqamM2clczbEhYN3F4cTdF?oc=5",
-      "source": "Dallas News",
-      "summary": "Five thoughts from Cowboys-Packers: Dallas drops second straight as struggles continue Dallas News",
-      "published_at": "2026-10-19T03:56:14+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nFive thoughts from Cowboys-Packers: Dallas drops second straight as struggles continue\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMilwFBVV95cUxQOC1HQ19sa3RvQkdIYl83TnBXbm5Xd3J1YjliQjF0MEtxalhCT2tPcUJndDhKcjFjVXlSTHJxdHpIQ0Y4MC16NVlJYWF3MTI2dnZYOFFYVUk1T1p3VE9UcHJ1YUVXWF9Da19xbHFMRG9zWlY3cm40SHFra2ZVaTloOXV1Y1djLVNqamM2clczbEhYN3F4cTdF?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "599ca5cac7e3fba2e68b",
@@ -123,6 +507,18 @@
       "caption": "🌪️ WEATHER — DFW\n\nWatch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Packers, NFL GAME WEEK 6 LIVE\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwwJBVV95cUxNbVZDOFM4c2dVb2pua3g0VlNHeVYyekdQMFhHS1cxUk5ia2prbVFJTzRLZHNsN3BleDNzZW1zOExoRTUybVRiaVAydk9YTFhXNEVyLW5vVm5uNl9FYkoyWG1sOHVSNjlfZ1FlcUZ4SEdXWTFucG5KSURhRWxCUWh3X0FVeS11d0JLaEt1QnFJTzJueV90NmxVVHkyYjl5LWFnU3JyRjZRakhVS0lPaDdyYUp2U2U5cmpmSGtlWWdFOVpSc1RBODBaN3JKRWcyV3FPajZyeEZpMUR2NjFSVkMweGlIaHlJUEhjZWlmazJNWDJGX0lvUXBQRHFyRFR0Mm1Wdk9IT1N0NlZybnQzMTBNOHpOUktsRjJqcXUzOHlNaE1sSXJBczU2TUNQTVdWTHRBWnZFaTFjYkp3Wk12M0tsalllTQ?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "ab6914cd5153e1463cef",
+      "title": "Watch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Packers, NFL GAME WEEK 6 LIVE",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMjZxcjU2ai1BdGpyekJoQm9Qc0R2czU3LUJPMlN0cE5wTHZ3NllsZUZqMmdnSGlObzVXX3F4WENYODdnZ3NGVUFoS3I1bHNTRThXX043cExVbURYVzl2blNSazM1THVaZUV2ZUJGeHN2Q0QzOUtIQzFPc2RDYmRyMXVqNE4wQUdFZWFzcHNPTDNPZGd2NGVoRGF6RTR0UThKLWRZcmtpNzdMazRnUzBmOUpNQU5pSTBfWlFZYVB5TEJpSTNnVWY5SE13M3JodUFjREQ0dWJ1dDRVM1RHMVZwSTRTUU5PbnlwMk51SEZ2QmxNV24tb3cyUTQ1dEdZUjZoX0xENlZ3VkhQQ2pPc2g4Y2JYcjE2VTg4Q2hidE9vaG10MGw2RUNKRTM4OUFDSi1rZTFtS2Y5YXFhZXVXUGlTYndn?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "Watch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Packers, NFL GAME WEEK 6 LIVE Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-19T03:02:07+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\nWatch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Packers, NFL GAME WEEK 6 LIVE\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMjZxcjU2ai1BdGpyekJoQm9Qc0R2czU3LUJPMlN0cE5wTHZ3NllsZUZqMmdnSGlObzVXX3F4WENYODdnZ3NGVUFoS3I1bHNTRThXX043cExVbURYVzl2blNSazM1THVaZUV2ZUJGeHN2Q0QzOUtIQzFPc2RDYmRyMXVqNE4wQUdFZWFzcHNPTDNPZGd2NGVoRGF6RTR0UThKLWRZcmtpNzdMazRnUzBmOUpNQU5pSTBfWlFZYVB5TEJpSTNnVWY5SE13M3JodUFjREQ0dWJ1dDRVM1RHMVZwSTRTUU5PbnlwMk51SEZ2QmxNV24tb3cyUTQ1dEdZUjZoX0xENlZ3VkhQQ2pPc2g4Y2JYcjE2VTg4Q2hidE9vaG10MGw2RUNKRTM4OUFDSi1rZTFtS2Y5YXFhZXVXUGlTYndn?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "cbc7e15e40d81331fb2e",
       "title": "Watch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObzZuVF9SUFRoVkxRRkY5Zm5oZDFpX3VUV29qaGpNbkt6OWVyaURRVzJKWmY0eFR6UDNtXzZKQTdrVzJ6UTdmeVVrNS1ZOXNKNFFwYkh0aDZfQWxsV3B0QWI2MVdITjdwWklQUGJqczR1dU1vUlBVUUtZT3ZGS1Vub1ZHMDAtUmdpZTBPczdPZUh1OENjZkVXWDlSTTl3Z3dvVnhBcEkwQ2NoYXNtZ1Q3VGluTzhKSHBHU2JKcVZyQm9vTzlBMWVYMk1iYk5RWm1sTVlHMkxDM2hJX25mRTVNTTBfV1NCX1F1b0FJbFpDVU1NVGJEUG5DQm12aFJwNVFsMEZqS1JxQVlseUNPSEdxT25qeWZBMEs0Qkg2QnBFVno0MXdRNFoxeUdzc2M4VXRseWRrakV0eUp1cWFLRGU5NEJn?oc=5",
@@ -135,28 +531,16 @@
       "caption": "🌪️ WEATHER — DFW\n\nWatch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxObzZuVF9SUFRoVkxRRkY5Zm5oZDFpX3VUV29qaGpNbkt6OWVyaURRVzJKWmY0eFR6UDNtXzZKQTdrVzJ6UTdmeVVrNS1ZOXNKNFFwYkh0aDZfQWxsV3B0QWI2MVdITjdwWklQUGJqczR1dU1vUlBVUUtZT3ZGS1Vub1ZHMDAtUmdpZTBPczdPZUh1OENjZkVXWDlSTTl3Z3dvVnhBcEkwQ2NoYXNtZ1Q3VGluTzhKSHBHU2JKcVZyQm9vTzlBMWVYMk1iYk5RWm1sTVlHMkxDM2hJX25mRTVNTTBfV1NCX1F1b0FJbFpDVU1NVGJEUG5DQm12aFJwNVFsMEZqS1JxQVlseUNPSEdxT25qeWZBMEs0Qkg2QnBFVno0MXdRNFoxeUdzc2M4VXRseWRrakV0eUp1cWFLRGU5NEJn?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "6b2ca1964878524debfd",
+      "id": "97338c16a3c8a3b859f7",
       "title": "Watch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPR3lZQVFFQlEwSWRZMlNsT1V0cWdoUUs2Vkd6WC1KcXZibXYtc3ZacXNPTHp5eS13ejJnRjNOMWswWm9iUWcyc194ZjRpRFFUUHYwcm9vdVk3bVJXYXBHOFVveU1SaGR0cjJBMnNtUFF6c284TlhCTHNZdjRhM1lMbnpNSGlPSi1ad0ZPTVdXOUNEWXNoZFYwZlpHVmlpcHhQZ0lYQTUwenhOUkhfQlRyWnFmb3ZER3YtRk1kRm5QWGVXSG9qOVBiQVo3Y2lUMUoxamREeHZCT3JPQldPQzIwZXN6SVpBQjRpNDNiQmxCYlZEYUdWTlphaTBBQUkxQzNKZkIwenlHZXlfMFZTT2xuc245YmZEcjFPX2ZmN2drQnF1dmVtSDZfZnhVTmNGaHRoUWhTaE9vRkpLMTJ6a2FUSUR3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxORHAyakJQUzJKbldDY2pCaXlwb1dFTkgwTGN3OHJJUGRqU3hQRXdYMHN6eExIVmpOR0UyWC1jeHdjbHpZc203c3hGWWtvcUU5NHNkM05PZG4tc0VWMnZZS2JQUzNjelJSUDA0VWN5aGFUQUNndF9CM3RfR0FzdXQwQVRSY3R1aDU2bk9JNEp6dGdsanhZZzUwLWx3YzVKVnJDTTZLcWpxQ0FpUWVRVXEtMUItVllOOU9ocWxvS3ZDZk9BZTN5U0hTaHY2NFFTU25RM1dJV3c1Umh6Mmgxak1FellMV3NZWnRXTjRwNTkxSlcxY0JZcjE1RDY2N1lNT0JmQU9Xejdvc0JEVi1NMHRERmlWMHUwbXplS3ZoZmJyUENnNVFLTHM4SXNJamgxU0hKR0VFQ1VtT3ZPcmJLbXVIbURR?oc=5",
       "source": "Universidad de Córdoba (UCO)",
       "summary": "Watch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T02:35:15+00:00",
+      "published_at": "2026-10-19T02:35:14+00:00",
       "category": "Weather",
       "thumbnail": "",
       "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nWatch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxPR3lZQVFFQlEwSWRZMlNsT1V0cWdoUUs2Vkd6WC1KcXZibXYtc3ZacXNPTHp5eS13ejJnRjNOMWswWm9iUWcyc194ZjRpRFFUUHYwcm9vdVk3bVJXYXBHOFVveU1SaGR0cjJBMnNtUFF6c284TlhCTHNZdjRhM1lMbnpNSGlPSi1ad0ZPTVdXOUNEWXNoZFYwZlpHVmlpcHhQZ0lYQTUwenhOUkhfQlRyWnFmb3ZER3YtRk1kRm5QWGVXSG9qOVBiQVo3Y2lUMUoxamREeHZCT3JPQldPQzIwZXN6SVpBQjRpNDNiQmxCYlZEYUdWTlphaTBBQUkxQzNKZkIwenlHZXlfMFZTT2xuc245YmZEcjFPX2ZmN2drQnF1dmVtSDZfZnhVTmNGaHRoUWhTaE9vRkpLMTJ6a2FUSUR3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "26712b313a00f0e2893d",
-      "title": "Watch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxORm5CVmhhdHIzYWlNRmNCdUNnUUFQRExRX2NGWWROUFNhT1NkeVNMbnM2dVliampkYTJjaUNZaWt5OFc1M1FzeGJFUWxINDBZYlpzbmV2VVgwczZTSUhZSEg0TXdILS1BYlI4c3R0RHdrc3JKWUU5Z0JZaUYzTVJ6aGFaTkhwcTI5d3RHRHlTNktIZElDU2JmczJhMmwtdDFUa1p4NV80cVJjR2djU2VXOWhBMDFlNGlKNFZzUVJxelQ4S0Nyd0oxcnZIbm44ckRuekV6UHNNMExqREd4SXJUSnNxZ29LT3RZbTZ0OWJyVmJzTDJ3YkZkTXY2X082UldHd1E4Rm5fVDdwTDBSckhORkpSakp0SEx5dWNiWlpZbVFVbVZDSzNpcFFkc2VfZHUtU2l4WnJXamlaUVBJYjI3Mg?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "Watch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T02:35:15+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\nWatch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwAJBVV95cUxORm5CVmhhdHIzYWlNRmNCdUNnUUFQRExRX2NGWWROUFNhT1NkeVNMbnM2dVliampkYTJjaUNZaWt5OFc1M1FzeGJFUWxINDBZYlpzbmV2VVgwczZTSUhZSEg0TXdILS1BYlI4c3R0RHdrc3JKWUU5Z0JZaUYzTVJ6aGFaTkhwcTI5d3RHRHlTNktIZElDU2JmczJhMmwtdDFUa1p4NV80cVJjR2djU2VXOWhBMDFlNGlKNFZzUVJxelQ4S0Nyd0oxcnZIbm44ckRuekV6UHNNMExqREd4SXJUSnNxZ29LT3RZbTZ0OWJyVmJzTDJ3YkZkTXY2X082UldHd1E4Rm5fVDdwTDBSckhORkpSakp0SEx5dWNiWlpZbVFVbVZDSzNpcFFkc2VfZHUtU2l4WnJXamlaUVBJYjI3Mg?oc=5\n\nTexas News Roundup"
+      "caption": "🌪️ WEATHER — DFW\n\nWatch live NFL GAME LIVE streaming of Dallas Cowboys vs Green Bay Packers, NFL GAME WEEK 6 LIVE\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxORHAyakJQUzJKbldDY2pCaXlwb1dFTkgwTGN3OHJJUGRqU3hQRXdYMHN6eExIVmpOR0UyWC1jeHdjbHpZc203c3hGWWtvcUU5NHNkM05PZG4tc0VWMnZZS2JQUzNjelJSUDA0VWN5aGFUQUNndF9CM3RfR0FzdXQwQVRSY3R1aDU2bk9JNEp6dGdsanhZZzUwLWx3YzVKVnJDTTZLcWpxQ0FpUWVRVXEtMUItVllOOU9ocWxvS3ZDZk9BZTN5U0hTaHY2NFFTU25RM1dJV3c1Umh6Mmgxak1FellMV3NZWnRXTjRwNTkxSlcxY0JZcjE1RDY2N1lNT0JmQU9Xejdvc0JEVi1NMHRERmlWMHUwbXplS3ZoZmJyUENnNVFLTHM4SXNJamgxU0hKR0VFQ1VtT3ZPcmJLbXVIbURR?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "686e232efd73fcabfa09",
@@ -171,16 +555,16 @@
       "caption": "🚨 POLICE — DFW\n\n5-year-old boy in critical condition after being hit by SUV, Garland police say\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMigwJBVV95cUxPM213MFBqRWtsY3dnRE45MWxIZkJ6N1VwN3czc2hpNkRxRU5wWWZ1bld0NDFERXUya3U0NHJtRW9hLUx3alU5bC1GTlZWQktON2ZsamtVX3Z5Q1U4ZmI0RHY5aHg2cnJNeGRtV2swNEFvNjVRNV9kQkpfQVFRSDdVdEdRek1WVDFSaHVKQmVqUHA4WXlEZ0xZU0xXTy1UbnljUWtvWXRVaG8yVmhtcmF1SWJOYkVvNmNKN1dxME9oQ2NIeVUwamh3YWdYSG4zRUVOaW5hQzBhTXhTSmtVbnY5V1lrT1lBS2NOT2U3UWVORC1tOWJNVm5TYjRVMUZEZGpVR1c4?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "e57eabd17eef8e662c23",
-      "title": "Christine Chemutai Ndagui – April 24, 1961 – Oct. 9, 2026",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFJuQ25ScmJ5VWRWWlhMemY3UG9YRGo1bjBsYkZXeDJaOENZWENPV0dWVExqM0s2Wkxaei1KcDctVEZNOG5HdTV3UjhOcVRUcWp5LV9NY2NmaDctTUxPbE9NMW9rSU5Ickotc3lFbEVOVW5MZlkwMU1KSDhTSC13bDV2dXBCcHJUNERCNHd0T2QwYlBBd2JFdDFn?oc=5",
-      "source": "Fort Worth Report",
-      "summary": "Christine Chemutai Ndagui – April 24, 1961 – Oct. 9, 2026 Fort Worth Report",
-      "published_at": "2026-10-19T02:30:59+00:00",
-      "category": "Breaking",
+      "id": "272eaffd10007804316e",
+      "title": "Cowboys lose KaVontae Turpin to injury early in Week 6 meeting with Packers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjFZeFd1MW44SWNVUGktWGpHMzRkckdSb1pzMU1YNjFSVVZ0d3pRNzd5bjUtbTNpMk02SldwV1VCcnIyWUlKZTVjdFNLMG0zUVdhektMM0xhUGZ5bjZpMmt3WTZIc3M5X1NBR0kxTjN0cW9LZkVBTWpzUWEtQkdVMlUzZW1KUWlhSGlJMlUzYXo3VHFBRC11X0YwYWh6c3JTeVN3M3pKZVVlX04xYTZLYi1B?oc=5",
+      "source": "Dallas News",
+      "summary": "Cowboys lose KaVontae Turpin to injury early in Week 6 meeting with Packers Dallas News",
+      "published_at": "2026-10-19T02:21:38+00:00",
+      "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nChristine Chemutai Ndagui – April 24, 1961 – Oct. 9, 2026\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMimgFBVV95cUxOdFJuQ25ScmJ5VWRWWlhMemY3UG9YRGo1bjBsYkZXeDJaOENZWENPV0dWVExqM0s2Wkxaei1KcDctVEZNOG5HdTV3UjhOcVRUcWp5LV9NY2NmaDctTUxPbE9NMW9rSU5Ickotc3lFbEVOVW5MZlkwMU1KSDhTSC13bDV2dXBCcHJUNERCNHd0T2QwYlBBd2JFdDFn?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\nCowboys lose KaVontae Turpin to injury early in Week 6 meeting with Packers\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjFZeFd1MW44SWNVUGktWGpHMzRkckdSb1pzMU1YNjFSVVZ0d3pRNzd5bjUtbTNpMk02SldwV1VCcnIyWUlKZTVjdFNLMG0zUVdhektMM0xhUGZ5bjZpMmt3WTZIc3M5X1NBR0kxTjN0cW9LZkVBTWpzUWEtQkdVMlUzZW1KUWlhSGlJMlUzYXo3VHFBRC11X0YwYWh6c3JTeVN3M3pKZVVlX04xYTZLYi1B?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "9e5419f987d19d64452e",
@@ -195,40 +579,16 @@
       "caption": "🌪️ WEATHER — DFW\n\nA Dallas icon returns: Historic Forest Theater to reopen Nov. 1\n\nSource: North Texas e-News\nRead more: https://news.google.com/rss/articles/CBMibkFVX3lxTE9CTW5tSWRMaUVnV090Ymtia2tRNHhIQ05ZUVlxOVJBLXNlXzVSa3doQjNqSEF1WDFMQU52RFV4Mk5Ta1ctUVQ2N0JIODBvcDhQc3FaeWo3RFZRSkprejZDY05DeGhtTi1BS0h5OEdB?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "b922d17fe1e778113229",
-      "title": "What does the latest consumer price index report say about North Texas market?",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdDNwVk81aFVUUFBLOG81YURaTTBaNHRTdkU4WmMwSnN5c2ZyOXc5REM2aWJ6WEhnWnQ0X3BUT2pFREFxNUNfalFldHZ2ZEJCOWpGV3UybDZzQ1Y2VVYxbjY5aHZXWkRrbjdHVU9wMFZEYkFZMXBlTnNOXzg1TFVYUHlPdVFoU3ZXOWUxYV9xQTVlSTJWT2tsUThJRUNYWWtvYzQ2T0VEYndTZG81bjdaRlhpcHh6MDJiUC00OUpwcmF2QjBaZUFUdlRNTUlqZWZCM3NUSUF0bUZoQkNWYmptdzBKZ1dKZ3hud0Nhc3R3?oc=5",
+      "id": "2113c6f3f8cbf972d938",
+      "title": "North Texas volleyball team takes down Tulsa in four sets",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLTB5d3J0Qy1tT1lZakRHY2w5YmtYUkdkV05UYy1nYmo1c2x1R0tzVUJOU1Y3eUlQUEN2YmNBUFBQbXQ4aVFzR05UUllRRjRuMVg1MGdvUW1qdjVSTlNwNFAzQlpjamQtU2ZVdVlvbTRULXl4LUhFNDJMWVZPa3RTWDZTTGRhYkE3SjU2NXAwOWdaVTFQU0ZwU3NjMGl6UUNRQXJKa1QySFFXMTNDNldLV3d2cUQwS29LNzJ5S2JfN0Q1TU1KVmFBbXFxMFkzcmxTdUpISU1jTEsxMHpBdUF1Qzl1Nm1SWXBCVTFR?oc=5",
       "source": "Denton Record-Chronicle",
-      "summary": "What does the latest consumer price index report say about North Texas market? Denton Record-Chronicle",
-      "published_at": "2026-10-19T02:12:55+00:00",
+      "summary": "North Texas volleyball team takes down Tulsa in four sets Denton Record-Chronicle",
+      "published_at": "2026-10-19T02:00:00+00:00",
       "category": "Breaking",
       "thumbnail": "",
       "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nWhat does the latest consumer price index report say about North Texas market?\n\nSource: Denton Record-Chronicle\nRead more: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdDNwVk81aFVUUFBLOG81YURaTTBaNHRTdkU4WmMwSnN5c2ZyOXc5REM2aWJ6WEhnWnQ0X3BUT2pFREFxNUNfalFldHZ2ZEJCOWpGV3UybDZzQ1Y2VVYxbjY5aHZXWkRrbjdHVU9wMFZEYkFZMXBlTnNOXzg1TFVYUHlPdVFoU3ZXOWUxYV9xQTVlSTJWT2tsUThJRUNYWWtvYzQ2T0VEYndTZG81bjdaRlhpcHh6MDJiUC00OUpwcmF2QjBaZUFUdlRNTUlqZWZCM3NUSUF0bUZoQkNWYmptdzBKZ1dKZ3hud0Nhc3R3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "272eaffd10007804316e",
-      "title": "Cowboys lose KaVontae Turpin to injury early in Week 6 meeting with Packers",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjFZeFd1MW44SWNVUGktWGpHMzRkckdSb1pzMU1YNjFSVVZ0d3pRNzd5bjUtbTNpMk02SldwV1VCcnIyWUlKZTVjdFNLMG0zUVdhektMM0xhUGZ5bjZpMmt3WTZIc3M5X1NBR0kxTjN0cW9LZkVBTWpzUWEtQkdVMlUzZW1KUWlhSGlJMlUzYXo3VHFBRC11X0YwYWh6c3JTeVN3M3pKZVVlX04xYTZLYi1B?oc=5",
-      "source": "Dallas News",
-      "summary": "Cowboys lose KaVontae Turpin to injury early in Week 6 meeting with Packers Dallas News",
-      "published_at": "2026-10-19T02:04:08+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nCowboys lose KaVontae Turpin to injury early in Week 6 meeting with Packers\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisgFBVV95cUxPUjFZeFd1MW44SWNVUGktWGpHMzRkckdSb1pzMU1YNjFSVVZ0d3pRNzd5bjUtbTNpMk02SldwV1VCcnIyWUlKZTVjdFNLMG0zUVdhektMM0xhUGZ5bjZpMmt3WTZIc3M5X1NBR0kxTjN0cW9LZkVBTWpzUWEtQkdVMlUzZW1KUWlhSGlJMlUzYXo3VHFBRC11X0YwYWh6c3JTeVN3M3pKZVVlX04xYTZLYi1B?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "de083d628f26d532da2a",
-      "title": "[[WATCHLIVE] Green Bay Packers vs Dallas Cowboys Game Online ＨＤ Ｆｒｅｅ]",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxObUhtNUNobTFqM0JhOVBiQllFeG1OZWtCdHB0LW16NTlNdFRnN2dDcEwzNXYwYmZTQ3F2NXQ1X2FDSVVEV3R0QzZ0QXVfUUZDaDZNTlIxMG1rdURWaEU2cGhSbG5Bd0ZhSFJBWFlPVUs4bGVNZTNlMC1iX2pmbVZNTjlDRnJDSy1TdWtGbm5xLXBKeU9IVUthbzIxTTJaUXpBNGR3RTlfeUlJdGY1c3dQWlduQWVlOUZVdzdyeG9QY2F3ZEh0MktvUGc0c2s1Vm1pdG1mcXJvNkxkMjFPcUVFSWdGcE9ydnR2MjFvOTM0YWxaOU1IWmJlWGlhQUVkTjluUjNaV29XWFNKbFh2U1UtYWZISmNjYU1ESTJobUUzT2xKcmR5Rzg5U3hkemR3U2dtaW8wdHlxdGtvTHdJSHRaWW5n?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[[WATCHLIVE] Green Bay Packers vs Dallas Cowboys Game Online ＨＤ Ｆｒｅｅ] Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T01:57:32+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\n[[WATCHLIVE] Green Bay Packers vs Dallas Cowboys Game Online ＨＤ Ｆｒｅｅ]\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxObUhtNUNobTFqM0JhOVBiQllFeG1OZWtCdHB0LW16NTlNdFRnN2dDcEwzNXYwYmZTQ3F2NXQ1X2FDSVVEV3R0QzZ0QXVfUUZDaDZNTlIxMG1rdURWaEU2cGhSbG5Bd0ZhSFJBWFlPVUs4bGVNZTNlMC1iX2pmbVZNTjlDRnJDSy1TdWtGbm5xLXBKeU9IVUthbzIxTTJaUXpBNGR3RTlfeUlJdGY1c3dQWlduQWVlOUZVdzdyeG9QY2F3ZEh0MktvUGc0c2s1Vm1pdG1mcXJvNkxkMjFPcUVFSWdGcE9ydnR2MjFvOTM0YWxaOU1IWmJlWGlhQUVkTjluUjNaV29XWFNKbFh2U1UtYWZISmNjYU1ESTJobUUzT2xKcmR5Rzg5U3hkemR3U2dtaW8wdHlxdGtvTHdJSHRaWW5n?oc=5\n\nTexas News Roundup"
+      "caption": "🔴 BREAKING — DFW\n\nNorth Texas volleyball team takes down Tulsa in four sets\n\nSource: Denton Record-Chronicle\nRead more: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNLTB5d3J0Qy1tT1lZakRHY2w5YmtYUkdkV05UYy1nYmo1c2x1R0tzVUJOU1Y3eUlQUEN2YmNBUFBQbXQ4aVFzR05UUllRRjRuMVg1MGdvUW1qdjVSTlNwNFAzQlpjamQtU2ZVdVlvbTRULXl4LUhFNDJMWVZPa3RTWDZTTGRhYkE3SjU2NXAwOWdaVTFQU0ZwU3NjMGl6UUNRQXJKa1QySFFXMTNDNldLV3d2cUQwS29LNzJ5S2JfN0Q1TU1KVmFBbXFxMFkzcmxTdUpISU1jTEsxMHpBdUF1Qzl1Nm1SWXBCVTFR?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "e7eaf99c4d98df4a5afe",
@@ -255,6 +615,18 @@
       "caption": "🚨 POLICE — DFW\n\nMan dead after police find him on Dallas street with gunshot wounds\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiigFBVV95cUxOYTZOMXJmZXBrbnhXOURyMFBuaTJJWUdUY2pxTURXdk9sNlZxcWVmV3FhNnFjYnhCVjZMSF9TMUIxRXZ6NF9TcjVvNnNLYVZJRXNHYW4yQXpxTy1ObWpqNUd5TElxdUFQZzNnWjZSZjJXNlVqS0J4VFJPLWMtbUd0QjlwRjdVUExvSEHSAZIBQVVfeXFMTU1jaVp4R1czYmF3dHppYUJHSmdaSjExQjRfNkRQdnZjTzQtNTAzMDVRSF9DRm9jZjJYMm10Z1pXT2NJOC1yaG95bklCaU1vcjBMM3BmZTVJdElOUUtydzJxOU1WNzRucTc1ZkJPVkNxT1NJOHNIaEU3MkY0dmhCVmRCWEMtLVIwUjRWY3RoSC16bEE?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "19dd58d59d892ec570d9",
+      "title": "Houston Dynamo vs Dallas: Major League Soccer stats & head-to-head",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRLVlVNE95M1hvc3hzNnBmNUFCa0lNWkc4OGVyM193V1YwQW4ycGM5MEkxbWRnSnZubC1rN3JOeTB3Zzl4Y1kxVnVnSWlOempLNERPYWdKTTNmVWtEZVBROGh1MA?oc=5",
+      "source": "BBC",
+      "summary": "Houston Dynamo vs Dallas: Major League Soccer stats & head-to-head BBC",
+      "published_at": "2026-10-19T01:30:44+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nHouston Dynamo vs Dallas: Major League Soccer stats & head-to-head\n\nSource: BBC\nRead more: https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRLVlVNE95M1hvc3hzNnBmNUFCa0lNWkc4OGVyM193V1YwQW4ycGM5MEkxbWRnSnZubC1rN3JOeTB3Zzl4Y1kxVnVnSWlOempLNERPYWdKTTNmVWtEZVBROGh1MA?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "0267b8a8fec34f5e4ffc",
       "title": "Dallas Cowboys vs Green Bay Packers Game 𝐋𝐈𝐕Ｅ Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNaTd2S3o1SDk0Qkw0NURjNDRHZGtxbjZXckVGWEd1T3pMYklFMFNPY2RuQmlDb1pGXzFyNTBoUE9SQVVHbUJnbXYtX2t1aXNtTlJjS3Jvc2NKM3RxekRhNngtTzdPY3E1bFEySWNBZnNfNEVseGs4RzZZZ05YY1N1VTFQYm9lTEdabURwenpUZHRTY21LMUwwaDVQMzBYNnhHOGJkdzVYaVRYTjVULXFXaTNFeHlldTZoODI0Z3o2ODY1VW5Ib0xyRWphcTYxRGdxQ1BUaUdUX2pENTlLdUFUZlpRaGhsSnM3UHJiSE96QUhXUl9XTndxS1AyYmpqN1UxRU5mWjZ5MVZCeERQZEZxREFDTkIxeGdyb19xQ0ZWaV9wQmRqN29EOU5nU1diUXlEcFFSRF9oclVCSmp0T1M4UEFR?oc=5",
@@ -277,30 +649,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\n[#LIVESTREAm]+!Dallas Cowboys vs Green Bay Packers Game 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026, Live coverage of the Green Bay Packers vs Dallas Cowboys NFL Game on ESPN, including live score, highlights and updated stats. Follo\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgJBVV95cUxOdUVHWXJhZTY0WFlrOER3bjFGYjl5bVFFX0pac0czc19vUWxhZFdsLU1Kek80MElvcmU3NExtQTF1M2FYaDJVOVFWaUFPQW9uVTFvclRJMHFkTzBWbkNLVk5oSG16Q3ZwRWM2U3Fic18tZEN1eHhteEVENV9UeUxQRVByNlROay1kSVRYLTZQcS1mZ3JZVXpTelh0ZVF0UWwxM3hiYVd3R1hqNGZheW10Tjc5LWxDWVVld1BHal9YSnQxMXpFTzFka2hZaGtpSHNtUndPQmdrOWlCZ1NRNThURXFObjdnNTdXWkJQbDd4RlVrN213T01US0c3bmFZaE9kMTZZVEc2VmR6M3RRT2U2Y3ZvT3FGUk5JYUFSdm4wcFpRRnpMZEliQ2ZLdW96SUp5NmNwazBQS3p6TzFndzN4MGp3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "840414f4c97c0916bdef",
-      "title": "[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNVVdTYkZncGNVX0RPMTFBaFl0aFNqSWlyc2xHcnJmVzk0SnYyNzllcV85cGpPN3JZd1gteE5MOUlaa0hBSGMwZUF2ZExlMzIxZXVybEdoWmpkN3dqakFmbTlUR0gtdE93YWNsLVZtazNpMV8xWFZZYWwzdXFGcDhRUGFLeEx2OFNhSVFrbzZya2RtNFJYaXM5VEdKTEMwcHRhVUpRWi1JNzc5bkNRd2U3Q2RrbkliTThVNkZEN29UaTY5RDFYWEFwSEZjZ3ROMXpONGRvRUIyaVEwSV9XdGZmUlc5ZWVMY0FMNTMyNEs3YUVEdkk1YUNNRWhLVzVaQmtNbzRuN1RZcGo4bnA1TkNtUEkwM1ZRemoxQXhXQWQxRUh6anVaNmdqNHFmVjhjbE96bUJkSGtNdm9rNUhBVTNmclQyMA?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T01:00:05+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwwJBVV95cUxNVVdTYkZncGNVX0RPMTFBaFl0aFNqSWlyc2xHcnJmVzk0SnYyNzllcV85cGpPN3JZd1gteE5MOUlaa0hBSGMwZUF2ZExlMzIxZXVybEdoWmpkN3dqakFmbTlUR0gtdE93YWNsLVZtazNpMV8xWFZZYWwzdXFGcDhRUGFLeEx2OFNhSVFrbzZya2RtNFJYaXM5VEdKTEMwcHRhVUpRWi1JNzc5bkNRd2U3Q2RrbkliTThVNkZEN29UaTY5RDFYWEFwSEZjZ3ROMXpONGRvRUIyaVEwSV9XdGZmUlc5ZWVMY0FMNTMyNEs3YUVEdkk1YUNNRWhLVzVaQmtNbzRuN1RZcGo4bnA1TkNtUEkwM1ZRemoxQXhXQWQxRUh6anVaNmdqNHFmVjhjbE96bUJkSGtNdm9rNUhBVTNmclQyMA?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "4fc5e5e6e7169d7b8935",
-      "title": "Updates: Joey Porter Jr. active for SNF vs. GB",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE41U3JDcmpCb1YyZjBxRFNnV25kSktlMVJ5aEJsX1hhNTFTcHJWdWdTbjF5cFhvQ3ZKZGd4bEdfT0VtT1RobmJwd3ZSbnZzM0c3RnJiTS1kSG5fMUtJWW9qclRUWlZtQQ?oc=5",
-      "source": "Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "summary": "Updates: Joey Porter Jr. active for SNF vs. GB Dallas Cowboys | Official Site of the Dallas Cowboys",
-      "published_at": "2026-10-19T00:59:23+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nUpdates: Joey Porter Jr. active for SNF vs. GB\n\nSource: Dallas Cowboys | Official Site of the Dallas Cowboys\nRead more: https://news.google.com/rss/articles/CBMiZkFVX3lxTE41U3JDcmpCb1YyZjBxRFNnV25kSktlMVJ5aEJsX1hhNTFTcHJWdWdTbjF5cFhvQ3ZKZGd4bEdfT0VtT1RobmJwd3ZSbnZzM0c3RnJiTS1kSG5fMUtJWW9qclRUWlZtQQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "2a0826e8b02a91bd64c4",
@@ -351,18 +699,6 @@
       "caption": "🏟️ SPORTS — DFW\n\n((espn) Green Bay Packers Dallas Cowboys Sunday Night Football Live Free\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMixwJBVV95cUxNczA5dXE1UFRNcndMaUU5LUhzS3BjTkFaZTVKZnpxNnltb29aeG1HWlg3T19GYzIzVlFydFM5NXluSElqYk9YSU04T2NkN1ZUYTNsTXExblJRTWNzMHRHdmFFWk5YN2hmMGpZWHdWNDQ5MFlTTFN3R25RaHFUeVpocElHMmEyMWpDSlBKMDFzWWIzMXYzOHJudnZldEppclRPQlI5Nm5oemlLVDI3MkY0SGd3OHNncDhNZEpNWHpyUjc4U0FfY05GZnJzV19xaEtuZUNxTUEzMVlxMEo5WmpKcVc3TFJ5R2xPRkpMaTJ1YzRwNXV4SkFNbzVFNWR0dXR2RXpTU1lrVEdaODdualJMT3lxRnNXbVlfbzZNb1p2WFRITmlOcVRQcm94Vi1BQ0pfX3FsVHBnS3BQZTdsV1dFMFczbk5TZVU?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "ee387b57feb4a243f94a",
-      "title": "Dallas Police Spokeswoman Allison Hudson Under Investigation",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMjNvTFg5d3ptX1dXbWxGZDRkRUh0aXUxeV9xeWw0dWQyQ1BSVlBTVmRHaFlfTlYtakM0QkVZNDQ3bHFja2U4N0VMSHRYNzBmbUxKTm96aTRnVHJvaVdSRnp0aHhRQUhmZ0I5dklxYzFseWt6M2xmMDEzQXlnZU5Wb2VTRU9pa2NyTVlyVkdPZFV2eUJhdjMzWHhlT2dleHNrN3lPSjdZS3NyVm85Q25wOA?oc=5",
-      "source": "Hoodline",
-      "summary": "Dallas Police Spokeswoman Allison Hudson Under Investigation Hoodline",
-      "published_at": "2026-10-19T00:36:33+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nDallas Police Spokeswoman Allison Hudson Under Investigation\n\nSource: Hoodline\nRead more: https://news.google.com/rss/articles/CBMisAFBVV95cUxNMjNvTFg5d3ptX1dXbWxGZDRkRUh0aXUxeV9xeWw0dWQyQ1BSVlBTVmRHaFlfTlYtakM0QkVZNDQ3bHFja2U4N0VMSHRYNzBmbUxKTm96aTRnVHJvaVdSRnp0aHhRQUhmZ0I5dklxYzFseWt6M2xmMDEzQXlnZU5Wb2VTRU9pa2NyTVlyVkdPZFV2eUJhdjMzWHhlT2dleHNrN3lPSjdZS3NyVm85Q25wOA?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "9941ad4a115c8f52bc8d",
       "title": ")ω#[WATCHLIvE]HQ!] Green Bay Packers V Dallas Cowboys Live",
       "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNMXh0UVpIQW9nb1NCckdxQmYwaktsbnZLR2N2WXRIV1ZTb1RKWHMzbjlldkU5WXk2cnZRUGxuSUxhelJyQWxCclhSa3FINFNzM1JqbmxUS3NWenJ1RVkzeXlmcFNNQXF4QkkycWVXOW9WbGN3WFVwSzdNelRlSDQ5RXFLTlRGNWZvZy1mekFzek5Vc1B1dm1NVy1ZZnRxWjhUa3o3aEtSbnZvZ2hDcE9Ia2RnLURaS0ZQd2RJb1VuU1pwLVoxQkVYbEQ5czlFOFZoVnVOcnI1OHJpZUdqc2JZRlhJSC13R3RVSHlFVzNpT0l5TDhYeTNIa3d5T2xFTWtBTTNjQ3NxUnpQRTNFRl80Y2ZhbDhweHlFNTF2ODJmZy1wdVhTQVNuRkFxVzRlb3pDT3BhdGQ4SFFZN0lFRkVOSnlHZ0M5N0trakNQMHgtQ2w5d2w3aGFrQmduZm1Xb2dV?oc=5",
@@ -373,18 +709,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🌪️ WEATHER — DFW\n\n)ω#[WATCHLIvE]HQ!] Green Bay Packers V Dallas Cowboys Live\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi4AJBVV95cUxNMXh0UVpIQW9nb1NCckdxQmYwaktsbnZLR2N2WXRIV1ZTb1RKWHMzbjlldkU5WXk2cnZRUGxuSUxhelJyQWxCclhSa3FINFNzM1JqbmxUS3NWenJ1RVkzeXlmcFNNQXF4QkkycWVXOW9WbGN3WFVwSzdNelRlSDQ5RXFLTlRGNWZvZy1mekFzek5Vc1B1dm1NVy1ZZnRxWjhUa3o3aEtSbnZvZ2hDcE9Ia2RnLURaS0ZQd2RJb1VuU1pwLVoxQkVYbEQ5czlFOFZoVnVOcnI1OHJpZUdqc2JZRlhJSC13R3RVSHlFVzNpT0l5TDhYeTNIa3d5T2xFTWtBTTNjQ3NxUnpQRTNFRl80Y2ZhbDhweHlFNTF2ODJmZy1wdVhTQVNuRkFxVzRlb3pDT3BhdGQ4SFFZN0lFRkVOSnlHZ0M5N0trakNQMHgtQ2w5d2w3aGFrQmduZm1Xb2dV?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "0f84b7695138eaf65ff5",
-      "title": "[WATCHLIVE]ＴＯＤＡＹ!] Green Bay Packers vs Dallas Cowboys ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTllfVWNmaHVpSFd2dG1sc19EZzVDSDNCU1BRMmFYYzNfUHJ0ZnlOenBiMV85ekNuNHF2WHAtbTBkUXhKdDhLVGJ0bmVGLUp6OWJ2MzZQMW5ZMHpvdFhXWFJDS2lqMmlaZHJ5aTU3VTRudkxnMmpXOGQ1emlXMHliYmhiaVgyVUtjOUtxQi0xalcwR2Y5azBUT0lWb01hTXV1ZUp2VG8zNGtWNV8tZnFCMk5mYU9vdFoyTmxmUjZ2MW1LZDRmUGkzRW5aSEhZdjB0dlZtVU1xcGtaMlVSYkJiMXVmZjZ1UFpnR0thQXNDMDBVaDc4VDhsZXpyUXg2c090S25ZTU9lV2FGUHhJVUoyeUdiTkFOX0ljN0p5UFJHLWFkMnc3bG9XXzktTUtOa0dZY0R2bk1lRHZuM21DMDMtOXJERXMyQ3JzV0NkbGdHcHh2RVJRVl9KSlFvaXA5UzA?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[WATCHLIVE]ＴＯＤＡＹ!] Green Bay Packers vs Dallas Cowboys ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:36:17+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\n[WATCHLIVE]ＴＯＤＡＹ!] Green Bay Packers vs Dallas Cowboys ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi3wJBVV95cUxPTllfVWNmaHVpSFd2dG1sc19EZzVDSDNCU1BRMmFYYzNfUHJ0ZnlOenBiMV85ekNuNHF2WHAtbTBkUXhKdDhLVGJ0bmVGLUp6OWJ2MzZQMW5ZMHpvdFhXWFJDS2lqMmlaZHJ5aTU3VTRudkxnMmpXOGQ1emlXMHliYmhiaVgyVUtjOUtxQi0xalcwR2Y5azBUT0lWb01hTXV1ZUp2VG8zNGtWNV8tZnFCMk5mYU9vdFoyTmxmUjZ2MW1LZDRmUGkzRW5aSEhZdjB0dlZtVU1xcGtaMlVSYkJiMXVmZjZ1UFpnR0thQXNDMDBVaDc4VDhsZXpyUXg2c090S25ZTU9lV2FGUHhJVUoyeUdiTkFOX0ljN0p5UFJHLWFkMnc3bG9XXzktTUtOa0dZY0R2bk1lRHZuM21DMDMtOXJERXMyQ3JzV0NkbGdHcHh2RVJRVl9KSlFvaXA5UzA?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "d8baec182e1788cc3bf9",
@@ -411,6 +735,18 @@
       "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys live free reddit\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi4AJBVV95cUxPSXE5Zi0yVTRnNUlPZ1c4WENGaS1YRW9UZEZBN3AtbU5NaURpaERGbUhjSTdrYlU5YzVWc09LLXEyQTdmV2hFUko2RjhsSHBvWmpCdVVZVDhfUkw5ZGttem9OeDMtaEpnLTdHQ1J2Rk51bXVtamxodnVycEpvTkg5d2x3Rk5oYk45Qjg3dklKZWpVOTcyTTAxSGxVQWdPQWpFRm1GREIyRDZqNW9wVUxLUDdDZ1VoaFRrb3pacElnRnBiT3dxa0JPWDFSSVFDYXN1RHYxZnJEM2tWbk81M0d3dllNRVM3S0RVUzI1M1M4N1J2ZGgzV292dVFEQ1UtUmVqTkpZNmlPWW56M1hSeFktQ1I5OUpYbGRXWlJ5RDFJY2pKODJrQ2pxeHBHR1hHZUh3RVRzTGwxdi14cVY0QzliWUtmdVBuNlpoQXBGYjh3ZjVGbHEtT3c2bTZ5NFhxd0VQ?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "6b2bec0986d78d9ae958",
+      "title": "【LIVESTREAMS】FREE]Dallas Cowboys vs Green Bay Packers Live Free NFL Week 6 October 18, 2026",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPRlJ3ZmlMMDNxMldqdnhQZGhLVW9LWXRMem80WUJ5UVhlaHJYV25FUTJDY01FRk5CbDZCM3pLNGhRNEdvVUF3NVFMaW92YW9HbEtXWEVpY2w3QTEwaGRkaXVBZE9NQzU3MHBaR0I4NXlYQzhnNl9lbUVMSVdoSmdRRmFNMDVBLXo2OG45cy1FWkZ6UnlJSTVhZTZIdHFhOG9lRWZPRXZXU2RLdnE1Y0U0TS1XRVJQakUwc3ZKQUZMTW4weU5OQmFxQ1E3UjJ0TUlhNzNfdVZwZVRacjJfY3gyYUpaZ0NCa3AyN2JVYnp1VXBrOXZHY3Zvc0tzQW9nVTFMcGgwejhiYXhuZHdocm5ZaG05V1ZTellwNU1WemxPQ0hvYzk5bnAzTDNmLWZNakJXLW0zQzc0NGZZa0ZQeTlueVJIQ3AxZ0tLY2xJbmRuWQ?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "【LIVESTREAMS】FREE]Dallas Cowboys vs Green Bay Packers Live Free NFL Week 6 October 18, 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-19T00:34:32+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n【LIVESTREAMS】FREE]Dallas Cowboys vs Green Bay Packers Live Free NFL Week 6 October 18, 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMizwJBVV95cUxPRlJ3ZmlMMDNxMldqdnhQZGhLVW9LWXRMem80WUJ5UVhlaHJYV25FUTJDY01FRk5CbDZCM3pLNGhRNEdvVUF3NVFMaW92YW9HbEtXWEVpY2w3QTEwaGRkaXVBZE9NQzU3MHBaR0I4NXlYQzhnNl9lbUVMSVdoSmdRRmFNMDVBLXo2OG45cy1FWkZ6UnlJSTVhZTZIdHFhOG9lRWZPRXZXU2RLdnE1Y0U0TS1XRVJQakUwc3ZKQUZMTW4weU5OQmFxQ1E3UjJ0TUlhNzNfdVZwZVRacjJfY3gyYUpaZ0NCa3AyN2JVYnp1VXBrOXZHY3Zvc0tzQW9nVTFMcGgwejhiYXhuZHdocm5ZaG05V1ZTellwNU1WemxPQ0hvYzk5bnAzTDNmLWZNakJXLW0zQzc0NGZZa0ZQeTlueVJIQ3AxZ0tLY2xJbmRuWQ?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "28c6f328cc0fa9309c19",
       "title": "‍‍‍[!COWBOYS-NATION!] Dallas Cowboys Game Day",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOaGdSanM5bW83UDZzc1lFSUhlNjlXdUdLZUU2T3VNT09IRkhTcGlwTnpXVk50bU4wZDUxcG5JNlVUS194VXNQMWozMmpxTmpTNkdWX0ZsQXNucmo3bXgyRHk5QTBBMjhHdm5Pa05FR3N4YkdXQXUtZUxKUTZGbDl1N1FrU3Vwd0JLTkJmenFldFhtXzdaTUYwSmpxOGhQdUZNcjM1QlgtTjRIVVRRRnV0ODZBLXpNWTl6WnpsS3VsTDNoMGdKTVcwRHJjbW9Pc2wxV3ZGdU9hRnVYWHgxWFRTYkllYm9pOE5UNEZQZ2tpX01sTjBrQXdBOW1KYlJyMi1KVDc2eTJuRDVHOVVpU1VCOThWRHNYa0VyaWdjUWtEN3FWeEhWeXUwb040VU51Z2l4QjdlRjdR?oc=5",
@@ -433,18 +769,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\n‍‍‍[GRIDIRON-LIVE] Dallas Cowboys Football Today\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMivgJBVV95cUxNZFE3YXlRVU5BY0VSYTBvemxfTk1kcnJwYnBTQzlYMjFvTUI3TEdBQ2hBVnQtS2djdkF3RmoxVDRLWFZGdi1wNHhESTlxNFNWOXg5clkxYjFjS29hY1IzVExVNXVHU0Mxa3RMQmxYbjdiMjJxVFpMaEZEWHdCeHI5M2lZNW5Cdm0zck5RVWMxWS1DNzNmZTc5V1gxYk1KYjNyY3drbjRBX1NSQ3lhQUlNQldtLTFaMUIyRGpwa1UtVW5FWE5HMDdMYlFldzZuNXVVQklWZzc1TVFzQnhGZFB2WFdQRmFLb3c3Y2ZSVm9TdHdVSHI4el9vNk8wRFFEOWI1UXdNZDZUb2ZuejRTelZvSjFkV3Z2OGZHLV9vNzhOaTUyc2tsV2xScDFzUjVLdVlOaUZOMTN5d3Zzdkltenc?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "5f85f0d10f68a2393adf",
-      "title": "[NFL]FREE!! Dallas Cowboys Green Bay Packers Live Today",
-      "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQZ3c2R0NNRmtmaDU1Tm1BZWNOQXlxUlJkWGlsdHZsUFR5UG5WZkxTOVJNREhJdGpLa0VybmY2SUNHTkNyR3p6RjJPZDA3cURSejdDWl8tU0dsMHROel93Y3R0alF0MDdvbnNJM1lfV2ZLMFZ1VmY0Zk44QXA4VTBVWE0ydjc2bUE5MzZRUEYyRmlaVXljYVU4d0FpQ1ZCa2F1OUd0NWlJdm15RjdZdnlzVkZfMjZSVVdfSjlkNG9mUERSYThlb2k0MU9NQ2ZRUXhndlYwbTdYLVVsMmZyYktNRW96U1U0dzBxZlJfRFRiRFFWNUJRRmJ3M1FPY1N3UmdGZnV4OVhEeUlydE9uVG5aLTdGUnZoYnF2R1h5UThMaTFMZ01NNVhYclMyTGpJWHFOTmFORFR1dzVydWtLc0RzdWROY1pYeE10Qm9JQkV4SzJCMUMyTVNPUHR3MktkVjBESW5ld0wyYmhfaXlhcDNXMl9tbGVqNnJmNGEtSzRfNDFYb0tOMXNjOVRSaw?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[NFL]FREE!! Dallas Cowboys Green Bay Packers Live Today Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:28:54+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n[NFL]FREE!! Dallas Cowboys Green Bay Packers Live Today\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiiwNBVV95cUxQZ3c2R0NNRmtmaDU1Tm1BZWNOQXlxUlJkWGlsdHZsUFR5UG5WZkxTOVJNREhJdGpLa0VybmY2SUNHTkNyR3p6RjJPZDA3cURSejdDWl8tU0dsMHROel93Y3R0alF0MDdvbnNJM1lfV2ZLMFZ1VmY0Zk44QXA4VTBVWE0ydjc2bUE5MzZRUEYyRmlaVXljYVU4d0FpQ1ZCa2F1OUd0NWlJdm15RjdZdnlzVkZfMjZSVVdfSjlkNG9mUERSYThlb2k0MU9NQ2ZRUXhndlYwbTdYLVVsMmZyYktNRW96U1U0dzBxZlJfRFRiRFFWNUJRRmJ3M1FPY1N3UmdGZnV4OVhEeUlydE9uVG5aLTdGUnZoYnF2R1h5UThMaTFMZ01NNVhYclMyTGpJWHFOTmFORFR1dzVydWtLc0RzdWROY1pYeE10Qm9JQkV4SzJCMUMyTVNPUHR3MktkVjBESW5ld0wyYmhfaXlhcDNXMl9tbGVqNnJmNGEtSzRfNDFYb0tOMXNjOVRSaw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "df5388c9181980dd563b",
@@ -483,42 +807,6 @@
       "caption": "🏟️ SPORTS — DFW\n\n(LIVESTREAMs!)~ Dallas Cowboys. Green Bay Packers Live Free NFL 2026 Football 18 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMilgNBVV95cUxQa3Z4VGxDZkZsWG1hbHl4dm9ENmRlVE1oOVZ3SGVFTzZGdVVfVHFiNnplRjhIcmtXQ3d0czZnV3JORW9SdV9YMGZrcGFaMzB2YlVNeEFVanNnSWVzdlhEVjhYcjRYemx6WjYwR0dydk5kSERyWUFsQmNhaXE5UGhscjZfaDFRZDdQYktrTGVyRENNV05NWjNib0JGamJBRVZtbE1XN3pNNjZpRkt0U1ZFMFRFWVZtdXBTdmN5dTV1eUhHa1dCMTB2Q296VGZhWm94WFlCd1NPazdHb3o5WmZWTjVEWlUwWXRGblZwdnNmRTBEdW9SVWRacnBaX1ZJYUp6Wm9zRWswRE5YeEx1X2hmX3FiMGMzYjI3Ym1PSFNKSmhQNFZ4eDkzaml6cVJSbkFuQkNaXzNSekZFbjBTa0p1Q0ZFRVYzRWtXQ29tc2hrMjhDX1Rsdld5MnlNeHRsanlzR3NrMWlCZi1hRTB5RTNudzhDOWhWX2hhMy1tUDBSV0lma1lmM1B4MkdqbTJ5U0dNVkE2LUhn?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "ee5a22a3ae087e9c4629",
-      "title": "#√☯️[[ESPN!!FREE+!]] Dallas Cowboys. Green Bay Packers 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ",
-      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPcDJJQXZWam5lTUZFdUczZmM4UUIwS19kRXRVR2Z3QkhzaWhnb0lkbGNmOU1RQ3pPNXFCWEpjUWRhakxvOXFkUVN3WlhyeTM1OGZNYjdFMXhSREtPZDN4b3l5VUp3TXpzbHdBRDJLdVhxX25uUDM5TjZ0WjU0Vy0tOVl1NlIwSXBpc3gwVUxKVkJVWi11Q3NfaWsyN0pxRURxX3BOYmo1TzBqMEFqcUdab1hlN0ZBSlN2RzYzT1RDMG56ZGJ2WjF4clZKMDY0ZFU0cU1iODlLQkxBYXVkMks0RlZVRU9KNV9tQWdETEZyNWMyZG81V204bUk5b3c3dkFKQnBFQ09ObE13SzEtYlNxLUQta1NDUW5zcGtMWnJVU1N5WmFSS2N6azJkM0NlQUJnTkczM1ZBSVNqa3JtWDVlNUhKTHMxeUpJSXJoR2FHcTREa2xjN1gtMDY1ZzVPcmJLNWplSDEwVFRndkdYQndMamh0TTlXVWtGXzJHbmtwOW12MUZCeDZjdF9RUEY?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "#√☯️[[ESPN!!FREE+!]] Dallas Cowboys. Green Bay Packers 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:28:53+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n#√☯️[[ESPN!!FREE+!]] Dallas Cowboys. Green Bay Packers 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅ\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMijANBVV95cUxPcDJJQXZWam5lTUZFdUczZmM4UUIwS19kRXRVR2Z3QkhzaWhnb0lkbGNmOU1RQ3pPNXFCWEpjUWRhakxvOXFkUVN3WlhyeTM1OGZNYjdFMXhSREtPZDN4b3l5VUp3TXpzbHdBRDJLdVhxX25uUDM5TjZ0WjU0Vy0tOVl1NlIwSXBpc3gwVUxKVkJVWi11Q3NfaWsyN0pxRURxX3BOYmo1TzBqMEFqcUdab1hlN0ZBSlN2RzYzT1RDMG56ZGJ2WjF4clZKMDY0ZFU0cU1iODlLQkxBYXVkMks0RlZVRU9KNV9tQWdETEZyNWMyZG81V204bUk5b3c3dkFKQnBFQ09ObE13SzEtYlNxLUQta1NDUW5zcGtMWnJVU1N5WmFSS2N6azJkM0NlQUJnTkczM1ZBSVNqa3JtWDVlNUhKTHMxeUpJSXJoR2FHcTREa2xjN1gtMDY1ZzVPcmJLNWplSDEwVFRndkdYQndMamh0TTlXVWtGXzJHbmtwOW12MUZCeDZjdF9RUEY?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "db6a29b6fde1132dfd71",
-      "title": "【【Live sTrEaMs!! NOW】】 Dallas Cowboys Green Bay Packers 𝐋𝐈𝐕𝐄 Ｆｒｅｅ",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQZDdYYVBYMkw4dzhXRE5kcGhVVG15azN2WDdqcmM4bGNZTVp2eFBiajVWNlMwamptR2lKMDgwbmI1LTdTRzVMdEtSNlU4eXVXZThkQ1NNOG5CTUV3blljdmlwaWFpRHM0Qnh6c0I3NVNXeksxenM3bXJ4LU91c3NaUkZRWlJ6Qk9tbkFRcVZtYWZtZVdySXU2VVh1amtlc2E3NTBTV0EwSlVrTHNwcDF3NTh3UDQ2TjB6Y2FITmYwRktKWXUtRHhQM2EzTU1RdDRXRXh2WFFfbnFic3RwcFZSUU5iWHhDaFo1SGIzUTVRRmYweVBJMkI3UlZfX09NYnNBeWYwQmo4UkYySUlxTEo3c3ZoanpTeUdBeVZjMDdqX3kzeFByV3pKYjAwbUJJcHhxY19PbkJsRk55dWtWWVF5VXpEUEJQaERVOFZxR2NHbFhEY3BraHVJaXFrY2ttM2ZzTkhNSkNmbzduaHVTUEdGV2hZcHgxZzIyeVlXbHczWU90UXRuVHc?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "【【Live sTrEaMs!! NOW】】 Dallas Cowboys Green Bay Packers 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:28:52+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n【【Live sTrEaMs!! NOW】】 Dallas Cowboys Green Bay Packers 𝐋𝐈𝐕𝐄 Ｆｒｅｅ\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihgNBVV95cUxQZDdYYVBYMkw4dzhXRE5kcGhVVG15azN2WDdqcmM4bGNZTVp2eFBiajVWNlMwamptR2lKMDgwbmI1LTdTRzVMdEtSNlU4eXVXZThkQ1NNOG5CTUV3blljdmlwaWFpRHM0Qnh6c0I3NVNXeksxenM3bXJ4LU91c3NaUkZRWlJ6Qk9tbkFRcVZtYWZtZVdySXU2VVh1amtlc2E3NTBTV0EwSlVrTHNwcDF3NTh3UDQ2TjB6Y2FITmYwRktKWXUtRHhQM2EzTU1RdDRXRXh2WFFfbnFic3RwcFZSUU5iWHhDaFo1SGIzUTVRRmYweVBJMkI3UlZfX09NYnNBeWYwQmo4UkYySUlxTEo3c3ZoanpTeUdBeVZjMDdqX3kzeFByV3pKYjAwbUJJcHhxY19PbkJsRk55dWtWWVF5VXpEUEJQaERVOFZxR2NHbFhEY3BraHVJaXFrY2ttM2ZzTkhNSkNmbzduaHVTUEdGV2hZcHgxZzIyeVlXbHczWU90UXRuVHc?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "7d87ade3593a951dfd5d",
-      "title": "[]HERE’S*! Dallas Cowboys Green Bay Packers Live",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPcm9qNk5hQWI3LWlNcGFPMDE0RzE0eE1JY3kzLTJwdkszcmdRa2F6R1NndzVabFBGcThRSy0ycnFoeTV6clk3bGxUeTFLTVQ4VWlkZHVlTjZCTDRHVk5VLUJncHZLN2ZyeklxRndYa25WLUd4amJaN0x2MURfSnQzUjctSU41dnhzcGRxQXBBdHpIaW5lWFBzWFhuQW9NVnNEWGdqd2NwTVhyRTRuWklpdjA5OWE1TGlpdEw5bHdSVG1SZ3NIZUo0WW9VYW9aZUxDYXV4bDRFbXJnemRMTmZPWnBCOEE3bTllZXJVR2FIMFlLZ0t0NUpmcUp0Z2ZrRlF3LUhwV3A3NEF0TGx2ZlVSVnpqWWt1eWxEb212YmhCaWN0YVR2QmRvNEdxaGJSNzhscXNUUUROcHhKY3dtUDR0MV9KSDczclZWQ1plb2pLM1ZXV1pNdEhrRmppUTY4LWt3YWtqMU5VMTRQRkMxZVpYN3ZyOWwyWGItU3pTdVRwSndfb3phMFE?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[]HERE’S*! Dallas Cowboys Green Bay Packers Live Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:28:52+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n[]HERE’S*! Dallas Cowboys Green Bay Packers Live\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihgNBVV95cUxPcm9qNk5hQWI3LWlNcGFPMDE0RzE0eE1JY3kzLTJwdkszcmdRa2F6R1NndzVabFBGcThRSy0ycnFoeTV6clk3bGxUeTFLTVQ4VWlkZHVlTjZCTDRHVk5VLUJncHZLN2ZyeklxRndYa25WLUd4amJaN0x2MURfSnQzUjctSU41dnhzcGRxQXBBdHpIaW5lWFBzWFhuQW9NVnNEWGdqd2NwTVhyRTRuWklpdjA5OWE1TGlpdEw5bHdSVG1SZ3NIZUo0WW9VYW9aZUxDYXV4bDRFbXJnemRMTmZPWnBCOEE3bTllZXJVR2FIMFlLZ0t0NUpmcUp0Z2ZrRlF3LUhwV3A3NEF0TGx2ZlVSVnpqWWt1eWxEb212YmhCaWN0YVR2QmRvNEdxaGJSNzhscXNUUUROcHhKY3dtUDR0MV9KSDczclZWQ1plb2pLM1ZXV1pNdEhrRmppUTY4LWt3YWtqMU5VMTRQRkMxZVpYN3ZyOWwyWGItU3pTdVRwSndfb3phMFE?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "c0fc73762eeab89a0a97",
       "title": "⊕(++𝐋𝐈𝐕𝐄>𝐒𝐓𝐑𝐄𝐀𝐌..!!)🔥 Dallas Cowboys VS Green Bay Packers Football 2026 NFL",
       "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNZWtGS0VldVBWOE81Z1ZhSVBTNVRTTS1wQU5KR1JGUTJBTk5kT2t1Y1RfQ2xvVHBIRU1ZLVBsSVNETGY3T1VCRTVFN0lnaFJMZDJ5VXRJd3RnYjdTZHVtTW12eV9kSVp4QjZWUTAwYjE2MzFIZ3dlZ1FRMWJVX1ZCZFBZMlRNb2p6UllId1JHQ3dWU2lneDZXRzJCeERnSXNTR1RoS2ZfNU91cnctQWZBR3k1WjhyRWhkeEh4NUd5MjZyNjRRU1dGbFFudzR1TXVJaEZpMzJLbHJGOF9XQ3I2dEtuVzlZNE81N1N2czhsT2kzVUctX2JqVXVoZjdONjNyamJWU3dvNzNDRDVfbnB2Skx1dkpGM1V0TDE1NTdZRG5fejdfTFlLckNSeTI5RDdOaXlkV1g5Y01CMDlpakxDcWJnaHBYUno3NXJ4WncyV3J0aUxCRWRrWU1SODM3UV8wMEJtQ3huTVZjcGstSVFoMEItWHd5anNpX3Y1QkFPbzBOck5fTEE?oc=5",
@@ -543,30 +831,6 @@
       "caption": "🏟️ SPORTS — DFW\n\n((( YOUTUBE ))) Dallas Cowboys vs Green Bay Packers Live en direct 18 octobre 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihgNBVV95cUxQb0djZHJYZGpyNGhPX3RNOFMxekpmdlFqcWRZSUQ5SGkzY21rZ3J1RnI1VVVaSzVHOU9nelMzMVREUTZqUWpvZ19CU0ZfRTJNRlhaTm5DUC0xallIQUNReG9iVFFVNWV5OHQ2UnZUel9NVmVRNGxzMTh1QmRZVjNibDRzeVhrMTV3X0Z0X2NYS2ZySk5IMk9aVHlmcTgyOG9GMzB4UkVNWW9raE1HbTJ3Z3hPNklpNFpHaUhTelJlb1lIdmxFcXE0Nzl2QllmNTAzcHE3V3FTeWd0ZmdYNFVjZ1NJQTFRYmdITTUwQTVjdnFhd244TjBpem9FSWpkdXlxa1RKUUJGcGpCMGRnOW9xQjNRNG84TGd1d0tLZnFlLUJzQUxNYmZlN0FMY3BFYlJCWG9QWXhYN2d5SEMzcktSWUNPRWpicHh1alZPaXJfRFlMaGZRb09aTFg0c3hlcnFDR0lFaTl6aGZnOXdpUmhLdXV6UUhObk5KbzBvSnRYOUlvU1VQRXc?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "91377389a86a0d943d53",
-      "title": "+? Dallas Cowboys vs Green Bay Packers Live Kijken op tv en livestream 18 oktober 2026",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOcUVCR0c1UndzM0hCU1A5bnlUYUhaLWZxS0Z0Qm5RZWo5ZFNFSjgwOHRFd3lwN1VTX3A1UDNDWDBqc0ZhZ1BSUkZVaEdkU2VvOWdFZG9vUXRyd2h3REhaSlZkOEhncGFieGs5S0ZnR2tLWTZ1ajgxUVdKMThyclAyeFRVcWFyTHNiN1pHQWd3LTUxN0tuNWJjUXQ3N1l5SmdCXzZBcnNKTkxUQkNJOTRQRWFvM09EVVZreFRlVDlEdVFaLUp5U1BRSmxoQTNHX3J6bVFXWkxHMlJPcjNpbWVzNTNSaXJVOWNxSUdOdFFKdERncnJ6cFVpcmdKSXdvNENsaGZ5WUJMS3BuNHhpLWg1X25FbFZ5VW5vZjlHS3oxUnc3R2VBcDdqTjRfdlJHMzBjTnZyWDNPZThta0ZVN3B2NGJzZ1drOXo0VkF3anpzVF8xTHB0Qkx2Z3RVS3lqMDd2UW9SOXl5MFBpNTF0RGxxZWQwU0l4SEJ6RDBBS1N6NG1EcXozWlE?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "+? Dallas Cowboys vs Green Bay Packers Live Kijken op tv en livestream 18 oktober 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:28:52+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n+? Dallas Cowboys vs Green Bay Packers Live Kijken op tv en livestream 18 oktober 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihgNBVV95cUxOcUVCR0c1UndzM0hCU1A5bnlUYUhaLWZxS0Z0Qm5RZWo5ZFNFSjgwOHRFd3lwN1VTX3A1UDNDWDBqc0ZhZ1BSUkZVaEdkU2VvOWdFZG9vUXRyd2h3REhaSlZkOEhncGFieGs5S0ZnR2tLWTZ1ajgxUVdKMThyclAyeFRVcWFyTHNiN1pHQWd3LTUxN0tuNWJjUXQ3N1l5SmdCXzZBcnNKTkxUQkNJOTRQRWFvM09EVVZreFRlVDlEdVFaLUp5U1BRSmxoQTNHX3J6bVFXWkxHMlJPcjNpbWVzNTNSaXJVOWNxSUdOdFFKdERncnJ6cFVpcmdKSXdvNENsaGZ5WUJMS3BuNHhpLWg1X25FbFZ5VW5vZjlHS3oxUnc3R2VBcDdqTjRfdlJHMzBjTnZyWDNPZThta0ZVN3B2NGJzZ1drOXo0VkF3anpzVF8xTHB0Qkx2Z3RVS3lqMDd2UW9SOXl5MFBpNTF0RGxxZWQwU0l4SEJ6RDBBS1N6NG1EcXozWlE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "b05cf90be01ef393a517",
-      "title": "~$!【NFL Football】 Dallas Cowboys vs Green Bay Packers Live Stream Free",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPb29wVUdpd21fNU1xSk5MUFV6YmIzOTV5eHIybFZsR3dYVDFjcWQ2WTk3eEw2TzNTcll6Qk1lNDd0cGxEc2tnaTFuTkkzcjZ1N0NfZEhESlktazFBMVU3Y3BnV3FHTG1OTjZEZXpicVBIZDJsYzFVTUNOcFNobGdHSEU4d18zY25vMm9JdVdWUGZlbmdnaHhKeVBqdldaSENqckxfQ0sxSzBvOE1KNlFJRGJjaWlORm9Zai1OdF96ZDZ5SG04ZTQ4YVhTbkdSaTJ0THB6TTAtc0pxeE9fSVA2SUpZd2EyTlM3dWx0RU10VFIwbEU2M0VFNnczMUN5bDhscXZSLVprNG5NNFFSQ1JJZ2ZVMkhYY3QzaF96QmwxUHpTVjRPekpzbC1faHRpbm1rMHlyX3UxZ0sxMGhfY1BLQjFnZWV0c2RtMjdTVF9mUWhIZlM4TEpEY1lRSFZFWUhsMkhJX0lQVXRPUGx1MTRmME5TR1c0R0lrRDZhR013?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "~$!【NFL Football】 Dallas Cowboys vs Green Bay Packers Live Stream Free Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:28:52+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n~$!【NFL Football】 Dallas Cowboys vs Green Bay Packers Live Stream Free\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi_gJBVV95cUxPb29wVUdpd21fNU1xSk5MUFV6YmIzOTV5eHIybFZsR3dYVDFjcWQ2WTk3eEw2TzNTcll6Qk1lNDd0cGxEc2tnaTFuTkkzcjZ1N0NfZEhESlktazFBMVU3Y3BnV3FHTG1OTjZEZXpicVBIZDJsYzFVTUNOcFNobGdHSEU4d18zY25vMm9JdVdWUGZlbmdnaHhKeVBqdldaSENqckxfQ0sxSzBvOE1KNlFJRGJjaWlORm9Zai1OdF96ZDZ5SG04ZTQ4YVhTbkdSaTJ0THB6TTAtc0pxeE9fSVA2SUpZd2EyTlM3dWx0RU10VFIwbEU2M0VFNnczMUN5bDhscXZSLVprNG5NNFFSQ1JJZ2ZVMkhYY3QzaF96QmwxUHpTVjRPekpzbC1faHRpbm1rMHlyX3UxZ0sxMGhfY1BLQjFnZWV0c2RtMjdTVF9mUWhIZlM4TEpEY1lRSFZFWUhsMkhJX0lQVXRPUGx1MTRmME5TR1c0R0lrRDZhR013?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "b4f3c84b6a363477d9bb",
       "title": "+++!(ABC-TV) Dallas Cowboys vs Green Bay Packers Live Reddit",
       "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQR1ZKM01BOHZ5NmZQWXdrTDROZVE5Z0JlLVdLUldkQkRxOGdweXdHekJZay1MNkNtXy1majRfbWZYT0tRYWVvQzc3ZjN0cDliRGZlMGJ5cElRN05jUTIxbmVObW11NGg0NU53bkR0M0IwNTIyYlh0Qk5Ea3NzclBQSG5LQWdNMmpvZFNyRGZfajFVLU85M2ZtUk9zWEhkMzN5UmJMdlBuR0M1S2pfOWZOZlR4a1JyZU9NQVpJOEZUTTNMdVktMlNKM2Voc2RzenVrM2o1bWZZX2xEYjBhX0ZXZEFJWk9UZC1jNTJab3NSN2xta0NHS1NEOTJMMzdEN28xN0trSzhPbkFXQnlBNEY0X3Y3T0RnTThwcmZQTHhGa0NxdUxVQTFweXk2SUVjQW9tUVFMdUUyS2FCaDVZZF9tbkNjMWwtWTN0Z1NMaWwxb2Jlc0pPcVU1bnp6VlVnU2RJYzB3SnFnZ1dBTkI4b1hCZ2hRUkVyVVlGOHFVNDhKN2VIS3Z0blE?oc=5",
@@ -577,6 +841,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\n+++!(ABC-TV) Dallas Cowboys vs Green Bay Packers Live Reddit\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihgNBVV95cUxQR1ZKM01BOHZ5NmZQWXdrTDROZVE5Z0JlLVdLUldkQkRxOGdweXdHekJZay1MNkNtXy1majRfbWZYT0tRYWVvQzc3ZjN0cDliRGZlMGJ5cElRN05jUTIxbmVObW11NGg0NU53bkR0M0IwNTIyYlh0Qk5Ea3NzclBQSG5LQWdNMmpvZFNyRGZfajFVLU85M2ZtUk9zWEhkMzN5UmJMdlBuR0M1S2pfOWZOZlR4a1JyZU9NQVpJOEZUTTNMdVktMlNKM2Voc2RzenVrM2o1bWZZX2xEYjBhX0ZXZEFJWk9UZC1jNTJab3NSN2xta0NHS1NEOTJMMzdEN28xN0trSzhPbkFXQnlBNEY0X3Y3T0RnTThwcmZQTHhGa0NxdUxVQTFweXk2SUVjQW9tUVFMdUUyS2FCaDVZZF9tbkNjMWwtWTN0Z1NMaWwxb2Jlc0pPcVU1bnp6VlVnU2RJYzB3SnFnZ1dBTkI4b1hCZ2hRUkVyVVlGOHFVNDhKN2VIS3Z0blE?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "f94b04b926cfadfa0558",
+      "title": "【【Live sTrEaMs!! NOW】】 Dallas Cowboys Green Bay Packers Live Free",
+      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOdXhPQU1QbDNEMGh6NWRnX3pCdFlaN0NOU0pHOHZmTVpVMUR1Zm1jQ2o4b0phd3BCd2RpakpCZjdSWVhBWXZGV2FLNkl1dlNfa0VlRDhSczkzbGtseF90aWNacDBWUEFFVGxEZVZtVGVFc0JXQ1RiRkdYQmVhT2lEMzZsRHc1QjRRNlVFSHpHdDB3Ul9pXy1zaHdxa0JLRnpmMDkxWTNveTh1MXVBX2w0TUgxd0J1X29tTy14dmljX3JpVmlrVUw3TU9kLWlzLWVvREE2RDVoTFhXMW5rdjltaGpQd3R2TE54bEtzbTZsRTNJbjlETk1XS2FZQlBYZl8xRW9DeWNOZm5tbDZ1WGlqQTNVMFlPT3hSaXBTZU5sSnFyOUtEUldKTW5DTnlScDZkd0NPTHJpZHFucXpJRzZRc0pJWUJiRnBGU3EtREhTUmZObzA1aGdmSFN5T0dWdHNLeHRMQzNIX1BtT3JCcFR4anBTUnBSUGRWNTU1MGhB?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "【【Live sTrEaMs!! NOW】】 Dallas Cowboys Green Bay Packers Live Free Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-19T00:28:51+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n【【Live sTrEaMs!! NOW】】 Dallas Cowboys Green Bay Packers Live Free\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi_gJBVV95cUxOdXhPQU1QbDNEMGh6NWRnX3pCdFlaN0NOU0pHOHZmTVpVMUR1Zm1jQ2o4b0phd3BCd2RpakpCZjdSWVhBWXZGV2FLNkl1dlNfa0VlRDhSczkzbGtseF90aWNacDBWUEFFVGxEZVZtVGVFc0JXQ1RiRkdYQmVhT2lEMzZsRHc1QjRRNlVFSHpHdDB3Ul9pXy1zaHdxa0JLRnpmMDkxWTNveTh1MXVBX2w0TUgxd0J1X29tTy14dmljX3JpVmlrVUw3TU9kLWlzLWVvREE2RDVoTFhXMW5rdjltaGpQd3R2TE54bEtzbTZsRTNJbjlETk1XS2FZQlBYZl8xRW9DeWNOZm5tbDZ1WGlqQTNVMFlPT3hSaXBTZU5sSnFyOUtEUldKTW5DTnlScDZkd0NPTHJpZHFucXpJRzZRc0pJWUJiRnBGU3EtREhTUmZObzA1aGdmSFN5T0dWdHNLeHRMQzNIX1BtT3JCcFR4anBTUnBSUGRWNTU1MGhB?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "586ecf747979e8777485",
@@ -591,30 +867,6 @@
       "caption": "🌪️ WEATHER — DFW\n\n‍‍‍[MATCH WATCH]Dallas Cowboys vs Green Bay Packers Live Ｃｏｖｅｒａｇｅ\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihgNBVV95cUxQUVUxRHM0aEhFeWNOQ1pkQWhXcmNNY1RLWDUxbUkzMENzR1BjcGJTc1pRdVlpekJ2LWJ0OTQ3ZW9RMVF0UnQyZTk3dGIxM1BwQl9CZE01V2VDTTNESXRYM3ZwNTJYWV8xZDZmN041SXRFbnZXdEJSVldKODVCVkRuSDR1YS1NeXZ5NEJzQlhsa01kQnZiMi1RcWxOUXNsQW9VN0ZwQ0lkZDY4QmFjaS1la0pQcGl5YUZGZ21wanBiSW1BSWprZTF0WVNFQzUyNThxRkd5RmMzTExoOEM3bDlSdjd5VW9TTEFHUjZEaWxvZmZ3Q2VKd3pmOUkwNmVYWG9DRzlONjZQbW5KYkFtcDNqejhmeVFmMUtXM0RrYXhZLWlCWnVEVEJ5TDZBZUVCcFUteXVtREdxTmlSeE0xYXBoSkZvVWMzQTFIazdHN3JlVVlJY2ZoTXh2cTJReWhaRm5iZEtIZ1U3MVJHOUNkdXVIcjlobldRNDBWNnhGekZ0cWU5aF9md2c?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "5dac66f2547ef42c328f",
-      "title": "###[LIVESTREAMs!TV]Dallas Cowboys vs Green Bay Packers Live Free ON tv",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPNEVqSXNNXzhUZE5GY3V0X3E1U3NQX3FXd3V6VEhabmgyNklUQ0dPT1E3QXhDRnBCc1ozcm8zTlFfTloyOEJhWE5TdExpRXlCOTVEMDdJay1SZnEzdC1xV2tzRjJwRXZuLVU0M2NCZHdYbXhhdnllSmFDSXllSVEySjhwNjFKLVhCMFpYMmlIOWtSWDlkVzFUYmhJRy1LMW15cW1nSzZXeTVWdzlGRVl1c0dsbjY2ZFpLWE5selh5RDY3VlFmSTN4SThFTkpSMjFqamFNTllxSWY4RFpoaFllbkFOT0xYcmJIX1hDV2QwN0thbzlxOFFndm5jRkJxaTVzdXZvNFAtbExqdjYxcGZ6eThNZkJCZ0pOajN3UU1IdGRhQjJrT0UyNU5JRTlFRTJGV0lSLUxJVFozam00R0tGeVJRdUVvUFAxUkNpWUtla0hURXUwcXAzNzBfUm9PRzlTbTBGdVBVcTh2d0tyeWdJZXdyaF9KcElPZWZBdFpn?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "###[LIVESTREAMs!TV]Dallas Cowboys vs Green Bay Packers Live Free ON tv Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:28:51+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n###[LIVESTREAMs!TV]Dallas Cowboys vs Green Bay Packers Live Free ON tv\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi_gJBVV95cUxPNEVqSXNNXzhUZE5GY3V0X3E1U3NQX3FXd3V6VEhabmgyNklUQ0dPT1E3QXhDRnBCc1ozcm8zTlFfTloyOEJhWE5TdExpRXlCOTVEMDdJay1SZnEzdC1xV2tzRjJwRXZuLVU0M2NCZHdYbXhhdnllSmFDSXllSVEySjhwNjFKLVhCMFpYMmlIOWtSWDlkVzFUYmhJRy1LMW15cW1nSzZXeTVWdzlGRVl1c0dsbjY2ZFpLWE5selh5RDY3VlFmSTN4SThFTkpSMjFqamFNTllxSWY4RFpoaFllbkFOT0xYcmJIX1hDV2QwN0thbzlxOFFndm5jRkJxaTVzdXZvNFAtbExqdjYxcGZ6eThNZkJCZ0pOajN3UU1IdGRhQjJrT0UyNU5JRTlFRTJGV0lSLUxJVFozam00R0tGeVJRdUVvUFAxUkNpWUtla0hURXUwcXAzNzBfUm9PRzlTbTBGdVBVcTh2d0tyeWdJZXdyaF9KcElPZWZBdFpn?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "7c4c3c4a71a113a8dfd2",
-      "title": "‍‍‍[𝐒𝐓ream] Dallas Cowboys vs Green Bay Packers Game Final 𝕃𝕚𝕧𝕖 from anywhere — it's FREE",
-      "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPZ25kU2tidmlfU21sQ0kzaGhOOUJzR01EN3RBb0NaYTVPbmNWcU5nODBxaEhMSmMtT3BKQlN2NlR0aVJhbEo5d1dCWEl5M2FMNlBmNFJoM05nREdMZmdjWU1ScU9SZUNhMGxKd21GNGE1STJKMW5BMVFjQVNRcUNRSll2ampOeGplbGx0cnhzdnphQ0ktNEU0WUd6M2tERmZDR0wxMjR0OEVINHRNZzVWcWctWlRaellPa3NjZUhnNEhuOFhwMm5XbWZ5aGFhekQyd18zdmRfcUg0OHlFSVVBdnVZekNoalgtMmw0ejFYaDZzZV9oLVk5MFdoZU8wTUN4M0Y3VnFqcnlfellralY1aUdOakZGaXp0RDd2NklDaTZPbWl5UUJTa3J6WFhaZ2Z0NmhFQjJhMmUzMFdnZklxUjYwblJoZTVxMGxDbGcxTWFydjlIZzhQUFV3bF9ZajJNcE5rdlBpMTBIcWJVeU1KV3hDQWhWVTJlM1E?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "‍‍‍[𝐒𝐓ream] Dallas Cowboys vs Green Bay Packers Game Final 𝕃𝕚𝕧𝕖 from anywhere — it's FREE Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:27:32+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n‍‍‍[𝐒𝐓ream] Dallas Cowboys vs Green Bay Packers Game Final 𝕃𝕚𝕧𝕖 from anywhere — it's FREE\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi-gJBVV95cUxPZ25kU2tidmlfU21sQ0kzaGhOOUJzR01EN3RBb0NaYTVPbmNWcU5nODBxaEhMSmMtT3BKQlN2NlR0aVJhbEo5d1dCWEl5M2FMNlBmNFJoM05nREdMZmdjWU1ScU9SZUNhMGxKd21GNGE1STJKMW5BMVFjQVNRcUNRSll2ampOeGplbGx0cnhzdnphQ0ktNEU0WUd6M2tERmZDR0wxMjR0OEVINHRNZzVWcWctWlRaellPa3NjZUhnNEhuOFhwMm5XbWZ5aGFhekQyd18zdmRfcUg0OHlFSVVBdnVZekNoalgtMmw0ejFYaDZzZV9oLVk5MFdoZU8wTUN4M0Y3VnFqcnlfellralY1aUdOakZGaXp0RDd2NklDaTZPbWl5UUJTa3J6WFhaZ2Z0NmhFQjJhMmUzMFdnZklxUjYwblJoZTVxMGxDbGcxTWFydjlIZzhQUFV3bF9ZajJNcE5rdlBpMTBIcWJVeU1KV3hDQWhWVTJlM1E?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "5c365464f0aa10519623",
       "title": "[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18 lav",
       "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOaVIzUFctN0Y3RlBhbkptb1BsRVA5eXlMNUJqY0FCTHNoZU1UTHZQZTdGNnRpb2paX0RGOVpLaEFMSkltZVpYcnlERWxfdEFWRy1WQ3RndW9oaWlHaHBxRERYeG9sQ0VxcUNHaXZ1d1VVMjF3ejhWZUlqSzd6VktnUk9Oelc1V0VuWWJqMUFkMV8xblZyTkxyTDFUQkZLblkxVGhhczlBdlVHT2pmMjV6T1ZncTlmdDVmU0tFTVhGZjJUVlVHVXZjamlIMV8yOGlkNThSTFlhMzljaU40ZWFDX2VsbUtldkJVUTJPM3VkRXlYamZaRkF4TjdhVk1oc0xTbGtnMlQ2bmhXbFBHbmswRmlEcjNjU2QzUWFETHpuWnQ5N0F4a0hTVXoweFkxUjFQdGM0bHVNNkF4RlRaQXJUU2lSMHJZV2hUTXc?oc=5",
@@ -625,18 +877,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\n[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18 lav\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiygJBVV95cUxOaVIzUFctN0Y3RlBhbkptb1BsRVA5eXlMNUJqY0FCTHNoZU1UTHZQZTdGNnRpb2paX0RGOVpLaEFMSkltZVpYcnlERWxfdEFWRy1WQ3RndW9oaWlHaHBxRERYeG9sQ0VxcUNHaXZ1d1VVMjF3ejhWZUlqSzd6VktnUk9Oelc1V0VuWWJqMUFkMV8xblZyTkxyTDFUQkZLblkxVGhhczlBdlVHT2pmMjV6T1ZncTlmdDVmU0tFTVhGZjJUVlVHVXZjamlIMV8yOGlkNThSTFlhMzljaU40ZWFDX2VsbUtldkJVUTJPM3VkRXlYamZaRkF4TjdhVk1oc0xTbGtnMlQ2bmhXbFBHbmswRmlEcjNjU2QzUWFETHpuWnQ5N0F4a0hTVXoweFkxUjFQdGM0bHVNNkF4RlRaQXJUU2lSMHJZV2hUTXc?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "fed05a33e0875c3189cf",
-      "title": "~!@!(𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋-𝐓𝐕)Dallas Cowboys Live FREE Tv Streams",
-      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNZ2tCcmtHNDBDUGJaTUJyZ2xRRnp0blhlLVVmdDdRUjhpUjFiVkNqRC1pbEpXc2ltNXlaT3VkNS1wT3R4ZWUwOUo1cU5wamdIeWZXS2t6YWJCMl9JbWhFaUswZWV6dloxVkI4anBiNThMWnFSdmtuXzRmaGluNHoyMVkxazdTbURSeUozR0FfQjlEbUw5NEhJb0NPVmt0OHFsMGt2a3NFdnF0cmNOUmFxZzhXaFFLZGpMMDJrYUpuRHBjS0lET0RMZTdmSExVZ09ENUJOT1BUallTSVVCUDV4OHI3djF2aEtTLS05YkFUNFdZdTlTbzlhVnlJeklVWE1MTDBHb3ZfeWhLRTY4VGtGTUxERzhtS21UUndIWmVtb1pveUZQa3hMVm9TU1ZIOW51OWRKSjdaYVJ4ckhza0RsQWhLSnE2ZHo3SmdLQkctc1piVzctOER1RXBCQ1IxdkxxVmlEV0NZQUZBTTJER1Q5aVZlSjdDVkp3WTVONXlqcF9HcnZ0a3ktbUhTczJ0aklQbEV2dDUwN2hPTy1ZVHYtTmZCT1VfckFjYUNOa2dKbE5tZE51Y3c?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "~!@!(𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋-𝐓𝐕)Dallas Cowboys Live FREE Tv Streams Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:21:15+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n~!@!(𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋-𝐓𝐕)Dallas Cowboys Live FREE Tv Streams\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMitgNBVV95cUxNZ2tCcmtHNDBDUGJaTUJyZ2xRRnp0blhlLVVmdDdRUjhpUjFiVkNqRC1pbEpXc2ltNXlaT3VkNS1wT3R4ZWUwOUo1cU5wamdIeWZXS2t6YWJCMl9JbWhFaUswZWV6dloxVkI4anBiNThMWnFSdmtuXzRmaGluNHoyMVkxazdTbURSeUozR0FfQjlEbUw5NEhJb0NPVmt0OHFsMGt2a3NFdnF0cmNOUmFxZzhXaFFLZGpMMDJrYUpuRHBjS0lET0RMZTdmSExVZ09ENUJOT1BUallTSVVCUDV4OHI3djF2aEtTLS05YkFUNFdZdTlTbzlhVnlJeklVWE1MTDBHb3ZfeWhLRTY4VGtGTUxERzhtS21UUndIWmVtb1pveUZQa3hMVm9TU1ZIOW51OWRKSjdaYVJ4ckhza0RsQWhLSnE2ZHo3SmdLQkctc1piVzctOER1RXBCQ1IxdkxxVmlEV0NZQUZBTTJER1Q5aVZlSjdDVkp3WTVONXlqcF9HcnZ0a3ktbUhTczJ0aklQbEV2dDUwN2hPTy1ZVHYtTmZCT1VfckFjYUNOa2dKbE5tZE51Y3c?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "886f38b0930b9a5e537c",
@@ -663,42 +903,6 @@
       "caption": "🚧 TRAFFIC — DFW\n\n[NFL Broadcast] Dallas Cowboys Live\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi-ANBVV95cUxObTlrUzZZcTZZSjl2d25oeDJUT3gwbnFYNXNSaFRUTFgtckpJSVpzNjUwZGI0dFZXaElRLWM2U0tmdTJGX1VfakdCNFIzMUZDQ1pxQzRFSHlyS3Z1WVNWbGtJbHBYQTFMejVFNGNSaERYTUVTYk5JZGtlQXJsQVhxdkZZVWRHSDFZMVRMZDB4R3VaelFCWTkwWGo1X3drb0lOanJEZm03V1hNUm1JYWEweE9kV294ekRNczgzN0Z4c0ZDZ3E5UDh5cFY0MkhHRXlDTWg2Zkh2Sl9ORUN5RktoLU83bFNINkhER0d5ajVvY1E0bkFaM3gzYWxGY3FqR1B6OGpIbk5IQ0pPWER0QnN3bVhxQjl1RDc1UVVhQUk1ZHZldFN4d21mZ0UzaGxJXzJqOTJwMElqR2lvb0RWYTc4Y0ZWaVhMNHNqWC1aUnJ0WFBiMVJaWWx1aFBXcHFxQmp6eU9Fa2pnX0NMR3Q0YmExNWJONDZpMHN1NTRTZ3VPdVBfSUUwaUd3cGpSM1ZXaXZITmpwRHlXbWE3eTFvcnVPdUlYTFJ2NDBlWmtuNGptb1J3aEtWanZfWngyd0JqeGJGT1V2b2U3Z2ptVUc4MHUyUmI2WkFDV0ExRG1RUTE5eWNTaTRHLVJacUh2YUNWSnNKUmNoQUdRc3c?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "651a1aaac3a1e9fd19e1",
-      "title": "[[Fox^Sports]]Dallas Cowboys NFL Game Live 18 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQZWg0QlU3M2dMZV9lYWY5UFdOTHlyWjU0NkpOWEtBUUY4NU41SmVqR3otb3NiNkZmc2ZiYmZMZ29hcnp1MDU2MmwzZVMzNTd4Sk1zVDI1TjN3OHpyakFVNnBfbkhiSlJkcldHX2RBWGgyVEs0Ynh3bEZNMXpYelVSb1ZpbEtOTk13VWRiNXpXREpQNmhMZUt2dmUwNUZZM0VwZWZmN2JqNG1YTXZGUzRSdmUwRTVuSFBQOHgzSzc3OVRwUGFBVU5rQ3h3WnM3aExtQ25DamJOTFVVeHhtUU81ZDNmT29xME1wNFVCMk5WaC1CbXF0UVcwbnlDdnNMeW1KT0p6Y21NU1dLNW1aa2tqdThqYlNEVnRPalllQ1F5Q2pweThhbHdqX3RvUUktREdGUnQtYU9FcC1idDhuWndaVEtmUDJhZmV0MEtnUmt0cnNoVmJZanVuend2dU5sUGxrNEtEX2tEck5wMVpsZ1J0aFZCWG5GaGJkcnNuS2dWQW9KUFFYaVpiZk9xYy1uakcxRDM5bTZMbjJhRjl5eWRKX0pSamdNajVlaTVieA?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[[Fox^Sports]]Dallas Cowboys NFL Game Live 18 October 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:20:43+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n[[Fox^Sports]]Dallas Cowboys NFL Game Live 18 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMirANBVV95cUxQZWg0QlU3M2dMZV9lYWY5UFdOTHlyWjU0NkpOWEtBUUY4NU41SmVqR3otb3NiNkZmc2ZiYmZMZ29hcnp1MDU2MmwzZVMzNTd4Sk1zVDI1TjN3OHpyakFVNnBfbkhiSlJkcldHX2RBWGgyVEs0Ynh3bEZNMXpYelVSb1ZpbEtOTk13VWRiNXpXREpQNmhMZUt2dmUwNUZZM0VwZWZmN2JqNG1YTXZGUzRSdmUwRTVuSFBQOHgzSzc3OVRwUGFBVU5rQ3h3WnM3aExtQ25DamJOTFVVeHhtUU81ZDNmT29xME1wNFVCMk5WaC1CbXF0UVcwbnlDdnNMeW1KT0p6Y21NU1dLNW1aa2tqdThqYlNEVnRPalllQ1F5Q2pweThhbHdqX3RvUUktREdGUnQtYU9FcC1idDhuWndaVEtmUDJhZmV0MEtnUmt0cnNoVmJZanVuend2dU5sUGxrNEtEX2tEck5wMVpsZ1J0aFZCWG5GaGJkcnNuS2dWQW9KUFFYaVpiZk9xYy1uakcxRDM5bTZMbjJhRjl5eWRKX0pSamdNajVlaTVieA?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "f444162dbec0d15267ae",
-      "title": "[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOS2xzRFoyWmNIcGs2dWJHdzBDVm9EVTVudUxJRlVNeE9PN21NRmFPM0tmMmF6bkd0bGIwOHlNZGpHc1hlU0hiYlYyRVJQaXZvdE1Ia0UtVVBDS1N6Njd3Qmo0cnl3Y3FuTXRKdFlsLS1Nb2RxWF9Hbm9LZkJYYmRqM0FMV2VSc3EtQXVXemJ6R2tfUmFibkEtSUhIVmp1MFpxT2Fqbm01ZThtLUFxSFhjXzBHbFkzcWJKVGlOT2NuYTE0WV9XRS1ZVVRaLTBQTjZESmJremZtTmM1YTBROGhaUFdFV3ZYRkN2NGViaWl1NHQ5NW4xY0hOOXhubGZQSG9LV3BnR0xaZXZzMktDdWY0akdMS3ZVX2dQUmZSYW9oak1mTzRMOTA1YlFrLU9JMVhfXzNwSU1vS3hrdm9GcHhEUDk5aw?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:18:05+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n[#LIVESTREAm]+! Dallas Cowboys vs Green Bay Packers Live Free Sunday Night Football - Oct. 18\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwwJBVV95cUxOS2xzRFoyWmNIcGs2dWJHdzBDVm9EVTVudUxJRlVNeE9PN21NRmFPM0tmMmF6bkd0bGIwOHlNZGpHc1hlU0hiYlYyRVJQaXZvdE1Ia0UtVVBDS1N6Njd3Qmo0cnl3Y3FuTXRKdFlsLS1Nb2RxWF9Hbm9LZkJYYmRqM0FMV2VSc3EtQXVXemJ6R2tfUmFibkEtSUhIVmp1MFpxT2Fqbm01ZThtLUFxSFhjXzBHbFkzcWJKVGlOT2NuYTE0WV9XRS1ZVVRaLTBQTjZESmJremZtTmM1YTBROGhaUFdFV3ZYRkN2NGViaWl1NHQ5NW4xY0hOOXhubGZQSG9LV3BnR0xaZXZzMktDdWY0akdMS3ZVX2dQUmZSYW9oak1mTzRMOTA1YlFrLU9JMVhfXzNwSU1vS3hrdm9GcHhEUDk5aw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "1af6e742e076b7211de9",
-      "title": "[WATCHLIVE]ＴＯＤＡＹ!] Green Bay Packers vs Dallas Cowboys ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQNVdfckhkS1A3dlVsTG1WTlBWOHh1ck5RcDltMW4wbHpYSWc0V3V6ZjVFLWc1TjkyWTBTMmhQQUJUTkUyUUUwYlJrOUMyOFhHV1F1YVJEdm1vYm03d3l1N0lWcTJpZmVlNThqRHNwLTRseDQyaHItLWFlWDc2TFNaOFVZakptSUV1am1TZTgySVBHUUV0RmYxNnpWY2c4VjlyRUZDR20xQWlZT1ZDbXJCalFvQVd6ZjV5M1RraGtYa2pGRTZpY19QWlZGMTlSMlVEZHlXQk9oa3p1TW1Xd0h0M0didnRXcHVFWEJkV1NkUkVCTWM0REVUQ05zMWN0bUQ0Y1gtRXdUSDRUWUMzTU1sWVNpbFdpYzJrS0hodTRtNUlndG1BaGxRWmpUNlR5M3R1M0dZUldmY19mT3p5cmpCNXNkb0dDTTd3RjJuQzFPRnN4YW56M0RrWWdrX1JDdTJBZ2VVSGV5QmlTUGlxaEtBZEdVQnYyT25VVy1ubGVTNXJKNklr?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[WATCHLIVE]ＴＯＤＡＹ!] Green Bay Packers vs Dallas Cowboys ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:15:52+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\n[WATCHLIVE]ＴＯＤＡＹ!] Green Bay Packers vs Dallas Cowboys ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihANBVV95cUxQNVdfckhkS1A3dlVsTG1WTlBWOHh1ck5RcDltMW4wbHpYSWc0V3V6ZjVFLWc1TjkyWTBTMmhQQUJUTkUyUUUwYlJrOUMyOFhHV1F1YVJEdm1vYm03d3l1N0lWcTJpZmVlNThqRHNwLTRseDQyaHItLWFlWDc2TFNaOFVZakptSUV1am1TZTgySVBHUUV0RmYxNnpWY2c4VjlyRUZDR20xQWlZT1ZDbXJCalFvQVd6ZjV5M1RraGtYa2pGRTZpY19QWlZGMTlSMlVEZHlXQk9oa3p1TW1Xd0h0M0didnRXcHVFWEJkV1NkUkVCTWM0REVUQ05zMWN0bUQ0Y1gtRXdUSDRUWUMzTU1sWVNpbFdpYzJrS0hodTRtNUlndG1BaGxRWmpUNlR5M3R1M0dZUldmY19mT3p5cmpCNXNkb0dDTTd3RjJuQzFPRnN4YW56M0RrWWdrX1JDdTJBZ2VVSGV5QmlTUGlxaEtBZEdVQnYyT25VVy1ubGVTNXJKNklr?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "7ab304f64bec24985ffc",
       "title": "!$>[LIVE!#NOW]* Green Bay Packers V Dallas Cowboys 𝕃𝕚𝕧𝕖 Ｆｒｅｅ Ｓｔｒｅａｍｓ",
       "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQcVRKazV1ZkVuQ3JGczRJV3lDLUdEZV85dnB3RVplTXVZSVpVZng1SHd3V1JBVXFGUHBUMEpvVFpSYWZxaW01RV9JaThGbnRlN2JLSzhGLVRaY0dtWVloSWs2RHcxUjBQT0RYSE15NW5vTGh3NjFRUnJ1QWVQQUhwNl9RVHZyYVMzN0xrbjJlUThqOGhSV2d6T0taYkVPenRnN25HWXdLQloyMzl4LVVZazBQcHJXZkZYOEhkYWNWUVNwSGVuOGF1eTlTTUpIdHRPUVFWTWZvOENGa0h2M2ZYTWx3eWp4MEtQTENyc0piUk1ycnlJSTdWa3dydW5rY3diWFdnemM0RC1icEx1d3huMEJ6UGx6NFJmZ2x1dFZXS2lZazlNTzRGUkNVVk9qcEJVXzgzSVFJYmpselo4aUJpSndxcHR6NE5ELW01ektrMWlqRGJQajdzZEtZTkppaHZJcXQ5dE5zRXpobHJRODZGajllRlM4OEp5SlE?oc=5",
@@ -723,18 +927,6 @@
       "caption": "🏟️ SPORTS — DFW\n\n[SE LIVE]TV!] Dallas Cowboys vs Green Bay Packers 𝐋𝐈𝐕𝐄 fRee\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi8gJBVV95cUxPYzZPd0pfdVI5ODQwV2o1cWVEMGVjb1J1MmNSeXVyQ0hyNkRzVk5YZTRZbW9jVk5BUS00U1ZMalV0SXRkWVRQb24yc1lTcVloUWlJOGZqXzFJYkNqbFFvREhmdmJVSFRkanFCY3VVazF3ZkpYVHBMamUtb20wYncxSHVmM3dEX0NWbFdGNmhRRGlCejlHU2NlOElTRENWTkIydlV1OEdhV1hwUDE5RHpEQ0MtY1NzOEEzdU1LVFZqeGdHMTlVRWJUdDZzRUxiRmVkVHViUUVmbWhMNDY5RmthSW9XTDdCNVd2SVRzWHVDc2V0LWtaX0taRmRkdnlhSVozRm0xRWlWSFVqNEJJZkhMYV9lSHNEZFBxMHR6cDNsV095cV9uX1NnMFJyOHhHS0FZaWFzSUFjQWo5ek5vTUlJak9SQnZKMTlPdThpVkpSWnhRT3ZLWllEY0hIbTZmZ3hQU0lsUm1FWjBhUEdwOTJrWllR?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "d27339ea9ab49fe47206",
-      "title": "[ NFL Live] Dallas Cowboys vs. Green Bay Packers live on STREAMESPN For Free",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPdlAtTmRMSmxhMTl1YkQyN1RBWHpoa1FWY09FbzBlZXJaeWtQa254MFVVTGtvQmsyTTNMVG1maVY0N18tTTBTaHFBTG95Y0hwODhHVGVqUFZKYmZoYVA3RXYwNy1MMnFOVWhOV2tmVVlDSk53Nk1zb1Jrc3oxeGw1OWlpOGhaaTc2OGpHUWpfTWUzQlJHMGhxMy1SYy0xV1hzemFGREpoSURqYTkxalJiaXBYdEJGb0x1UkVsNHBMVFhXY243S0VKT2tBdnloa0tOWjB5SFVOQXZhMzFaTkhHR0dQWm5GMDlxX1Z2TzVxTWZJV0RYS1VUTlRwVF9WOE5CRDh0dlpnTk4yVTczSTRHanA4NGxMR3ZtMUdsTGtPQURNd1pKalppWUZkUFRJME0?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[ NFL Live] Dallas Cowboys vs. Green Bay Packers live on STREAMESPN For Free Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:11:50+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n[ NFL Live] Dallas Cowboys vs. Green Bay Packers live on STREAMESPN For Free\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMirwJBVV95cUxPdlAtTmRMSmxhMTl1YkQyN1RBWHpoa1FWY09FbzBlZXJaeWtQa254MFVVTGtvQmsyTTNMVG1maVY0N18tTTBTaHFBTG95Y0hwODhHVGVqUFZKYmZoYVA3RXYwNy1MMnFOVWhOV2tmVVlDSk53Nk1zb1Jrc3oxeGw1OWlpOGhaaTc2OGpHUWpfTWUzQlJHMGhxMy1SYy0xV1hzemFGREpoSURqYTkxalJiaXBYdEJGb0x1UkVsNHBMVFhXY243S0VKT2tBdnloa0tOWjB5SFVOQXZhMzFaTkhHR0dQWm5GMDlxX1Z2TzVxTWZJV0RYS1VUTlRwVF9WOE5CRDh0dlpnTk4yVTczSTRHanA4NGxMR3ZtMUdsTGtPQURNd1pKalppWUZkUFRJME0?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "c94fc7e83bb108b04339",
       "title": "~!$🔥✨√Dallas cowboys vs packers game live free 18 October 2026",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPOU92QVVQSXNNWTBYSDVRR2lndjJQc3FJb3ZTTEdwQl9ITTktbHFFVTBZV0gtZ2FtSTB5V1R6eDNCZXhkczR3V295bmFPS29Ja01KNlZxWFUtNExSY0hweGlqMk1kcjlLaEpfQ3dINUZZVVVmRDliZGNLelJPb1EyeGpueHZqcGRkaTQ0TFdpWFpsY0JQWVJTVTJvYUdkTnUxYWtTS0hhenctMWo2NVpWQ2dDUFA3T2dWTXdWcWMwYnk4YnZjR2hXQV9UcU92YTMyZk83VERoV0d5Sms3SWRIb3BkeW9OcElhdTNyVmZDZGlHOTlwaVFEV3ljRDNYMk1SUVJick1SOHh3UkZIc3J0ZVZKUGUyWjBhY1gxMlVIeXI0bi11b1BfWThKa3NqajRETllSS2tvM1V2VVpDNlhfa0xneGRlZw?oc=5",
@@ -745,6 +937,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "🏟️ SPORTS — DFW\n\n~!$🔥✨√Dallas cowboys vs packers game live free 18 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMixgJBVV95cUxPOU92QVVQSXNNWTBYSDVRR2lndjJQc3FJb3ZTTEdwQl9ITTktbHFFVTBZV0gtZ2FtSTB5V1R6eDNCZXhkczR3V295bmFPS29Ja01KNlZxWFUtNExSY0hweGlqMk1kcjlLaEpfQ3dINUZZVVVmRDliZGNLelJPb1EyeGpueHZqcGRkaTQ0TFdpWFpsY0JQWVJTVTJvYUdkTnUxYWtTS0hhenctMWo2NVpWQ2dDUFA3T2dWTXdWcWMwYnk4YnZjR2hXQV9UcU92YTMyZk83VERoV0d5Sms3SWRIb3BkeW9OcElhdTNyVmZDZGlHOTlwaVFEV3ljRDNYMk1SUVJick1SOHh3UkZIc3J0ZVZKUGUyWjBhY1gxMlVIeXI0bi11b1BfWThKa3NqajRETllSS2tvM1V2VVpDNlhfa0xneGRlZw?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "700d3d6f3bf2f7ddc9ce",
+      "title": "[LIVE NFL] Dallas Cowboys vs. Green Bay Packers Game Live Free October 18, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQWkNZMGZBdTF3Z0dpbk1CcW16a1R6Vkw4Z2ZlMG04dDJPbHRGdEU2Q3diLXBpdl9SX3I2ajR1TjRJT0FuRFdMRnExUDhYdDJRbzJfVi0zcngzY1VkWWw4ZnlhbVZSSV9mTDE3OFd0WWRKSS0zR0pZSjVveVd0Zy0tVlFhdjB0NWlORXI0b1E3a0lvLUJrRmR1OEhYYU5OXzVKUzIyYjluU05YLWlLRFBxV0VmWVQ2Q3lLd1Fseks3c2h2eGpmUFd4UTAzcF9XS1NuMDFIc095QmVRQi1QbFFRSVlHNkVlUnF0M0gwSUJwQW0xZW9PTTFOMDBxdUE1b0Q3Rjd1Qk9CbWVzT2pCUG5qOXN4eFgzc0hDQzR4Y2pUaTFBSHVtQVJWcjNKRVRwXzRQclpDNDFvTXo1eHk0VGxoRS1hLVdtUnhv?oc=5",
+      "source": "Universidad de Córdoba (UCO)",
+      "summary": "[LIVE NFL] Dallas Cowboys vs. Green Bay Packers Game Live Free October 18, 2026 Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-19T00:09:40+00:00",
+      "category": "Sports",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🏟️ SPORTS — DFW\n\n[LIVE NFL] Dallas Cowboys vs. Green Bay Packers Game Live Free October 18, 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiyAJBVV95cUxQWkNZMGZBdTF3Z0dpbk1CcW16a1R6Vkw4Z2ZlMG04dDJPbHRGdEU2Q3diLXBpdl9SX3I2ajR1TjRJT0FuRFdMRnExUDhYdDJRbzJfVi0zcngzY1VkWWw4ZnlhbVZSSV9mTDE3OFd0WWRKSS0zR0pZSjVveVd0Zy0tVlFhdjB0NWlORXI0b1E3a0lvLUJrRmR1OEhYYU5OXzVKUzIyYjluU05YLWlLRFBxV0VmWVQ2Q3lLd1Fseks3c2h2eGpmUFd4UTAzcF9XS1NuMDFIc095QmVRQi1QbFFRSVlHNkVlUnF0M0gwSUJwQW0xZW9PTTFOMDBxdUE1b0Q3Rjd1Qk9CbWVzT2pCUG5qOXN4eFgzc0hDQzR4Y2pUaTFBSHVtQVJWcjNKRVRwXzRQclpDNDFvTXo1eHk0VGxoRS1hLVdtUnhv?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "7e7f624e0c9f094d3699",
@@ -759,18 +963,6 @@
       "caption": "🏟️ SPORTS — DFW\n\n[[FREE-TV!] Dallas Cowboys vS Green Bay Packers 𝐋𝐈𝐕𝐄 Ｆｒｅｅ Ｓｔｒｅａｍｓ ＯＮ Ｔｖ SNF Football Ｃｈａｎｎｅｌ 19 October 2026 HD26\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi1AJBVV95cUxNV1VuV0Fxcmg1c3Mzb3hmMEhFSEFuRE1pdXpDRGg5V1FsTzBXaGNMNDYxLVlFX2JvSUJncDBENlVkbWh3QkFlbldxcUU2OFYxaW5aUy1HOGd3ZzJ5b0JScDU4d1pmNlFVQ3gxNEY2SDhHZFNESGVwdzNOajNLNGlDaVdKRnVWSDFCX2Z5M0NNRU5XZjRhdHB2QVJnQndLZFhMOHc4MVBweUlHZGV0QzB0aDVNMnppSXJoUE9HcVNRWGJjWmNOWTU0Y2VUekw5V3ZjN3REWk9UcVZMVkRkX3lmQXdLSmo2X0VPVnZHZTYwU1FKQ01zMEs5cnAweVZYbVB5VkRKVFlhVlRodnNmTmxINjFSaFktbTRLVHBpUWlzWVVKWEVybnRTZ29nZWc1WGpEdzBKZzR6WDdHMGJ1akVrRkxxS25pSzRoNl83VUNxNVVhZlBn?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "d701bd183116eb56e57b",
-      "title": "[ＬＩＶＥＳｔｒｅａｍ]!!] Dallas Cowboys vs Green Bay Packers Game SNF Football Live Streams - Buffstreams ℂrackstreams StreamEast",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPRHJuS2R4VFN4Q1ZLTlZKWXRfbktRSzhMaExnRjdEZ05uMVQwT3ljbm1PeHV5VTM0Tnh5VDJETGxfNGItcDJ0MDdVRXpfVDhRQ1Z3NmFoSkU2UVR1d0hVRTA0OHFIdzhYc2pKbmNGblBJZ21oc2tOd1A2RVNUYVZHTEFyR1cyTnZhbHJVbnFSSno0UjJma2JYQUx2ZmFuVElpWjc0YmlRMVo4MlhQUkdDZEVaV2hsS0NmT0pwVUZpNmZsa3pkYUJhR0ZQX05MNGJSbWVSV3JrclNTZU9OcklDMG9mRU4wLUxaa3R1Q3lhLTlBTk1wQlk2QVFkelBLamZ1UmVrb1VndTc5b05RMVpwUW5iRHFpUDJ1b29mOF83Zkw0MnVIeE44NjBrLTB0TV9wZm8tN25NOXFqNmxlR3hnUk9KNkZNUVh6OS02cmlSRlY5czhF?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[ＬＩＶＥＳｔｒｅａｍ]!!] Dallas Cowboys vs Green Bay Packers Game SNF Football Live Streams - Buffstreams ℂrackstreams StreamEast Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:09:25+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n[ＬＩＶＥＳｔｒｅａｍ]!!] Dallas Cowboys vs Green Bay Packers Game SNF Football Live Streams - Buffstreams ℂrackstreams StreamEast\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi1AJBVV95cUxPRHJuS2R4VFN4Q1ZLTlZKWXRfbktRSzhMaExnRjdEZ05uMVQwT3ljbm1PeHV5VTM0Tnh5VDJETGxfNGItcDJ0MDdVRXpfVDhRQ1Z3NmFoSkU2UVR1d0hVRTA0OHFIdzhYc2pKbmNGblBJZ21oc2tOd1A2RVNUYVZHTEFyR1cyTnZhbHJVbnFSSno0UjJma2JYQUx2ZmFuVElpWjc0YmlRMVo4MlhQUkdDZEVaV2hsS0NmT0pwVUZpNmZsa3pkYUJhR0ZQX05MNGJSbWVSV3JrclNTZU9OcklDMG9mRU4wLUxaa3R1Q3lhLTlBTk1wQlk2QVFkelBLamZ1UmVrb1VndTc5b05RMVpwUW5iRHFpUDJ1b29mOF83Zkw0MnVIeE44NjBrLTB0TV9wZm8tN25NOXFqNmxlR3hnUk9KNkZNUVh6OS02cmlSRlY5czhF?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "c7f67cecc88e7da62f88",
       "title": "(LIVESTREAMs!FREE)! Dallas Cowboys VS Green Bay Packers Game Live Free SNF Football ESPN Coverage",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNTkc3dFlhS3h1RzA3Ml9ZamotY2d1Vjcyc2FaTUVCLTJXVUI4bVBJWDVXT3JOWjd6YUxQRGl6TnVMS3JjTkVLeUtVWDJDY2xDbjdGSWtSdFRUNzdtbjdpV3dvTXRUYnB5b1J3NlNkUmhPUkZFVEZqUWV4RWhWWHpKd2FxN2NQMXdWNEhsN0F3UWM4SVoyT2Z6YW1YeHljMkpfbW9CTkRNY1RCWW1SSHFTWTJkSjJKMXZFOS1BSFl5M1V2RE1UamxETjVqamdLdDVkU2syNE9HRFpYZHlCNk44Q2hNX1NLYzQ5N2J0QVZMaXN1X3hRMENVLVJtSGVONGlZZEctR3NfallTVTdUSmVhTGx5VVZMbXRLT2tzdUtRamdKaHpad0JQWWVFUFQ4WlY2R0tYbGxzVThXQkZPYVNabHBDanNNN2VhcjRHUA?oc=5",
@@ -783,42 +975,6 @@
       "caption": "🏟️ SPORTS — DFW\n\n(LIVESTREAMs!FREE)! Dallas Cowboys VS Green Bay Packers Game Live Free SNF Football ESPN Coverage\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMizAJBVV95cUxNTkc3dFlhS3h1RzA3Ml9ZamotY2d1Vjcyc2FaTUVCLTJXVUI4bVBJWDVXT3JOWjd6YUxQRGl6TnVMS3JjTkVLeUtVWDJDY2xDbjdGSWtSdFRUNzdtbjdpV3dvTXRUYnB5b1J3NlNkUmhPUkZFVEZqUWV4RWhWWHpKd2FxN2NQMXdWNEhsN0F3UWM4SVoyT2Z6YW1YeHljMkpfbW9CTkRNY1RCWW1SSHFTWTJkSjJKMXZFOS1BSFl5M1V2RE1UamxETjVqamdLdDVkU2syNE9HRFpYZHlCNk44Q2hNX1NLYzQ5N2J0QVZMaXN1X3hRMENVLVJtSGVONGlZZEctR3NfallTVTdUSmVhTGx5VVZMbXRLT2tzdUtRamdKaHpad0JQWWVFUFQ4WlY2R0tYbGxzVThXQkZPYVNabHBDanNNN2VhcjRHUA?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "ab2bccfdc40a02abaca2",
-      "title": "(LIVESTREAMs!FREE)! Dallas Cowboys VS Green Bay Packers Live Free SNF Football ESPN Coverage",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMnVlR3FETW9fSkU4VkJ0UUZYd2hTN3Jjb3dQUEsyMEtYZFFOUmNBT2ZMRGVVVFd5T2VrcGViTlJZVk1vbVJBa3NnX1BOS3RET1dXVW83ODFpU2FQVmVlTnNGOGlEU1YtQVJtendLTVZkeFFwMmZNb293ZWFDWjZFSzdScEQxTTExV2FhcGQ3UVY0aGtlMk9mRGY4ZkkzNUg2QXJwLUUwaXk2dDdqbDg0UGpBOHFHeXZSZEJ2QzFVTkluUVhzcFFHNW55NGRfLVZScVc1ZHBRaVViUEpJNkpGbURacjNEb014SXVpeksyNXc4SWdtbXRLUFRMY25sd2hPWnRSaUg1TXcyRlk4RVR3eHZ3SVA2RUtVeXV4ek81aE5pMC00Z2duU0tDUTVwLW4zeEZjcVJZdHdCQzFOSlNLZXNjNXRNaW1TbkwyZU5CcVh0NkZi?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "(LIVESTREAMs!FREE)! Dallas Cowboys VS Green Bay Packers Live Free SNF Football ESPN Coverage Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:09:23+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n(LIVESTREAMs!FREE)! Dallas Cowboys VS Green Bay Packers Live Free SNF Football ESPN Coverage\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi1AJBVV95cUxOMnVlR3FETW9fSkU4VkJ0UUZYd2hTN3Jjb3dQUEsyMEtYZFFOUmNBT2ZMRGVVVFd5T2VrcGViTlJZVk1vbVJBa3NnX1BOS3RET1dXVW83ODFpU2FQVmVlTnNGOGlEU1YtQVJtendLTVZkeFFwMmZNb293ZWFDWjZFSzdScEQxTTExV2FhcGQ3UVY0aGtlMk9mRGY4ZkkzNUg2QXJwLUUwaXk2dDdqbDg0UGpBOHFHeXZSZEJ2QzFVTkluUVhzcFFHNW55NGRfLVZScVc1ZHBRaVViUEpJNkpGbURacjNEb014SXVpeksyNXc4SWdtbXRLUFRMY25sd2hPWnRSaUg1TXcyRlk4RVR3eHZ3SVA2RUtVeXV4ek81aE5pMC00Z2duU0tDUTVwLW4zeEZjcVJZdHdCQzFOSlNLZXNjNXRNaW1TbkwyZU5CcVh0NkZi?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "3d7773ef124315ff6d51",
-      "title": "[WATCHLIVE]ＴＯＤＡＹ!] Dallas Cowboys vs Green Bay Packers ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNR3lEaTdFc1RqS3hneGI4VU8wY1lBMkRXZFY1VUNfZVY2THdFUWVpVi1zQndVZnNyQVRLVzktOVRhUnFncTdVSE1RaE91Y29KLUxhTzVNOF9GNzFaYkhqaF85d2JvYktabURGNzR3QkNFai1Ybkg3Vy15dGhoVFdsT3B6em9xb1I4Wjd4T2MydmNOWjJpWU9VdFUwa1Zpc3Bma0x1UjFuN1FlSFpXNlFRWkc3d1lGSUZXYmlPQVc2UkRiZVZwYW9mRU1hbVFwQjJJamduRDBDT0FLb3cxYzg4akdkeFNwbTBBUkdMMDFWYnFFWDk5SXlrakxrSUJYQ1hERkRLNXJMRUNfWWdrNXVVU0VKVGc0U1dGSmdTeENzYTRPLUJOTlRld2dMdm9nVXNDejJDcDVCNGdSSGMyUUhqeFFjbXR6dHRPbUZoaXhBR3pBMTBZ?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[WATCHLIVE]ＴＯＤＡＹ!] Dallas Cowboys vs Green Bay Packers ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026 Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:09:22+00:00",
-      "category": "Weather",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🌪️ WEATHER — DFW\n\n[WATCHLIVE]ＴＯＤＡＹ!] Dallas Cowboys vs Green Bay Packers ＬｉｖｅＦｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 19 October 2026\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi1AJBVV95cUxNR3lEaTdFc1RqS3hneGI4VU8wY1lBMkRXZFY1VUNfZVY2THdFUWVpVi1zQndVZnNyQVRLVzktOVRhUnFncTdVSE1RaE91Y29KLUxhTzVNOF9GNzFaYkhqaF85d2JvYktabURGNzR3QkNFai1Ybkg3Vy15dGhoVFdsT3B6em9xb1I4Wjd4T2MydmNOWjJpWU9VdFUwa1Zpc3Bma0x1UjFuN1FlSFpXNlFRWkc3d1lGSUZXYmlPQVc2UkRiZVZwYW9mRU1hbVFwQjJJamduRDBDT0FLb3cxYzg4akdkeFNwbTBBUkdMMDFWYnFFWDk5SXlrakxrSUJYQ1hERkRLNXJMRUNfWWdrNXVVU0VKVGc0U1dGSmdTeENzYTRPLUJOTlRld2dMdm9nVXNDejJDcDVCNGdSSGMyUUhqeFFjbXR6dHRPbUZoaXhBR3pBMTBZ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "ac5e01989e9de1c41acf",
-      "title": "[NFL Broadcast] Dallas Cowboys Game Live",
-      "url": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxNcnMwUHpxTTJtdnVHZHk3UHpaMEVsSU1CcVRZN2gyQTZxb1pJMXJsV2g4RWZnTEttbFhrTzJ0cGh0MDZqQnFpVlVXM3JubUxyUnN5cnB5M0R0TTlNWDUyNTRLWmtqNW9LdWxuZGc4QUxmeWVZd3JhSGlsVlkzZjkzYVlDSWF0WllJWDNRLXZ1clhBTF82MDBDLU8xZHNWS2Frb0dHTl9lRWxIaWZDVTk3YkJvNEgyU3ZuTzY0ZXZZRVV0OWE4ZTFtQWxGYnBIZHBtMkVDNTAwVWMwbmUyZEU4UHVRdFdvRDdXbTIwMDUxSlpoTVhvX1FGMEU3Mk1ITHE2RDl5cHBpbkxPLTMxUXFBaTN5WE4yT0k2QTJ2blVBN0Z4eThKOVpfWXlMTXFjbXh0YWhEMHNkUVhrdGZQSkYzbFhWSXQ3T0MxMGFXeTNjX0FIU1JqdXE1YVpQSTR2M0JLTXR5YWtjLWZDYWxrNG01WUpFUkZBczhmc0k2S3Q5VzREWkpqMk5IYm9LZzdFeWdyLW1heWRSSExjUHJJdU1fQUMwejRCNmJJQ2NXZk13ZkVmQ2kyWXlISTlJeEhjWFpVOFE?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "[NFL Broadcast] Dallas Cowboys Game Live Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:08:33+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\n[NFL Broadcast] Dallas Cowboys Game Live\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiwgNBVV95cUxNcnMwUHpxTTJtdnVHZHk3UHpaMEVsSU1CcVRZN2gyQTZxb1pJMXJsV2g4RWZnTEttbFhrTzJ0cGh0MDZqQnFpVlVXM3JubUxyUnN5cnB5M0R0TTlNWDUyNTRLWmtqNW9LdWxuZGc4QUxmeWVZd3JhSGlsVlkzZjkzYVlDSWF0WllJWDNRLXZ1clhBTF82MDBDLU8xZHNWS2Frb0dHTl9lRWxIaWZDVTk3YkJvNEgyU3ZuTzY0ZXZZRVV0OWE4ZTFtQWxGYnBIZHBtMkVDNTAwVWMwbmUyZEU4UHVRdFdvRDdXbTIwMDUxSlpoTVhvX1FGMEU3Mk1ITHE2RDl5cHBpbkxPLTMxUXFBaTN5WE4yT0k2QTJ2blVBN0Z4eThKOVpfWXlMTXFjbXh0YWhEMHNkUVhrdGZQSkYzbFhWSXQ3T0MxMGFXeTNjX0FIU1JqdXE1YVpQSTR2M0JLTXR5YWtjLWZDYWxrNG01WUpFUkZBczhmc0k2S3Q5VzREWkpqMk5IYm9LZzdFeWdyLW1heWRSSExjUHJJdU1fQUMwejRCNmJJQ2NXZk13ZkVmQ2kyWXlISTlJeEhjWFpVOFE?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "37a0475a248f35b427d6",
       "title": "[!WATCHLIVE]4K!]Dallas Cowboys game live free streaming",
       "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNaE05MW53aUpCSTlsV3VmaVYwYjcxbmdTVThuV1ZHMEtyUWREUFlqWkpXdElGSkU1V0tCMExYU29nOUxYa016T2lLX0lQbEIwZHJTMWJzR2REaktUeFdrTXFidmMxaFdTSVkwY2tISkFkTWRTQjUxd1h5V3B4NDFPNHNYZ3h2cmJuZGZoT3hBVENQejJRbFQ4RTlnNk5fa1BuV3JSaUZ1RVlxMlR0M0ZMSGZQOUFWZXc0aEdJTkx0QkJNV3poVURVeHdZa2RiUWdmT2Y2SkZWb3RDdEFWUkl5QlhaczE3aW5WQjFya2plU1FaMk40a2hwV0ZKNG5KdXJfakFvUVNzY01pcDcwYjNBOFNxNThucUVycVVOUFZuWTRpQ2lDSk1sM0hLbXZmaFFWd2NXaTdOcnllUDNiNVE3VmlSaW5tMjdCQlhBNk1FOV8tZ2d5R21PcDBlb0VIWTllVFpuQnNsSUI5ZHFoOE9qWl81Q2hhbm9RT2VsVi1Vb3JnUWNPOEk2VXdTNVVKNlN1d1BQdjVYWkpNX0FvcXc4a0RqRVhLZw?oc=5",
@@ -829,18 +985,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🌪️ WEATHER — DFW\n\n[!WATCHLIVE]4K!]Dallas Cowboys game live free streaming\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMipgNBVV95cUxNaE05MW53aUpCSTlsV3VmaVYwYjcxbmdTVThuV1ZHMEtyUWREUFlqWkpXdElGSkU1V0tCMExYU29nOUxYa016T2lLX0lQbEIwZHJTMWJzR2REaktUeFdrTXFidmMxaFdTSVkwY2tISkFkTWRTQjUxd1h5V3B4NDFPNHNYZ3h2cmJuZGZoT3hBVENQejJRbFQ4RTlnNk5fa1BuV3JSaUZ1RVlxMlR0M0ZMSGZQOUFWZXc0aEdJTkx0QkJNV3poVURVeHdZa2RiUWdmT2Y2SkZWb3RDdEFWUkl5QlhaczE3aW5WQjFya2plU1FaMk40a2hwV0ZKNG5KdXJfakFvUVNzY01pcDcwYjNBOFNxNThucUVycVVOUFZuWTRpQ2lDSk1sM0hLbXZmaFFWd2NXaTdOcnllUDNiNVE3VmlSaW5tMjdCQlhBNk1FOV8tZ2d5R21PcDBlb0VIWTllVFpuQnNsSUI5ZHFoOE9qWl81Q2hhbm9RT2VsVi1Vb3JnUWNPOEk2VXdTNVVKNlN1d1BQdjVYWkpNX0FvcXc4a0RqRVhLZw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "4325935ff189bccb5a86",
-      "title": "((FUbO))Dallas Cowboys game live free reddit",
-      "url": "https://news.google.com/rss/articles/CBMiggRBVV95cUxQcThSYmhGc1NwaDlDME9FNXJkZDh4ODNLTXVmc21EMXFRVjQ5QnR5S3l2ZnQzRVlnT0hvSzR4OV8wdTZxWjJ2VzNQcFJHd0ZvZVpYVV94OVZUbUZSSVg0YjdDSndRMlRLMGl6V1YybFY4eEVmZ2luWjdYZ0ZkdFpGNHRpaURqNExINGZkSzNYUHZjaEM4UzdfS25NaGZMc1FrUG03SDlYVW11VGF5ZjQzY1FTRXo5UjRYck9tZkxmSnI5WmFxTmY5N01SRHR4SnZSUGdJRjdvaC1ZWVREOWROYjJpYUk2WEtwV2s0SzQ5UjNDSTZ5Mi05RnJVUEtwZE5ObXQzeTFDS21zTVNLd0U3TFlQRmhfNHd1Y0tuR3VCZVJYNFFsc0M1dXM5UVE5YXM4OHdnMU5qUHJaanh5dHJ5LWNfZE1sUV9oUUIyclV6dUMwZnNDemFhWC1uN2Q3dV9qSjlGNnJxVzdGVFp6aXpKYWlDb2FmOThlZ0p1ZURPcVZYeGUwWWV2MmdoV2dYYnNxbDBzSnhMWFBlZWhUSjU2NDBvTU9aLWpBb1p1bG93a1BWVHk0T3h4QWF4azZoT3dLcHh4LUo1T19abVpMbERCaWVCaVoycWdETjVzaDhHZFZ5MGJFalVydnZuLThrTVREN28xZEFZVjI1WV9UcEF3ZU53?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "((FUbO))Dallas Cowboys game live free reddit Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:08:32+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n((FUbO))Dallas Cowboys game live free reddit\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiggRBVV95cUxQcThSYmhGc1NwaDlDME9FNXJkZDh4ODNLTXVmc21EMXFRVjQ5QnR5S3l2ZnQzRVlnT0hvSzR4OV8wdTZxWjJ2VzNQcFJHd0ZvZVpYVV94OVZUbUZSSVg0YjdDSndRMlRLMGl6V1YybFY4eEVmZ2luWjdYZ0ZkdFpGNHRpaURqNExINGZkSzNYUHZjaEM4UzdfS25NaGZMc1FrUG03SDlYVW11VGF5ZjQzY1FTRXo5UjRYck9tZkxmSnI5WmFxTmY5N01SRHR4SnZSUGdJRjdvaC1ZWVREOWROYjJpYUk2WEtwV2s0SzQ5UjNDSTZ5Mi05RnJVUEtwZE5ObXQzeTFDS21zTVNLd0U3TFlQRmhfNHd1Y0tuR3VCZVJYNFFsc0M1dXM5UVE5YXM4OHdnMU5qUHJaanh5dHJ5LWNfZE1sUV9oUUIyclV6dUMwZnNDemFhWC1uN2Q3dV9qSjlGNnJxVzdGVFp6aXpKYWlDb2FmOThlZ0p1ZURPcVZYeGUwWWV2MmdoV2dYYnNxbDBzSnhMWFBlZWhUSjU2NDBvTU9aLWpBb1p1bG93a1BWVHk0T3h4QWF4azZoT3dLcHh4LUo1T19abVpMbERCaWVCaVoycWdETjVzaDhHZFZ5MGJFalVydnZuLThrTVREN28xZEFZVjI1WV9UcEF3ZU53?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "f522ca3ae10848ab0646",
@@ -879,16 +1023,16 @@
       "caption": "🔴 BREAKING — DFW\n\nMary Fox Obituary (1930 - 2025)\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVVPSlVQTS1BUmplSmMwbTNuUmx2NkZuSWFKNEFnOGFFMjliQ0FyVXMtMEVXaUZVX1pLT3ZqeXQwYU1jNVYwdHlUQWhCV1BvWlJVRHZNLS1Xb1NYQURkYXdoTEdLdVc5U3lmR29EcGd2NzQzUG0wbVVQR0ZuQUtiaXVmM1lXY1hfMktkZmRZWlZ2WTlMQlBiMnI3OA?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "f04f91e0f7a6fbc2df77",
-      "title": "𝚆𝙰𝚃𝙲𝙷AC Dallas Cowboys vs Green Bay Packers Game Live Broadcast",
-      "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSjNnLTRlb28zTUlyc1hrcVJDM3ZDNzZJcGNTc0Y0TUcxT3ZTYTdPdkZvbHJaaG5hdDhlWnJhaWplUXVtaGF3UWREZ2VqMjQtS1RzbUhsLVdIRmhMbVJrb2N5T2NGT3plUllxSGxpQm5WYkU3TnU1OTJqUi1jaHVTM1JVZ0JzS3RoRnV4ZDQzMTRiRG1jckNKUmdlbkx3cmUwMHFJclJYckhMMmxpeGtaUXRBZlI0UlR3aWR2d1RqamR1bV94ZXNBTk1CelEyNWpoZXJzZi1hdzlpVU45SDF3WnBEdElYcUhlcWZSZWdOSHRIb3E3ZTJYelZtdTQwekhGcVBaUURmTncxXzNrQzlBemgxSnkwOWdhU0FWWVREMjF4bDU2Mk5kb3BwaGtYaFdVblB4eFZGdkdweFJqd0MyZXJnOU5QblltcWdrVjNZT3dWTGFXLUFka1BpZlM4OXl0UTVjdlpCWjhOUUc2Rmhv?oc=5",
+      "id": "cd56a8e4286878df0fd6",
+      "title": "+【LIVESTREAMS]FREE]! Green Bay Packers - Dallas Cowboys Game Live Free",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxQWnpZaW5nV0VGRHlrVXRjY0J6aURfX1R5Q3YxbnlRdXBYcHFCTkNFRWp0UVBvWTJxa2ZOR1k1SmRvWGxpMmlaSVhfRFJxZEJBaVNiaVVSTm1sLUZNM1paRXE2VHBneDFFZ3lOcGtUdEotLV9rMVRlbXZGU1pkVTZ6bjU1LUdqOG14MFR4b09uaHo5bE4ySGdHdUhCcnRjUVFTZ3ZRUkdNS082Wk9HekM3VHd0c3BZTUp2UnNPdmpqcE5GUkxNYjhRZ04yNTJ0SUtNN0NfcXU4X3pTOTY1NEpKa2pDeTBsYW5HT09jcmgybTh2SFBLdERSYjh2UTYwUDdlWmZEQl9xTWZvOWs2SmhkWGRIcXpCN2I3OHo5RUw1TlZxcDZvck5PcmVMN0o5U1R6em0xUW9aMWNRUFZ6T0dOb0thZlpVQ2lmRHJRLXJmamFyalVwclVWZm5oVmZSSTYycHo5UmY4YmZlWm9ucFpRYVgzbkdvZE81NlFkeEhRMGxGdXhuNGNIOUV0Wjllb0ZPZTQ3eTJ0OFdrWlM0?oc=5",
       "source": "Universidad de Córdoba (UCO)",
-      "summary": "𝚆𝙰𝚃𝙲𝙷AC Dallas Cowboys vs Green Bay Packers Game Live Broadcast Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:06:33+00:00",
-      "category": "Traffic",
+      "summary": "+【LIVESTREAMS]FREE]! Green Bay Packers - Dallas Cowboys Game Live Free Universidad de Córdoba (UCO)",
+      "published_at": "2026-10-19T00:06:29+00:00",
+      "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\n𝚆𝙰𝚃𝙲𝙷AC Dallas Cowboys vs Green Bay Packers Game Live Broadcast\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi7wJBVV95cUxQSjNnLTRlb28zTUlyc1hrcVJDM3ZDNzZJcGNTc0Y0TUcxT3ZTYTdPdkZvbHJaaG5hdDhlWnJhaWplUXVtaGF3UWREZ2VqMjQtS1RzbUhsLVdIRmhMbVJrb2N5T2NGT3plUllxSGxpQm5WYkU3TnU1OTJqUi1jaHVTM1JVZ0JzS3RoRnV4ZDQzMTRiRG1jckNKUmdlbkx3cmUwMHFJclJYckhMMmxpeGtaUXRBZlI0UlR3aWR2d1RqamR1bV94ZXNBTk1CelEyNWpoZXJzZi1hdzlpVU45SDF3WnBEdElYcUhlcWZSZWdOSHRIb3E3ZTJYelZtdTQwekhGcVBaUURmTncxXzNrQzlBemgxSnkwOWdhU0FWWVREMjF4bDU2Mk5kb3BwaGtYaFdVblB4eFZGdkdweFJqd0MyZXJnOU5QblltcWdrVjNZT3dWTGFXLUFka1BpZlM4OXl0UTVjdlpCWjhOUUc2Rmhv?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\n+【LIVESTREAMS]FREE]! Green Bay Packers - Dallas Cowboys Game Live Free\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMinANBVV95cUxQWnpZaW5nV0VGRHlrVXRjY0J6aURfX1R5Q3YxbnlRdXBYcHFCTkNFRWp0UVBvWTJxa2ZOR1k1SmRvWGxpMmlaSVhfRFJxZEJBaVNiaVVSTm1sLUZNM1paRXE2VHBneDFFZ3lOcGtUdEotLV9rMVRlbXZGU1pkVTZ6bjU1LUdqOG14MFR4b09uaHo5bE4ySGdHdUhCcnRjUVFTZ3ZRUkdNS082Wk9HekM3VHd0c3BZTUp2UnNPdmpqcE5GUkxNYjhRZ04yNTJ0SUtNN0NfcXU4X3pTOTY1NEpKa2pDeTBsYW5HT09jcmgybTh2SFBLdERSYjh2UTYwUDdlWmZEQl9xTWZvOWs2SmhkWGRIcXpCN2I3OHo5RUw1TlZxcDZvck5PcmVMN0o5U1R6em0xUW9aMWNRUFZ6T0dOb0thZlpVQ2lmRHJRLXJmamFyalVwclVWZm5oVmZSSTYycHo5UmY4YmZlWm9ucFpRYVgzbkdvZE81NlFkeEhRMGxGdXhuNGNIOUV0Wjllb0ZPZTQ3eTJ0OFdrWlM0?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "294a73e8ae9c0a9365f9",
@@ -951,18 +1095,6 @@
       "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys Make Change to Starting Lineup on Defense vs. Packers\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVUM0SXBlRHAzdVRSbmlXOXQ4Sko2OGdwZ1ZOM0N0djlfT0oySmE2MTYyOGdzelF1cjB4amU3RGkzTFRqb0dfc0ctQ3FqMFZzQTgtNDBZdDhLOFBHWlZRWGVZZVhyblF6TnZtZElNSUYwTm1sQnY0eUY0Y0Q2NXhRM0x1MWExN1BZM1hfQ1VHMlRsWFc2ckR0VGNJUkcwWnJId3o5dlBYbHM?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "f9f77bf4cf749596b50c",
-      "title": "Dallas Cowboys live free reddit",
-      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxPVU1rcHpnd2ZKSmlIaVNrTTBtTGRLTU1idFM0ZUpvTEU5djZ2QWdJZzNxTWpOc3lwY285cHZpd21ZSEc1aXBPRk5YbVNEOGdNY2x6SGx2anZzT2h3aTVHZTEwalNtNHh5Mi05cHREMUF1dzBIVXZaWDVtS1hQWjNhc0dZd2hJUGVOS0NpcXppc3NDMUxnMkFkSVhpMmFiTGtjNGxLWWFXZXNGZWtqby13dE5fRVJCYVpNMGdJZG5ZV1dPaVAtQU1GMzhwWF95MkszbTNBQ0tNR1JsdFpVSmx6eEYtaHRBOWMzWmxzNHBTTWlxYVY2QnZRdHd2MFRPN09HS29ESHN3RG9XUWtIcElwbV9JYl9sZE5RRzJvRmkwTWNxdGU5WXhTc3Jzd2FVUVpUbndYZDF3Zm5QVGpBWEQ5bFJtb3NWb1RfUDdzck1KQ2VKY1NzWS1SVFYtckc4NWFpWmVJY3ZuNk5DbzdzUHBTalQyelcwQV9JTTh4eVVsWGZvX0RqVjFsV21lWUI2aXN0ODRCOVhzckJ5OGNldEVVNU1pSlpNVVZ4dlliWmNDWWRpLVdrZFNCcWZ4YVRGT252MlE5NHZwZnVNYjdRYXlDbDBKcHhBV21HSHBHVkQxdFhOVkQ3X1BGVlg4UGw0UGFSSXBQekxtSTRHaUJuYjdnTzJtSUlDZmZLSmc?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "Dallas Cowboys live free reddit Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-19T00:02:16+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys live free reddit\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiigRBVV95cUxPVU1rcHpnd2ZKSmlIaVNrTTBtTGRLTU1idFM0ZUpvTEU5djZ2QWdJZzNxTWpOc3lwY285cHZpd21ZSEc1aXBPRk5YbVNEOGdNY2x6SGx2anZzT2h3aTVHZTEwalNtNHh5Mi05cHREMUF1dzBIVXZaWDVtS1hQWjNhc0dZd2hJUGVOS0NpcXppc3NDMUxnMkFkSVhpMmFiTGtjNGxLWWFXZXNGZWtqby13dE5fRVJCYVpNMGdJZG5ZV1dPaVAtQU1GMzhwWF95MkszbTNBQ0tNR1JsdFpVSmx6eEYtaHRBOWMzWmxzNHBTTWlxYVY2QnZRdHd2MFRPN09HS29ESHN3RG9XUWtIcElwbV9JYl9sZE5RRzJvRmkwTWNxdGU5WXhTc3Jzd2FVUVpUbndYZDF3Zm5QVGpBWEQ5bFJtb3NWb1RfUDdzck1KQ2VKY1NzWS1SVFYtckc4NWFpWmVJY3ZuNk5DbzdzUHBTalQyelcwQV9JTTh4eVVsWGZvX0RqVjFsV21lWUI2aXN0ODRCOVhzckJ5OGNldEVVNU1pSlpNVVZ4dlliWmNDWWRpLVdrZFNCcWZ4YVRGT252MlE5NHZwZnVNYjdRYXlDbDBKcHhBV21HSHBHVkQxdFhOVkQ3X1BGVlg4UGw0UGFSSXBQekxtSTRHaUJuYjdnTzJtSUlDZmZLSmc?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "96612dda6b6ae25696ea",
       "title": "$+[WATCHLIVE]Dallas Cowboys Game Live",
       "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxNb0JyTV9RNjkzU29scW5OVU00ak1fRW51aWgzRG9taHFqWG9LV2lwa3F1Z0t6cjVzc0ZtSl9qRTNTM1A2RWJwTjVLMXBjMF9jNVhLb0kzeFNJZmFaNzNaVnFENFlvTmo1RjNLRjhkb3FDMHNVdE9QUWp1SnRTTG0wWkxRZzNGT2ZkaEtjYngydEhEMHVkbTlOZjY2RWx5eE1ZZWlSeDUxb3h0WHlrUkQzMlRSeFdPWUxuYktVSDU1Q011QmNhXzRVOWt2eTNVODFFV1lSVkNrNnlpRE9Lc0oyZTlRRmJFME5ZdnJ3U1BNMVV4WXo0NGE3N3Bpd3BGdFpkczh3TUlJbGFDQW9qZHpVUzJsTXQzSFFxS2dWTnpnV2pTbGtJWjg1WWVXdWl3T0xzVjFBd1ZyZXB3dUNhMnBtNmVqNzZzQmxTWnpVOHdCR1Fiak9nWnJ6WXJmZjltb0ZtWGZWTVBiZlNCcU12cWdaMWFiaDNLOTBjSjdEcnlZZS12cUpFbzFFbzZJTjdzX3JhZFBJUThRSkpnczBCNmJvLXBEbkhtamM4X2tYVFRmdlFySTNJaFVfM3E3Yzd5a3VOYWVqU21LWkt3UmhNcnFzNXItQ0pCMDlKd2NZSVlnVi1JVjhvS3FHVGRKeVJoeFU?oc=5",
@@ -973,30 +1105,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🌪️ WEATHER — DFW\n\n$+[WATCHLIVE]Dallas Cowboys Game Live\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMi7wNBVV95cUxNb0JyTV9RNjkzU29scW5OVU00ak1fRW51aWgzRG9taHFqWG9LV2lwa3F1Z0t6cjVzc0ZtSl9qRTNTM1A2RWJwTjVLMXBjMF9jNVhLb0kzeFNJZmFaNzNaVnFENFlvTmo1RjNLRjhkb3FDMHNVdE9QUWp1SnRTTG0wWkxRZzNGT2ZkaEtjYngydEhEMHVkbTlOZjY2RWx5eE1ZZWlSeDUxb3h0WHlrUkQzMlRSeFdPWUxuYktVSDU1Q011QmNhXzRVOWt2eTNVODFFV1lSVkNrNnlpRE9Lc0oyZTlRRmJFME5ZdnJ3U1BNMVV4WXo0NGE3N3Bpd3BGdFpkczh3TUlJbGFDQW9qZHpVUzJsTXQzSFFxS2dWTnpnV2pTbGtJWjg1WWVXdWl3T0xzVjFBd1ZyZXB3dUNhMnBtNmVqNzZzQmxTWnpVOHdCR1Fiak9nWnJ6WXJmZjltb0ZtWGZWTVBiZlNCcU12cWdaMWFiaDNLOTBjSjdEcnlZZS12cUpFbzFFbzZJTjdzX3JhZFBJUThRSkpnczBCNmJvLXBEbkhtamM4X2tYVFRmdlFySTNJaFVfM3E3Yzd5a3VOYWVqU21LWkt3UmhNcnFzNXItQ0pCMDlKd2NZSVlnVi1JVjhvS3FHVGRKeVJoeFU?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "6b56d70143550517cd2c",
-      "title": "North Texas gets a great cap to the weekend before temperatures rise again",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkk2THNpQlQtaEZPSXhoWXhfVUgzc1NWRXlLRTA2OFFVT3RGUlJPUHlUdkxKZS1sWlJ2RXlKVEpQTzZSS1F4TzkzdWMtbVhaa3RtMWdVd3c3dHlEYzF2ZGVGdnBYM0NkdmNYLTN3bTFHOW5uOFBramZ3VWx0OHZ2STNsaUg?oc=5",
-      "source": "CBS News",
-      "summary": "North Texas gets a great cap to the weekend before temperatures rise again CBS News",
-      "published_at": "2026-10-19T00:00:51+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nNorth Texas gets a great cap to the weekend before temperatures rise again\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkk2THNpQlQtaEZPSXhoWXhfVUgzc1NWRXlLRTA2OFFVT3RGUlJPUHlUdkxKZS1sWlJ2RXlKVEpQTzZSS1F4TzkzdWMtbVhaa3RtMWdVd3c3dHlEYzF2ZGVGdnBYM0NkdmNYLTN3bTFHOW5uOFBramZ3VWx0OHZ2STNsaUg?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "b51f20122adc20d7d436",
-      "title": "++!【LIVE@STREAMS】TV!] Dallas Cowboys vs Green Bay Packers Live streams free NFL Game October 18, 2026 kok",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQOUp1NHlBQ2U0ZEU4NU9xLVVqSGdkUWRyOEpPY1dKQmctNWNrZ1JmbW1pc3ZxeWpEY0RXYlBXVUVhdnU3aW1QLVNsd1psNEpKVkJndWl4c2xQS00zdHFLTGNrTGhsWjZhZzU4d191TUJSOHRVN21nNHZzeXpWRVRhaC0yYTZHbk5fTTJ2NGxyNE9obm1xTk53bW5fRVVIVFRTV2NkYzhTa2ctUXg2OG1KY1dhQm5uNXZBN24tT1dYcF9JaGZxMVFNWkI1V1U3eWk5RzFPNThERVpHbE1MVEh3RjFYMURBN0h4UG1mMDFPdzNmNFJJNmtoTWRURmRpa0M0M1FpMTFGRHIzaWtyWXQySjNKNDBuTjdMUERSOGREckcwbUtxa2NhbjFkSURzdXloR2pvLWZqSEFKUVpTbzN0ZnNmMk11ZnNzLUkw?oc=5",
-      "source": "Universidad de Córdoba (UCO)",
-      "summary": "++!【LIVE@STREAMS】TV!] Dallas Cowboys vs Green Bay Packers Live streams free NFL Game October 18, 2026 kok Universidad de Córdoba (UCO)",
-      "published_at": "2026-10-18T23:59:55+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\n++!【LIVE@STREAMS】TV!] Dallas Cowboys vs Green Bay Packers Live streams free NFL Game October 18, 2026 kok\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMiywJBVV95cUxQOUp1NHlBQ2U0ZEU4NU9xLVVqSGdkUWRyOEpPY1dKQmctNWNrZ1JmbW1pc3ZxeWpEY0RXYlBXVUVhdnU3aW1QLVNsd1psNEpKVkJndWl4c2xQS00zdHFLTGNrTGhsWjZhZzU4d191TUJSOHRVN21nNHZzeXpWRVRhaC0yYTZHbk5fTTJ2NGxyNE9obm1xTk53bW5fRVVIVFRTV2NkYzhTa2ctUXg2OG1KY1dhQm5uNXZBN24tT1dYcF9JaGZxMVFNWkI1V1U3eWk5RzFPNThERVpHbE1MVEh3RjFYMURBN0h4UG1mMDFPdzNmNFJJNmtoTWRURmRpa0M0M1FpMTFGRHIzaWtyWXQySjNKNDBuTjdMUERSOGREckcwbUtxa2NhbjFkSURzdXloR2pvLWZqSEFKUVpTbzN0ZnNmMk11ZnNzLUkw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "776707197d1600be9d9a",
@@ -1011,30 +1119,6 @@
       "caption": "🌪️ WEATHER — DFW\n\nWATCH TODAYAC Dallas Cowboys vs Green Bay Packers Game LIVE.\n\nSource: Universidad de Córdoba (UCO)\nRead more: https://news.google.com/rss/articles/CBMihANBVV95cUxPTW9obkduOGVkcmtPQXM2T3lWa1FERm41UnppVlRHS2ZBSXdXejU1dlJhVXk5V0hrY3F1dThVTTRGcmdjSHNPNmtNSENQc2lPamVoZ0I1ckhjSF9DZFMwQWZVenRDdXBhcFQzMlQ3TkUxNVJlT3JxUU5zY3EtVDNoZjEwa3JZZHBsMTc2VUR5NXRMTkVnMS1PTlB0bUhxNUZMa2RZMy0xNUZHODROaG9haURfZEtONDdEa2RxS0ltS3hCZ3RhNEl4dm0xd3JiY2ctQ1hYbFdzdkJIZTN6VVNmWlFUQ3NPMHE3bms0MlNCM01ZcUxxZjVldy1nVVk3ZFlaOTZKdm9kNUtUZ1A4anhUT0lKWFhYMllDYktKWWs3STI1WjJjenV0T3A5VTVPc0MwXzFyOGZuY2lpbVhsVkxTQlJjRFRJSlhKU1FYRi1fWDV4QWEzV3J3OUQtSU9BVmtxdGlKeVJNNS11YTEwbzRsT0xGWWJ4TFo2ZHV0QzN6UmNFUGxB?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "24463c3798cf9203cbf2",
-      "title": "North Texas takes Colorado to the wire in men’s basketball exhibition",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWUw1Y3dDVnRZbXpTWm9mcEFxaGpLVFJpWHF3cG1kQzdWYXl1UnJpVHdpc0JiRmdBYmVTaXBFX3p3emw5cTk4Nk5YUzkwT1NKbTlaUHRwbEVjRmJ5U0Nmem5VLWNUazRXdnZRMUVKLXJkMUVuenNZcXdxOHVpTlNUTl9Pa1lSMDN1SW11Q1phSmVxTVgzc1NOeVdiR1pYNFB1ckFRZnp1YUZhb0xmcFVwNzlEY2dua0U2WThsWjF1NUpwbWdzVUpQbUctRjJScld6ZVhvUFNrSGR0OWUwNTJrbkJQR0JXVVlBLWdpVXlHQnI1Y1JkWUV4dUQ3bw?oc=5",
-      "source": "Denton Record-Chronicle",
-      "summary": "North Texas takes Colorado to the wire in men’s basketball exhibition Denton Record-Chronicle",
-      "published_at": "2026-10-18T23:46:54+00:00",
-      "category": "Breaking",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🔴 BREAKING — DFW\n\nNorth Texas takes Colorado to the wire in men’s basketball exhibition\n\nSource: Denton Record-Chronicle\nRead more: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNWUw1Y3dDVnRZbXpTWm9mcEFxaGpLVFJpWHF3cG1kQzdWYXl1UnJpVHdpc0JiRmdBYmVTaXBFX3p3emw5cTk4Nk5YUzkwT1NKbTlaUHRwbEVjRmJ5U0Nmem5VLWNUazRXdnZRMUVKLXJkMUVuenNZcXdxOHVpTlNUTl9Pa1lSMDN1SW11Q1phSmVxTVgzc1NOeVdiR1pYNFB1ckFRZnp1YUZhb0xmcFVwNzlEY2dua0U2WThsWjF1NUpwbWdzVUpQbUctRjJScld6ZVhvUFNrSGR0OWUwNTJrbkJQR0JXVVlBLWdpVXlHQnI1Y1JkWUV4dUQ3bw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "cba4b4c069112e7b2bed",
-      "title": "The Stars Looking to Improve their Offense",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWDYyZFhOODJpaDNEQ3ZyT09Cc1JTZ1pZUG1QVTFFaTB2UFRfazdLRG1DS3MxbnVaZmRBc0ZCNzJ3WHV1OW9DVEx3Z3ZvUjFibXRuWVlNb2tFQWRGdWw4YVMxNHFTZTVmd2dCUjRrMlQ5NlhrWlM3enF5YkZxQXRQQVk4Mm0wVHdQb1E?oc=5",
-      "source": "Dallas Sports Nation",
-      "summary": "The Stars Looking to Improve their Offense Dallas Sports Nation",
-      "published_at": "2026-10-18T23:45:13+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nThe Stars Looking to Improve their Offense\n\nSource: Dallas Sports Nation\nRead more: https://news.google.com/rss/articles/CBMiigFBVV95cUxOWDYyZFhOODJpaDNEQ3ZyT09Cc1JTZ1pZUG1QVTFFaTB2UFRfazdLRG1DS3MxbnVaZmRBc0ZCNzJ3WHV1OW9DVEx3Z3ZvUjFibXRuWVlNb2tFQWRGdWw4YVMxNHFTZTVmd2dCUjRrMlQ5NlhrWlM3enF5YkZxQXRQQVk4Mm0wVHdQb1E?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "03e9ccf4f34bb3c68438",
       "title": "Lawsuit: UT-Dallas disciplined student ‘for practicing journalism’",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1V4RzM2T1ZhaWZhSVJleWNYMDRSdUhGcVA0OWt2NnZ3eVJGeHJZSGpFdF85ZnE5d2NuMVVBZS00MHlvQnN0MHBMNGIwbDBPeGg0UURBLV9vZXpQellZN3U2QTc3QW0zSGdncHZnR3pxQ0xGekNyaXRqSVA2RVlKZ1JLd1RsdkZwMU5INGowQ2JUbTg?oc=5",
@@ -1047,16 +1131,16 @@
       "caption": "🚒 FIRE — DFW\n\nLawsuit: UT-Dallas disciplined student ‘for practicing journalism’\n\nSource: Student Press Law Center\nRead more: https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1V4RzM2T1ZhaWZhSVJleWNYMDRSdUhGcVA0OWt2NnZ3eVJGeHJZSGpFdF85ZnE5d2NuMVVBZS00MHlvQnN0MHBMNGIwbDBPeGg0UURBLV9vZXpQellZN3U2QTc3QW0zSGdncHZnR3pxQ0xGekNyaXRqSVA2RVlKZ1JLd1RsdkZwMU5INGowQ2JUbTg?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "7872f92d08c8c332ab51",
-      "title": "Mavericks sit 19th after opening round of Diamante Invitational",
+      "id": "67f001c1f119a9e6135b",
+      "title": "Mavericks sit in 19th after opening round of Diamante Invitational",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1lXTUZOSk5vQnhXM0EyUEhMUTk1cHRMYmRPUUN4ZnBGdXRXdlRLWXpkMVhLdnNYZDFJLWstcGh1M2NtOWxFXzdlS3poTVVLU04tRW5WYi1kUk1KWmo0YnRMMVhKMGpQWnZMQjA0QUhwU0xRYkZpaWhpTV9jOTJvMEszbnRPY2x4NmRmbmRtN0JKb2I1c0NOaFhLNElsclhTWkxpV1U2ZUhIRFVfV1I3WQ?oc=5",
       "source": "University of Texas Arlington Athletics",
-      "summary": "Mavericks sit 19th after opening round of Diamante Invitational University of Texas Arlington Athletics",
+      "summary": "Mavericks sit in 19th after opening round of Diamante Invitational University of Texas Arlington Athletics",
       "published_at": "2026-10-18T23:30:29+00:00",
       "category": "Sports",
       "thumbnail": "",
       "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nMavericks sit 19th after opening round of Diamante Invitational\n\nSource: University of Texas Arlington Athletics\nRead more: https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1lXTUZOSk5vQnhXM0EyUEhMUTk1cHRMYmRPUUN4ZnBGdXRXdlRLWXpkMVhLdnNYZDFJLWstcGh1M2NtOWxFXzdlS3poTVVLU04tRW5WYi1kUk1KWmo0YnRMMVhKMGpQWnZMQjA0QUhwU0xRYkZpaWhpTV9jOTJvMEszbnRPY2x4NmRmbmRtN0JKb2I1c0NOaFhLNElsclhTWkxpV1U2ZUhIRFVfV1I3WQ?oc=5\n\nTexas News Roundup"
+      "caption": "🏟️ SPORTS — DFW\n\nMavericks sit in 19th after opening round of Diamante Invitational\n\nSource: University of Texas Arlington Athletics\nRead more: https://news.google.com/rss/articles/CBMisAFBVV95cUxQY1lXTUZOSk5vQnhXM0EyUEhMUTk1cHRMYmRPUUN4ZnBGdXRXdlRLWXpkMVhLdnNYZDFJLWstcGh1M2NtOWxFXzdlS3poTVVLU04tRW5WYi1kUk1KWmo0YnRMMVhKMGpQWnZMQjA0QUhwU0xRYkZpaWhpTV9jOTJvMEszbnRPY2x4NmRmbmRtN0JKb2I1c0NOaFhLNElsclhTWkxpV1U2ZUhIRFVfV1I3WQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "ccca11e13e60ba257e39",
@@ -1117,18 +1201,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚧 TRAFFIC — DFW\n\nDriver in deadly Kansas soccer field crash released while investigation continues\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenBSNENLc1BWd1ZNRFdid3ZSd2ZxS1NQYzdqd3VzMnFHdHkwazNrVnhvb0d6bHZlR1JKVUdTQmxjMm41ZmJkRUNhcnEwTjVVa09DWS15T3RmLTFXN1pvMURtbWhVQ3dveXd3MjdiNENQU1NqUlhKWGdRbTBIMmZKNnY1dUUwSk9zWFdVR3g4TnJ6UDJCMlNaczFkRGU2Skl5T2JjdlB4bGZKeEN0SkFPX2FYQXc0Y1I3ZGxhM0c1cmc2VlXSAcsBQVVfeXFMT2ZvUjdTYVVPLTVRbkR4R1A5cGEtbWdRdzZwTklET2pwS1JoTENPQVZXQnMybVlOZXlacnFMTzRyXzlsajMyM1ctTWZDZS10OUtsSFlaNWlGSVZjeHhJVDhsRHhvVDZCNXloeTJlZTl6bWVacDY4YU10RldsTG5vS3BEcEJ1eEdKOEJNUXNkY2E0QXQwbWJQRnVnWjRsTHYtbWZPUWJMbU1vemRyc2dVQ3NuMllWMzlva1ljMWZuM0ZCZEtSUlZDMW54dzQ?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "357df319e2bd6ed58742",
-      "title": "Dallas Cowboys-Green Bay Packers Announcer Pairing & Referee Assignment For Week 6",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1VqSEZZTzd2eTVlVHRnQnRjZWxhRjVfZVVaTzlfbGhmNnhqQVIyemxrcElCckhtSzhkZTlPbFVOc25qS216cG5XQ0lFbFRhbDE1NkRZcExwaTFFRnY3ZS1hOHVfWHFFWV8yUXRfb0dXR0FpbnlBb2wtZTI4YUlkRE5TbEU2VDh1UnRDbjcyUFEyQTZ3Si1yajExeWNYSms5NU1YRkdLc3lVdnM3R2VCZlhBbkVmbU0?oc=5",
-      "source": "Sports Illustrated",
-      "summary": "Dallas Cowboys-Green Bay Packers Announcer Pairing & Referee Assignment For Week 6 Sports Illustrated",
-      "published_at": "2026-10-18T21:35:31+00:00",
-      "category": "Sports",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🏟️ SPORTS — DFW\n\nDallas Cowboys-Green Bay Packers Announcer Pairing & Referee Assignment For Week 6\n\nSource: Sports Illustrated\nRead more: https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1VqSEZZTzd2eTVlVHRnQnRjZWxhRjVfZVVaTzlfbGhmNnhqQVIyemxrcElCckhtSzhkZTlPbFVOc25qS216cG5XQ0lFbFRhbDE1NkRZcExwaTFFRnY3ZS1hOHVfWHFFWV8yUXRfb0dXR0FpbnlBb2wtZTI4YUlkRE5TbEU2VDh1UnRDbjcyUFEyQTZ3Si1yajExeWNYSms5NU1YRkdLc3lVdnM3R2VCZlhBbkVmbU0?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "87d8c21fa92b6334e9f3",
@@ -1263,18 +1335,6 @@
       "caption": "🚨 POLICE — DFW\n\nCelina Man Bonded Out, Then Killed His Ex. Police Found His ‘Grudge List’\n\nSource: Dallas Express\nRead more: https://news.google.com/rss/articles/CBMinwFBVV95cUxOUksxMDRXdU9LY0tDUFZlcHFfR1U4OVR4UW9vS1Rwa1JoNERYZ2xOb0ZBNGpQSWE0WVZ4ckpuSFJieXdiUEt5R01YVzBDMzczUndvRjVyRTVYdHF6S0k3WV8zUHRXc2FpZUNMcmtid1NaaXhrMDl6ZHFDVkZWaWtjSEZJM2N1UW1aM2ZFbTdJUzRuclJFWTNnWDFCUVNPWUU?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "19dd58d59d892ec570d9",
-      "title": "Houston Dynamo vs Dallas: Major League Soccer stats & head-to-head",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRLVlVNE95M1hvc3hzNnBmNUFCa0lNWkc4OGVyM193V1YwQW4ycGM5MEkxbWRnSnZubC1rN3JOeTB3Zzl4Y1kxVnVnSWlOempLNERPYWdKTTNmVWtEZVBROGh1MA?oc=5",
-      "source": "BBC",
-      "summary": "Houston Dynamo vs Dallas: Major League Soccer stats & head-to-head BBC",
-      "published_at": "2026-10-18T16:00:46+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nHouston Dynamo vs Dallas: Major League Soccer stats & head-to-head\n\nSource: BBC\nRead more: https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRLVlVNE95M1hvc3hzNnBmNUFCa0lNWkc4OGVyM193V1YwQW4ycGM5MEkxbWRnSnZubC1rN3JOeTB3Zzl4Y1kxVnVnSWlOempLNERPYWdKTTNmVWtEZVBROGh1MA?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "20636c8a69da1040a6de",
       "title": "April Housing Celebrates Grand Reopening of Two Affordable Housing Communities in Fort Worth",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UU0lPaTRfOHNFSXotZGg5cm5STDhQS09ldERkYjM3RUtjOWNNS2k5LVg3N1FCTUtzdVVRclMyalRTX3FldkRIQ2hEWlM1M2lycFo2b0FHZnozRFRqX3pkOU5zWmZRdk1HcWc?oc=5",
@@ -1285,6 +1345,18 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nApril Housing Celebrates Grand Reopening of Two Affordable Housing Communities in Fort Worth\n\nSource: Yield PRO\nRead more: https://news.google.com/rss/articles/CBMiakFVX3lxTE1UU0lPaTRfOHNFSXotZGg5cm5STDhQS09ldERkYjM3RUtjOWNNS2k5LVg3N1FCTUtzdVVRclMyalRTX3FldkRIQ2hEWlM1M2lycFo2b0FHZnozRFRqX3pkOU5zWmZRdk1HcWc?oc=5\n\nTexas News Roundup"
+    },
+    {
+      "id": "e589a150607c112e1412",
+      "title": "Dallas weather: Oct. 18 morning forecast",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6d1ljdk8xbFY4ekY3TUk1S0h5WHNqalZfWWx2SWxid0RQSl96cDI3R3RMYnlHRzNyZGRMQzBUMW1qVllsdTl0bFE4VEpNckYwMzhTV0lmZFQxWThxa2RLQ9IBZkFVX3lxTE0waDBKRmY4ekNxLUU5M0YzaGpNVGN3VXRtVy1rNndQSnZ0bzNFdlY2WHQza29hdDROVGNTNVZjOXVUazdvT3hVWjVRR3U4ZHVSLXdGWF9UWUdPRUVzT2d2eVU4Um9CQQ?oc=5",
+      "source": "FOX 4 News Dallas-Fort Worth",
+      "summary": "Dallas weather: Oct. 18 morning forecast FOX 4 News Dallas-Fort Worth",
+      "published_at": "2026-10-18T12:24:18+00:00",
+      "category": "Weather",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🌪️ WEATHER — DFW\n\nDallas weather: Oct. 18 morning forecast\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6d1ljdk8xbFY4ekY3TUk1S0h5WHNqalZfWWx2SWxid0RQSl96cDI3R3RMYnlHRzNyZGRMQzBUMW1qVllsdTl0bFE4VEpNckYwMzhTV0lmZFQxWThxa2RLQ9IBZkFVX3lxTE0waDBKRmY4ekNxLUU5M0YzaGpNVGN3VXRtVy1rNndQSnZ0bzNFdlY2WHQza29hdDROVGNTNVZjOXVUazdvT3hVWjVRR3U4ZHVSLXdGWF9UWUdPRUVzT2d2eVU4Um9CQQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "bb1ef21cba8a78fca335",
@@ -1329,10 +1401,10 @@
       "source": "Dallas News",
       "summary": "Why some Dallas public safety boosters are asking voters to ‘bust the bond' Dallas News",
       "published_at": "2026-10-18T12:05:14+00:00",
-      "category": "Police",
+      "category": "Fire",
       "thumbnail": "",
       "official": false,
-      "caption": "🚨 POLICE — DFW\n\nWhy some Dallas public safety boosters are asking voters to ‘bust the bond'\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWFURVpxS3QteVpneEFfSE5SZUZOaG9pVC13ZmhsRTZNUHJvVkpMa2tiWU05Q1lFNFZMMlFCa1Frci13M0xmcGNEREpLOTY3T0E1ZEM0RGlSa0h6aERHQUMxQVM2VllDbl9lQlA1WE5qbzBDemFpOXFPdlBKQWhyMVZRZGpyc3FZbEtDZ1RmNHFIZ0JWMU1YODFn?oc=5\n\nTexas News Roundup"
+      "caption": "🚒 FIRE — DFW\n\nWhy some Dallas public safety boosters are asking voters to ‘bust the bond'\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMimgFBVV95cUxPeWFURVpxS3QteVpneEFfSE5SZUZOaG9pVC13ZmhsRTZNUHJvVkpMa2tiWU05Q1lFNFZMMlFCa1Frci13M0xmcGNEREpLOTY3T0E1ZEM0RGlSa0h6aERHQUMxQVM2VllDbl9lQlA1WE5qbzBDemFpOXFPdlBKQWhyMVZRZGpyc3FZbEtDZ1RmNHFIZ0JWMU1YODFn?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "3dcc5dc3c15b8bae5779",
@@ -1359,16 +1431,16 @@
       "caption": "🏟️ SPORTS — DFW\n\nAs early voting nears, Plano voters question tax election for Stars arena funds\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ2Z2U3RFTUZlUjAxZzYzT1RqYl9Kam1raEtQQ2VNTUs5cnRWUVl4NWtZblpiUlhmSUN4aVRhb0Mtb19HNGNVSFp1NGtkaWNnZ3RyRGZKN0RUeGtISFZTY0xzNW9vWGd4d05YN1d0ZHVBR2FmTndqZE9ZT0pEa09zSW4yZWRFb2w3VkozRTJxRHdtb25od08xYXpFNWIyb0p3Sk1wQS1Gdi1ENVFiYUVGVFM0TQ?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "0eb48b776ca01fd6182d",
-      "title": "Tarrant County voter guide: Here are the Precinct 4 commissioner candidates",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZUV6aDZQTTM3R2JPTmVSazZzOTJ5enMzY3cwZEdvUzc1dGktUG16NlFBZHZObXktZTg5N1JKdUpZMDcxQVVXRW5aVUVUN3pidFMydzRPMnMtWV85eWFzY011U1NNb25lakY5MDZFWURkalF1LTkwWUlVclhqZnhRcG5XY2sxWDZIRGQyRDljeG5IeDBWZ0ZPcVp2eExnQdIBngFBVV95cUxOY2RIZXFqNTdOY3VqWl9DTGhYS0UxWlFSdGk1d0RINEZzTTh6eHJxMF9PZ09mekdFUGxUWHd0emtmZFZBYVpScE0taU5qUkw5UkN2eVdiMVd2aW9xWU9ZZ0o3b3YxSDRsRUM0TVRFQXdIUTNvUmdDMWtPLVhNMVczcGtNVlBmRE43RElIdEVUVFd4RHUwX1Z0Rlg2eS1YQQ?oc=5",
-      "source": "Fort Worth Star-Telegram",
-      "summary": "Tarrant County voter guide: Here are the Precinct 4 commissioner candidates Fort Worth Star-Telegram",
-      "published_at": "2026-10-18T10:00:00+00:00",
-      "category": "Community",
+      "id": "9d004f1e86c411171da1",
+      "title": "Dallas Cowboys Rashan Gary Is The PERFECT Fit For Christian Parker! Here's Why! Motorcycle On Traffic Light (SFRPaQXaWo)",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52TzVXaENpTzVxajhmYmR3czczbXM5RzhRaGh0Yk5jZFhSX21TNVpmRjQ2TDdEYUduT201TEdzbE15dVR6YS1qaEhhY0pqUDZDd0FPZlJZRnBfYVFqUEw2aHhmbU1uQnJoZGw0?oc=5",
+      "source": "Unisba Media",
+      "summary": "Dallas Cowboys Rashan Gary Is The PERFECT Fit For Christian Parker! Here's Why! Motorcycle On Traffic Light (SFRPaQXaWo) Unisba Media",
+      "published_at": "2026-10-18T10:41:18+00:00",
+      "category": "Traffic",
       "thumbnail": "",
       "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nTarrant County voter guide: Here are the Precinct 4 commissioner candidates\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxQZUV6aDZQTTM3R2JPTmVSazZzOTJ5enMzY3cwZEdvUzc1dGktUG16NlFBZHZObXktZTg5N1JKdUpZMDcxQVVXRW5aVUVUN3pidFMydzRPMnMtWV85eWFzY011U1NNb25lakY5MDZFWURkalF1LTkwWUlVclhqZnhRcG5XY2sxWDZIRGQyRDljeG5IeDBWZ0ZPcVp2eExnQdIBngFBVV95cUxOY2RIZXFqNTdOY3VqWl9DTGhYS0UxWlFSdGk1d0RINEZzTTh6eHJxMF9PZ09mekdFUGxUWHd0emtmZFZBYVpScE0taU5qUkw5UkN2eVdiMVd2aW9xWU9ZZ0o3b3YxSDRsRUM0TVRFQXdIUTNvUmdDMWtPLVhNMVczcGtNVlBmRE43RElIdEVUVFd4RHUwX1Z0Rlg2eS1YQQ?oc=5\n\nTexas News Roundup"
+      "caption": "🚧 TRAFFIC — DFW\n\nDallas Cowboys Rashan Gary Is The PERFECT Fit For Christian Parker! Here's Why! Motorcycle On Traffic Light (SFRPaQXaWo)\n\nSource: Unisba Media\nRead more: https://news.google.com/rss/articles/CBMia0FVX3lxTE52TzVXaENpTzVxajhmYmR3czczbXM5RzhRaGh0Yk5jZFhSX21TNVpmRjQ2TDdEYUduT201TEdzbE15dVR6YS1qaEhhY0pqUDZDd0FPZlJZRnBfYVFqUEw2aHhmbU1uQnJoZGw0?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "974f6eb24ad69265a0b4",
@@ -1395,6 +1467,18 @@
       "caption": "📍 COMMUNITY — DFW\n\nTarrant County voter guide: Here are the county judge candidates\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxQaEdxMUw2aDA5YUtYOUVWcUtZYjV0RDJxb1JzOG1VR29vVFM2WHZSU3kwZzBrbnI2dzdrMVB2WjFtU3llLVU3bkFKcXFwTGk1cmdwWnZITExrb25oeEpWOWVKb1V1OVd5T1JGbHhELVBjQ2M2Y0RzSDg4YU9IR01lcVVYd2R6cFlQcDMzdW9fZjBxSEY5WVJGTFZFeGM3UdIBngFBVV95cUxPZ0JqTU0xaGRiYWY2RzE2SUluWFNhUGV0VlJsQm5tQ0NjaG9fdl9iUlNSWm1zcHQtc0FCZE5mZ3lHZ1lRQ1JLeFRBYVIwaFYxTHM2SkFRTTkxdHZJeWd4N3ZPMGlWUHVOMWFfLTE3Vy05UXFPRmgzOS1JWXYtVy1ybXdhY3NlNWU1V0lnNkhCQkIwS21WREFwUnNmWXhpdw?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "e1d76cb0cd1271da1fed",
+      "title": "2026 Tarrant County voter guide: Nov. 3 candidates and what they stand for",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHBHTTJEaGJoMk5MNFRaN1JQRm02MGIwM25aNFRBYlF1eTdNQnkybXNVOGJ1M2xjVDZBQklTTXgtV2FsQ2U0ejZOeWtfQ1hxRGo3R1FqVVQ4V2p2am9SemFoNEtBeDRRNFk5a2xialJVZHdvNTR2MXliUk1mZlBoUWY3ZUN2TU1PRFhUNzlRUG1FSG14YmJCSDJQTXpld9IBngFBVV95cUxOalU3WEdPbWZuY2g1WW12VHluc1hFLVN1eUdCekNTYk05bXJNYmhBblowd0w5SkdvWWE0UEpLUXdOUTBfXzZDbTZVSU1TczdkdFVUTXJWenZOVWFRV3NCVzA5bTJtWW5abzNHNzE3TzBvTGhSN3hZUjJlTVVUVnplOFJ1Q01nbGlUaVM3UFpUZzdQOE1NS0VXVUFjNDlyUQ?oc=5",
+      "source": "Fort Worth Star-Telegram",
+      "summary": "2026 Tarrant County voter guide: Nov. 3 candidates and what they stand for Fort Worth Star-Telegram",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "category": "Community",
+      "thumbnail": "",
+      "official": false,
+      "caption": "📍 COMMUNITY — DFW\n\n2026 Tarrant County voter guide: Nov. 3 candidates and what they stand for\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxPdHBHTTJEaGJoMk5MNFRaN1JQRm02MGIwM25aNFRBYlF1eTdNQnkybXNVOGJ1M2xjVDZBQklTTXgtV2FsQ2U0ejZOeWtfQ1hxRGo3R1FqVVQ4V2p2am9SemFoNEtBeDRRNFk5a2xialJVZHdvNTR2MXliUk1mZlBoUWY3ZUN2TU1PRFhUNzlRUG1FSG14YmJCSDJQTXpld9IBngFBVV95cUxOalU3WEdPbWZuY2g1WW12VHluc1hFLVN1eUdCekNTYk05bXJNYmhBblowd0w5SkdvWWE0UEpLUXdOUTBfXzZDbTZVSU1TczdkdFVUTXJWenZOVWFRV3NCVzA5bTJtWW5abzNHNzE3TzBvTGhSN3hZUjJlTVVUVnplOFJ1Q01nbGlUaVM3UFpUZzdQOE1NS0VXVUFjNDlyUQ?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "6ece9043de263ec8424c",
       "title": "Letters — Dallas County Prop A, SBOE District 9, HD 112",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVk5nM0VOQ21seV8wVXplUWlsWkNSZ2EtYjZCTGNTdFBQbnlYN3BVWm9uZmVTQ1lDdHp1TS00WGFzamRVdXBFQ21rbnluLURwNGd1OS12MGk3dHdFZ0w1cjZTd1dsVmFvdVRGNzR1OWJoaXFFYUZVXzFkWXM1cGhnelllY0gwb0pub0d6c0JNMy1FMkpzU19hSzJDM2dHRmhaTTdCYU1DR29zQjh4eWd1N1puWlZJMjgwczFsak53?oc=5",
@@ -1407,28 +1491,16 @@
       "caption": "📍 COMMUNITY — DFW\n\nLetters — Dallas County Prop A, SBOE District 9, HD 112\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMivgFBVV95cUxPVk5nM0VOQ21seV8wVXplUWlsWkNSZ2EtYjZCTGNTdFBQbnlYN3BVWm9uZmVTQ1lDdHp1TS00WGFzamRVdXBFQ21rbnluLURwNGd1OS12MGk3dHdFZ0w1cjZTd1dsVmFvdVRGNzR1OWJoaXFFYUZVXzFkWXM1cGhnelllY0gwb0pub0d6c0JNMy1FMkpzU19hSzJDM2dHRmhaTTdCYU1DR29zQjh4eWd1N1puWlZJMjgwczFsak53?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "a90bab8992205529260d",
-      "title": "Burns & McDonnell Advances Fort Worth Parkway Project",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnM5Z2d3Uk1NdFI0RmxCbXlNd0d5RDVwVDFrTzlIUFBySVl4a1JjZmZxbjNqTmY4aXNIMDIwVno2N0Z0R1RsREpfUC10U2xUVzhxaXNPVDMxTmlXdXU3M1AxMlRjY201WXZnZV9QcFZIZFhoQmpZbWhaZGhQTnoxY1ZXTUdKOVZ5T0FwSFY4cDlEZjRtMXFLRTVsemZoZ0ZXSXhkRE1FU1dQMmdGelZWQWc2RUFFR2o0WTVzZGZpcndhZmtSZnc?oc=5",
-      "source": "Construction Owners",
-      "summary": "Burns & McDonnell Advances Fort Worth Parkway Project Construction Owners",
-      "published_at": "2026-10-18T09:03:26+00:00",
+      "id": "20cf8028d647005de687",
+      "title": "Michelin Guide updates for Dallas-Fort Worth",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2w3ZUs0S1h6OElKUWdLemxQR1FXX2F2a3BNU0ItUmNYQkQ0Sk5PMTFDTXFfempjOVlHbUE2bkw3SVM0VGF4UGhKS1BDMGd0R3R3cENBenBuYXhWY2hEUTBMb2RONmhFb2VwbVlOQk9qMzl5YVhFa0RRQy1sOER3Yk1ELW9lbmtMMnlsM2ZGLUpfVGhXWlB2STB2NTRkU296VlR2VQ?oc=5",
+      "source": "NewsBreak: Local News & Alerts",
+      "summary": "Michelin Guide updates for Dallas-Fort Worth NewsBreak: Local News & Alerts",
+      "published_at": "2026-10-18T03:53:19+00:00",
       "category": "Traffic",
       "thumbnail": "",
       "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nBurns & McDonnell Advances Fort Worth Parkway Project\n\nSource: Construction Owners\nRead more: https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnM5Z2d3Uk1NdFI0RmxCbXlNd0d5RDVwVDFrTzlIUFBySVl4a1JjZmZxbjNqTmY4aXNIMDIwVno2N0Z0R1RsREpfUC10U2xUVzhxaXNPVDMxTmlXdXU3M1AxMlRjY201WXZnZV9QcFZIZFhoQmpZbWhaZGhQTnoxY1ZXTUdKOVZ5T0FwSFY4cDlEZjRtMXFLRTVsemZoZ0ZXSXhkRE1FU1dQMmdGelZWQWc2RUFFR2o0WTVzZGZpcndhZmtSZnc?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "e338360811b44b3a6dbb",
-      "title": "🏠💨 TEREL DALLAS TAKES IT HIMSELF! Keeps the ball, hits the gas and takes it TO THE HOUSE! 🏈🔥",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0I0aWkwY0dLMmJ3eEpaLVM2SFduR2gwYWtDYTJxS2o2WlF1SFBhOHBteGxWYXJ0UlZ4VHBoR2lWa0hLMWR0RTBUVldFc2tGdDd2MTczcEFnNFhqSmxCU20tVWJOTUk0WU04NnBQNEw1emhVRVRmLWx4djItcHBIVjdzdHF4dDJSaThHUUNYX0VTRV95T3ZJTTJUbWlITGV1Zy1UZkhYWUVjZVR4bV9mblRtVjF4Tkh0QUowdGZLa3gwRjNhRDR1TFFGTlY5QQ?oc=5",
-      "source": "News4JAX",
-      "summary": "🏠💨 TEREL DALLAS TAKES IT HIMSELF! Keeps the ball, hits the gas and takes it TO THE HOUSE! 🏈🔥 News4JAX",
-      "published_at": "2026-10-18T04:54:09+00:00",
-      "category": "Traffic",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\n🏠💨 TEREL DALLAS TAKES IT HIMSELF! Keeps the ball, hits the gas and takes it TO THE HOUSE! 🏈🔥\n\nSource: News4JAX\nRead more: https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0I0aWkwY0dLMmJ3eEpaLVM2SFduR2gwYWtDYTJxS2o2WlF1SFBhOHBteGxWYXJ0UlZ4VHBoR2lWa0hLMWR0RTBUVldFc2tGdDd2MTczcEFnNFhqSmxCU20tVWJOTUk0WU04NnBQNEw1emhVRVRmLWx4djItcHBIVjdzdHF4dDJSaThHUUNYX0VTRV95T3ZJTTJUbWlITGV1Zy1UZkhYWUVjZVR4bV9mblRtVjF4Tkh0QUowdGZLa3gwRjNhRDR1TFFGTlY5QQ?oc=5\n\nTexas News Roundup"
+      "caption": "🚧 TRAFFIC — DFW\n\nMichelin Guide updates for Dallas-Fort Worth\n\nSource: NewsBreak: Local News & Alerts\nRead more: https://news.google.com/rss/articles/CBMipAFBVV95cUxQT2w3ZUs0S1h6OElKUWdLemxQR1FXX2F2a3BNU0ItUmNYQkQ0Sk5PMTFDTXFfempjOVlHbUE2bkw3SVM0VGF4UGhKS1BDMGd0R3R3cENBenBuYXhWY2hEUTBMb2RONmhFb2VwbVlOQk9qMzl5YVhFa0RRQy1sOER3Yk1ELW9lbmtMMnlsM2ZGLUpfVGhXWlB2STB2NTRkU296VlR2VQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "f70658c6306a53502447",
@@ -1479,16 +1551,16 @@
       "caption": "🚧 TRAFFIC — DFW\n\nNearly half of child car seats are installed incorrectly\n\nSource: North Texas e-News\nRead more: https://news.google.com/rss/articles/CBMibkFVX3lxTE9MM0JGTVlVNC1OTlJCWGp3X2t6MnNmQ2hSSVZwT0EwaFExMmFoVDJqNThkRUlsbHNkMW9Ed0h6cFg2NTQ3YnVqeExlUjhWTXMyZHdmNXpGLVVJR3Q5ZVptSW1TNU1MdXAtRDdkWXJR?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "a6059f23fdfdda49309c",
-      "title": "Nearly half of child car seats are installed incorrectly",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05TGV3Rjd5RGpyNXlSbTZTRERqaDNCTUctSVllLXFKQjhWR2cxX3dSUHlhLU41YlEtYkpYeGhrT2NaUFNfOXhRVUl4THZKSVFoWVdkb3hMeFdnVnlyOXFLUThIekR5dkc3YlIwMFFR?oc=5",
-      "source": "North Texas e-News",
-      "summary": "Nearly half of child car seats are installed incorrectly North Texas e-News",
-      "published_at": "2026-10-18T00:13:38+00:00",
+      "id": "29fffe8184508b4abb24",
+      "title": "Fatal Accident in Fort Worth on U.S. Highway 287",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZWhlMkRVVUJPQk9GTzRacmxtUkk3dzRuN3ZiOXhISUx0b2lkcUN5RlVFSHlxQTZDM1U0d3pIN2ZfOUV0U0RrSC1qaHB0cDBTbFdhcEtqbk1CSWxZUEVRMS1OSy1IOHUwWGZSOEJlbWhhY0dCYklPc0hxZFRQdw?oc=5",
+      "source": "The Wooley Law Firm",
+      "summary": "Fatal Accident in Fort Worth on U.S. Highway 287 The Wooley Law Firm",
+      "published_at": "2026-10-17T23:24:05+00:00",
       "category": "Traffic",
       "thumbnail": "",
       "official": false,
-      "caption": "🚧 TRAFFIC — DFW\n\nNearly half of child car seats are installed incorrectly\n\nSource: North Texas e-News\nRead more: https://news.google.com/rss/articles/CBMibkFVX3lxTE05TGV3Rjd5RGpyNXlSbTZTRERqaDNCTUctSVllLXFKQjhWR2cxX3dSUHlhLU41YlEtYkpYeGhrT2NaUFNfOXhRVUl4THZKSVFoWVdkb3hMeFdnVnlyOXFLUThIekR5dkc3YlIwMFFR?oc=5\n\nTexas News Roundup"
+      "caption": "🚧 TRAFFIC — DFW\n\nFatal Accident in Fort Worth on U.S. Highway 287\n\nSource: The Wooley Law Firm\nRead more: https://news.google.com/rss/articles/CBMifkFVX3lxTE1VZWhlMkRVVUJPQk9GTzRacmxtUkk3dzRuN3ZiOXhISUx0b2lkcUN5RlVFSHlxQTZDM1U0d3pIN2ZfOUV0U0RrSC1qaHB0cDBTbFdhcEtqbk1CSWxZUEVRMS1OSy1IOHUwWGZSOEJlbWhhY0dCYklPc0hxZFRQdw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "388b76cc4bc1ee61a12f",
@@ -1597,18 +1669,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚒 FIRE — DFW\n\nFort Worth Art Commission green-lights two public art final designs\n\nSource: Fort Worth Report\nRead more: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaVFSZUgwa2xUd2NzM2YyS19NYXpvdXE4VldWQzQzeXgzSklOS2hkSkJ3TEhYc2ZORkM1ckYyM2J6aUkzNm5oNzVGeHppYkVDaGV0UG83eTVqWmtUUUhHYVg3SnFFbHo0MVg0dkhEUTVBZGltRzdtQlVkQUFMdGNSNWxiM1c3YU43OU1KNjN6b1c5N0ppMU1RdDE0UFZ3dkdvcmtKN1JHYlViTjg?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "a34be8c789149d3e9f3c",
-      "title": "Mustang offense soars in win over Dallas County",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUhNdjhFdWFaQ21oamNiVmRLRDVXakZCYzZwZ2MwSHcxN0J6blJyR01uXzltbWFPRmJBWC14SHByckt1cC00NEhhUDA2cHhjcHRrVkFhM2FKMnVuSXZPRF9SemNkS29CU09Ya1V6bW8ydHVTa2xXT3BCbXJ6RUllbjdpVm9QMEd2a3Q5bjJNNExfS2c2d1lIU2cxQWlkZw?oc=5",
-      "source": "The Clanton Advertiser",
-      "summary": "Mustang offense soars in win over Dallas County The Clanton Advertiser",
-      "published_at": "2026-10-17T14:01:08+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nMustang offense soars in win over Dallas County\n\nSource: The Clanton Advertiser\nRead more: https://news.google.com/rss/articles/CBMingFBVV95cUxNSUhNdjhFdWFaQ21oamNiVmRLRDVXakZCYzZwZ2MwSHcxN0J6blJyR01uXzltbWFPRmJBWC14SHByckt1cC00NEhhUDA2cHhjcHRrVkFhM2FKMnVuSXZPRF9SemNkS29CU09Ya1V6bW8ydHVTa2xXT3BCbXJ6RUllbjdpVm9QMEd2a3Q5bjJNNExfS2c2d1lIU2cxQWlkZw?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "fa6676154b7e2d57da5f",
@@ -1755,18 +1815,6 @@
       "caption": "🚨 POLICE — DFW\n\nDallas Police release body camera video of deadly officer-involved shooting at Mustang Inn\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMigAJBVV95cUxPX0hwRlpkaEN1M0VFNDRMUTE2ZjBwZG1ZWXdPRHNDWjhmNy1iWFNvWUo3N1l3aUVtU0pYdElhLUJhZWtyOHpCTUk1YkdHN3VoazNzRi1qZnNZeXR2S1hSYkVsSE1td2JOSzFKOVdZcm1uS1l2Qk83dGhNdGZtUjhOLXhDRlJQWGtBcXc3OE16UjN0b2pQMkVpS3RaZ3dfa3BZcnU3N2xOWDAtcUNDcUlUaGJfdWxva2xVNTFiZDlScmlheTVjSU5TVlF3bFBOenotSC05NjNSNTVYLTJUdklyZ2tGaVpweVloVGF4aV9CM3E2d3ROSTZSZTdjZDZrUXp3?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "607e00ff80c0a04f865f",
-      "title": "Pandora-Gilboa defeats Arlington in rainy contest",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWktvR0poWjBvdmNEbExLM1diekcyRkE4MV9qR0UwZkRnSTkweDdKY05nYXljdWhCaHRhV0hTSmJxajR2dnlXRHNaWWtFRDFsSzQ4WjNyaWNCMWtwT0JxQ2ZmS2w5bXIyZ1hEb2dSc1RxTEFOdDFleERWQk9vbENBZ25rbV9ScmxrX1Q5dkhKa2Rvdk9laFVzalB3LUhzNEJ0QzE2RlRPN054UdIBqgFBVV95cUxNWktvR0poWjBvdmNEbExLM1diekcyRkE4MV9qR0UwZkRnSTkweDdKY05nYXljdWhCaHRhV0hTSmJxajR2dnlXRHNaWWtFRDFsSzQ4WjNyaWNCMWtwT0JxQ2ZmS2w5bXIyZ1hEb2dSc1RxTEFOdDFleERWQk9vbENBZ25rbV9ScmxrX1Q5dkhKa2Rvdk9laFVzalB3LUhzNEJ0QzE2RlRPN054UQ?oc=5",
-      "source": "WLIO",
-      "summary": "Pandora-Gilboa defeats Arlington in rainy contest WLIO",
-      "published_at": "2026-10-17T04:57:00+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nPandora-Gilboa defeats Arlington in rainy contest\n\nSource: WLIO\nRead more: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWktvR0poWjBvdmNEbExLM1diekcyRkE4MV9qR0UwZkRnSTkweDdKY05nYXljdWhCaHRhV0hTSmJxajR2dnlXRHNaWWtFRDFsSzQ4WjNyaWNCMWtwT0JxQ2ZmS2w5bXIyZ1hEb2dSc1RxTEFOdDFleERWQk9vbENBZ25rbV9ScmxrX1Q5dkhKa2Rvdk9laFVzalB3LUhzNEJ0QzE2RlRPN054UdIBqgFBVV95cUxNWktvR0poWjBvdmNEbExLM1diekcyRkE4MV9qR0UwZkRnSTkweDdKY05nYXljdWhCaHRhV0hTSmJxajR2dnlXRHNaWWtFRDFsSzQ4WjNyaWNCMWtwT0JxQ2ZmS2w5bXIyZ1hEb2dSc1RxTEFOdDFleERWQk9vbENBZ25rbV9ScmxrX1Q5dkhKa2Rvdk9laFVzalB3LUhzNEJ0QzE2RlRPN054UQ?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "0de67eb20c122f4b662d",
       "title": "Dallas County early voting begins Oct. 19",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVkxIV1VZRDhvcnEtaEVHOG9QNm5EbzNMNU02VmljOTVvWU9qVllZaFI3Vm1ObDFUSnpHMVVMa3B4U0NQVzZGZmdsTmFsdF9wRDNTRjFWLWhfUXp5MXVob094ZklES3JlTm9rRWU5NVNXSGVKbV9wN2RvSjhoeF9saWVwdmNLNl80M3FYSjh5ME10ZWM?oc=5",
@@ -1827,18 +1875,6 @@
       "caption": "🚨 POLICE — DFW\n\nDeputy US marshal injured in accidental gun discharge at Arlington headquarters\n\nSource: WJLA\nRead more: https://news.google.com/rss/articles/CBMirgFBVV95cUxQejd5eEJidzAyM3MwenVKeHpLYjV4SWF3NzJmVUw5TmQtbFFVd2YzYWtINTlQMDU1WnBrM0NKTWxBLVFlUHVjVE9mdGhvd0tpRC1sLXZiS1gtcTUxQ1A5NHpObHBNUmVTMG82SDRvcHN2Wjh2TjEzVU1VaFQwcDk3SHFfa0F6WWR0TTdXMExMeVcyMDd6TGV3eUFRT2J4Z2RONU1CdF80SHVwbHlmaVE?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "02326bec6681a53ddfd9",
-      "title": "Dallas, Georgia Woman Seeks Kidney Donor After Deadly Fire",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU44bTJfVC0yNHJJX0swZGNQX0ZHVDVPckVqbzRwel9abzFjcGdVZjdQRWtMaTN1aGVFWUd1TXJaNndtNVUyZ21XS28yODBBTFZDWkZHRl9zMHJsR2ZCMXRHam94WjFndHljTUJfWWJyRFdaS1ZZVTd6V2ZhbWFzOWpUWDlvVXBrYTY1NC02emtwX2UtS25ZUlJXTVB6N3pwc2tVbTR3?oc=5",
-      "source": "Hoodline",
-      "summary": "Dallas, Georgia Woman Seeks Kidney Donor After Deadly Fire Hoodline",
-      "published_at": "2026-10-17T01:19:36+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nDallas, Georgia Woman Seeks Kidney Donor After Deadly Fire\n\nSource: Hoodline\nRead more: https://news.google.com/rss/articles/CBMipgFBVV95cUxOaU44bTJfVC0yNHJJX0swZGNQX0ZHVDVPckVqbzRwel9abzFjcGdVZjdQRWtMaTN1aGVFWUd1TXJaNndtNVUyZ21XS28yODBBTFZDWkZHRl9zMHJsR2ZCMXRHam94WjFndHljTUJfWWJyRFdaS1ZZVTd6V2ZhbWFzOWpUWDlvVXBrYTY1NC02emtwX2UtS25ZUlJXTVB6N3pwc2tVbTR3?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "92ad887ce6aa73c36681",
       "title": "Body-camera video shows Dallas officer shooting man who raised rifle, killed himself",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVctOEtMWFRxQ2JTUzZvSmJZMHNMX0ZUaFBHX2NZTENGbDRnMFU2eTN2TW1qOFM2Yy1jTEpNV0JzU3ZEV19PUEI3S1ptcjRmOV92bTBGY2JrRl9rVmo0bmxVdUN4VmE5eUl0LUV4UFFfTDBZbUx1eXUwTE1kT2QwR29kajhGWGxfVXVPTFlR?oc=5",
@@ -1873,18 +1909,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nMcKinney restaurants and Fourth Street Plaza top DFW news\n\nSource: Community Impact Newspaper\nRead more: https://news.google.com/rss/articles/CBMizAFBVV95cUxQVkFXaVZOdnV1aGIwVXhlQWRQTk1rTWtTY2ZmSTdlMzhSV3ZFRG1vY1B2YzIwaGVfTUtOSVRadThIbm1RSUg2MlVndFpxQTRETmgySDhsWVlUclFwbWFGdVdFd1NaQ2ZrZWROVTdoYTJDVnFWSzdWT3NfekkzTDFvZ1oxeW85eWV4T1M4LU9raXZOM1ctN2dySGdCVzVLNUlLcE5MNE5WS3VVbFFHSm9abzk5Q3FoTVE4X2lKZUV4bEoyX1dVczlMUHpIU0U?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "f3c0dce10ff3a28064bf",
-      "title": "Deadly Dallas mobile home fire leaves questions as officials search for cause",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcml5NktCM3gySkk0VURoTXgzczdzWGh6ZVhtYVFXLWFkWWZTQV9UXzRTM29XMU8zTk02cmdqSmo5SUNxNG53UUpINHROT0pLU1VJbDhrazJpQ3NIeVBjQmQwbnpNZ1U1Qjl3Wl91X1VEOVdLUWdxN3gwRGNZTEpNU25OVDBqN3dCR0dTRjVhR212b0ZNWUI0Mldidk3SAaQBQVVfeXFMTTJsT2o2YlI4SnYtd1RNOVpUY0tPUUE4ejVKSmFNblBqZEx6cUFsa2pWYnJCb0Z0UEM5Q2hWanhzVzJpNmFLV2NqTWhCWnBkQUozTElseHFXTXNKZ182czAyOW9GNEVtZ1lTVWdzcGZqR1R4SUlxOElXUDNzVzg4N3FybE9WTzBGUS12cDdNTlJacnFZSW4xbTc3QTVkdVNpNFN3NU4?oc=5",
-      "source": "NBC 5 Dallas-Fort Worth",
-      "summary": "Deadly Dallas mobile home fire leaves questions as officials search for cause NBC 5 Dallas-Fort Worth",
-      "published_at": "2026-10-17T00:33:42+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nDeadly Dallas mobile home fire leaves questions as officials search for cause\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMinAFBVV95cUxOcml5NktCM3gySkk0VURoTXgzczdzWGh6ZVhtYVFXLWFkWWZTQV9UXzRTM29XMU8zTk02cmdqSmo5SUNxNG53UUpINHROT0pLU1VJbDhrazJpQ3NIeVBjQmQwbnpNZ1U1Qjl3Wl91X1VEOVdLUWdxN3gwRGNZTEpNU25OVDBqN3dCR0dTRjVhR212b0ZNWUI0Mldidk3SAaQBQVVfeXFMTTJsT2o2YlI4SnYtd1RNOVpUY0tPUUE4ejVKSmFNblBqZEx6cUFsa2pWYnJCb0Z0UEM5Q2hWanhzVzJpNmFLV2NqTWhCWnBkQUozTElseHFXTXNKZ182czAyOW9GNEVtZ1lTVWdzcGZqR1R4SUlxOElXUDNzVzg4N3FybE9WTzBGUS12cDdNTlJacnFZSW4xbTc3QTVkdVNpNFN3NU4?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "acb842d71f7390ac177e",
@@ -1935,18 +1959,6 @@
       "caption": "🚒 FIRE — DFW\n\nFire seek to join Revolution in playoff field when teams meet\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMic0FVX3lxTFBmSENfTjR4TGZsQzNNMm9XMDUyQnJLMEYtRmk0SmRURlk2NkVIT3FmUjFKcTVqSXZxVkVYdkNhWkp6RVVCWWlhRWFvUmpEdHU1Zm1OSTJyZWJoZGRzVmQ3Sl9TRW9KcjdYVGZBejdBbV9wRnc?oc=5\n\nTexas News Roundup"
     },
     {
-      "id": "0d5ab1b0ef1b6cfb6148",
-      "title": "Dallas police release body camera video of the officer involved shooting at an Oak Cliff motel",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNcy1XMURSQUVVdnZaVzFwV0JMbDkxcUxmVC1PazlfUkZFbFhYMEZCcHA2YUJpcW92TERTSFRxYXdReW1YMHFZRUtqNHoxNFdpa0JtWWY1ZGg2U0w5Z3ExVzFxU0std2MtQVQ2M0x0Tm1QWDhfRXR4MndSaHJDem1haUVPNU5xb2VWWnh0M1FUNlZ4QVJwS082Nm9KejJyQXN4N1AxQjBsMjl5ZV9FYnFzR0VIdm5oMjl6dzR1OVhaWmNZVnQxY0lsN1pacTRWcUZDRFBLWTVSRm5FVUVwOVpoZWpaVmgwUE1Pd2M3ZGZ4RnExMFJXZy1OYlZHNDJqNVI4b0Fz?oc=5",
-      "source": "WFAA",
-      "summary": "Dallas police release body camera video of the officer involved shooting at an Oak Cliff motel WFAA",
-      "published_at": "2026-10-16T23:25:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nDallas police release body camera video of the officer involved shooting at an Oak Cliff motel\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMigwJBVV95cUxNcy1XMURSQUVVdnZaVzFwV0JMbDkxcUxmVC1PazlfUkZFbFhYMEZCcHA2YUJpcW92TERTSFRxYXdReW1YMHFZRUtqNHoxNFdpa0JtWWY1ZGg2U0w5Z3ExVzFxU0std2MtQVQ2M0x0Tm1QWDhfRXR4MndSaHJDem1haUVPNU5xb2VWWnh0M1FUNlZ4QVJwS082Nm9KejJyQXN4N1AxQjBsMjl5ZV9FYnFzR0VIdm5oMjl6dzR1OVhaWmNZVnQxY0lsN1pacTRWcUZDRFBLWTVSRm5FVUVwOVpoZWpaVmgwUE1Pd2M3ZGZ4RnExMFJXZy1OYlZHNDJqNVI4b0Fz?oc=5\n\nTexas News Roundup"
-    },
-    {
       "id": "be96347e257f43141552",
       "title": "Dallas police spokesperson under investigation",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnlLQ0NFalhiR2tEZ0x5SV96TC1CZExiVWFhejQ4RFh3MGNLckRGV2lCVDZjNGFIUGJodjBBRTQ4X1ZWWkxkaG9SdUVTNm1BbThqOHR0TzN2V0I3cDR6dlNsY3NCUkJqV25iOGJTWTJ3aHUtR3RCTUFOZFR3bk43WlJvb3QzYS1XUTI2c0xqZTdCWGI3dWFmWU930gGfAUFVX3lxTE85YS1UWUJ0WU9GSzB4Y0ROWjJoWnZsZ1FUY2NWd0pKcjJrZllxN3FTdkx2ck9iYmRlU21odmhyX2dHZ2FrdTF0d3l3YWlObTNzUmpIckJNeTJPUnRqdlZqSWJCNkJPdm9LUEpJNTRfSDN3WVVCeUhYdUo4M2ZiQ2wxd1NpSTdveV9OTTFnbmFCODFmM25md3VPR1VMMWhBcw?oc=5",
@@ -1959,6 +1971,18 @@
       "caption": "🚨 POLICE — DFW\n\nDallas police spokesperson under investigation\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMimgFBVV95cUxPTnlLQ0NFalhiR2tEZ0x5SV96TC1CZExiVWFhejQ4RFh3MGNLckRGV2lCVDZjNGFIUGJodjBBRTQ4X1ZWWkxkaG9SdUVTNm1BbThqOHR0TzN2V0I3cDR6dlNsY3NCUkJqV25iOGJTWTJ3aHUtR3RCTUFOZFR3bk43WlJvb3QzYS1XUTI2c0xqZTdCWGI3dWFmWU930gGfAUFVX3lxTE85YS1UWUJ0WU9GSzB4Y0ROWjJoWnZsZ1FUY2NWd0pKcjJrZllxN3FTdkx2ck9iYmRlU21odmhyX2dHZ2FrdTF0d3l3YWlObTNzUmpIckJNeTJPUnRqdlZqSWJCNkJPdm9LUEpJNTRfSDN3WVVCeUhYdUo4M2ZiQ2wxd1NpSTdveV9OTTFnbmFCODFmM25md3VPR1VMMWhBcw?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "f3c0dce10ff3a28064bf",
+      "title": "Deadly Dallas mobile home fire leaves questions as officials search for cause",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcml5NktCM3gySkk0VURoTXgzczdzWGh6ZVhtYVFXLWFkWWZTQV9UXzRTM29XMU8zTk02cmdqSmo5SUNxNG53UUpINHROT0pLU1VJbDhrazJpQ3NIeVBjQmQwbnpNZ1U1Qjl3Wl91X1VEOVdLUWdxN3gwRGNZTEpNU25OVDBqN3dCR0dTRjVhR212b0ZNWUI0Mldidk3SAaQBQVVfeXFMTTJsT2o2YlI4SnYtd1RNOVpUY0tPUUE4ejVKSmFNblBqZEx6cUFsa2pWYnJCb0Z0UEM5Q2hWanhzVzJpNmFLV2NqTWhCWnBkQUozTElseHFXTXNKZ182czAyOW9GNEVtZ1lTVWdzcGZqR1R4SUlxOElXUDNzVzg4N3FybE9WTzBGUS12cDdNTlJacnFZSW4xbTc3QTVkdVNpNFN3NU4?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "summary": "Deadly Dallas mobile home fire leaves questions as officials search for cause NBC 5 Dallas-Fort Worth",
+      "published_at": "2026-10-16T23:08:26+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nDeadly Dallas mobile home fire leaves questions as officials search for cause\n\nSource: NBC 5 Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMinAFBVV95cUxOcml5NktCM3gySkk0VURoTXgzczdzWGh6ZVhtYVFXLWFkWWZTQV9UXzRTM29XMU8zTk02cmdqSmo5SUNxNG53UUpINHROT0pLU1VJbDhrazJpQ3NIeVBjQmQwbnpNZ1U1Qjl3Wl91X1VEOVdLUWdxN3gwRGNZTEpNU25OVDBqN3dCR0dTRjVhR212b0ZNWUI0Mldidk3SAaQBQVVfeXFMTTJsT2o2YlI4SnYtd1RNOVpUY0tPUUE4ejVKSmFNblBqZEx6cUFsa2pWYnJCb0Z0UEM5Q2hWanhzVzJpNmFLV2NqTWhCWnBkQUozTElseHFXTXNKZ182czAyOW9GNEVtZ1lTVWdzcGZqR1R4SUlxOElXUDNzVzg4N3FybE9WTzBGUS12cDdNTlJacnFZSW4xbTc3QTVkdVNpNFN3NU4?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "1c8a2d3ec2dc7e912062",
       "title": "South Dallas community urges city to restore neglected monuments",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeDBwaG1URWs5cjdEQW1BS2dDMGFzVExaNklacmdyeUZmbjFaS0NGRjZEOHBvSElIMThWcVRoQ0hiMGVJN1V4SzBsdmZrc19jbndqZzkydG5FdlY0SVJXMDBIVEtIczZ4d1AxbVYweGhtV2tXTUpmUGJTVmxLT2FhVEYwekZNS1QwV19lWTZXWGVZd2dOa0RneDFGT29qUE5VM0hLX1d1MkROeTk4M1lVNThjZmxDSnRRUTVyQWgzQUlTRTlsQk9FNklvU3R4ZFExaTd1cV9zWXl0Q0ZXQW9KOGpFbw?oc=5",
@@ -1969,18 +1993,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nSouth Dallas community urges city to restore neglected monuments\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi4wFBVV95cUxPeDBwaG1URWs5cjdEQW1BS2dDMGFzVExaNklacmdyeUZmbjFaS0NGRjZEOHBvSElIMThWcVRoQ0hiMGVJN1V4SzBsdmZrc19jbndqZzkydG5FdlY0SVJXMDBIVEtIczZ4d1AxbVYweGhtV2tXTUpmUGJTVmxLT2FhVEYwekZNS1QwV19lWTZXWGVZd2dOa0RneDFGT29qUE5VM0hLX1d1MkROeTk4M1lVNThjZmxDSnRRUTVyQWgzQUlTRTlsQk9FNklvU3R4ZFExaTd1cV9zWXl0Q0ZXQW9KOGpFbw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "00b10c02d99952257562",
-      "title": "Dallas faces the Houston Dynamo after shutout victory",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVcxbjZOTERqN0FIVmFVNGR3dHlKS2NBc1p4REd2aDctaXF5dUEtRWV2R25mc0pDY2ltLW1aNk00Z3ZSX3FjSlp4QkZ3R2ZPNDhMS2dCSVROZXFBYmR5cGszSzZJXzRneFFXUURhQ1pRZjZ4bGIwQ0V3NjlUb2gzRkZNTVE5N0FaZ1hUWm1tcE5aQnVseG1OVTZRYVJSbG9Rd2xTUQ?oc=5",
-      "source": "MySA",
-      "summary": "Dallas faces the Houston Dynamo after shutout victory MySA",
-      "published_at": "2026-10-16T23:05:21+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nDallas faces the Houston Dynamo after shutout victory\n\nSource: MySA\nRead more: https://news.google.com/rss/articles/CBMipAFBVV95cUxQdVcxbjZOTERqN0FIVmFVNGR3dHlKS2NBc1p4REd2aDctaXF5dUEtRWV2R25mc0pDY2ltLW1aNk00Z3ZSX3FjSlp4QkZ3R2ZPNDhMS2dCSVROZXFBYmR5cGszSzZJXzRneFFXUURhQ1pRZjZ4bGIwQ0V3NjlUb2gzRkZNTVE5N0FaZ1hUWm1tcE5aQnVseG1OVTZRYVJSbG9Rd2xTUQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "f8990ab0a6afe1408c97",
@@ -2029,18 +2041,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nDallas police official under criminal investigation\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiygFBVV95cUxOX2djMG5YTXZ3REdhUTNFaDhnSnV6cjhNNUxIMkVVMDNfZ0o2c2tuZ0c2R1ZaXy15RnJNV2hpRjNuVmFYQTR2Ui1GMHFSSndyX2p0WnF0alNlUTBiSnRWLTEyRGI0NlFUdzRSZWthdmtTR2ZkekQxT0xVdzFTV0VFc1NRaVJrd2JTSVFHN3o2TmdERVBVUHNqQU8wQUJGN21yZkljNEVIbF9CQkh6dkQ3dzdNT0pPWHFWNXAyLVFFS2xhMGVrNHpQSlB3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "58e0bcd5cccac820bfae",
-      "title": "North Texas firefighter arrested on child sex crime charges, officials say",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUItYUlYVU5fYWtFZk5vSHFhREZSOFliT01oVHU5dUFzRjNhX21BY1RYTkV2UFFoSW9vVWRDWjQyTmVWZ1dnRFJhcUtudGNpRU9HQVk1VWhseDhSdDZlZXptWXItb25YMHpTbmFGUVBLWE50Qkx3SmRCcVoxbDd6c1RVZVFuckRMc3BXU2pXenpReVRvUDl3WVk5VQ?oc=5",
-      "source": "CBS News",
-      "summary": "North Texas firefighter arrested on child sex crime charges, officials say CBS News",
-      "published_at": "2026-10-16T22:58:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nNorth Texas firefighter arrested on child sex crime charges, officials say\n\nSource: CBS News\nRead more: https://news.google.com/rss/articles/CBMimwFBVV95cUxQLUItYUlYVU5fYWtFZk5vSHFhREZSOFliT01oVHU5dUFzRjNhX21BY1RYTkV2UFFoSW9vVWRDWjQyTmVWZ1dnRFJhcUtudGNpRU9HQVk1VWhseDhSdDZlZXptWXItb25YMHpTbmFGUVBLWE50Qkx3SmRCcVoxbDd6c1RVZVFuckRMc3BXU2pXenpReVRvUDl3WVk5VQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "4d07d4303a04984437ad",
@@ -2233,18 +2233,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚨 POLICE — DFW\n\nFort Worth security guard charged with murder in La Gran Plaza shooting: police\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMixgFBVV95cUxNQjN5ODAwS0w2dllsNzBSSXpFYTJkdGVNNXRZTy1xVTk0UjAzTmRfUHVtcGFpWDUzUDNRXzFIMG1KOFFzOUJOdHZxZE1VUkVrTkFud0V4dW84QnpfX2hta3JmeEpqUTI2eXBpVDk5UmY5dlN6MXNMM0tvN0s5YzZ4dWJ6X2tHbkxLTnkyV3l0VTJHNkIxSkNfRm5SYkIxUnlVNy1TbDZzT1lFTFMzUkJyeUZBSmZzMV9ROUZFaUYwS0F5eF9zYUHSAcsBQVVfeXFMTkNrVmpFR09OM2dJZVBCQVRxSlNaaFRPSEZUZzdJRzl5MFlXRDhhOXV5VDRWcHFMX1JIS25seHdGZXptMzhqRmRQZkxBTGVvanJCYmYtSUNmZGhfeUFNcFNVYXAxTnpiRmlmb0F5NHRWSXpSMEJ0bndaTE8yRFRrMzVrMEtvb2VDOGxmT1BhYXNCUWpzX3ZGYXRnbHpNRlkwZDE2cHlXYWc1aEVwbXV2c1BxMmZ0NDBvQVMzOERSXzM0UFJRbmptSm1adGc?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "3d78732b3bc94f48008f",
-      "title": "Dallas Police Department's top civilian officer under criminal investigation",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMDRBVmNleGFXeUQ5ZVhITlhTbXJHQ0lIbE5teEtCUUxBUlhmT0xyMHBaY2FIZDhJZW44eEtPc0oyVzdFcEI0OUEzUnRmMXRpRlJDVDJ6OHNScTlIZGMwNGNTOHRjeUI5MmJad0d6YkxDVGJ5d0RJQm1qRjIzSFlQVGp6eEoxZjZ5aFN3SXdwUGNPQ0g0YlJybU1Lam0xVE03dXkxMlhxMnJNdnltd1dDYkwwbDBReTVPc0FVMjFxTjJvaVJobzRSQlRBUkpjV192YjlHLWV5RnJmcE9pSkduUlp4UHFlVmlSMmc?oc=5",
-      "source": "WFAA",
-      "summary": "Dallas Police Department's top civilian officer under criminal investigation WFAA",
-      "published_at": "2026-10-16T21:07:00+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nDallas Police Department's top civilian officer under criminal investigation\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMDRBVmNleGFXeUQ5ZVhITlhTbXJHQ0lIbE5teEtCUUxBUlhmT0xyMHBaY2FIZDhJZW44eEtPc0oyVzdFcEI0OUEzUnRmMXRpRlJDVDJ6OHNScTlIZGMwNGNTOHRjeUI5MmJad0d6YkxDVGJ5d0RJQm1qRjIzSFlQVGp6eEoxZjZ5aFN3SXdwUGNPQ0g0YlJybU1Lam0xVE03dXkxMlhxMnJNdnltd1dDYkwwbDBReTVPc0FVMjFxTjJvaVJobzRSQlRBUkpjV192YjlHLWV5RnJmcE9pSkduUlp4UHFlVmlSMmc?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "0e9b43e0293399c7fdac",
@@ -2463,6 +2451,18 @@
       "caption": "🚒 FIRE — DFW\n\nDallas firefighters find body inside burning mobile home in Rylie neighborhood\n\nSource: Dallas News\nRead more: https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmk0eTkxMzhudXc0cGh5ZGNBaTd4REFBQlBPamhYcjVpOGlBMmFlSGloZS1OY1lialhCajhHeWhFTkpLS00yU1h5LWxxZ3otZTNuZ3h1V2cyRGFfT0tPQkNSY3Z4UGdrbDVEeFRBcEItM2Vua1gxMmVPMWI3RHhUMGd2VmcwWFNDbHRqZm5GQWo3NTdsTlBraXN0MHp1QmxRNnNRbjlRV3RLVV9vcTNpTw?oc=5\n\nTexas News Roundup"
     },
     {
+      "id": "7353535aea886a543779",
+      "title": "Fatal fire reported at a mobile home park in Dallas",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNktXaFhoOFZaMmY2d0UyXy00dzFPaHFqRTdVWUxCV0U3cHRUWnRHTFllVE5oczhtMFUzR2pxWkNsMVBhY1dnV1JJdjhQRkxSWjFHN0tSWjBubHpYN19NaFhLWlczVi03Z1d3bnl6dEVjV1U3OVQ1T1RzR09oYV9pdTB0QTAxc0ltQk00cDJVSzZRVFZXT2dQZXA0YlNkdV9SRDVvanFKU1NSYVlhN3VWOURuX2JFbGlTQ3puaUREUTYydw?oc=5",
+      "source": "WFAA",
+      "summary": "Fatal fire reported at a mobile home park in Dallas WFAA",
+      "published_at": "2026-10-16T16:07:00+00:00",
+      "category": "Fire",
+      "thumbnail": "",
+      "official": false,
+      "caption": "🚒 FIRE — DFW\n\nFatal fire reported at a mobile home park in Dallas\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNktXaFhoOFZaMmY2d0UyXy00dzFPaHFqRTdVWUxCV0U3cHRUWnRHTFllVE5oczhtMFUzR2pxWkNsMVBhY1dnV1JJdjhQRkxSWjFHN0tSWjBubHpYN19NaFhLWlczVi03Z1d3bnl6dEVjV1U3OVQ1T1RzR09oYV9pdTB0QTAxc0ltQk00cDJVSzZRVFZXT2dQZXA0YlNkdV9SRDVvanFKU1NSYVlhN3VWOURuX2JFbGlTQ3puaUREUTYydw?oc=5\n\nTexas News Roundup"
+    },
+    {
       "id": "4d137af3e71d1e7e6e11",
       "title": "Dallas firefighters find body inside burning mobile home in Rylie neighborhood",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObC1vekVadW9DandXQmtWY2ZlQ0VTeXZmcmZXU2Z0Zlc0RS1oWndCUFN5MmJQbEpLWWhkNEQzQURTZzdTVDAxQnplUXlsV0t5MlZQdEFZR2RYMXlfbDlRM0E2a1JBRnlzR1ZGT0pKdC1Ca2hPTkFKeDZsQkZOdXFTOGIwS1hCOGEzNVg3MG5EUjBtc1No?oc=5",
@@ -2473,18 +2473,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚒 FIRE — DFW\n\nDallas firefighters find body inside burning mobile home in Rylie neighborhood\n\nSource: Yahoo\nRead more: https://news.google.com/rss/articles/CBMilAFBVV95cUxObC1vekVadW9DandXQmtWY2ZlQ0VTeXZmcmZXU2Z0Zlc0RS1oWndCUFN5MmJQbEpLWWhkNEQzQURTZzdTVDAxQnplUXlsV0t5MlZQdEFZR2RYMXlfbDlRM0E2a1JBRnlzR1ZGT0pKdC1Ca2hPTkFKeDZsQkZOdXFTOGIwS1hCOGEzNVg3MG5EUjBtc1No?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "400a220ffc1f03ec39cc",
-      "title": "Twelve November blood drives planned in Dallas County",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmRUMmp2clJlMHhWNks1czM1V0JRQUY0QzN1ZDZJMVNScnd3Tjc0dThfdk83SmRXMnFuNGt1QVVqalo2bjN5Qm5rbjVMNkxDV3oyY0hGd0lQSUpveExaTFJLcVVheFA4dEpWaWFuVDR0NmsxenpIQXdFNUpZTjVTLUZndHRBQQ?oc=5",
-      "source": "ThePerryNews",
-      "summary": "Twelve November blood drives planned in Dallas County ThePerryNews",
-      "published_at": "2026-10-16T16:00:55+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nTwelve November blood drives planned in Dallas County\n\nSource: ThePerryNews\nRead more: https://news.google.com/rss/articles/CBMihgFBVV95cUxPSmRUMmp2clJlMHhWNks1czM1V0JRQUY0QzN1ZDZJMVNScnd3Tjc0dThfdk83SmRXMnFuNGt1QVVqalo2bjN5Qm5rbjVMNkxDV3oyY0hGd0lQSUpveExaTFJLcVVheFA4dEpWaWFuVDR0NmsxenpIQXdFNUpZTjVTLUZndHRBQQ?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "bddce40680aee6174387",
@@ -2509,18 +2497,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "📍 COMMUNITY — DFW\n\nChefs For Farmers Food + Wine Festival Celebrates Dallas Culinary Leaders at Inaugural Community Impact Awards\n\nSource: PaperCity Magazine\nRead more: https://news.google.com/rss/articles/CBMirgFBVV95cUxOR3I1elZkeVNpTXF0SmZoWGExOGd2ODNKWTc1Yk5aTmx6LTFSVWVYUER5Zi1QTUxaQWl1dXpwaGJpZjFwSHJ2aWx6M1psenFJN0F5eHVOQURnMmxBUEhOWmM4Nzg2UjRaUHVTckVRLWQxMmQ3WUE4cHB0aWNoUm5rQkx5aHpRR2J1U0R1RW1ldmU0VVFUNFREU2c3RGV0NXVPM3VweS1NVnY3eWZ6dFE?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "748a9c786fa14e3e2c3c",
-      "title": "Man fatally shot by security guard in attempted robbery at La Gran Plaza: FW police",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JVDhJOVF1eC10dDZoU1htWmw4ZVlxenBPTDRfbENOY19DZFJ3SW1xcG54RjZDTGlLdFM3VGt6TFlWNkJLOGp0UThzQ3NKVzJyTVE3U0poNXplOXcwUEVxSzBGeGxXWXRlLV9yWHhNeWZfM0FYOER3?oc=5",
-      "source": "Fort Worth Star-Telegram",
-      "summary": "Man fatally shot by security guard in attempted robbery at La Gran Plaza: FW police Fort Worth Star-Telegram",
-      "published_at": "2026-10-16T13:51:14+00:00",
-      "category": "Police",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚨 POLICE — DFW\n\nMan fatally shot by security guard in attempted robbery at La Gran Plaza: FW police\n\nSource: Fort Worth Star-Telegram\nRead more: https://news.google.com/rss/articles/CBMid0FVX3lxTE5JVDhJOVF1eC10dDZoU1htWmw4ZVlxenBPTDRfbENOY19DZFJ3SW1xcG54RjZDTGlLdFM3VGt6TFlWNkJLOGp0UThzQ3NKVzJyTVE3U0poNXplOXcwUEVxSzBGeGxXWXRlLV9yWHhNeWZfM0FYOER3?oc=5\n\nTexas News Roundup"
     },
     {
       "id": "1089eb97d55703b3564b",
@@ -2593,42 +2569,6 @@
       "thumbnail": "",
       "official": false,
       "caption": "🚒 FIRE — DFW\n\nOne person dead after mobile home fire in Dallas\n\nSource: FOX 4 News Dallas-Fort Worth\nRead more: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tZWhZVGdWODN4V3JSeHZmcW9yWmFsZWxnS1J5Q3N0TXhhYmFfMXdCWkJSa1NBVUxhNzBKb3VsRXp3dktNMzNXOGZNWm1xdm05SE1MUFREQ0NyeHJreWRFatIBZkFVX3lxTE1RUGZZbVNUZnplVEpxcXRIUUlTaDJnMS1seGxTN1BZSFVxaTZzd3NqdEZnNVVxNGlyVmZ1aTNTREI4OEpUVk1RY085aUhDQVdEZW9KMDFyMkN6RDlBSmtUNnpQdzQxZw?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "5f5c54b14c5f1a05f1ee",
-      "title": "1 person dead after a mobile home fire in Southeast Dallas, officials say",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa1lrQ2hhaHcxWFBvUzRCX3dGQlU4a0g3eVhDbURzZVVZOWZFVW9RR2ZmcEVEbzFDYjhMaEVtS1BLNVZfaGE1YkxyY09wT2hxSXJXb2N5czNWR2VHb1pzY3pLdVBmODNQalJrc2dDNWZBX3BqbVpFRDEtTUlwaHVhUGtB?oc=5",
-      "source": "Yahoo",
-      "summary": "1 person dead after a mobile home fire in Southeast Dallas, officials say Yahoo",
-      "published_at": "2026-10-16T11:10:34+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\n1 person dead after a mobile home fire in Southeast Dallas, officials say\n\nSource: Yahoo\nRead more: https://news.google.com/rss/articles/CBMiggFBVV95cUxNa1lrQ2hhaHcxWFBvUzRCX3dGQlU4a0g3eVhDbURzZVVZOWZFVW9RR2ZmcEVEbzFDYjhMaEVtS1BLNVZfaGE1YkxyY09wT2hxSXJXb2N5czNWR2VHb1pzY3pLdVBmODNQalJrc2dDNWZBX3BqbVpFRDEtTUlwaHVhUGtB?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "7044d13178f2874511db",
-      "title": "Fatal fire reported at a mobile home park in Dallas",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTndZM3ZPYXVyMFZpSzlSQXRUWmlCVV9scXdjVTZlRGRLVDVOU2xYWmxhekFkTS11ZGh2Zl92Z0RCODFXNDdzZWtTQWlfM05zLUdKd3hsdFktTWJIb2I4T0pvRF9VUlR6cXlVLVExeExpNXFkbWhESzlXcEhYMzFhQzFzaVM3R3M5MTMyclVkX0ktUjR0OHJNczVWNHVUbk9ibk83cVAyVWZ5MmlwUnJQMjhCN0RDOXRWTlR3V0dMM0oteEhWS0lQYmp3?oc=5",
-      "source": "WFAA",
-      "summary": "Fatal fire reported at a mobile home park in Dallas WFAA",
-      "published_at": "2026-10-16T10:46:00+00:00",
-      "category": "Fire",
-      "thumbnail": "",
-      "official": false,
-      "caption": "🚒 FIRE — DFW\n\nFatal fire reported at a mobile home park in Dallas\n\nSource: WFAA\nRead more: https://news.google.com/rss/articles/CBMiygFBVV95cUxPTndZM3ZPYXVyMFZpSzlSQXRUWmlCVV9scXdjVTZlRGRLVDVOU2xYWmxhekFkTS11ZGh2Zl92Z0RCODFXNDdzZWtTQWlfM05zLUdKd3hsdFktTWJIb2I4T0pvRF9VUlR6cXlVLVExeExpNXFkbWhESzlXcEhYMzFhQzFzaVM3R3M5MTMyclVkX0ktUjR0OHJNczVWNHVUbk9ibk83cVAyVWZ5MmlwUnJQMjhCN0RDOXRWTlR3V0dMM0oteEhWS0lQYmp3?oc=5\n\nTexas News Roundup"
-    },
-    {
-      "id": "650ccbcf29706b9835e1",
-      "title": "Activists celebrate end of ICE deportation flights at Dallas Love Field",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk1oZ0p6V1JYUC1yOGJOZGxWcU54QTFWZnA4RjJxMDV5cVRrQjVwRU9XNklQSzdnQTRyMVgweEFqRllabUMwUFVpSW1tV2RLZFBTaUY5VFhnWmdLMFRNbGQxUW1FY29udGtSekQ4Ri0xclFuOVMyaDlQN2k2emxrR3k1di1uaEgzdGNQQTZZakJHXzVvNFE?oc=5",
-      "source": "KERA News Breakthroughs",
-      "summary": "Activists celebrate end of ICE deportation flights at Dallas Love Field KERA News Breakthroughs",
-      "published_at": "2026-10-16T10:20:00+00:00",
-      "category": "Community",
-      "thumbnail": "",
-      "official": false,
-      "caption": "📍 COMMUNITY — DFW\n\nActivists celebrate end of ICE deportation flights at Dallas Love Field\n\nSource: KERA News Breakthroughs\nRead more: https://news.google.com/rss/articles/CBMilgFBVV95cUxPRk1oZ0p6V1JYUC1yOGJOZGxWcU54QTFWZnA4RjJxMDV5cVRrQjVwRU9XNklQSzdnQTRyMVgweEFqRllabUMwUFVpSW1tV2RLZFBTaUY5VFhnWmdLMFRNbGQxUW1FY29udGtSekQ4Ri0xclFuOVMyaDlQN2k2emxrR3k1di1uaEgzdGNQQTZZakJHXzVvNFE?oc=5\n\nTexas News Roundup"
     }
   ]
 }
